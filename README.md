@@ -1,2 +1,2 @@
-# SWMP
-Download all SWMP data from NEERS
+# NOAA Archival data
+Download as much NOAA data as we can
