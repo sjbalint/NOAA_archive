@@ -1,0 +1,260 @@
+Old Woman Creek (OWC) NERR Site Water Quality Metadata 
+April through November, 1999
+Latest Update: March 27, 2000
+
+
+1. Principal Investigator & contact persons:
+
+Dr. David Klarer, Research Coordinator
+Mr. Gene Wright, Manager
+
+Old Woman Creek SNP and NERR
+2514 Cleveland Road East
+Huron, Ohio 44839
+phone: (419) 433-4601
+
+
+2. Entry verification:
+
+The data were directly downloaded from the YSI data loggers into the YSI 
+PC6000 program in the PC. The data were graphed and visually checked for any 
+obvious outliers. The data were then transferred to an Excel spreadsheet.  The 
+data files were edited to remove headers, footers, and spaces. All three CDMO 
+macros were used to QA/QC the data.  Missing data were inserted into the 
+spreadsheet and denoted by periods. The data files were then checked 
+for readings that were outside the instrument range.  These data were removed 
+and replaced with a period. An explanation for the missing and the deleted data 
+is included in this metadata sheet.  The files were then transferred along with 
+the associated metadata by disk to the CDMO.  The files are archived at OWC. 
+Dr. David Klarer is responsible for both data logger deployment and data 
+management.
+
+
+3.Research Objectives:
+
+Measurements are taken every 15 minutes over approximately two-week periods at 
+two sites within the Old Woman Creek estuary- one in the upper reaches at State 
+Route 2(SU) and the other near the mouth, just south of State Route 6 (WM). The 
+purpose of this monitoring program is to document the role of Great Lakes 
+estuaries in mitigating storm flow that passes through them.  
+
+
+4. Research methods:
+
+The YSI monitoring program began on 1 April, 1999 at both sites.  Prior to 
+deployment of the data loggers, a 4 inch diameter PVC pipe was bolted to a metal 
+sign post that had been driven into the sediment.  Each pipe had 4 rows of holes 
+drilled into it spanning the area of the probe guard on the data logger so that 
+the probes would have direct contact with the surrounding waters.  The data 
+logger at site SU is .47 meters above the bottom, while the YSI at site WM is 
+0.32 meters above the bottom. Due to very low Lake Erie water levels, it was 
+necessary to move both the data logger sites  in November 1999. The data logger 
+was moved less than .5 meters into a deeper water area on 10 November 1999. The 
+new datalogger site was 0.275 meters deeper than the previous depth at site WM 
+and 0.225 meters deeper at site SU. The data logger at site WM was 0.10 meters 
+above the bottom at the new location and at site SU the data logger was 
+also 0.10 meters above the bottom.  Dissolved oxygen, pH, temperature, 
+turbidity, and specific conductance readings are taken when the instrument is 
+pulled at each site. On alternate weeks, the data loggers are pulled.  The data 
+is retrieved from each data logger and each data logger is recalibrated 
+(according to the directions in the YSI Operations Manual) before being returned 
+to the field.  Conductivity, pH (2 point calibration), and turbidity (2 point 
+calibration) was calibrated using commercial standards.
+
+
+5. Site location and character:
+
+Old Woman Creek National Estuarine Research Reserve is located on the southern 
+shore of Lake Erie, slightly east of the city of Huron, Ohio (Latitude 41 22' N; 
+longitude 82 31' W). The data logger at the State Route 2 (SU) (Latitude 41 22' 
+57" N, 82 30' 52") W site is very near the southern boundary of the reserve.  
+The data logger is sited near a concrete piling of the eastbound Ohio State 
+Route 2 bridge.  At this site the creek is relatively deep and narrow.  Although 
+water direction and flow is influenced at this site by changes in Lake Erie 
+water levels, this site doesn't have direct contact with Lake Erie waters. 
+The data logger at State Route 6 (WM) (Latitude 41 22' 56" N, 82 30' 26") is 
+very close to the mouth of Old Woman Creek.  In this portion of the Reserve, the 
+creek is very shallow but extends over a large surface area.  This site  
+frequently experiences influx of Lake Erie waters. 
+
+6. Data collection periods:
+
+Sampling at WM began on April 1, 1999 at 00:00:00.  Sampling ceased at WM 
+site on November 30, 1999 at 23:45:00.  Sampling at SU began on April 1, 1998 at 
+00:00:00.  Sampling ceased at SU site on November 30, 1999 at 23:45:00.
+
+7. Associated projects: Samples for chemical analysis of the water and 
+phytoplankton analysis are collected at each site every time the data loggers 
+are changed.
+
+II. Physical Structure and Descriptors:
+
+8. Variable sequence, range of measurements, units, resolution, accuracy:
+
+Variable Name	Range of Measurements	Resolution	Accuracy
+
+DATE		1-12, 1-31, 00-99		1 mo, 1day, 1yr		NA
+HOUR		0-24, 0-60, 0-60		1hr, 1 min, 1sec		NA
+TEMP		-5 to 45 (degrees C)		0.01 C		+/-0.15C
+SPCOND		0-100 (mS/cm)		0.01 mS/cm		+/-0.5% reading + 
+0.001mS/cm 
+SALINITY		0-70 (ppt)		0.01 ppt		+/-1.0% of reading 
+or 0.1ppt (whichever is greater)
+DO%SAT		0-200 (% saturation)		0.1% @air sat		+/-2% 
+@air sat.
+DO%SAT		200-500(%saturation)		0.1% @air sat		+/-6% 
+@air sat.
+DO (mg/l)		0-20 (mg/l)		0.01 mg/l		+/-0.2 mg/l
+DO (mg/l)		20-50 (mg/l)		0.01 mg/l		+/-0.6 mg/l
+DEPTH (shallow)		0-9.1 (m)		0.001 m		+/- 0.018 m
+pH		2 to 14 units		0.01 units		+/-0.2 units
+Turb		0-1500 NTU		0.1 NTU*		+/- 5% of reading or 
+2 NTU (whichever is greater)* 
+
+* for turbidity values of 0-1000 NTU
+
+
+9. Coded variable indicator and variable code definitions:
+   SU- State Route 2	WM-State Route 6
+
+10. Data anomalies (suspect data):
+
+April 1999: 
+WM: 
+SU: Water levels were intermittently at or below 0 from 04/01/99 through 
+04/09/99 and again from 04/15/99 through 04/17/99.  This was due to the low 
+water levels so that the depth recorder was often above water level at this time 
+coupled with changes in barometric pressure. Jump in DO from 73.2% to 139.2% due 
+to 
+redeployment of instrument at 04/19/99 (07:45).
+
+May 1999:
+WM: Two high turbidity values (>1500 NTU) on 05/04/99 (19:15) and 05/08/99 
+(20:30)- could be due to biological or wind activity.  Low oxygen levels from 
+05/17/99 through 05/19/99 at 08:00 due to periphyton growth on oxygen membrane. 
+Low oxygen on 05/29/99 through the end of the month due to periphyton growth on 
+oxygen membrane. 
+SU:
+
+June 1999:
+WM: Low oxygen levels until 06/01/99 at 08:45 due to periphyton growth on oxygen 
+membrane. Turbidity erractic from 06/05/99 through 06/08/99 possibly due to carp 
+activity - DO and pH level off during this same time period.  Low oxygen from 
+06/09/99 to 06/15/99 at 08:30 due to periphyton growth on oxygen membrane. Two 
+high turbidity values (>1500 NTU) on 06/16/99 (12:30) to 06/19/99 (07:45) 
+possibly due to biological activity.  
+SU:
+
+July 1999:
+WM: Low and/or erratic oxygen from 07/01/99 (00:00) through 07/06/99(08:15) due 
+to periphyton growth on oxygen membrane. One high turbidity value on 07/06/99 
+(14:30).  Several small negative turbidity readings throughout the following 
+time period: 07/18/99 (12:30) to 07/19/99 (13:15).  Negative water level 
+readings from 07/09/99 (08:15 to 16:15) and 07/10/99 (00:30 to 02:30) due to low 
+water levels. 
+SU: Negative oxygen readings deleted 07/04/99 (05:45 to 11:15) and on 07/06/99 
+(04:45; 05:30; 06:15). Oxygen readings from 07/04/99 at 05:45 through 07/06/99 
+at 08:15 should be viewed with some reservation due to these negative readings.
+Negative depth readings on 07/09/99 (09:30 through 18:15) due to very low water 
+levels and changing barometric pressure.  
+
+August 1999:
+WM:  Turbidity erractic from 08/01/99 (00:00 to 23:30).  All data missing from 
+08/23/99 (21:15) reason unknown (glitch in datalogger?)	
+SU: 
+
+September 1999:
+WM: Negative oxygen readings from 09/05/99 (05:30); (06:30 to 07:00); (07:30).
+One high turbidity value on 09/14/99 (18:30).  Negative oxygen readings deleted 
+from 09/05/99 (23:45) through 09/06/00 (09:45), on 09/07/99 (00:30 and 07:15) 
+and on 09/08/99 (00:00-00:15; 03:30-03:45; 05:45; 06:15-06:30). Oxygen readings 
+from 09/05/99 at 23:45 through 09/08/99 at 07:15 should be viewed with some 
+reservation due to these negative readings. 
+SU:
+
+October 1999:
+WM:
+SU: Negative oxygen readings deleted from 10/16/99 (11:45-13:15; 15:15-16:30; 
+21:30; 22:15); 10/16/99 (22:45) through 10/17/99 (02:30); 10/17/99 (17:00) 
+through 10/18/99 (15:45); 10/18/99 (19:45) through 10/23/99 (13:15); 10/31/99 
+(09:15- 12:30)- probe failure.  All oxygen readings from 10/16/99 through the 
+end of the month are suspect due to problems with the oxygen probe.  Negative 
+water level readings from 10/22/99 (05:30 to 06:00) due to low water levels.  
+
+November 1999:
+WM: All data deleted 11/05/99 (19:00) through 11/10/99 (15:45) data logger out 
+of water. Negative depth readings on: 11/12/99 (14:45-23:15); 11/13/99 (09:00-
+12:45; 13:15-13:45); 11/13/99 (20:45) through 11/14/99 (08:45); 11/15/99 (12:45-
+15:15; 16:15-16:30); 11/17/99 (11:30); 11/17/99 (21:15) through 11/18/99 
+(16:15); 11/18/99 (19:30) through 11/19/99 (18:45); 11/20/99 (15:00); 11/22/99 
+(07:15)- due to very low water levels. 
+SU: Negative Dissolved Oxygen readings deleted 11/01/99 (05:00; 06:45-09:15; 
+10:00;11:15); 11/02/99 (23:00)- probe failure.  All dissolved oxygen readings 
+from 11/01/99 (00:00) through 11/03/99 (08:00) suspect due to oxygen probe 
+failure.  Jump in DO due to redeployment of instrument on 11/03/99 (08:15);
+Jump in DO due to redeployment of instrument on 11/10/99 (16:00). 
+Negative water level readings 11/13/99 (20:00) through 11/14/99 
+(09:45); 11/23/99 (19:30) through 11/24/99 (03:15); 11/25/99 (22:15-22:30); 
+11/26/99 (05:45) through 11/27/99 (02:00); 11/27/99 (04:30) due to low water 
+levels.
+
+11. Missing data:
+April 1999:
+WM: No data was collected from 04/01/99 at 00:00:00 through 04/19/99 at 07:45:00 
+due to a software problem with the sonde.
+SU:
+
+May 1999:
+WM:
+SU: 		
+       
+June 1999:
+WM: All data missing 06/08/99 at 08:30- servicing data logger.
+SU:
+
+July 1999:
+WM:
+SU: Negative oxygen readings deleted 07/04/99 (05:45 to 11:15) and on 07/06/99 
+(04:45; 05:30; 06:15).
+
+August 1999:
+WM: All data missing 08/03/99 at 07:45- servicing datalogger.  All data missing 
+08/23/99 at 21:15- reason unknown (glitch in datalogger?).     
+SU: All data missing 08/09/99 at 07:15- servicing datalogger.
+
+September 1999:
+WM: Negative oxygen readings from 09/05/99 (05:30); (06:30 to 07:00); (07:30).  
+Negative oxygen readings deleted from 09/05/99 (23:45) through 09/06/00 (09:45), 
+on 09/07/99 (00:30 and 07:15) and on 09/08/99 (00:00-00:15; 03:30-03:45; 05:45; 
+06:15-06:30).  Salinity readings are missing from 09/21/99 at 08:15 through 
+09/22/99 at 15:30 due to operator error.  All data missing 09/22/99 at 13:30-
+servicing data logger.
+SU:
+
+October 1999:
+WM:
+SU: No salinity readings from 10/04/99 (07:30) through 10/15/99 (09:15)- 
+operator error.  Negative oxygen readings deleted from 10/16/99 (11:45-13:15; 
+15:15-16:30; 21:30; 22:15); 10/16/99 (22:45) through 10/17/99 (02:30); 10/17/99 
+(17:00) through 10/18/99 (15:45); 10/18/99 (19:45) through 10/23/99 (13:15); 
+10/31/99 (09:15- 12:30)- probe failure.
+
+November 1999:
+WM: No salinity or DO (mg/l) data from 11/03/99 (08:45) through 11/05/99 (18:45) 
+operator error.  All data deleted 11/05/99 (19:00) through 11/10/99 (15:45) data 
+logger out of water.  No salinity or DO (mg/l) data from 11/10/99 (16:00) 
+through 11/23/99 (08:45) operator error.  No data 11/23/99 (09:00 through 17:15) 
+servicing data logger.
+SU: Negative Dissolved Oxygen readings deleted 11/01/99 (05:00; 06:45-09:15; 
+10:00;11:15); 11/02/99 (23:00)- probe failure.  All data missing 11/08/99 
+(09:00) through 11/10/99 (15:45) pulled data logger due to low water level. 
+
+12. Other Remarks
+
+The time recorded by the YSI 6000 instrument was off the following date/times:
+SU: time was off +40 sec from 06/08/99 (07:45:40) to 06/15/99 (07:30:40)
+WM: time was off +40 sec from 06/08/99 (08:30:40) to 06/15/99 (08:30:40)
+    time was off +52 sec from 09/22/99 (13:30:52) to 09/30/99 (23:45:52)
+    time was off +52 sec from 10/01/99 (00:00:52) to 10/31/99 (23:45:52)
+    time was off +52 sec from 11/01/99 (00:00:52) to 11/31/99 (23:45:52)
+

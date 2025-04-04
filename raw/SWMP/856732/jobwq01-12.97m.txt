@@ -1,0 +1,815 @@
+Jobos Bay (JOB) NERR WATER QUALITY METADATA 
+JANUARY 1997 TO DECEMBER 1997
+Latest Update: July 16, 2002
+ 
+I. Data Set & Research Descriptors
+  
+1. Principal investigator(s) and contact persons
+ 	Principal Investigator:
+ 	Carmen González
+	Manager
+	Jobos Bay NERR
+	Call Box B
+	Aguirre, Puerto Rico 00704
+	Phone:(787)853-4617, (787) 853-3569
+	Fax: (787) 853-4618
+	cgonzalez @ ocean.nos.noaa.gov
+ 
+	Contact Person:
+ 	Carmen González
+	See Above
+ 
+	Pedro Robles
+	Research Coordinator
+	Jobos Bay NERR
+	Call Box B
+	Aguirre, Puerto Rico 00704
+	Phone: (787) 853-4617
+	Fax: (787) 853-4618
+ 
+	Ileana Pérez
+	Laboratory Director
+	Department of Natural and Environmental Resources
+	Stop 3 l/2, Muñoz Rivera Avenue
+	Puerta de Tierra, San Juan, P. R. 
+	P. O. Box 5887, San Juan, P. R. 00906
+	Phone: (787) 724-8648, (787) 724-8774 Ext. 334
+	Fax: (787) 722-4629, (787) 724-0365
+ 
+	Luis A. Encarnación
+	Biologist
+	Department of Natural and Environmental Resources
+	Stop 3 l/2, Muñoz Rivera Avenue
+	Puerta de Tierra, San Juan, P. R. 
+	P. O. Box 5887, San Juan, P. R. 00906
+	Phone: (787) 724-8648, 787) 724-8774 Ext. 334
+	Fax: (787) 722-4629, (787) 724-0365
+ 
+2. Entry verification:
+ 	After retrieving and carefully cleaning the dataloggers, they are examined 
+to detect any structural damage to the body or to the probes. The DO membrane is 
+checked for ruptures and then replaced if needed. The turbidity probe is 
+examined to assure that no obstruction affects the wiper and that the sensor is 
+clean. Manipulation and observation are registered in the field log for each 
+deployment respectively.
+	The YSI is connected to a Pentium II 400 MHz IBM compatible computer and 
+the data are reviewed using the YSI computer program PC6000 that accompanies the 
+YSI 6000 datalogger.  The file is uploaded in two formats, one in YSI PC6000 
+format and the other in Comma and "" Delimited format then the file is renamed 
+to have a ".txt" extension. The YSI Ecowatch for Windows program is used to plot 
+the data and delete the pre- and post deployment data that are not in range of 
+the other readings. The program is used to perform basic statistical analysis 
+(i,e., min., max., mean, std. dev.). This information is printed out with a list 
+of data and filed for each station.
+	The information obtained from this printout is used during file review to 
+detect any gross outliers such as data taken when the datalogger was removed 
+from the water or those caused by instrument failure. The data are imported into 
+a Microsoft Excel file that contains the current month's cumulative recordings. 
+When a complete month of data has been recorded the file is ready for review.
+	The data review includes several steps.  The first step is to format the 
+data so that the parameter columns are in the correct order.  Secondly, a 
+modified Excel 97 version of the CDMO Excel 5.0 macro is used to check and 
+determine if there are any dates and times that were not recorded due to 
+maintenance, battery failure, or other cause. Missing dates and times are 
+inserted into the file and a period is inserted into the cells where data would 
+normally be. The reason for the missing data is recorded onto the Missing data 
+Log. The data are then formatted so that the parameter columns are in the 
+correct size and the data have the correct number of decimal place holders as 
+specified by the NERR CDMO. Next, the data are filtered using the CDMO Excel 97 
+macro to find readings outside the instrument measurement range and the "normal" 
+range for the site in question.
+	Data outside the instrument range is/are removed from the file and a 
+period is inserted to the cell(s).  An explanation for the missing dates and 
+time are recorded onto the Missing data Log.  Data that were outside the 
+"normal" range of water quality for a particular site is investigated for 
+validity based on field observation, QC check, PC6000 printouts, and instrument 
+diagnostics. If the datum is/are rejected from the file a period is inserted to 
+the cell(s) and an explanation for the missing date and time is recorded onto 
+the Missing data Log. The information recorded on the Missing data Log is 
+transferred to the metadata form. The metadata form is then submitted with the 
+data to the CDMO.  Data is stores in zip disks.  Dr. Pedro Robles, Research 
+Coordinator is responsible for the data management.
+ 
+3. Research Objectives:
+ 	The four dataloggers are deployed at Mar Negro area, major component of 
+Jobos Bay Estuarine Research Reserve, and are suspended from a pole at one foot 
+from the bottom of the selected site. Measurements are taken at thirty (30) 
+minute intervals for approximately two-week periods. The sites are identified as 
+representative of areas within the reserve and comparable to the sites that may 
+be receiving impact from human activities in the surroundings areas.
+	Station number six (6), is located in the proximity of Punta Colchones, 
+close to the thermal discharge pipeline, which can be affected by high 
+temperatures and sediment resuspension. 
+	Station number nine (9), the impacted site, collects water quality data in 
+a site associated with runoff from littoral and basin mangroves areas. This 
+sampling station is closer to the Electric Power Thermoelectric Plant, which 
+makes it subject to runoff and potential spills contamination from this 
+industrial facility. Information compiled from historical environmental 
+documents indicate that station nine (9) was used as a disposal site for the 
+residues of the previously operating sugar mill operation, which might have been 
+a high organic input to the sediments.
+	Station number ten (10) located in the mangrove lagoon area is the 
+reference or unimpacted site.
+	Station number eleven (11) is another possible impacted site. Housing 
+development that is not provided with sewage treatment facilities are the 
+potential source of contaminants for this Station. Septic tanks and possible 
+direct disposal constitute the potential contamination sources. Runoffs from 
+agricultural land and other contaminant transport through a drainage channel are 
+possible hazards at station nine (9) and eleven (11).
+ 
+4.	Research methods:
+	The Estuarine Water Quality Monitoring began on December 20, 1995 at 
+Station nine (9), February 1, 1996 at Station ten (10), March 15, 1996 at 
+Station eleven (11), and at Station six (6) on December 06, 1996. At this time 
+we are only performing long term water quality monitoring.
+	Before each YSI 6000 datalogger is deployed, calibration and maintenance 
+is performed following the manufacturer's instruction (YSI Manual addendum 7/94, 
+sections 3,4 and 7). Calibration standards are only required for pH, salinity, 
+and turbidity, all other parameters are done as described in the manual. Buffer 
+solutions for two-point calibration (pH 7 and pH 10) are purchased from a 
+scientific supply house. Salinity is calibrated via a specific conductance 
+standard 1000 µs/cm and are purchased from a scientific supply house.  This 
+solution is also prepared in the laboratory of Department of Natural and 
+Environmental Resources (DNER) utilizing KCl following specification of EPA 
+methods.
+	The two-point turbidity calibration (as of January 01, 1997) was performed 
+using a 0 NTU standard using lab grade DI water made at the DNER laboratory and 
+40 NTU standard purchased from a scientific supply house. We are now using 
+(since Jan 01, 1997) a 200 NTU standard purchased from a scientific company. The 
+dissolved oxygen membranes are replaced before deployment and are allowed to sit 
+at least 24 hours prior to deployment.
+	The weather conditions and tide stage during deployment are recorded in 
+the field observation log. Measurements of DO, pH, salinity, specific 
+conductance, temperature, turbidity (secchi) are taken with other calibrated 
+field instruments to check the accuracy of the instrumentation.	Each YSI 
+datalogger is tied with steel cable to a wrought iron galvanized pole, which is 
+plunged into the sediments of each sampling area.  Dataloggers are deployed at a 
+depth of 0.3 m. Every 30 minutes during the sampling period measurements are 
+taken for date, time, temperature, specific conductance, salinity, dissolved 
+oxygen saturation, dissolved oxygen concentration, depth, pH, and turbidity. 
+Every two weeks the dataloggers are retrieved, uploaded, cleaned, inspected, and 
+calibrated as noted previously. The datalogger is then ready to be deployed.
+
+5. Site location and character:
+ 	The Jobos Bay National Estuarine Research Reserve (JOBNERR) is located on 
+the southern coastal plain of the island of Puerto Rico, a reserve within the 
+West Indies geographical area. JOBNERR is composed of two major areas: (1) Mar 
+Negro, located on the western margin of the Bay, and (2) Cayos Caribe, a chain 
+of 15 tear-shaped islets located to the southeast. The Mar Negro area comprises 
+the bulk of the Reserve, and consists of mangrove forests and a complex system 
+of lagoons and channels interspersed with salt and mud flats.  Coral reefs and 
+seagrass beds, with small beach deposits and upland areas fringe Cayos Caribe 
+mangrove islands.
+ 	Station 6 is located in the bay close to the peninsular drape area in Mar 
+Negro knows as Punta Colchones.  The datalogger is deployed at about five meters 
+from the emergence of the fallout pipe cooling water from the Thermoelectric 
+Power Plant. This station is subject to high temperatures and sediment 
+resuspension.  The tidal range varies from 12 in. to 14 in. in the vicinity of 
+the monitoring station.  No fresh water input in the vicinity of the station is 
+probable.  The salinity at the vicinity of the monitoring station varies from 
+34.0 ppt to 35.7 ppt.  The station pole is located at 17° 56' 6.5"N and 66° 13' 
+43.6"W.
+	Station 9 is an impacted site and is located at the northeastern part of 
+the Mar Negro unit. The sampling station is associated with the mangrove lagoon 
+area and received the Thermoelectric Power Plant runoff through mudflats and 
+areas adjacent. The tidal range varies from 12 in. to 14 in. in the vicinity of 
+the monitoring station.  No fresh water input in the vicinity of the station is 
+probable. The salinity at the vicinity of the monitoring station varies from 0.0 
+ppt to 41.1 ppt.  The station pole is located at 17° 56' 36.8" N and 66° 14' 
+18.5" W.
+ 	Station 10 is located in a mangrove lagoon not impacted from upland or 
+marine activities. It provided a reference for comparison of the data obtained 
+in other stations, especially to the stations in Mar Negro lagoon environment.  
+The tidal range varies from 12 in. to 14 in. in the vicinity of the monitoring 
+station.  No fresh water input in the vicinity of the station is probable. The 
+salinity at the vicinity of the monitoring station varies from 0.0 ppt to 41.7 
+ppt.  The pole is located at 17° 56' 20.3" N and 66° 45' 26.7" W.
+ 	Station 11 datalogger is tied to a small pier stand in the westernmost 
+lagoon in the Mar Negro unit. Although a chain from a small pier suspends this 
+datalogger, and it has been deployed at the same depth of the other dataloggers. 
+Non point sources of contaminants from residences and boating activities in the 
+vicinity are probable. The lagoon is characterized by dark bottom, tidal range 
+from 12 in. to 14 in., allegedly related to long term deposition of organic 
+wastes from the sugar mill operation when the mill was operating. No fresh water 
+input in the vicinity of the station is probable. The salinity at the vicinity 
+of the monitoring station varies from 0.0 ppt to 36.7 ppt.  The datalogger is 
+suspended by a chain and localized at 17° 56' 41.8" N and 66° 15' 46.0" W.
+ 	All monitoring is considered long term.
+ 
+6. Data collection period: 
+ 	Station nine (9) sampling with the YSI began on December 20, 1995.
+	Station ten (10) sampling with the YSI began on February 1, 1996.
+	Station eleven (11) sampling with the YSI began on March 15, 1996.
+	Station six (6) sampling with the YSI began on December 06, 1996. No 
+	sampling after February 1997 for remainder of year.
+ 
+7. Associated researchers and projects:
+	A water quality and plankton monitoring scheme was initiated in 1995, to 
+monitor 12 stations in the Jobos Bay system. This effort, conducted by the 
+Department of Natural and Environmental Resources Laboratory began in March 
+1995, using a Hydrolab Data sonde 3 with a Surveyor 3 readout system, monitoring 
+the water column on a bimonthly time basis for abiotic parameter similar to the 
+YSI. Monthly samples for nutrients, plankton and chlorophyll were conducted from 
+March to October (Water Quality Monitoring-Spatial and temporal variations of 
+main abiotic and plankton components in JOBNERR, 1996). Samplings were resumed 
+in January 1996 and will be conducted until March 1997).
+ 
+8. Variable sequence, range of measurements, units, resolution and accuracy:
+Variable Name		Range of Measurements (units)	Resolution	Accuracy
+Date			1-12,1-31,00-99 (Mo,Day,Yr)	(1 mo,l day,1 yr)	NA
+Time			0-24,0-60,0-60 (Hr,Min,Sec)	(1 hr, 1min, 1s)	NA
+Temp			-5 to 45 (C)			0.01 C		+/- 0.15 C 
+SpCond			0-100 (mS/cm)			0.01mS/cm	+/- 0.5% of 
+			reading + 0.001 ms/cm
+Salinity		0-70 Parts per Thousand(ppt)	0.01ppt		+/- 1.0% of 
+			reading or 0.1ppt, whichever is greater
+Dosat			0-200 (% saturation)		0.1% @air sat	+/- 2% @air sat
+Dosat			200-500 (% saturation)		0.1% @air sat	+/- 6% @air sat
+Domg			0-20 (mg/1)			0.01 mg/L	+/- 0.2 mg/L
+Domg			20-50 (mg/1)			0.01 mg/L	+/- 0.6 mg/L
+Depth			0-9.1 (meters)			0.00l meters	+/- 0.018 m
+pH			2-14				0.01 units	+/- 0.2 units
+Turbidity		0-1000 NTU			0.1 NTU		+/- 5% of 
+			reading 2 NTU, whichever is greater
+
+ 9. Coded variable indicator and variable code definitions:
+ 	Site definitions: S9 = Station 9
+	Site definitions: S10 = Station 10
+	Site definitions: S11 = Station 11
+	Site definitions: S6 = Station 6
+ 	File definitions: site/month/year (ex: XXaug95 = Station data from August 
+	of 1995).
+
+
+10. Data anomalies:
+
+January, 1997:
+
+Station 09:
+Turbidity deleted from 1/1/97 0000 – 1/31/97 2330 – erratic throughout entire month.
+No DO% and DO mg/L data from 1/01/97 00:00:00 through 1/14/97 11:00:00. YSI datalogger 
+or DO sensor was damaged causing very erratic DO readings.
+All data was deleted because instrument was out of water from 1/14/97 1130 – 1/15/97 0930.
+Depth, DO and pH data deleted from 1/17 1200 – 2/4 0830 due to erratic readings, 
+probably due to instrument. 
+
+Station11:
+Possible small turbidity calibration error from 1/17 1200 – 1/31 2330.
+Low DO Outliers	were deleted:			
+1/17/97	17:00:00 through 1/17/97 20:00:00
+1/18/97	3:30:00	through	1/18/97	8:00:00
+1/18/97	14:30:00 through 1/19/97 8:00:00
+1/19/97	14:30:00 through 1/19/97 15:00:00
+1/19/97	16:00:00 through 1/20/97 8:00:00
+1/20/97	14:00:00			
+1/20/97	15:00:00 through 1/21/97 8:30:00
+1/21/97	13:00:00 through 1/21/97 13:30:00
+1/21/97	14:30:00 through 1/22/97 9:30:00
+1/22/97	15:00:00 through 1/23/97 8:00:00
+1/23/97	14:00:00 through 1/24/97 8:00:00
+1/24/97	15:00:00 through 1/25/97 8:00:00
+1/25/97	14:30:00 through 1/26/97 8:00:00
+1/26/97	14:00:00 through 1/27/97 8:30:00
+1/27/97	14:00:00 through 1/28/97 8:30:00
+1/28/97	13:00:00 through 1/29/97 9:00:00
+1/29/97	13:00:00 through 1/30/97 11:00:00
+1/30/97	13:00:00 through 1/31/97 9:00:00
+1/31/97	13:00:00 through 1/31/97 22:30:00	
+High Temp Outliers:			
+1/20/97	14:30:00 through 1/31/97 21:00:00, 23:00:00 through 23:30:00
+SpCond values deleted due to errors in temperature:
+1/20/97	14:30:00 through 1/31/97 21:00:00, 23:00:00 through 23:30:00
+Salinity values deleted due to errors in temperature:
+1/20/97	14:30:00 through 1/31/97 21:00:00, 23:00:00 through 23:30:00
+DO values deleted due to errors in temperature:
+1/20/97	14:30:00 through 1/31/97 21:00:00, 23:00:00 through 23:30:00
+pH values deleted due to errors in temperature:
+1/20/97	14:30:00 through 1/31/97 21:00:00, 23:00:00 through 23:30:00
+
+February, 1997:
+Station 06:
+No Data due to internal error:			
+2/1/97	6:00:00			
+2/1/97	7:00:00			
+2/1/97	10:30:00			
+2/1/97	23:00:00			
+2/2/97	0:30:00			
+2/2/97	2:00:00			
+2/3/97	3:00:00			
+2/2/97	6:00:00			
+2/2/97	7:00:00			
+2/2/97	8:00:00			
+2/2/97	10:30:00			
+2/2/97	11:00:00			
+2/2/97	14:00:00			
+2/2/97	15:00:00			
+2/2/97	17:30:00			
+2/2/97	19:00:00			
+2/2/97	20:30:00			
+2/2/97	22:00:00			
+2/2/97	22:30:00			
+2/2/97	23:00:00			
+2/3/97	3:30:00			
+2/3/97	5:00:00	through	2/3/97	5:30:00
+2/3/97	6:00:00	through	2/3/97	6:30:00
+2/3/97	7:30:00	through	2/3/97	8:00:00
+2/3/97	9:30:00	through	2/3/97	13:00:00
+2/3/97	14:00:00			
+2/3/97	15:00:00			
+2/3/97	16:00:00			
+2/3/97	17:00:00	
+2/3/97	17:30:00 through 2/3/97	18:30:00
+2/3/97	23:30:00			
+2/4/97	1:30:00			
+2/4/97	3:30:00			
+2/4/97	5:00:00			
+2/4/97	6:30:00			
+2/4/97	8:00:00	through	2/28/97	23:30:00
+
+Station09:
+Turbidity deleted from 2/1/97 0000 – 2/28/97 2330 – erratic throughout entire month.
+Depth, DO and pH data deleted from 1/17 1200 – 2/4 0830 due to erratic readings, 
+probably due to instrument. 
+Instrument was out of water from 2/4 0900 – 0930.
+No data due to maintenance-there were problems with the probes from 02/04/97 10:00:00 
+through 02/28/97 23:30:00.
+
+Station11:
+High Temp Outliers:				
+2/1/97	0:00:00 through	2/4/97	9:00:00
+SpCond values deleted due to errors in temperature:
+2/1/97	0:00:00 through	2/4/97	9:00:00
+Salinity values deleted due to errors in temperature:
+2/1/97	0:00:00 through	2/4/97	9:00:00
+DO values deleted due to errors in temperature:
+2/1/97	0:00:00 through	2/4/97	9:00:00
+pH values deleted due to errors in temperature:
+2/1/97	0:00:00 through	2/4/97	9:00:00
+
+March, 1997:
+Station09:
+DO deleted – very erratic from 3/1 0000 – 3/31 2330.
+Anomalous Low Turbidity:
+3/8/97	15:30:00
+3/8/97	17:30:00
+3/9/97	18:30:00
+3/11/97	20:00:00
+3/15/97	13:30:00
+pH suspect from 3/5/97  1600 through 4/4/97 1600 and deleted. 
+Anomalously low turbidity spike (-785) deleted on 3/11/97 8:30:00. 
+
+April, 1997:
+Station09:
+pH suspect from 3/5/97  1600 through 4/4/97 1600 and deleted. 
+DO deleted – very erratic/bad data from 4/1 0000 – 4/4 1600.
+Anomalous Low Turbidity:
+4/4/97	11:30:00
+4/23/97	23:30:00
+DOmg/L data – not set up to record from 04/18/97 12:00:00 through 04/30/97 23:30:00.
+DO% data deleted from 04/18/97 12:00:00 through 04/30/97 23:30:00-appears to be a 
+membrane puncture since values jump from the 70s to the 200s in half an hour.
+
+Station10:
+No Domg data - negative data was deleted from 04/01/97 0:00:00 through 
+04/30/97 23:30:00.
+No Salinity data - data was deleted from 04/01/97 0:00:00 through 04/30/97 23:30:00.
+High SpCond Outliers were deleted from 4/18/97	12:00:00 through 4/30/97 23:30:00.
+
+May, 1997:
+Station09:
+DO% data deleted from 5/1/97 0:00:00 through 5/5/97 09:30:00-appears to be a 
+membrane puncture since values jump from the 70s to the 200s in half an hour.
+No Salinity data from 05/01/97 00:00:00 through 05/05/97 09:30:00.
+No Domg data from 05/01/97 00:00:00 through 05/05/97 09:30:00.
+
+Station10:
+Depth deleted – bad data from 5/01 0000 – 5/05 0930.
+No Domg data from 05/01/97 0:00:00 through 05/05/97 09:00:00.
+High SpCond and Salinity Outliers were deleted from 05/01/97 0:00:00 through 
+05/05/97 09:00:00.
+Instrument out of water on 5/5 0930.
+Instrument out of water from 5/6 1100 - 1400.
+No pH data - bad probe from 05/06/97 14:30:00 through 05/31/97 23:30:00.
+High Salinity and SpCond Outliers were deleted from 5/6/97 14:30:00 through 5/31/97 23:30:00.
+DOmg/L values were also deleted	from 5/6/97 14:30:00 through 5/31/97 23:30:00.
+DO deleted due to possible bad calibration from 5/22 2330 – 5/31 2330.
+
+June, 1997:
+Station09:
+High SpCond Outliers were deleted due to bad conductivity from 6/3/97 16:00:00 
+through 6/19/97 7:00:00.
+High Salinity Outliers were deleted due to bad conductivity from 6/3/97 16:00:00 
+through 6/19/97 7:00:00.
+DO mg/L data were also deleted from 6/3/97 16:00:00 through 6/19/97 7:00:00.
+Anomalous Low Turbidity:			
+6/3/97	22:00:00			
+6/5/97	0:00:00	through	6/5/97	0:30:00
+6/6/97	2:00:00	through	6/6/97	2:30:00
+6/7/97	22:00:00			
+6/11/97	2:00:00			
+6/11/97	4:00:00	through	6/11/97	5:00:00
+6/11/97	6:30:00			
+6/11/97	7:30:00			
+6/11/97	9:30:00			
+6/11/97	10:30:00 through 6/11/97 11:00:00
+6/11/97	13:30:00			
+6/11/97	23:00:00 through 6/12/97 0:00:00			
+6/12/97	1:00:00			
+6/12/97	2:00:00	through	6/12/97	4:00:00
+6/18/97	15:30:00			
+6/24/97	17:00:00			
+6/24/97	22:00:00			
+6/25/97	10:30:00 through 6/25/97 11:30:00
+6/25/97	13:00:00 through 6/25/97 14:30:00
+6/25/97	15:30:00 through 6/25/97 19:30:00
+6/26/97	13:00:00 through 6/26/97 13:30:00
+6/26/97	15:00:00 through 6/26/97 16:30:00
+6/26/97	17:30:00			
+6/26/97	18:30:00			
+6/27/97	12:30:00 through 6/27/97 15:30:00
+6/27/97	17:00:00			
+6/27/97	18:00:00 through 6/27/97 19:00:00
+6/28/97	11:00:00 through 6/28/97 12:00:00
+6/28/97	13:30:00			
+6/28/97	14:30:00 through 6/28/97 15:00:00
+6/28/97	16:00:00 through 6/28/97 18:00:00
+6/28/97	21:00:00			
+6/29/97	6:30:00	through	6/29/97	7:00:00
+6/29/97	8:30:00	through	6/29/97	9:00:00
+6/29/97	10:00:00			
+6/29/97	13:00:00 through 6/29/97 14:00:00
+6/29/97	15:00:00 through 6/29/97 16:00:00
+6/29/97	17:00:00			
+6/29/97	18:00:00			
+6/29/97	19:00:00			
+6/29/97	21:00:00 through 6/29/97 22:30:00
+pH data suspect and deleted from 6/10/97 1000 through 6/19/97 0700.
+Suspect salinity/specific conductivity data from 06/24/97 17:00:00 through 06/30/97 04:30:00 deleted.
+No Domg - suspect data deleted from 06/24/97 17:00:00 through 06/30/97 04:30:00.
+
+Station10:
+DO data deleted due to possible bad calibration from 6/1/97 0000 – 6/2/97 10:00.
+No pH data - bad probe from 06/01/97 0:00:00 through 06/02/97 14:30:00.
+High SpCond Outliers  were deleted from 6/1/97	0:00:00	through	6/2/97	10:00:00.
+High Salin Outliers were deleted from 6/1/97 0:00:00 through 6/2/97 10:00:00.
+Instrument out of water from 6/2 1030 - 1430.
+Anomalous Low Depth was deleted	from 6/2/97 13:00:00 through 6/2/97 14:30:00.
+
+November, 1997:
+Station09:
+pH data deleted due to bad probe from 11/14 1000 – 11/30 2330.
+Low DO Outliers	were deleted on 11/14/97 14:30:00.
+DO data deleted from 11/19/97 16:00:00 through 11/30 2330 due to membrane puncture.
+Anomalous Low Turbidity:
+11/21/97 16:00:00
+11/30/97 0:00:00, 23:00:00
+
+Station11:
+Anomalous Low Depth from 11/14/97 12:00:00 through 11/14/97 12:30:00.
+
+December, 1997:
+Station09:
+DO data deleted from 12/01 0000-12/10 0900 due to membrane puncture.  Values jump
+from 90 to >500 in half an hour and remain >500.  
+pH deleted due to bad probe from 12/01 0000 – 12/10 0900.
+Anomalous Low Turbidity:
+12/1/97	0:30:00
+12/2/97	22:00:00
+12/2/97	23:00:00
+12/3/97	0:00:00
+
+Station10:
+No Salinity data from 12/23/97	16:00:00 through 12/31/97 23:30:00.
+DO data deleted from 12/23 1600-1830 because membrane had not settled yet.  
+DO deleted due to possible tear in membrane from 12/30 0800 – 12/31 1900.
+
+Station11:	
+Instrument out of water from 12/10 1230 – 12/12 1300.
+
+
+11. Missing data:
+
+January, 1997:
+Station06:
+No Data due to Internal Error on 1/1/97	0:00:00, 1/1/97	11:30:00.
+No turbidity data – not set up to record on 01/01/97 00:00:00 through 01/31/97 23:30:00.
+Sonde not deployed from 1/2/97	5:30:00	through	1/2/97	05:00:00.
+
+Station 09:
+Turbidity deleted – erratic throughout entire month from 1/1 0000 – 1/31 2330.
+No DO% and DO mg/L data from 1/01/97 00:00:00 through 1/14/97 11:00:00. YSI datalogger 
+or DO sensor was damaged causing very erratic DO readings.
+All data was deleted because instrument was out of water from 1/14/97 1130 – 1/15/97 0930.
+No Data due to maintenance from 1/15/97	10:00:00 through 1/17/97 11:30:00.
+Depth, DO and pH data deleted from 1/17 1200 – 2/4 0830 due to erratic readings, 
+probably due to instrument. 
+
+Station10:
+Sonde not deployed from 01/01/97 00:00:00 through 01/31/97 23:30:00.
+
+Station11:
+Sonde not deployed from 01/01/97 0:00:00 through 01/17/97 11:30:00.
+Low DO Outliers	 were deleted:				
+1/17/97	17:00:00 through 1/17/97 20:00:00
+1/18/97	3:30:00	through	1/18/97	8:00:00
+1/18/97	14:30:00 through 1/19/97 8:00:00
+1/19/97	14:30:00 through 1/19/97 15:00:00
+1/19/97	16:00:00 through 1/20/97 8:00:00
+1/20/97	14:00:00			
+1/20/97	15:00:00 through 1/21/97 8:30:00
+1/21/97	13:00:00 through 1/21/97 13:30:00
+1/21/97	14:30:00 through 1/22/97 9:30:00
+1/22/97	15:00:00 through 1/23/97 8:00:00
+1/23/97	14:00:00 through 1/24/97 8:00:00
+1/24/97	15:00:00 through 1/25/97 8:00:00
+1/25/97	14:30:00 through 1/26/97 8:00:00
+1/26/97	14:00:00 through 1/27/97 8:30:00
+1/27/97	14:00:00 through 1/28/97 8:30:00
+1/28/97	13:00:00 through 1/29/97 9:00:00
+1/29/97	13:00:00 through 1/30/97 11:00:00
+1/30/97	13:00:00 through 1/31/97 9:00:00
+1/31/97	13:00:00 through 1/31/97 23:30:00
+High Temp Outliers were deleted due to probe malfunction:			
+1/20/97	14:30:00 through 1/31/97 21:00:00, 23:00:00 through 23:30:00
+SpCond values deleted due to errors in temperature:
+1/20/97	14:30:00 through 1/31/97 21:00:00, 23:00:00 through 23:30:00
+Salinity values deleted due to errors in temperature:
+1/20/97	14:30:00 through 1/31/97 21:00:00, 23:00:00 through 23:30:00
+DO values deleted due to errors in temperature:
+1/20/97	14:30:00 through 1/31/97 21:00:00, 23:00:00 through 23:30:00
+pH values deleted due to errors in temperature:
+1/20/97	14:30:00 through 1/31/97 21:00:00, 23:00:00 through 23:30:00
+
+February, 1997:
+Station06:
+No Data due to internal error:		
+2/1/97	6:00:00			
+2/1/97	7:00:00			
+2/1/97	10:30:00			
+2/1/97	23:00:00			
+2/2/97	0:30:00			
+2/2/97	2:00:00			
+2/3/97	3:00:00			
+2/2/97	6:00:00			
+2/2/97	7:00:00			
+2/2/97	8:00:00			
+2/2/97	10:30:00			
+2/2/97	11:00:00			
+2/2/97	14:00:00			
+2/2/97	15:00:00			
+2/2/97	17:30:00			
+2/2/97	19:00:00			
+2/2/97	20:30:00			
+2/2/97	22:00:00			
+2/2/97	22:30:00			
+2/2/97	23:00:00			
+2/3/97	3:30:00			
+2/3/97	5:00:00	through	2/3/97	5:30:00
+2/3/97	6:00:00	through	2/3/97	6:30:00
+2/3/97	7:30:00	through	2/3/97	8:00:00
+2/3/97	9:30:00	through	2/3/97	13:00:00
+2/3/97	14:00:00			
+2/3/97	15:00:00			
+2/3/97	16:00:00			
+2/3/97	17:00:00	
+2/3/97	17:30:00 through 2/3/97	18:30:00
+2/3/97	23:30:00			
+2/4/97	1:30:00			
+2/4/97	3:30:00			
+2/4/97	5:00:00			
+2/4/97	6:30:00			
+2/4/97	8:00:00	through	2/28/97	23:30:00
+No turbidity data – not set up to record from 02/01/97 00:00:00 through 02/28/97 23:30:00.
+
+Station 09:
+Turbidity deleted from 2/1/97 0000 – 2/28/97 2330 – erratic throughout entire month.
+Depth, DO and pH data deleted from 1/17 1200 – 2/4 0830 due to erratic readings, 
+probably due to instrument. 
+Instrument was out of water on 2/4 0900 – 0930.
+No data due to maintenance-there were problems with the probes from 02/04/97 10:00:00 
+through 02/28/97 23:30:00.
+
+
+Station10:
+Sonde not deployed due to problems with probes from last deployment from 02/01/97 00:00:00 
+through 02/28/97 23:30:00.
+
+Station11:
+High Temp Outliers:				
+2/1/97	0:00:00 through	2/4/97	9:00:00
+SpCond values deleted due to errors in temperature:
+2/1/97	0:00:00 through	2/4/97	9:00:00
+Salinity values deleted due to errors in temperature:
+2/1/97	0:00:00 through	2/4/97	9:00:00
+DO values deleted due to errors in temperature:
+2/1/97	0:00:00 through	2/4/97	9:00:00
+pH values deleted due to errors in temperature:
+2/1/97	0:00:00 through	2/4/97	9:00:00
+No data due to maintenance from 02/04/97 9:30:00 through 02/28/97 23:30:00.
+
+March, 1997:
+Station06:
+Sonde not deployed from 03/01/97 00:00:00 through 03/31/97 23:30:00.
+
+Station 09:
+No data due to maintenance from 03/01/97 00:00:00 through 03/05/97 15:30:00.
+DO deleted – very erratic from 3/1 0000 – 3/31 2330.
+pH suspect from 3/5/97  1600 through 4/4/97 1600 and deleted. 
+Anomalously low turbidity spike (-785) deleted on 3/11/97 8:30:00. 
+
+Station10:
+Sonde not deployed due to problems with sonde from 03/01/97 00:00:00 through 
+03/31/97 23:30:00.
+
+Station11:
+Sonde not deployed due to problems with sonde from 03/01/97 00:00:00 through 
+03/31/97 23:30:00.
+
+April, 1997:
+Station06:
+Sonde not deployed from 04/01/97 00:00:00 through 04/30/97 23:30:00.
+
+Station 09:
+DO deleted – very erratic/bad data from 4/1 0000 – 4/4 1600.
+pH suspect from 3/5/97  1600 through 4/4/97 1600 and deleted. 
+No data due to maintenance from 04/04/97 16:30:00 through 04/18/97 11:30:00.
+No salinity data - conductivity was programmed to record instead from 04/18/97 12:00:00 
+through 04/30/97 23:30:00.
+DOmg/L data – not set up to record from 04/18/97 12:00:00 through 04/30/97 23:30:00.
+DO% data deleted from 04/18/97 12:00:00 through 04/30/97 23:30:00-appears to be a 
+membrane puncture since values jump from the 70s to the 200s in half an hour.
+
+Station10:
+No data due to maintenance from 04/01/97 0:00:00 through 04/18/97 11:30:00.
+No Domg data - not set up to record from 04/01/97 0:00:00 through 04/30/97 23:30:00.
+No Salinity data - not set up to record from 04/01/97	0:00:00 through 04/30/97 23:30:00.
+High SpCond Outliers were deleted from 4/18/97	12:00:00 through 4/30/97 23:30:00.
+
+Station11:
+Sonde not deployed from 04/01/97 00:00:00 through 04/30/97 23:30:00.
+
+May, 1997:
+Station06: 
+Sonde not deployed from 05/01/97 00:00:00 through 05/31/97 23:30:00.
+
+Station 09:
+No Salinity data - not set up to record from 05/01/97 00:00:00 through 05/05/97	09:30:00.
+DOmg/L data - not set up to record from 05/01/97 00:00:00 through 05/05/97 09:30:00.
+DO% data deleted from 5/1/97 0:00:00 through 5/5/97 09:30:00-appears to be a 
+membrane puncture since values jump from the 70s to the 200s in half an hour.
+No data due to maintenance from 05/05/97 10:00:00 through 05/31/97 23:30:00.
+
+Station10:
+Depth deleted – bad data from 5/01 0000 – 5/05 0930.
+No Domg data - not set up to record from 05/01/97 0:00:00 through 05/05/97 09:00:00.
+High SpCond Outliers were deleted from 05/01/97	0:00:00 through 05/05/97 09:00:00.
+No Salinity data – not set up to record from 05/01/97 0:00:00 through 05/05/97 09:00:00.
+Instrument out of water on 5/5 0930.
+No data due to maintenance from 05/05/97 10:00:00 through 05/06/97 10:30:00.
+Instrument out of water on 5/6 1100 - 1400.
+No pH data - bad probe from 05/06/97 14:30:00 through 05/31/97 23:30:00.
+High Salinity and SpCond Outliers were deleted from 5/6/97 14:30:00 through 5/31/97 23:30:00.
+DOmg/L values were also deleted	from 5/6/97 14:30:00 through 5/31/97 23:30:00.
+DO deleted due to possible bad calibration from 5/22 2330 – 5/31 2330.
+
+Station11:
+Sonde not deployed from 05/01/97 00:00:00 through 05/31/97 23:30:00.
+
+June, 1997:
+Station06: 
+Sonde not deployed from  06/01/97 00:00:00 through 06/31/97 23:30:00.
+
+Station 09:
+No Data due to maintenance from:
+6/1/97	0:00:00	through 6/3/97	15:30:00.
+6/19/97	7:30:00	through 6/24/97	16:30:00.
+6/30/97	5:00:00	through	6/30/97	23:30:00.
+High SpCond Outliers were deleted from 6/3/97 16:00:00 through 6/19/97 7:00:00.
+High Salinity Outliers were deleted from 6/3/97 16:00:00 through 6/19/97 7:00:00.
+DO mg/L data were also deleted from 6/3/97 16:00:00 through 6/19/97 7:00:00.
+pH data suspect and deleted from 6/10/97 1000 through 6/19/97 0700.
+Suspect salinity/specific conductivity data from 06/24/97 17:00:00 through 06/30/97 04:30:00 deleted.
+No Domg - suspect data deleted from 06/24/97 17:00:00 through 06/30/97 04:30:00.
+
+Station10:
+DO data deleted due to possible bad calibration from 6/1/97 0000 – 6/2/97 10:00.
+No pH data - bad probe from 06/01/97 0:00:00 through 06/02/97 14:30:00.
+High SpCond Outliers were deleted from 6/1/97 0:00:00 through 6/2/97 10:00:00.
+High Salin Outliers were deleted from 6/1/97 0:00:00 through 6/2/97 10:00:00.
+Instrument out of water on 6/2 1030 - 1430.
+Anomalous Low Depth was deleted	from 6/2/97 13:00:00 through 6/2/97 14:30:00.
+No data due to maintenance - problems with sonde from 06/02/97	15:00:00 through 
+06/30/97 23:30:00.
+
+Station11:
+Sonde not deployed from 06/01/97 00:00:00 through 06/30/97 23:30:00.
+
+July, 1997:
+Station06: 
+Sonde not deployed from 07/01/97 00:00:00 through 07/31/97 23:30:00.
+
+Station 09:
+Sonde not deployed from 07/01/97 00:00:00 through 07/31/97 23:30:00.
+
+Station10:
+Sonde not deployed from 07/01/97 00:00:00 through 07/31/97 23:30:00.
+
+Station11:
+Sonde not deployed from 07/01/97 00:00:00 through 07/31/97 23:30:00.
+
+August, 1997:
+Station06:
+Sonde not deployed from 08/01/97 00:00:00 through 08/31/97 23:30:00.
+
+Station 09:
+Sonde not deployed from 08/01/97 00:00:00 through 08/31/97 23:30:00.
+
+Station10:
+Sonde not deployed from 08/01/97 00:00:00 through 08/31/97 23:30:00.
+
+Station11:
+Sonde not deployed from 08/01/97 00:00:00 through 08/31/97 23:30:00.
+
+September, 1997:
+Station06: 
+Sonde not deployed from 09/01/97 00:00:00 through 09/30/97 23:30:00.
+
+Station 09:
+Sonde not deployed from 09/01/97 00:00:00 through 09/30/97 23:30:00.
+
+Station10:
+Sonde not deployed from 09/01/97 00:00:00 through 09/30/97 23:30:00.
+
+Station11:
+Sonde not deployed from 09/01/97 00:00:00 through 09/30/97 23:30:00.
+
+October, 1997:
+Station06: 
+Sonde not deployed from 10/01/97 00:00:00 through 10/31/97 23:30:00.
+
+Station 09:
+Sonde not deployed from 10/01/97 00:00:00 through 10/31/97 23:30:00.
+
+Station10:
+Sonde not deployed from 10/01/97 00:00:00 through 10/31/97 23:30:00.
+
+Station11:
+Sonde not deployed from 10/01/97 00:00:00 through 10/31/97 23:30:00.
+
+November, 1997:
+Station06: 
+Sonde not deployed from 11/01/97 00:00:00 through 11/31/97 23:30:00.
+
+Station 09:
+No data due to maintenance from 11/01/97 00:0:00 through 11/14/97 12:00:00.
+pH data deleted due to bad probe from 11/14 1000 – 11/30 2330.
+Low DO Outliers	 were deleted on 11/14/97 14:30:00.
+DO data deleted from 11/19/97 16:00:00 through 11/30 2330 due to membrane puncture.
+
+Station10:
+No data due to maintenance on:
+11/01/97 00:0:00 through 11/14/97 9:30:00
+11/16/97 6:00:00 through 11/16/97 6:30:00
+11/18/97 2:30:00 through 11/30/97 23:30:00
+
+Station11:
+No data – not deployed from 11/01/97 00:0:00 through 11/14/97 9:30:00.
+
+December, 1997:
+Station06:
+Sonde not deployed from 12/01/97 00:00:00 through 12/31/97 23:30:00.
+
+Station 09:
+DO data deleted from 12/01 0000-12/10 0900 due to membrane puncture.  Values jump
+from 90 to >500 in half an hour and remain >500.  
+pH deleted due to bad probe from 12/01 0000 – 12/10 0900.
+No data due to sonde problems from 12/10/97 09:30:00 through 12/31/97 23:30:00.
+
+Station10:
+Sonde not deployed from 12/01/97 00:00:00 through 12/23/97 15:30:00.
+DO data deleted from 12/23 1600-1830 because membrane had not settled yet. 
+No Salinity data – not set up to record 12/23/97 16:00:00 through 12/31/97 23:30:00.
+DO deleted due to possible tear in membrane from 12/30 0800 – 12/31 1900.
+
+Station11:
+Instrument out of water from 12/10 1230 – 12/12 1300.
+No data due to maintenance from 12/12/97 13:30:00 through 12/31/97 23:30:00.
+
+
+12. Other remarks
+Please Note: These time mismatches were all corrected in the data files.
+
+January, 1997
+Station06:	Time mismatch 01/26/97	08:20:28 through 01/31/97 23:43:00
+
+February, 1997:
+Station06:	Time mismatch 02/01/97 00:13:00 through 02/04/97 8:15:41
+
+May, 1997:
+Station10:	Time mismatch 05/06/97 11:03:15 through 05/31/97 23:33:15
+
+June, 1997:
+Station10:	Time mismatch 06/01/97	0:03:15 through 06/02/97 14:33:15
+
+
+

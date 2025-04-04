@@ -1,0 +1,1015 @@
+Narragansett Bay (NAR) NERR Water Quality Metadata
+January-December 2000 
+Latest update: July 30, 2001
+
+I.	Data Set & Research Descriptors
+1.	Principal investigator & contact persons:
+Address: Narragansett Bay NERR
+55 South Reserve Drive
+Prudence Island, RI 02872
+401-683-6780
+
+
+Contact Persons:
+	Dr. Christopher Deacutis, Research Coordinator
+	E-mail: deacutis@etal.uri.edu;  (401) 222-4700 ext. 7270
+	Dr. Kenneth Raposa, Estuarine Ecologist
+	E-mail: kenny@gso.uri.edu;  (401) 683-6780
+	Patricia Richard, Reserve Technician
+	E-mail: tap5@mindspring.com; (401) 683-6780
+
+2.	Entry verification:
+Data are downloaded from the YSI Model 6000 or YSI Model 6600 sondes to comma-
+delimited files (*.csv) and PC6000 files (*.dat) to a PC located at the reserve 
+laboratory. Graphs are produced from the .dat files using the Eco-Watch 
+application supplied by YSI and examined for obvious sensor failure, using the 
+suggested data analysis protocol provided to the NERRS by YSI. A post-deployment 
+check is run on the sondes to determine if there is significant sensor drift 
+(>10%) due to biofouling. Fouling of sensors is detected by 1) visual inspection 
+of the instrument, 2) post-deployment measurements taken using calibration 
+standards, and 3) by comparing final measurements of a given deployment with 
+initial measurements of the succeeding deployment.
+Sea truthing is established by means of water quality measurements using 
+standard field methods taken on a regular basis at each NBNERR deployment site.  
+Results from these measurements are compared with YSI Model 6000 or YSI Model 
+6600 data records. Temperature is measured by mercury thermometer calibrated 
+with a NBS certified thermometer.  Dissolved oxygen is determined by a modified 
+Winkler titration. Salinity is measured with a Hydrolab Surveyor 3 equipped with 
+a salinity/conductivity sensor.  The pH is determined by a Corning bench-top pH 
+meter. Turbidity is presently measured with a Secchi disk. Allan D. Beck, former 
+NBNERR manager, oversees the monitoring program responsible for these water 
+quality measurements.
+
+The comma-delimited files are imported into Excel 97 and a printed version is 
+produced to aid in the QA/QC process. The file is processed using macros 
+supplied by the CDMO which are designed to: 1) check data files for missing data 
+points, 2) fill all cells that do not contain data with periods (.), 3) convert 
+the data columns to the CDMO-approved formats for time, date and numeric 
+variables, 4) find all data that are out of acceptable range for the sensors and 
+out the anomalous data to an output file (*.dat), and 5) save the files as Excel 
+worksheets (*.xls).  The anomalous data are evaluated to determine whether to 
+flag or delete the suspect data.  Data are flagged if the values are: 1) outside 
+the range expected for the site (see Section 5, Site Location and Character), 2) 
+outside the range of measurements and accuracy established for the sensors (Part 
+II, Section 8: Variable Sequence, Range of Measurements, Units, Resolution, and 
+Accuracy section), or 3) outside the range established for good water quality 
+conditions (i.e., dissolved oxygen <4 mg/L).  Data are deleted if the anomalies 
+are attributed to: 1) a sensor malfunction, or 2) significant fouling of sensors 
+by marine organisms.
+After appropriate corrections or deletions are made to the Excel worksheet 
+(*.xls), the files are exported as tab-delimited files  (*.txt).  Patricia 
+Richard and Ken Raposa are responsible for these tasks.
+
+3.	Research Objectives:
+YSI 6000 dataloggers are being deployed off Prudence Island in Narragansett Bay 
+as part of the National Estuarine Research Reserve's (NERR) Water Quality 
+Monitoring Program. The goal is to develop long-term data sets for 
+representative estuarine systems in order to track changes in water quality over 
+time. Because Prudence Island is located in the geographic center of 
+Narragansett Bay, it is an ideal venue for monitoring hydrographic conditions 
+and overall trends within that body of water. One NERR water quality monitoring 
+station has been established at Potter's Cove, on the island's northeastern 
+shore.  This area is impacted by boat traffic and storm runoff from mainland 
+urban and residential areas. The second NERR water quality monitoring station, 
+T-Wharf, is situated on the southeastern shore of the island, facing the open 
+waters of Rhode Island Sound. It is approximately 6 miles south of the Potter's 
+Cove site. Boat traffic is sparse at this site and storm runoff is less likely 
+to have a significant impact there, so this station serves as our "control" 
+site.  The Narragansett Bay water quality monitoring program began in December, 
+1995 at Potter's Cove and in September, 1996 at T-Wharf. (see Section 5, Site 
+Location and Character section for description of sites).  YSI electronic data 
+loggers were deployed to measure the water temperature, specific conductance, 
+dissolved oxygen, pH, and turbidity conditions, approximately 0.5 meters above 
+the bottom, at 30-minute intervals. Change in water level was also recorded. 
+
+4.	Research Methods
+One data logger is deployed at each permanent monitoring station in Narragansett 
+Bay. The instruments are deployed for two to four weeks at a time, depending on 
+season, and measurements are taken every 30 minutes. The monitoring station at 
+Potter's Cove was constructed in 1995, and it consists of a PVC pipe mounted 
+vertically on a piling located approximately 6 feet west of a floating dock.  To 
+facilitate water flow across the sensors, openings are cut into the PVC pipes.  
+The pipes are also positioned to ensure that the sensors are less than 1 meter 
+from the bottom.  In 1996, the T-Wharf station was put into service: the PVC 
+pipe is mounted on a piling attached to a pier. At the end of the sampling 
+period, the data loggers are retrieved and freshly cleaned and calibrated 
+instruments are deployed. The retrieved data loggers are brought back to the 
+laboratory, post deployment evaluations of the instrument are carried out, and 
+the device is cleaned, calibrated, and serviced by methods outlined in the YSI 
+Operating and Service Manual. After cleaning the data loggers, the pH, salinity, 
+depth, and turbidity sensors are calibrated, using the following standards: pH 7 
+and 10, salinity standard of 30.36 ppt, depth in the air, and turbidity 
+standards of 0 and 100 NTU, respectively.  The dissolved oxygen (DO) membrane is 
+replaced and allowed to stretch for a minimum of 24 hours before the DO sensor 
+is calibrated in water-saturated air. Calibration of the dissolved oxygen sensor 
+is usually done within 2 hours of deployment.
+
+5.	Site Location and Character:
+The NBNERR consists of 2350 acres of diverse estuarine and terrestrial habitats 
+ranging from deep water to salt marshes to forested uplands.  The land holdings 
+include 60% of Prudence Island, most of nearby Patience Island and all of Hope 
+Island off the west shore of Prudence.  The Reserve is located close to the 
+geographic center of Narragansett Bay in Rhode Island. The bay has a drainage 
+basin of 1,800 square miles.
+	Tidal range:  -0.2 to 1.7 meters MLW
+	Salinity:  15 to 32 ppt
+	Temperature:  -1.0 to 26 C
+	Province:  North temperate, Virginian bioregion
+	Lat. 41( 38'30" Long. 71( 20'30"
+
+Specific characteristics of the Potters Cove site are:
+	Depth:  .9 to 3.9 meters
+	Bottom habitat: Sand, silt, some organic mud
+	Pollutants:  Boaters' wastes, storm runoff from mainland urban areas
+	Watershed:  Narragansett Bay, North Prudence (4801 square km) 
+	Location:  41( 38.435 N, 71( 20.467 W
+
+Specific characteristics of the T-Wharf site are:
+	Depth:  1 to 4.5 meters
+	Bottom habitat: Sand, silt, some organic mud
+	Pollutants:  negligible
+	Watershed:  Narragansett Bay, South Prudence
+	Location:  41( 34.731 N, 71( 19.287 W 
+
+6. 	Data collection period: Ongoing since 1995. Deployments for the year 2000 
+are:
+Potter's Cove Site
+BEGAN					ENDED
+12/22/99, 09:30:00		01/11/00, 08:30:00
+02/02/00, 13:30:00		03/01/00, 08:30:00
+03/01/00, 09:00:00		03/29/00, 08:30:00
+03/29/00, 09:00:00		04/12/00, 12:00:00
+05/05/00, 08:30:00		05/31/00, 10:00:00
+05/31/00, 10:30:00		06/21/00, 09:30:00
+06/21/00, 10:00:00		07/07/00, 08:30:00
+07/07/00, 10:00:00		07/20/00, 12:00:00
+07/20/00, 12:30:00		08/08/00, 13:00:00
+08/08/00, 14:00:00		08/23/00, 08:30:00
+08/23/00, 09:00:00		09/07/00, 13:00:00
+09/07/00, 13:30:00		09/18/00, 10:30:00
+09/18/00, 11:00:00		09/29/00, 10:00:00
+09/29/00, 10:30:00		10/13/00, 08:30:00
+10/13/00, 09:30:00		10/30/00, 11:00:00
+10/30/00, 11:30:00		11/13/00, 09:30:00
+11/13/00, 10:00:00		11/21/00, 14:30:00
+11/21/00, 15:00:00		12/05/00, 14:00:00
+12/05/00, 14:30:00		12/21/00, 14:30:00
+12/21/00, 15:00:00		01/11/01, 09:30:00
+
+T-Wharf Site
+BEGAN					ENDED
+12/22/99, 09:00:00		01/11/00, 07:30:00
+01/11/00, 08:30:00		02/02/00, 12:30:00
+02/02/00, 13:00:00		03/01/00, 09:00:00
+03/01/00, 09:30:00		03/29/00, 09:00:00
+03/29/00, 09:30:00		04/12/00, 09:00:00
+05/05/00, 09:00:00		05/31/00, 09:30:00
+05/31/00, 10:00:00		06/21/00, 09:00:00
+06/21/00, 10:00:00		07/07/00, 08:00:00
+07/07/00, 10:00:00		07/20/00, 11:30:00
+07/20/00, 12:00:00		08/08/00, 13:30:00
+08/08/00, 14:00:00		08/23/00, 08:00:00
+08/23/00, 08:30:00		09/04/00, 07:30:00
+09/04/00, 08:30:00		09/18/00, 10:00:00
+09/18/00, 10:30:00		09/29/00, 09:30:00
+09/29/00, 10:30:00		10/13/00, 08:30:00
+10/13/00, 09:00:00		10/30/00, 10:30:00
+10/30/00, 11:00:00		11/13/00, 09:00:00
+11/13/00, 09:30:00		11/21/00, 14:00:00
+11/21/00, 14:30:00		12/05/00, 14:00:00
+12/04/00, 14:30:00		12/21/00, 13:30:00
+12/21/00, 14:00:00		01/11/01, 09:00:00
+
+7. Distribution
+According to the Ocean and Coastal Resource Management Data Dissemination Policy 
+for the NERRS System-wide Monitoring Program, NOAA/ERD retains the right to 
+analyze, synthesize and publish summaries of the NERRS System-wide Monitoring 
+Program data.  The Principal Investigator retains the right to be fully credited 
+for having collected and processed the data.  Following academic courtesy 
+standards, the PI and NERR site where the data were collected will be contacted 
+and fully acknowledged in any subsequent publications in which any part of the 
+data are used.  Manuscripts resulting from the NOAA/OCRM supported research that 
+are produced for publication in open literature, including refereed scientific 
+journals. Will acknowledge that the research was conducted under an award from 
+the Estuarine Reserves Division, Office of Ocean and Coastal Resource 
+Management, National Ocean Service, National Oceanic and Atmospheric 
+Administration.  The data set enclosed within this package/transmission is only 
+as good as the quality assurance and quality control procedures outlined by the 
+enclosed metadata reporting statement.  The user bears all responsibility for 
+its subsequent use/misuse in any further analyses or comparisons.  The Federal 
+government does not assume liability to the Recipient of third persons, nor will 
+the Federal government reimburse or indemnify the Recipient for its liability 
+due to any losses resulting in any way from the use of this data.
+
+NERR water quality data and metadata can be obtained from the Research 
+Coordinator at the individual NERR site (please see section 1. Principal 
+investigators and contact persons), from the Data Manager at the Centralized 
+Data Management Office (please see personnel directory under general information 
+link on CDMO homepage) and online at the CDMO homepage 
+http://inlet.geol.sc.edu/cdmohome.html.  Data are available in text tab-
+delimited format, Microsoft Excel spreadsheet format and comma-delimited format.
+
+8.	Associated researchers and projects:
+Dissolved Oxygen Survey - Under the direction of Dr. Christopher Deacutis, 
+NBNERR Research Coordinator, with volunteers from the R.I. Dept. of 
+Environmental Management, Roger Williams University, the University of Rhode 
+Island, Brown University, the Environmental Protection Agency offices in 
+Narragansett, RI and Lexington, MA, the Massachusetts Coastal Zoning Management 
+Agency, U.S. Fish and Wildlife Service, the Narragansett Bay Commission, Save 
+the Bay, Yellow Springs Instruments, and NBNERR staff. The goal of the survey is 
+to take discrete samples within the water column (surface, bottom, and every 1.5 
+meters of depth) at more than 75 stations in the Narragansett Bay. These surveys 
+are performed overnight during neap tide. The project began in 1999, and takes 
+place at least twice during the summer. The data will be used to map dissolved 
+oxygen levels bay-wide and help to identify sites at risk for hypoxic and anoxic 
+events. Inquiries should be directed to Dr. Deacutis at the RIDEM, Dept. of 
+Water Resources, 235 Promenade St., Providence RI 02908, tel. (401) 222-4700 
+x7270.
+
+II. Physical Structure Descriptors
+9. Variable sequence, range of measurements, units, resolution, and accuracy:
+
+YSI 6000 and 6600 data loggers
+
+Variable      Range of Measurements          Resolution           Accuracy
+Date          1-12, 1-31, 00-99 (Mo,Day,Yr)  1 mo, 1 day, 1 yr    NA
+Time          0-24, 0-60, 0-60 (Hr,Min,Sec)  1 hr, 1 min, 1 s     NA
+Temp               -5 to 45 (c)              0.01  C              +/-0.15C
+Sp COND            0-100(mS/cm)              0.01mS/cm            +/-0.5% Of 
+reading + 0.001mS/Cm
+Salinity      0-70 Parts per thousand (ppt)  0.01 ppt             +/- 1% of 
+Reading or 0.1 ppt, (whichever is greater)
+DO            0-200 (% air saturation)       0.1% @air sat        +/-2% @air 
+Saturation
+DO            200-500 (% air saturation      0.1% @ air sat       +/- 6% @ 
+Saturation
+DO                 0-20 (mg/l)               0.01 mg/l            +/- 0.2mg/l
+DO                 20-50 (mg/l)              0.01 mg/l            +/- 0.6mg/l
+Depth (shallow)    0-9.1 (m)                 0.001m               +/- 0.018m
+PH                 2-14 units                0.01 units           +/- 0.2units
+Turb               0-1000 NTU                0.1 NTU              +/- 5% of 
+Reading or 2 NTU (whichever is greater)
+
+Data columns are separated by tabs.  Each file contains a two line
+column header at the top of the page which identifies measurements and 
+units for each column.
+
+The data loggers have the capability to record turbidity 
+readings greater than 1000 NTU.
+
+10.	Coded variable indicator and variable code definitions:
+	PC= Potter's Cove	TW=T-Wharf
+
+11.	Data anomalies:
+January 1-31, 2000 Sampling period
+Potter's Cove
+01/11/00 09:00:00 - 01/31/00 23:30:00 - No data available. Sonde failed to 
+record measurements
+
+
+T-Wharf
+01/01/00 00:00:00 - 01/11/-00 07:30:00 - pH probe failure. Calibration records 
+indicate trouble prior to deployment, and there is a large discrepancy between 
+deployments. All pH data deleted for this deployment.
+
+01/11/00 08:00:00 Data missing due to sonde changeover.
+
+01/11/00 08:30:00 - 01/31/00 23:30:00 - Time stamp was off by 9 min., 13 sec., 
+corrected to read on the hour and half hour.
+
+Dissolved oxygen supersaturation numbers (>120%)were recorded on the following 
+dates and times:
+01/12/00 - 15:30:00-17:30:00, 18:30:00, 22:00:00
+01/13/00 - 01:00:00
+01/15/00 - 15:00:00, 18:30:00
+01/18/00 - 16:00:00, 18:00:00
+01/26/00 - 17:00:00, 17:30:00
+01/27/00 - 17:00:00
+01/28/00 - 17:30:00, 18:00:00
+01/29/00 - 00:00:00, 14:00:00-16:00:00, 17:00:00-19:30:00, 20:30:00-23:30:00
+01/30/00 - 00:00:00, 10:30:00, 12:00:00-23:30:00
+01/31/00 - 00:30:00-01:30:00, 02:30:00, 03:30:00-04:30:00, 05:30:00-07:30:00, 
+09:30:00, 11:30:00, 13:30:00, 20:00:00-22:00:00
+It is believed that these measurements might be indicative of an algae bloom. 
+However, there is a discrepancy >10% in DO percentage compared to subsequent 
+deployment, but this is likely normal correctable drift.
+
+Very small negative and/or zero turbidity measurements were recorded throughout 
+the month, possibly the result of a small calibration error. Data were retained.
+
+February 1-29, 2000 Sampling period
+Potter's Cove
+02/01/00 00:00:00 - 02/02/00 13:00:00 - No data available. Sonde failed to 
+record measurements
+
+02/02/00 13:30:00 - 02/29/00 23:30:00 - Time stamp was off by 6 minutes, 17 
+seconds, corrected to read on the hour and half hour.
+
+Dissolved oxygen supersaturation numbers (>120%)were recorded throughout the 
+month; a total of 352 data points. Because these measurements are consistent 
+with sea truthing data taken during this period, the data were left in the 
+dataset. It is believed that these measurements might be indicative of an algae 
+bloom.
+
+Very small negative and/or zero turbidity measurements were recorded throughout 
+the month, possibly the result of a small calibration error. Data were retained. 
+
+T-Wharf
+Dissolved oxygen supersaturation numbers (>120%)were recorded on the following 
+dates and times:
+02/01/00 - 00:00:00-01:00:00, 09:30:00-23:30:00
+02/02/00 - 00:00:00-04:00:00, 09:30:00-12:00:00
+These numbers might be the result of correctable drift, however all other 
+indicators suggest that DO levels were in fact high at this time, even though 
+the percentage might be somewhat inflated.
+Supersaturation measurements were also recorded on these dates and times:
+02/10/00 - 16:30:00, 17:00:00
+02/11/00 - 17:30:00
+02/12/00 - 16:00:00-19:00:00, 22:30:00, 23:00:00
+02/13/00 - 00:30:00, 08:30:00-10:00:00, 11:30:00-13:00:00, 14:30:00, 15:00:00, 
+16:00:00, 17:00:00-20:30:00, 22:00:00-23:30:00
+02/14/00 - 00:00:00, 00:30:00, 03:00:00
+02/16/00 - 11:30:00, 12:00:00, 13:00:00-15:30:00
+02/17/00 - 22:00:00-23:00:00
+02/18/00 - 00:30:00, 01:00:00, 10:30:00-11:30:00, 13:30:00, 16:30:00
+02/21/00 - 16:30:00, 19:30:00
+02/22/00 - 13:00:00, 14:00:00-19:30:00
+02/23/00 - 16:00:00-20:30:00
+02/24/00 - 12:00:00, 16:00:00-17:30:00, 18:30:00, 19:00:00, 20:30:00, 21:00:00
+02/27/00 - 13:00:00, 17:00:00-19:00:00
+For the sampling period, supersaturation measurements were recorded at the T-
+wharf site. Since these readings are consistent with supersaturation 
+measurements recorded at the Potter's Cove site, we are confident that these 
+numbers suggest an actual supersaturation event, possibly indicative of an algae 
+bloom.
+
+Very small negative and/or zero turbidity measurements were recorded throughout 
+the month, possibly the result of a small calibration error. Data were retained.
+
+March 1-31, 2000 Sampling period
+Potter's Cove
+03/01/00 00:00:00 - 03/01/00 08:30:00 - Time stamp was off by 6 minutes, 17 
+seconds, corrected to read on the hour and half hour.
+
+Final DO measurement for the deployment ending 03/01/00 at 08:30:00 is 
+significantly higher than the DO measurement for subsequent deployment beginning 
+03/01/00 at 9:00:00. Calibration records indicate that the DO sensor for the 
+deployment beginning 03/01/00 at 09:00:00 might have been compromised. The 
+instrument measured <90% saturation while in run mode in ventilated calibration 
+cup. In addition, sea truthing measurements taken on 03/13/00 at 9:10:00 show 
+unattended instrument readings are significantly lower than discrete measurement 
+using titration method. Furthermore, the final measurement taken during this 
+deployment on 03/29/00 at 08:30:00 is in excess of 10% lower than the first DO 
+measurement of the subsequent deployment taken on 03/29/00 at 9:00:00. 
+Therefore, we believe that the DO measurements for the deployment 03/01/00 
+9:00:00 through 03/29/00 08:30:00 are misleading and we have removed these data 
+from the dataset.
+
+03/09/00 02:30:00 - Large negative turbidity measurement (-0629) was logged. 
+Data were deleted. 
+
+Very small negative and/or zero turbidity measurements were recorded throughout 
+the month, possibly the result of a small calibration error. Data were retained.
+
+High turbidity measurements (>100) were recorded for the following dates and 
+times:
+03/09/00 03:00:00, 04:00:00, 04:30:00, 05:30:00. Unexplained.
+03/29/00 14:00:00 - 04/12/00 12:00:00 Negative and/or zero turbidity values were 
+deleted. 
+
+T-Wharf
+Very small negative and/or zero turbidity measurements, possibly the result of a 
+small calibration error, were recorded on the following dates and times:
+03/01/00 - 00:30:00-01:30:00, 03:30:00, 08:00:00, 08:30:00
+
+DO measurements in excess of 120% were recorded on the following dates and 
+times:
+03/01/00 - 11:30:00-17:00:00, 18:00:00-23:00:00
+03/02/00 - 00:00:00-01:00:00, 04:00:00, 07:00:00, 10:30:00. 11:00:00
+03/04/00 - 15:00:00, 15:30:00, 17:00:00-19:00:00, 21:00:00
+03/05/00 - 00:00:00-02:30:00, 11:00:00, 11:30:00, 12:30:00-14:00:00, 23:00:00, 
+23:30:00
+03/06/00 - 01:30:00-03:00:00, 11:00:00-15:30:00, 23:30:00
+03/07/00 - 00:00:00, 00:30:00, 11:30:00-21:30:00, 22:30:00
+03/08/00 - 00:00:00, 02:30:00-6:00:00, 07:00:00, 10:00:00-11:00:00, 12:00:00-
+16:30:00, 17:00:00, 18:00:00-19:30:00, 20:30:00-22:30:00
+03/09/00 - 02:30:00-08:00:00, 09:00:00-17:30:00, 18:30:00-19:30:00
+03/10/00 - 14:30:00, 15:00:00, 17:00:00
+03/14/00 - 09:30:00-15:00:00, 16:00:00, 16:30:00, 17:30:00-21:00:00, 22:00:00, 
+22:30:00
+03/15/00 - 01:00:00, 05:00:00, 06:30:00, 10:00:00-11:00:00, 12:00:00-15:00:00, 
+16:30:00, 19:00:00-20:30:00
+03/23/00 - 13:30:00-14:30:00
+03/24/00 - 17:00:00, 22:30:00
+03/25/00 - 05:30:00, 15:30:00
+03/27/00 - 15:00:00-16:00:00, 18:00:00
+For the sampling period, a total of 212 supersaturation measurements were 
+recorded at the T-wharf site. Since these readings are consistent with sea 
+truthing data collected during the period, we are confident that these numbers 
+suggest an actual supersaturation event, possibly indicative of an algae bloom.
+
+03/29/00 19:00 - 04/12/00 10:00:00 Turbidity probe malfunction. Data were 
+deleted. 
+
+April 1-30, 2000 Sampling period 
+Potter's Cove:
+03/29/00 14:00:00 - 04/12/00 12:00:00 Negative and/or zero turbidity values were 
+deleted. 
+
+04/01/00 00:00:00 - DO measurement is anomalous and should be viewed as suspect. 
+Unexplained drop in saturation of more than 30%, returns to normal reading 
+within the half hour. Unexplained, but the DO probe for this deployment failed 
+before retrieval. 
+
+04/12/00 02:30:00 - 04/12/00 12:00:00 - DO measurement in negative numbers. 
+Probe 
+failure. Deleted data from the file.
+
+Very small negative and/or zero turbidity measurements were recorded throughout 
+the period 04/01/00 through 04/12/00, possibly the result of a small calibration 
+error. Data were retained. 
+04/01/00 14:00:00 and 04/11/00 11:30:00: - DO% saturation in excess of 120%. 
+These numbers are not wholly inconsistent with the surrounding measurements, so 
+were left in dataset.
+
+04/12/00 12:30:00 - 05/05/00 08:30:00 - No record of deployment for this period.
+
+T-Wharf:03/29/00 19:00 - 04/12/00 10:00:00 Turbidity probe malfunction. Data 
+were deleted.
+
+04/12/00 10:30:00 - 05/05/00 08:30:00 - No record of deployment for this period.
+
+May 1-31, 2000 Sampling period
+Potter's Cove
+05/05/00 08:30:00 - 05/31/00 10:30:00
+Time stamp is off by 4 minutes, 58 seconds. Corrected to read on the hour and 
+half-hour. 
+
+Sea truthing DO data taken 05/08/00 08:00:00 is not consistent with measurements 
+taken by unattended sonde. There is a variance of more than 10%, however, 
+records indicate that measurements were taken at different depths, which could 
+account for the variance, so data were left in the dataset. Furthermore, 
+subsequent sea truthing data suggests that variance over the course of this 
+deployment is not an issue of grave concern, with only a .02 difference in 
+measurements for DO mg/L on 05/29/00 at 09:00:00.
+
+DO mg/L measurements for the following dates were below 4 mg/L:
+05/26/00 03:30:00;
+05/28/00 19:30:00-22:30:00; 05/30/00 00:00:00, 02:30:00, 03:00:00, 04:00:00, 
+05:30:00, 07:00:00, 14:00:00, 14:30:00, 15:30:00, 16:00:00, 17:00:00, 19:30:00, 
+20:00:00;
+05/31/00 00:30:00, 01:30:00-02:30:00, 03:30:00, 04:30:00, 05:00:00, 06:00:00, 
+07:00:00, 08:00:00-10:00:00
+There is a possibility that biofouling is a factor in these measurements, though 
+sea truthing data for 05/29/00 lends some weight to the validity of unattended 
+sonde measurements. However, final DO measurement for this deployment is 
+significantly different from initial DO measurement for subsequent deployment, 
+and we believe that at least some downward drift was a factor in the low 
+measurements taken during the final days of the deployment. This data might be 
+corrected for drift or deleted upon further consideration.
+
+05/31/00 10:30:00 - 12:00:00 - DO measurements were unexpectedly high. The unit 
+was left sitting in full sun in a parked vehicle for an extended period of time 
+while deployment routine was demonstrated to new SWMP technicians at another 
+station, which might account for the anomaly. These data have been deleted.
+
+Small negative and/or zero turbidity measurements were recorded throughout the 
+month, possibly the result of a small calibration error. Data were retained.
+
+T-Wharf: 
+04/12/00 10:30:00 - 05/05/00 08:30:00 - No record of deployment for this period.
+Sea truthing DO data taken 05/08/00 08:00:00 is not consistent with measurements 
+taken by unattended sonde. There is a variance of more than 10%, however, 
+records indicate that measurements were taken at different depths, which could 
+account for the variance, so data were left in the dataset.
+
+DO measurements in excess of 120% were recorded on the following dates and 
+times:
+05/15/00 - 21:30:00, 22:00:00
+05/16/00 - 13:00:00, 16:00:00-17:00:00
+There is a possibility that biofouling was a contributing factor in these 
+measurements. The data are under review and might be deleted or corrected.
+
+05/27/00 16:00:00 - 05/31/00 23:30:00 -  DO sonde was subject to some serious 
+biofouling issues and DO data for theses dates and times were deleted. 
+
+Small negative and/or zero turbidity measurements were recorded 05/31 10:00 - 
+10:30 and 21:30, possibly the result of a small calibration error. Data were 
+retained. 
+
+05/29/00 17:30:00 - turbidity spike to 493.3. This is almost certainly the 
+result of biofouling.
+
+June 1-30, 2000 Sampling period
+Potter's Cove
+Sea truthing data taken 06/05/00 at 08:00:00 and 06/19/00 at 09:00:00 shows 
+disparity between DO measurements gathered by unattended sonde. Sonde 
+measurements are lower by more than 10%. However, sonde measurements appear to 
+track well with other parameters (salinity and pH). We believe the disparity is 
+a function of normal correctable drift. 
+
+Several precipitation events might have affected salinity and DO in the month of 
+June. On 06/06/00, 2.57" of rain was recorded by the NWS station in Providence, 
+RI; subsequent runoff might influence parameters as for several days following 
+such an event. On 06/11/00, .9" rain was recorded by the NWS, with immediate 
+effects on salinity measurements. Other precipitation events of note are 
+06/17/00 .26" and 06/27/00 .2".
+
+The June sampling period yielded an unusually high number of low DO mg/L (<4 
+mg/L) measurements, a total of 253 readings on the following dates and times:
+06/05/00 03:30:00
+06/08/00 20:30:00, 21:00:00
+06/12/00 18:00:00, 19:30:00-20:30:00, 23:00:00, 23:30:00
+06/13/00 02:30:00, 05:00:00, 06:30:00, 08:00:00, 08:30:00, 13:00:00, 17:00:00, 
+17:30:00, 19:30:00, 20:30:00
+06/14/00 01:00:00-02:00:00, 04:00:00, 05:00:00, 08:00:00-10:00:00, 15:30:00-
+19:00:00, 21:00:00-23:30:00
+06/15/00 00:00:00- 02:30:00, 07:30:00, 16:00:00, 17:00:00, 18:00:00-19:30:00, 
+21:00:00-23:30:00
+06/16/00 00:00:00- 02:30:00, 19:00:00-23:30:00
+06/17/00 00:00:00-04:00:00, 07:00:00, 09:30:00, 10:30:00, 20:30:00, 23:00:00, 
+23:30:00
+06/18/00 00:00:00, 02:30:00, 14:30:00-21:30:00
+06/19/00 01:30:00, 02:30:00, 03:00:00, 07:30:00, 08:00:00, 20:30:00-23:30:00
+06/20/00 00:00:00-03:30:00, 04:40:00-12:30:00, 21:00:00-22:00:00
+06/21/00 00:30:00-01:30:00, 04:30:00, 05:30:00, 06:00:00, 07:00:00, 08:00:00 
+13:00:00-14:30:00, 15:30:00-17:00:00, 20:00:00
+06/22/00 03:30:00, 04:00:00, 05:00:00, 05:30:00, 06:30:00, 07:00:00, 22:00:00, 
+23:00:00, 23:30:00
+6/23/00 02:00:00-03:30:00, 05:00:00-07:00:00, 08:30:00
+06/24/00 08:00:00, 08:30:00, 15:30:00, 16:00:00, 20:00:00, 20:30:00, 22:00:00, 
+23:00:00, 23:30:00
+06/25/00 00:00:00-11:30:00, 13:00:00, 14:00:00-21:00:00, 22:00:00- 23:30:00
+06/26/00 03:30:00, 06:30:00-07:30:00, 08:30:00, 09:00:00, 12:00:00, 22:00:00
+
+A total of 39 instances of DO supersaturation measurements (>120%) were recorded 
+during the June sampling period, dates and times as follows:
+06/04/00 15:30:00-16:30:00
+06/05/00 12:30:00, 15:00:00, 16:00:00, 16:30:00, 17:30:00-18:30:00
+06/10/00 12:30:00, 13:00:00, 13:30:00
+06/11/00 07:30:00, 16:00:00-22:00:00
+06/12/00 01:30:00, 02:30:00, 03:00:00
+06/18/00 13:30:00
+06/23/00 14:30:00, 15:00:00, 16:00:00, 17:00:00, 19:00:00, 19:30:00
+06/24/00 04:30:00
+
+06/21/00 09:30:00 - 06/21/00 10:00:00 - Final DO measurement for the deployment 
+is significantly different from initial DO measurement for subsequent 
+deployment. However, DO measurements track well with other parameters through 
+06/28/00, at 18:30:00, when DO begins to drift upward. This corresponds with a 
+severe drop in salinity at this same time. Prior to this, turbidity measurements 
+indicate some type of biofouling has taken place, possibly an animal caught in 
+the sonde guard. We suspect that the salinity and DO measurements taken after 
+06/28/00 at 18:30:00 are severely compromised, even though continuity with 
+subsequent deployment is within acceptable parameters. The data have been 
+deleted. Furthermore, we are not wholly confident in the numbers after 06/26/00 
+at 22:30:00, when the first turbidity spike was recorded. The DO data have been 
+deleted 06/26/00 22:30:00 - 06/30/00 23:30:00.
+
+Small negative and/or zero turbidity measurements were recorded throughout the 
+month, possibly the result of a small calibration error. There are 453 such 
+negative turbidity measurements in this dataset for the month of June.
+
+06/26/00 22:30:00 - 06/30/00 23:30:00 - Turbidity spikes well in excess of 1000 
+NTU through end of 
+sampling period. Biofouling is suspected and turbidity data have been deleted.
+
+06/28/00 18:30:00 - 06/30/00 23:30:00 - Sudden, unexplained drop in salinity, 
+plummeting to 22.1 from 29 in the space of one half-hour, then rebounding to 
+28.42. Biofouling is suspected; data point deleted and associated specific 
+conductivity measurement has been deleted.
+
+T-Wharf:
+06/21/00 - 09:30:00 - Data missing between deployments.
+
+Unusually high DO measurements were recorded throughout the June sampling 
+period. While they look suspicious, sea truthing measurements taken on 06/05/00 
+and 06/19/00 agree with these numbers. A total of 460 supersaturation 
+measurements were recorded at this site during the June sampling period.
+
+Hypoxic measurements (<4 mg/L) were recorded in 21 instances during the sampling 
+period on the following dates and times:
+06/13/00 - 00:30:00, 02:00:00, 05:00:00, 22:00:00
+06/14/00 - 23:00:00
+06/15/00 - 06:30:00
+06/16/00 - 22:30:00
+06/17/00 - 23:30:00
+06/19/00 - 12:00:00, 22:00:00
+06/20/00 - 01:30:00
+06/23/00 - 00:00:00, 12:00:00
+06:24:00 - 03:30:00
+06/26/00 - 07:30:00, 08:00:00, 20:30:00, 22:00:00, 22:30:00
+06/27/00 - 07:30:00, 09:00:00
+
+Several anomalous DO measurements were recorded throughout the month of June. At 
+this time it is unknown what caused these anomalies, and these data are suspect. 
+Measurements that are inconsistent with those preceding them and/or following 
+them are noted on these dates and times:
+06/22/00 - 06:00:00, 16:00:00
+06/23/00 - 00:00:00, 12:00:00
+06/23/00 - 20:30:00, 21:00:00 Note that salinity measurements are also anomalous 
+for these times.
+06/24/00 - 03:30:00, 04:30:00, 13:00:00
+06/25/00 - 13:30:00, 21:00:00
+06/26/00 - 07:30:00, 08:00:00, 18:00:00, 20:30:00
+06/27/00 - 07:30:00, 09:00:00, 15:30:00
+In all of these cases we suspect transient organic matter has compromised the 
+measurements and consider them to be unreliable at best. 
+
+06/23/00 00:00:00 - 00:30:00, 06/29/00 03:30:00 - 06/30/00 23:30:00 Turbidity 
+outliers (>1000 NTU) have been deleted for theses dates and times. Turbidity 
+probe malfunction.
+
+06/27/00 12:30:00 06/30/00 23:30:00 Salinity, Specific Conductivity and DO data 
+have been deleted. Severe biofouling rendered the measurements completely 
+unreliable.
+
+Small negative and/or zero turbidity measurements were recorded throughout the 
+month, possibly the result of a small calibration error. Data were retained.
+
+July 1-31, 2000 Sampling period
+Potter's Cove
+07/01/00 00:00:00 - Turbidity spikes well in excess of 1000 NTU through end of 
+deployment period, 07/07/00 08:30:00. Biofouling is suspected and turbidity data 
+have been deleted. 
+DO supersaturation measurements were recorded for the following dates and times 
+due to a possible probe malfunction. Data were deleted. 
+07/01/00 00:00 - 07/07/00 08:30:00 
+
+07/07/00 09:00 - 07/07/00 09:30:00 Data is missing. Operator error, unit was 
+programmed to start later than actual deployment.
+
+The July sampling period yielded a number of low DO mg/L (<4 mg/L) measurements 
+for the following dates and times. Data were retained.
+07/09/00 21:30:00-22:30:00
+07/10/00 00:00:00-01:30:00, 02:30:00, 07:00:00, 10:00:00, 10:30:00
+07/11/00 21:30:00
+07/12/00 22:30:00
+07/13/00 01:30:00, 02:30:00-04:00:00, 06:00:00-07:00:00, 08:00:00, 08:30:00, 
+10:00:00
+07/21/00 03:30:00, 05:00:00, 07:00:00, 10:00:00, 11:00:00-12:00:00 20:00:00, 
+21:30:00, 23:30:00
+07/22/00 00:00:00, 01:00:00 02:00:00, 03:00:00-08:00:00
+
+For the period 07/21/00-07/22/00, prior precipitation events and the attendant 
+storm runoff might have influenced measurements. NWS recorded rainfall of .85" 
+on 07/15/00 and .41" on 07/18/00.
+
+DO supersaturation measurements (>120%) were recorded throughout the July 
+sampling period, data were retained.
+07/08/00 16:30:00
+07/20/00 16:30:00-17:00:00
+
+07/13/00 17:00:00 - 07/20/00 12:00:00 DO membrane puncture, DO data have been 
+deleted.
+
+07/20/00 12:30:00 Anomalous depth which is very low, turbidity is high and pH is 
+low possibly due to new deployment that occurred at 12:30:00.  
+
+07/22/00 16:30:00 - 07/31/00 23:30:00 - DO drops, then rises to suspiciously 
+high numbers within a few hours. Suspected membrane damage, DO data deleted 
+through end of deployment period.
+
+Small negative and/or zero turbidity measurements were recorded throughout the 
+month, possibly the result of a calibration error. Data were retained.
+
+T-Wharf:
+07/01/00 00:00:00 -07/07/00 08:00:00 Turbidity outliers (>1000 NTU) have been 
+deleted for theses dates and times. Turbidity probe malfunction.
+
+Salinity and DO data missing from 07/01/00 00:00:00 to 07/07/00 08:00:00, due to 
+severe biofouling.
+
+All data missing 07/07/00 08:30:00 - 07/07/00 09:30:00 because of new 
+deployment.
+
+On 07/05/00, a small oil spill took place in Narragansett Bay, almost due east 
+of the T-Wharf site. After this date, several island locals reported seeing oil 
+on the beach, though the spill was thought to be contained. Furthermore, there 
+is a possibility that the oil might have leached through the soil from an 
+underground fuel tank located near the T-Wharf site. This tank is part of a 
+remediation project being carried out on the reserve. Complicating matters even 
+further is the fact that the summer months pose a severe biofouling problem at 
+this site, as evidenced by abnormally low salinity numbers. Data were deleted 
+for these days and times:07/08/00 05:00:00 - 07/20/00 11:30:00
+
+Salinity measurements might also have been affected by several heavier than 
+normal rainfall events which took place in July. The NWS recorded .45" on 
+07/26/00, .81" on 07/27/00, .32" on 07/30/00 and .61" on 07/31/00. All data were 
+retained.
+
+Small negative and/or zero turbidity measurements were recorded throughout the 
+month, possibly the result of a calibration error. Data were retained.
+
+Turbidity spikes >1000 NTU were recorded at these dates and times:
+07/07/00 - 11:00:00
+07/19/00 - 02:00:00, 17:00:00
+These are likely the result of animal swimming near the probe.
+Turbidity data were deleted for end of deployment 07/29/00 10:30:00 - 08/08/00 
+12:30:00 due to probe failure. 
+
+August 1-31 Sampling period:
+Potter's Cove08/01/00 00:00:00 - 08/23/00 08:30:00 - DO drops, then rises to 
+suspiciously high numbers within a few hours. Suspected membrane damage, DO data 
+deleted through end of deployment period.
+
+08/02/00 11:00:00 Salinity drops by almost 5 ppt, then bounces back within a 
+half hour. Something must have been restricting water flow through the probe, 
+data deleted.
+
+08/08/00 14:00:00 - 08/08/00 19:30:00
+Very high DO% measurement on deployment. This was an extremely warm day (the 
+sonde logged a temperature of 28.7 degrees C just prior to deployment) and there 
+is a possibility that the sonde was affected by this while being transported to 
+the site. These data should be considered suspect. 
+
+08/08/00 14:00:00 - 08/23/00 08:30:00 pH probe failure. All pH data for this 
+deployment have been deleted.
+
+08/14/00 18:00:00 - 08/23/00 8:30:00 
+Sudden spike in DO measurement indicates possible membrane damage. Data have 
+been deleted until the end of deployment.
+
+08/22/00 18:30:00 Negative turbidity of -658. Data was deleted. 
+
+08/26/00 15:00:00 - 08/30/00 23:30:00 - Apparent DO membrane puncture. Data 
+deleted through the end of deployment period.
+
+08/27/00 03:30:00; 07:30:00 - Turbidity spikes >100 NTU. Unexplained.
+
+During the sampling period, instruments recorded supersaturation (>120%) 
+readings on the following dates and times:
+08/08/00 14:00:00 - 08/12/00 00:00:00
+
+During the sampling period, instruments recorded 33 hypoxic measurements (<4 
+mg/L) on the following dates and times:
+08/08/00 21:00:00
+08/23/00 23:00:00
+08/24/00 00:30:00-02:00:00, 03:00:00-04:00:00, 05:00:00-07:00:00, 08:30:00, 
+09:00:00
+08/25/00 01:30:00, 03:00:00, 03:30:00, 06:30:00, 07:30:00, 23:00:00, 23:30:00
+08/26/00 00:00:00, 01:30:00-02:30:00, 03:30:00, 04:00:00, 05:00:00
+
+Small negative and/or zero turbidity measurements were recorded throughout the 
+month, possibly the result of a calibration error. Data were retained. 
+
+T-Wharf:Turbidity data were deleted for end of deployment 07/29/00 10:30:00 - 
+08/08/00 12:30:00 due to probe failure. 
+
+08/08/00 13:00:00 - No data, sonde changeover.
+
+08/11/00 17:30:00 - 08/23/00 08:00:00 - Salinity suddenly dropped by 3 ppt 
+within a half hour and never recovered. Biofouling is suspected, and salinity 
+and associated DO data were deleted.
+
+During the sampling period, instruments recorded 30 supersaturation (>120%) 
+readings on the following dates and times:
+08/05/00 18:30:00
+08/06/00 12:30:00, 22:30:00-23:30:00
+08/07/00 00:00:00, 00:30:00
+08/08/00 14:00:00, 14:30:00
+08/09/00 02:30:00, 13:30:00-15:30:00
+08/10/00 15:30:00, 16:00:00, 19:30:00, 20:00:00, 22:30:00, 23:00:00
+08/11/00 16:00:00-17:00:00
+08/23/00 11:00:00-13:00:00
+
+During the sampling period, instruments recorded 14 hypoxic measurements (<4 
+mg/L) on the following dates and times:
+08/01/00 04:00:00, 14:00:00, 14:30:00
+08/04/00 06:00:00, 07:00:00
+08/05/00 20:00:00, 22:00:00
+08/06/00 00:30:00, 03:30:00
+08/09/00 00:30:00
+08/10/00 14:00:00, 20:30:00
+08/27/00 01:00:00
+08/30/00 01:30:00
+
+Small negative and/or turbidity measurements were recorded throughout the month, 
+possibly the result of a calibration error. Data were retained. 
+
+Turbidity spikes of >1000 were recorded on the following dates and times:
+08/15/00 - 1:30:00
+08/18/00 - 02:30:00, 03:00:00, 04:00:00
+08/19/00 - 18:30:00
+08/20/00 - 12:00:00, 12:30:00
+08/21/00 - 12:30:00
+08/22/00 - 01:30:00, 14:30:00
+
+September 1-30, 2000 Sampling period
+Potter's Cove
+No DO data until 09/07/00 13:30:00. Membrane puncture from previous sampling 
+period carried over to this sampling period
+
+09/09/00 15:00:00 - DO membrane puncture. Data deleted through 09/18/00 10:00:00
+
+09/19/00 13:00:00 DO membrane puncture. Data deleted through end of sampling 
+period 09/29/00 10:00:00.
+
+09/19/00 9:30:00 - 09/29/00 10:30:00 - Huge turbidity spike and large 
+measurements through end of deployment indicates animal caught in probe guard. 
+Data were deleted. 
+
+09/29/00 10:30:00 - 10/13/00 09:00:00 - No data available due to operator error; 
+sonde not put into logging mode.
+
+During the sampling period, instruments recorded 6 supersaturation (>120%) 
+readings on the following dates and times:
+09/07/00 15:30:00-17:30:00
+09/19/00 12:30:00
+
+During the sampling period, instruments recorded 28 hypoxic measurements (<4 
+mg/L) on the following dates and times:
+09/07/00 23:30:00
+09/08/00 00:30:00-06:00:00, 23:30:00
+09/09/00 00:00:00-05:30:00, 08:00:00, 08:30:00
+
+Small negative and/or turbidity measurements were recorded throughout the month, 
+possibly the result of a calibration error. Data were retained.
+
+T-Wharf:
+09/04/00 08:00:00 - All data missing due to sonde changeover.
+
+09/04/00 16:30:00 - 09/18/00 09:30:00 DO membrane damaged, all DO data deleted.
+09/04/00 08:30:00 - 09/18/00 09:30:00 Negative and/or zero turbidity values were 
+deleted. 
+
+Anomalous salinity measurements and associated DO data deleted for the following 
+dates and times:
+09/20/00 - 17:00:00
+09/24/00 - 10:00:00-11:00:00, 13:30:00
+09/28/00 - 21:00:00
+
+09/23/00 03:00:00 - 09/29/00 09:30:00 DO membrane damaged, all DO data deleted.
+Turbidity outliers (>1000 NTU) were recorded 09/26/00 03:00:00, 09/27/00 
+10:30:00, and 09/28/00 02:30:00. Data were retained. 
+
+Small negative and/or zero turbidity measurements were recorded throughout the 
+month, possibly the result of a calibration error. Data were retained.
+
+October 1-31, 2000 Sampling period
+Potter's Cove:
+10/01/00 00:00:00-10/13/00 9:00:00 No data available through the end of the 
+sampling period due to operator error. Sonde not put into logging mode
+
+10/17/00 10:30:00 Turbidity spike >1000 NTU. Unexplained.
+
+10/21/00 17:30:00 Sudden anomalous drop in DO measurement, returns to normal at 
+next reading. Anomalous data point has been deleted.
+
+10/30/00 11:30:00 - 10/30/00 15:30:00 Final DO measurement for this deployment 
+significantly different from initial DO measurement for subsequent deployment. 
+We believe that the sonde being deployed on this date suffered temperature 
+shock, and the supersaturation numbers between 10/30/00 11:30:00  and 15:30:00 
+are misleading. They have been deleted from the dataset.
+
+Small negative turbidity measurements were recorded throughout the month, 
+possibly the result of a calibration error. There are 788 such negative 
+turbidity measurements in this dataset for the month of October.
+
+T-Wharf:
+Hypoxic (<4 mg/L) measurements were taken on the following dates and times:
+10/01/00 - 19:00:00
+10/02/00 - 11:00:00, 18:30:00, 19:00:00
+10/03/00 - 06:30:00, 07:30:00, 18:30:00
+10/05/00 - 01:30:00, 04:30:00, 05:30:00
+10/06/00 - 18:30:00, 19:00:00
+10/13/00 - 01:00:00
+10/20/00 - 05:00:00-06:00:00
+
+Supersaturation measurements were taken on the following date and times:
+10/04/00 - 17:00:00-18:00:00, 20:00:00
+
+Small negative and/or zero turbidity measurements were recorded throughout the 
+month, possibly the result of a calibration error. Data were retained.
+
+10/12/00 00:30:00, 04:00:00 - Turbidity spikes >1000 recorded.
+10/30/00 11:00:00 - 11/13/00 07:30:00 Negative and/or zero turbidity values were 
+deleted. 
+
+November 1-31, 2000 Sampling period:
+Potter's Cove:
+11/04/00 13:30:00 DO supersaturation in excess of 120%. Data were retained.
+
+11/04/00 14:30:00 - 11/13/00 09:30:00 DO membrane puncture, data deleted
+11/21/00 15:00:00 - 11/27/00 20:00:00 Negative and/or zero turbidity values were 
+deleted. 
+
+11/23/00 07:30:00 - 11:31:00 23:30:00 Sonde batteries dropped below 10V at this 
+point and DO readings appear to be compromised. Deleted all DO data through the 
+end of the sampling period.
+
+Small negative and/or zero turbidity measurements were recorded throughout the 
+month, possibly true data. Data were retained. 
+
+11/27/00 20:00:00 - 11/31/00 23:30:00
+No data. Sonde failure due to insufficient battery power:
+
+T-Wharf:
+10/30/00 11:00:00 - 11/13/00 07:30:00 Negative and/or zero turbidity values were 
+deleted. 
+
+11/13/00 - 08:00:00-09:00:00 Data missing due to sonde changeover.
+
+11/14/00 - 00:00:00 - 11/21/00 14:00:00 DO membrane damaged, data deleted.
+
+11/13/00 09:30:00 - 11/21/00 14:00:00 No turbidity data because sonde was not 
+outfitted with turbidity probe.
+
+Small negative and/or zero turbidity measurements were recorded throughout the 
+month, possibly the result of a calibration error. Data were retained.
+11/21/00 14:30:00 through the end of the month negative and/or zero turbidity 
+values were deleted. 
+
+
+December 1-31, 2000 Sampling period
+Potter's Cove:
+12/01/00 00:00:00 - 12/05/00 14:30:00 - No data. Sonde failure due to 
+insufficient battery power
+
+12/21/00 14:30:00 - 12/21/00 15:00 Final DO measurement for this deployment is 
+significantly different from initial DO measurement for subsequent deployment. 
+We believe the instrument being deployed suffered from temperature shock and 
+supersaturation numbers are misleading. They have been deleted from the dataset.
+
+Small negative and/or zero turbidity measurements were recorded throughout the 
+month, possibly true data. Data were retained.
+
+12/21/00 14:30:00 through the end of the month Negative and/or zero turbidity 
+values were recorded. Data were deleted.   
+
+T-Wharf:
+12/05/00 14:30:00 - 12/21/00 13:30:00 No turbidity data because sonde was not 
+outfitted with probe.
+
+Small negative turbidity measurements were recorded throughout the month, 
+possibly the result of a calibration error. Data were retained.
+
+12. Missing data:
+Missing data are denoted by a period in the data set.  Data are missing due to 
+equipment failure where no probes deployed, maintenance/calibration of 
+equipment, elimination of obvious outliers, or elimination of data due to 
+calibration (both pre and post) problems.  For more details on deleted data, see 
+the Anomalous Data Section (11.).  To find out more details about missing data, 
+contact the Research Coordinator at the site submitting the data.
+
+13. Post deployment information
+
+End of Deployment Post-calibration Readings in Standard Solutions:
+No post-calibration data is available before the deployment ending 07/07/00
+Potter's Cove Site:
+Sonde ID	Date	   Salinity (ppt)	DO (Air Sat.)	pH	Turbidity	Depth
+		       (Std: 30.36.6)	(Std: 100%)	  (Std: 7)	NTU		0
+98H0211AA	07/07/00	N/A		81.8			N/A	N/A		N/A
+98H0211AA	08/08/00	30.51		103.4			7.07	1.2		N/A
+94M26666	08/23/00	30.67		101.2			4.17*	0.7		N/A
+98H0211AA	09/07/00	30.17		99.2			7.27	-0.5		N/A
+94M26666	09/18/00	30.37		100			7.34	-0.2		N/A
+98H0211AA	09/29/00	30.09		108.4			7.17	506.3		N/A
+98H0211AA	10/30/00	30.69		98.6			7.53	-0.9		N/A
+94M26666	11/13/00	30.06		99.6			7.05	2.9		-0.071
+98H0211AA	11/21/00	31.7**	N/A			6.92	0.5		-0.045
+94M26666	12/05/00***	30.03		107			7.04	-1.4		-0.062
+98H0211AA	12/21/00	30.22		107			7.03	0		-0.011
+94M26666	01/11/01	29.96		101.1			7.07	-0.7		-0.132
+*pH probe failure
+**For this deployment, a specific conductivity calibration standard was used, 
+yielding unexpectedly high results.
+***Batteries failed during the course of this deployment
+
+T-Wharf Site
+Sonde ID	Date	   Salinity (ppt)	 DO (Air Sat.)	pH	Turbidity	Depth
+		        (Std: 30.36.6)	(Std: 100%)	   (Std: 7)	NTU		0
+98H0211AB	07/07/00	N/A		96.2			7.36	N/A		N/A
+98H0211AB	08/08/00	29.92		96.4			7.48	3.0		N/A
+94M26667	08/23/00	8.61*		100.5			7.23	100		N/A
+98H0211AB	09/04/00	30.08		97.6			7.03	5.2		N/A
+94M26667	09/18/00	29.97		277.7			7.42	0		N/A
+98H0211AB	09/29/00	28.45		98.4			7.07	3.0		N/A
+94M26667	10/13/00	31.22		95.2			7.11	3.4		N/A
+00E0937AB	10/30/00	30.01		102			7.43	0.7		N/A
+94M26667	11/13/00	30.38		103			7.04	-0.2		-0.069
+00E0937AD	11/21/00	N/A**		91.7			7.11	N/A		-0.029
+94M26667	12/05/00	30.31		97.6			7.15	9.1		-0.042
+00E0937AD	12/21/00	30.00		100.5			7.04	N/A		-0.043
+94M26667	01/11/01	30.37		99.9			7.2	0.9		-0.108
+*Salinity probe became clogged with debris during transport to laboratory
+**For this deployment, a specific conductivity calibration standard was used, 
+yielding unexpectedly high results. For post-deployment calibration check a 50ms 
+calibration standard was used instead of filtered seawater. Instrument measured 
+the standard as being 49.28.
+
+14. Other Remarks/Notes
+a) Throughout the summer months, the issue of biofouling seems to play a major 
+role in the wide disparity of measurements, most notably at the T-Wharf site. 
+Even though sea truthing and post calibration records lend certain credibility 
+to the data, there are a number of measurements in the data set that should be 
+regarded with suspicion, particularly those where readings change drastically 
+over a short period of time. This data continues to be reviewed at the 
+collection site, and it is likely that many anomalous data points will be 
+deleted during this ongoing process.
+
+ b) Any time a reference is made to turbidity data being negative and/or zero, 
+it was recorded as a negative in the raw data file and a zero in the edited data 
+file due to the formatting of Excel. The technician edited none of these data 
+points by hand nor did he/she delete any of them. 
+

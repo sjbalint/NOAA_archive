@@ -1,0 +1,1379 @@
+Narragansett Bay (NAR) NERR Water Quality Metadata
+January-December 2001 
+Latest update: July 7, 2023
+
+I.	Data Set & Research Descriptors
+1.	Principal investigator & contact persons:
+Address: Narragansett Bay NERR
+55 South Reserve Drive
+Prudence Island, RI 02872
+401-683-6780
+
+Contact Persons:
+	Dr. Christopher Deacutis, Research Coordinator
+	E-mail: deacutis@etal.uri.edu;  (401) 222-4700 ext. 7270
+	Dr. Kenneth Raposa, On-Site Research Coordinator
+	E-mail: kenny@gso.uri.edu;  (401) 683-6780
+	Patricia Richard, Reserve Technician
+	(401) 683-6780
+	Robin Weber, Reserve Technician
+	(401) 683-6780
+
+2.	Entry verification:
+Data are downloaded from the YSI Model 6000 or YSI Model 6600 sondes to comma-
+delimited files (*.csv) and PC6000 files (*.dat) to a PC located at the reserve 
+laboratory. Graphs are produced from the .dat files using the Eco-Watch 
+application supplied by YSI and examined for obvious sensor failure, using the 
+suggested data analysis protocol provided to the NERRS by YSI. A post-deployment 
+check is run on the sondes to determine if there is significant sensor drift 
+(>10%) due to biofouling. Fouling of sensors is detected by 1) visual inspection 
+of the instrument, 2) post-deployment measurements taken using calibration 
+standards, and 3) by comparing final measurements of a given deployment with 
+initial measurements of the succeeding deployment.
+
+Sea-truthing was conducted by measuring water quality parameters with a YSI 
+Model 6920 (or YSI Model 6600) attached by cable to a hand-held data recorder 
+(YSI 610-DM).  Values for temperature, salinity, DO mg/L, depth, pH, and time 
+were recorded real-time for both surface and bottom measurements at each 
+deployment site.  The preparation and post-deployment procedures for the data 
+logger used in sea-truthing follows the same general procedure as that for data 
+loggers used in deployments, and is the responsibility of the reserve 
+technicians.
+
+
+The comma-delimited files are imported into Excel 97 and a printed version is 
+produced to aid in the QA/QC process. The file is processed using macros 
+supplied by the CDMO which are designed to: 1) check data files for missing data 
+points, 2) fill all cells that do not contain data with periods (.), 3) convert 
+the data columns to the CDMO-approved formats for time, date and numeric 
+variables, 4) find all data that are out of acceptable range for the sensors and 
+out the anomalous data to an output file (*.dat), and 5) save the files as Excel 
+worksheets (*.xls).  The anomalous data are evaluated to determine whether to 
+flag or delete the suspect data.  Data are flagged if the values are: 1) outside 
+the range expected for the site (see Section 5, Site Location and Character), 2) 
+outside the range of measurements and accuracy established for the sensors (Part 
+II, Section 8: Variable Sequence, Range of Measurements, Units, Resolution, and 
+Accuracy section), or 3) outside the range established for good water quality 
+conditions (i.e., dissolved oxygen <4 mg/L).  Data are deleted if the anomalies 
+are attributed to: 1) a sensor malfunction, or 2) significant fouling of sensors 
+by marine organisms.After appropriate corrections or deletions are made to the 
+Excel worksheet (*.xls), the files are exported as tab-delimited files  (*.txt).  
+Patricia Richard and Robin Weber are responsible for these tasks.
+
+3.	Research Objectives:
+YSI 6000 dataloggers are being deployed off Prudence Island in Narragansett Bay 
+as part of the National Estuarine Research Reserve's (NERR) Water Quality 
+Monitoring Program. The goal is to develop long-term data sets for 
+representative estuarine systems in order to track changes in water quality over  
+time. Because Prudence Island is located in the geographic center of 
+Narragansett Bay, it is an ideal venue for monitoring hydrographic conditions 
+and overall trends within that body of water. One NERR water quality monitoring 
+station has been established at Potter's Cove, on the island's northeastern 
+shore.  This area is impacted by boat traffic and storm runoff from mainland 
+urban and residential areas. The second NERR water quality monitoring station, 
+T-Wharf, is situated on the southeastern shore of the island, facing the open 
+waters of Rhode Island Sound. It is approximately 6 miles south of the Potter's 
+Cove site. Boat traffic is sparse at this site and storm runoff is less likely 
+to have a significant impact there, so this station serves as our "control" 
+site.  The Narragansett Bay water quality monitoring program began in December, 
+1995 at Potter's Cove and in September, 1996 at T-Wharf. (see Section 5, Site 
+Location and Character section for description of sites).  YSI electronic data 
+loggers were deployed to measure the water temperature, specific conductance, 
+dissolved oxygen, pH, and turbidity conditions, approximately 0.5 meters above 
+the bottom, at 30-minute intervals. Change in water level was also recorded. 
+
+4.	Research Methods
+One data logger is deployed at each permanent monitoring station in Narragansett 
+Bay. The instruments are deployed for two to four weeks at a time, depending on 
+the season, and measurements are taken every 30 minutes. The monitoring station 
+at Potter's Cove was constructed in 1995, and it consists of a PVC pipe mounted 
+vertically on a piling located approximately 6 feet west of a floating dock.  To 
+facilitate water flow across the sensors, openings are cut into the PVC pipes.  
+The pipes are also positioned to ensure that the sensors are less than 1 meter 
+from the bottom.  In 1996, the T-Wharf station was put into service: the PVC 
+pipe is mounted on a piling attached to a pier. At the end of the sampling 
+period, the data loggers are retrieved and freshly cleaned and calibrated 
+instruments are deployed. The retrieved data loggers are brought back to the 
+laboratory, post deployment evaluations of the instrument are carried out, and 
+the device is cleaned, calibrated, and serviced by methods outlined in the YSI 
+Operating and Service Manual. After cleaning the data loggers, the pH, salinity, 
+depth, and turbidity sensors are calibrated, using the following standards: pH 7 
+and 10, salinity standard of 30.36 ppt or specific conductivity standard of 
+50.00 mS/cm, depth in the air, and turbidity standards of 0 and 100 NTU, 
+respectively.  The dissolved oxygen (DO) membrane is replaced and allowed to 
+stretch for a minimum of 24 hours before the DO sensor is calibrated in water-
+saturated air. The sonde is programmed to begin taking measurements 
+approximately 12 hours in advance of planned deployment, allowing the DO 
+membrane to stabilize. The file is checked for DO sensor drift before the DO 
+probe calibrated. Calibration of the dissolved oxygen sensor is usually done 
+within 2 hours of deployment.
+
+5. Site Locations and Character:
+The NAR NERR consists of 4,376 acres of diverse estuarine and terrestrial 
+habitats ranging from deep water to salt marshes to forested uplands.  The land 
+holdings include 60% of Prudence Island, most of nearby Patience Island , and 
+all of Hope and Dyer Islands.  The Reserve is located close to the geographic 
+center of Narragansett Bay in Rhode Island. The bay has a drainage basin of 
+1,800 square miles.
+	Tidal range:  -0.2 to 1.7 meters MLW
+	Salinity:  15 to 32 ppt
+	Temperature:  -1.0 to 26 C
+	Province:  North temperate, Virginian bioregion
+	Lat. 41ø38'30" Long. 71ø20'30"
+
+Specific characteristics of the Potters Cove site are:
+	Depth:  .9 to 3.9 meters
+	Bottom habitat: Sand, silt, some organic mud
+	Pollutants:  Boaters' wastes, storm runoff from mainland urban areas
+	Watershed:  Narragansett Bay, North Prudence (4801 square km) 
+	Location:  41ø38.435 N, 71ø20.467 W
+
+Specific characteristics of the T-Wharf site are:
+	Depth:  1 to 4.5 meters
+	Bottom habitat: Sand, silt, some organic mud
+	Pollutants:  negligible
+	Watershed:  Narragansett Bay, South Prudence
+	Location:  41ø34.731 N, 71ø19.287 W 
+
+6. Data collection period: Ongoing since 1995. 
+Deployments for the year 2001 are:
+Potter's Cove Site
+Unit Serial#	
+		BEGAN				ENDED
+94M26666	12/21/00	14:30:00	01/11/01	09:30:00
+98H0211AA	01/11/00	10:00:00	02/01/01	13:00:00
+94M26666	02/01/01	13:30:00	02/15/01	13:30:00
+98H0211AA	02/15/01	14:00:00	03/12/01	10:30:00
+94M26666	03/12/01	10:30:00	04/09/01	08:30:00
+98H0211AA	04/09/01	09:30:00	04/24/01	09:32:24
+94M26666	04/24/01	10:00:00	05/09/01	09:30:00
+98H0211AA	05/09/01	10:00:00	05/21/01	08:30:00
+94M26666	05/21/01	09:00:00	05/30/01	13:00:00
+98H0211AA	05/30/01	13:30:00	06/08/01	08:30:00
+94M26666	06/08/01	09:00:00	06/15/01	13:00:00
+00E0937AD	06/15/01	13:30:40	06/25/01	10:30:40
+01E0566AD	06/25/01	11:00:40	07/06/01	08:30:40
+00E0937AD	07/06/01	09:00:00	07/12/01	12:30:00
+01E0566AD	07/12/01	13:00:00	07/23/01	10:30:00
+98H0211AA	07/23/01	11:00:00	07/30/01	11:00:00
+01E0566AD	07/30/01	11:30:00	08/06/01	12:30:00
+00E0937AD	08/06/01	13:00:00	08/21/01	09:00:00
+01E0566AD	08/21/01	09:30:00	09/04/01	08:30:00
+00E0937AD	09/04/01	10:30:00	09/10/01	11:30:00
+01E0566AD	09/10/01	12:00:00	09/18/01	09:00:00
+00E0937AD	09/18/01	10:00:00	09/26/01	12:30:00
+01E0566AD	09/26/01	13:00:00	10/03/01	08:30:00
+00E0937AD	10/03/01	09:00:00	10/17/01	08:30:00
+01E0566AD	10/17/01	09:00:00	10/26/01	14:00:00
+00E0937AD	10/26/01	14:30:00	11/05/01	09:30:00
+01E0566AD	11/05/01	10:00:20	11/19/01	10:30:20
+00E0937AD	11/19/01	11:00:00	12/04/01	10:30:00
+01E0566AD	12/04/01	11:00:00	12/19/01	10:30:00
+00E0937AD	12/19/01	11:00:00	1/3/02	10:00:00
+
+T-Wharf Site
+Unit Serial #	
+		BEGAN				ENDED
+94M26667	12/21/01	14:00:00	01/11/01	09:00:00
+00E0937AB	01/11/01	09:30:00	02/01/01	13:00:00
+94M26667	02/01/01	12:50:58	02/15/01	13:50:58
+00E0937AB	02/15/01	13:30:40	03/12/01	10:00:40
+94M26667	03/12/01	10:00:00	04/09/01	08:00:00
+00E0937AB	04/09/01	09:00:00	04/24/01	08:30:00
+94M26667	04/24/01	09:30:00	05/09/01	09:30:00
+00E0937AD	05/09/01	09:30:40	05/21/01	10:00:40
+94M26667	05/21/01	10:00:00	05/30/01	12:30:00
+00E0937AD	05/30/01	13:30:00	06/08/01	08:30:00
+94M26667	06/08/01	08:30:00	06/15/01	12:30:00
+00E0937AB	06/15/01	13:00:00	06/25/01	10:00:00
+IE8076AB	06/25/01	10:00:40	07/06/01	08:00:40
+00E0937AB	07/06/01	09:00:00	07/12/01	12:00:00
+IE8076AB	07/12/01	12:30:00	07/23/01	09:30:00
+00E0937AB	07/23/01	10:30:00	07/30/01	10:30:00
+IE8076AB	07/30/01	11:00:00	08/06/01	11:30:00
+00E0937AB	08/06/01	12:00:00	08/21/01	09:30:00
+IE8076AB	08/21/01	10:30:00	09/04/01	08:00:00
+00E0937AB	09/04/01	09:00:00	09/10/01	09:30:00
+IE8076AB	09/10/01	10:00:00	09/18/01	08:30:00
+00E0937AB	09/18/01	09:00:00	09/26/01	09:00:00
+IE8076AB	09/26/01	09:30:00	10/03/01	08:00:00
+00E0937AB	10/03/01	08:30:00	10/17/01	08:00:00
+IE8076AB	10/17/01	08:30:00	10/26/01	11:30:00
+00E0937AB	10/26/01	12:00:00	11/05/01	09:00:00
+IE8076AB	11/05/01	09:30:20	11/19/01	10:00:20
+00E0937AB	11/19/01	10:30:00	12/04/01	10:00:00
+IE8076AB	12/04/01	10:29:41	12/19/01	09:59:41
+00E0937AB	12/19/01	10:30:00	01/03/02	10:00:00
+
+7. 	Distribution
+According to the Ocean and Coastal Resource Management Data Dissemination Policy 
+for the NERRS System-wide Monitoring Program, NOAA/ERD retains the right to 
+analyze, synthesize and publish summaries of the NERRS System-wide Monitoring 
+Program data.  The Principal Investigator retains the right to be fully credited 
+for having collected and processed the data.  Following academic courtesy 
+standards, the PI and NERR site where the data were collected will be contacted 
+and fully acknowledged in any subsequent publications in which any part of the 
+data are used.  Manuscripts resulting from the NOAA/OCRM supported research that 
+are produced for publication in open literature, including refereed scientific 
+journals. Will acknowledge that the research was conducted under an award from 
+the Estuarine Reserves Division, Office of Ocean and Coastal Resource 
+Management, National Ocean Service, National Oceanic and Atmospheric 
+Administration.  The data set enclosed within this package/transmission is only 
+as good as the quality assurance and quality control procedures outlined by the 
+enclosed metadata reporting statement.  The user bears all responsibility for 
+its subsequent use/misuse in any further analyses or comparisons.  The Federal 
+government does not assume liability to the Recipient of third persons, nor will 
+the Federal government reimburse or indemnify the Recipient for its liability 
+due to any losses resulting in any way from the use of this data.
+
+NERR water quality data and metadata can be obtained from the Research 
+Coordinator at the individual NERR site (please see section 1. Principal 
+investigators and contact persons), from the Data Manager at the Centralized 
+Data Management Office (please see personnel directory under general information 
+link on CDMO homepage) and online at the CDMO homepage 
+http://inlet.geol.sc.edu/cdmohome.html.  Data are available in text tab-
+delimited format, Microsoft Excel spreadsheet format and comma-delimited format.
+
+8.	Associated researchers and projects:
+Dissolved Oxygen Survey - Under the direction of Dr. Christopher Deacutis, NAR 
+NERR Research Coordinator, with volunteers from the R.I. Dept. of Environmental 
+Management, Roger Williams University, the University of Rhode Island, Brown 
+University, the Environmental Protection Agency offices in Narragansett, RI and 
+Lexington, MA, the Massachusetts Coastal Zoning Management Agency, U.S. Fish and 
+Wildlife Service, the Narragansett Bay Commission, Save the Bay, Yellow Springs 
+Instruments, and NBNERR staff. The goal of the survey is to take discrete 
+samples within the water column (surface, bottom, and every 1.5 meters of depth) 
+at more than 75 stations in the Narragansett Bay. These surveys are performed 
+overnight during neap tide. The project began in 1999, and takes place at least 
+twice during the summer. The data will be used to map dissolved oxygen levels 
+bay-wide and help to identify sites at risk for hypoxic and anoxic events. 
+Inquiries should be directed to Dr. Deacutis at the RIDEM, Dept. of Water 
+Resources, 235 Promenade St., Providence RI 02908, tel. (401) 222-4700 x7270.
+
+II. Physical Structure Descriptors
+9. 	Variable sequence, range of measurements, units, resolution, and accuracy:
+
+YSI 6000 and 6600 data loggers
+
+Variable      Range of Measurements          Resolution           Accuracy
+Date          1-12, 1-31, 00-99 (Mo,Day,Yr)  1 mo, 1 day, 1 yr    NA
+Time          0-24, 0-60, 0-60 (Hr,Min,Sec)  1 hr, 1 min, 1 s     NA
+Temp               -5 to 45 (c)              0.01  C              +/-0.15C
+Sp COND            0-100(mS/cm)              0.01mS/cm            +/-0.5% Of 
+reading + 0.001mS/Cm
+Salinity      0-70 Parts per thousand (ppt)  0.01 ppt             +/- 1% of 
+Reading or 0.1 ppt, (whichever is greater)
+DO            0-200 (% air saturation)       0.1% @air sat        +/-2% @air 
+Saturation
+DO            200-500 (% air saturation      0.1% @ air sat       +/- 6% @ 
+Saturation
+DO                 0-20 (mg/l)               0.01 mg/l            +/- 0.2mg/l
+DO                 20-50 (mg/l)              0.01 mg/l            +/- 0.6mg/l
+Depth (shallow)    0-9.1 (m)                 0.001m               +/- 0.018m
+PH                 2-14 units                0.01 units           +/- 0.2units
+Turb               0-1000 NTU                0.1 NTU              +/- 5% of 
+Reading or 2 NTU (whichever is greater)
+
+Data columns are separated by tabs.  Each file contains a two line
+column header at the top of the page which identifies measurements and 
+units for each column.
+
+The data loggers have the capability to record turbidity readings greater than 
+1000 NTU.
+
+10.	Coded variable indicator and variable code definitions:
+	PC= Potter's Cove	TW=T-Wharf
+
+11. Data anomalies:
+
+January 1-31, 2001 Sampling period
+Potter's Cove
+01/01/01 00:00:00 - 01/11/01 09:30:00 - Turbidity outliers continue to be 
+problematic. Data were deleted because calibration error rendered values <-1.
+
+01/11/01 09:30:00- 10:00:00 - Discontinuity between deployments. All within 
+range except turbidity, but DO measurements come very close to exceeding 
+acceptable standard for drift correction. An explanation could be that for the 
+preceding deployment the dissolved oxygen sensor was not properly calibrated, 
+according to the current S.O.P. The csv files indicate that the sensor was 
+reading high prior to deployment 12/21/00 14:30:00 and continued reading high 
+after retrieval 01/11/01 09:30:00. Data were retained.
+
+01/11/01 10:00:00 - 01/31/01 23:30:00 - Measurements for pH appear slightly 
+anomalous when taken in context with surrounding deployments. Discontinuity 
+between successive deployments suggests that one of the pH probes may have been 
+failing despite the fact that both were within range for mV and calibrated 
+correctly. All pH data were retained.
+
+01/15/01 01:00:00 - Data is inexplicably missing. The sonde must have reset 
+itself, but no error message was logged.
+
+Supersaturation measurements for dissolved oxygen (>120%) were noted for the 
+following dates and times:
+01/07/01 - 15:00:00, 16:00:00-17:30:00
+01/08/01 - 17:30:00
+01/10/01 - 15:00:00
+
+T-Wharf
+01/01/01 00:00:00-01/31/01 23:30:00 - Turbidity outliers continue to be 
+problematic. All turbidity data are missing for the month of January, either 
+because of calibration issues or because the sonde was not outfitted with a 
+turbidity probe.
+
+01/11/01 09:00:00-09:30:00 - Discontinuity between deployments All within range 
+except temperature, which is off by .65. Drop in pH may be a result of 
+temperature shock, values recover within a few hours. Data were retained.
+
+01/11/01 09:30:00-02/01/01 13:00:00 - Time stamp was off by 40 seconds, 
+corrected to read on the hour and half-hour.
+
+01/28/01 02:30:00-03:00:00 - DO numbers suddenly drop by almost 30% - DO charge 
+is down to 43, which is within range but still a big drop from previous reading. 
+Numbers return to normal within the hour, but then take a dive of nearly 40% on 
+01/28/01 08:00:00 Numbers remain on the low side until 01/29/01, after which 
+they take a sudden jump upwards nearly 30%. I can think of no logical 
+explanation for this other than perhaps an obstruction that eventually cleared 
+itself or an organism respiring in the sonde guard. Data have been retained.
+
+February 1-28, 2001 Sampling period
+Potter's Cove
+02/01/01 00:00:00 - 02/01/01 13:00:00 - Measurements for pH appear slightly 
+anomalous when taken in context with surrounding deployments. Discontinuity 
+between successive deployments suggests that one of the pH probes may have been 
+failing despite the fact that both were within range for mV and calibrated 
+correctly. All pH data were retained.
+
+02/01/01 13:30:00 - 02/15/01 13:30:00 - Huge discontinuity at changeover and 
+very high dissolved oxygen measurements for the entire deployment.  Pre-
+deployment values for DO% were high which may account for the initial high 
+readings.  Post-calibration readings approximated 100% which indicates that 
+downward drift may have occurred during deployment. Data have been retained.
+
+02/01/01 13:30:00 - 02/15/01 13:30:00 - Turbidity outliers continue to be 
+problematic. Deleted turbidity data for deployment because numbers are <-1.
+
+02/15/01 14:00:00 - 03/12/01 10:30:00 - Measurements for pH appear slightly 
+anomalous when taken in context with surrounding deployments. Discontinuity 
+between successive deployments suggests that one of the pH probes may have been 
+failing despite the fact that both were within range for mV and calibrated 
+correctly. All pH data were retained.
+
+Supersaturation measurements for dissolved oxygen (>120%) were taken on the 
+following dates and times:
+02/01/01 - 13:30:00-23:30:00
+02/02/01 - 00:00:00-02:30:00, 12:00:00, 13:00:00-20:30:00, 23:00:00, 23:30:00
+02/03/01 - 00:00:00-02:30:00, 11:30:00-19:30:00
+02/04/01 - 10:00:00-14:00:00, 15:30:00-23:30:00
+02/05/01 - 00:00:00-05:30:00, 08:00:00, 13:00:00, 13:30:00
+02/06/01 - 13:30:00-18:30:00
+02/07/01 - 11:00:00-23:00:00
+02/08/01 - 15:00:00-23:30:00
+02/09/01 - 00:30:00, 16:00:00-18:30:00, 19:30:00, 20:30:00, 21:30:00-22:30:00
+02/10/01 - 13:30:00-17:30:00
+02/11/01 - 14:00:00-17:30:00
+02/12/01 - 16:30:00, 17:00:00, 18:00:00, 21:00:00
+02/13/01 - 13:00:00, 14:30:00-18:00:00, 19:00:00-23:30:00
+02/14/01 - 00:00:00, 01:00:00-05:00:00, 06:00:00-12:30:00, 13:30:00
+02/15/01 - 13:00:00, 17:00:00, 20:00:00, 22:30:00
+02/16/01 - 09:30:00, 10:30:00-15:00:00, 16:00:00-23:30:00
+02/17/01 - 07:30:00-09:30:00, 11:00:00, 11:30:00, 15:00:00-16:30:00
+02/22/01 - 16:00:00-17:30:00, 21:00:00, 21:30:00
+02/23/01 - 13:30:00-15:00:00, 16:00:00-17:00:00
+02/24/01 - 14:30:00, 16:00:00-18:00:00, 19:30:00
+
+T-Wharf
+02/01/00 00:00:00-02/28/01 23:30:00 - Turbidity outliers continue to be 
+problematic. All turbidity data are missing for the month of February, either 
+because of calibration issues or because the sonde was not outfitted with a 
+turbidity probe.
+
+02/01/01 13:00:00-02/15/01 14:00:00 - Time stamp was off by 9 minutes, 2 
+seconds, corrected to read on the hour and half-hour.
+
+02/15/01 13:30:00-03/12/01 10:00:00 - Time stamp was off by 40 seconds, 
+corrected to read on the hour and half-hour.
+
+Supersaturation measurements for dissolved oxygen (>120%) were noted on the 
+following dates and times: 
+02/01/00 - 19:00:00
+02/02/01 - 22:30:00-23:30:00
+02/03/01 - 13:30:00-14:30:00
+02/04/01 - 14:30:00-16:00:00
+02/05/01 - 00:30:00,01:30:00, 2:30:00, 03:00:00
+02/14/01 - 11:00:00-13:00:00, 16:00:00-19:30:00
+02/16/01 - 20:00:00-21:00:00
+
+March 1-31, 2001 Sampling period
+Potter's Cove
+Supersaturation measurements for dissolved oxygen (>120%) were noted on the 
+following dates and times:
+03/15/01 - 13:00:00, 14:00:00, 20:00:00, 21:00:00, 21:30:00, 22:30:00
+03/16/01 - 11:30:00, 16:30:00, 17:30:00-21:30:00, 22:30:00, 23:00:00
+03/17/01 - 01:30:00, 02:00:00, 12:00:00, 13:30:00-16:00:00, 18:00:00, 19:30:00, 
+21:30:00, 23:00:00, 23:30:00
+03/18/01 - 00:00:00-02:00:00, 11:00:00, 12:30:00-23:30:00
+03/19/01 - 00:00:00-02:00:00, 08:30:00-11:30:00, 12:30:00-19:30:00, 20:30:00, 
+21:00:00
+03/20/01 - 00:30:00, 01:30:00, 06:00:00, 07:30:00, 09:30:00-17:30:00
+03/21/01 - 01:30:00-02:30:00, 03:30:00-05:00:00, 06:30:00, 09:30:00-14:30:00, 
+15:30:00-17:00:00, 18:00:00-22:00:00
+03/28/01 - 16:00:00
+
+Turbidity reported negative and/or zero values throughout the 02/15/01 14:00:00 
+- 03/12/01 10:30:00 deployment.
+
+T-Wharf
+03/01/01 00:00:00-03/12/01 10:00:00 - Turbidity data is missing because the unit 
+was not outfitted with a turbidity probe.
+
+Supersaturation measurements for dissolved oxygen (>120%) were taken on the 
+following dates and times:
+03/18/01 16:00:00
+03/19/01 12:30:00, 14:30:00, 15:00:00, 16:30:00-18:00:00, 20:30:00, 22:00:00-
+23:30:00
+03/20/01 00:00:00, 00:30:00, 09:30:00, 10:30:00-17:00:00, 18:00:00-23:30:00
+03/21/01 00:00:00-07:00:00, 09:00:00, 09:30:00, 11:30:00, 12:00:00, 13:00:00, 
+13:30:00, 14:30:00
+
+03/19/01 07:00:00 - Turbidity spike >50 NTU appears to be anomalous.
+
+Negative turbidity outliers continue to be problematic, with 415 instances in 
+the month of March. Data retained.
+
+April 1-30, 2001 Sampling period 
+Potter's Cove:
+
+Supersaturation measurements for dissolved oxygen (>120%) were taken on the 
+following dates and times:
+04/04/01 - 15:30:00, 16:00:00
+04/05/01 - 18:00:00, 19:30:00, 20:00:00, 21:00:00-22:00:00
+04/06/01 - 11:30:00, 12:30:00, 13:00:00
+04/07/01 - 13:30:00, 14:30:00, 15:30:00-20:00:00
+04/09/01 - 13:30:00, 14:30:00-18:00:00, 19:30:00
+04/10/01 - 10:30:00, 13:00:00-18:00:00
+04/11/01 - 08:00:00, 08:30:00, 14:30:00, 16:30:00, 19:30:00, 22:00:00, 22:30:00
+04/12/01 - 02:00:00
+04/14/01 - 12:30:00, 15:00:00-17:30:00, 18:30:00, 19:00:00
+04/15/01 - 02:30:00, 15:30:00-23:30:00
+04/16/01 - 00:00:00-01:30:00, 08:00:00, 10:00:00-11:00:00, 13:00:00, 13:30:00, 
+14:30:00
+04/17/01 - 07:00:00, 09:30:00, 11:30:00-14:30:00, 15:30:00, 22:00:00-23:00:00
+04/18/01 - 00:30:00, 01:00:00, 02:30:00-03:30:00, 08:30:00
+04/19/01 - 16:30:00, 18:00:00, 18:30:00
+04/20/01 - 12:00:00, 13:30:00
+
+Turbidity reported negative and/or zero values throughout the entire month of 
+April. Data were retained. 
+
+Deleted large negative turbidity data points for the following dates and times:
+04/07/01 01:30:00
+04/08/01 19:30:00, 20:30:00, 23:00:00
+
+04/09/01 09:00:00 - Data missing between deployments.
+
+04/21/01 12:00:00-4/24/01 9:30:00 - Data missing due to battery failure.
+
+T-Wharf:
+04/09/01 08:30:00 - Data for all parameters is missing because of sonde 
+retrieval/deployment.
+
+04/09/01 09:00:00-04/24/01 08:30:00 - No turbidity data because unit was not 
+outfitted with a turbidity probe.
+
+04/09/01 09:00:00-04/24/01 08:30:00 - Time stamp was off by one minute, 
+corrected to read on the hour and half-hour.
+
+04/09/01 09:00:00-04/10/01 04:30:00 - Depths are much shallower than usual, 
+probably because tether was caught on obstruction in pipe. It seems to have 
+worked itself loose by 04/10/01 05:00:00. The data were retained.
+
+Negative turbidity outliers continue to be problematic, with 130 instances in 
+the month of April. Data were retained. 
+
+The following turbidity data points were deleted because of onset of probe 
+failure:
+04/08/01 11:00:00
+04/27/01 19:30:00
+04/29/01 01:30:00
+
+Supersaturation measurements for dissolved oxygen (>120%) were taken on the 
+following dates and times:
+04/05/01 - 15:00:00-17:00:00, 18:30:00, 19:30:00, 23:00:00, 23:30:00
+04/06/01 - 00:00:00-02:00:00, 12:00:00-14:30:00
+04/09/01 - 18:00:00
+04/10/01 - 16:00:00-18:30:00, 20:00:00-21:00:00
+04/11/01 - 06:00:00-07:30:00, 08:30:00-10:00:00, 13:00:00-14:00:00, 15:00:00-
+19:00:00, 21:00:00
+04/13/01 - 16:00:00-19:00:00
+04/14/01 - 13:00:00, 13:30:00, 14:30:00
+04/14/01 - 17:00:00-19:00:00, 20:30:00-21:30:00, 23:30:00
+04/15/01 - 10:00:00, 11:00:00-12:30:00, 14:00:00-16:00:00, 17:30:00-21:30:00, 
+23:00:00
+04/16/01 - 00:00:00-02:00:00, 06:00:00-08:00:00, 10:00:00, 10:30:00, 13:00:00-
+15:00:00, 16:30:00-18:00:00, 19:30:00, 21:30:00, 23:00:00, 23:30:00
+04/17/01 - 01:00:00, 02:00:00, 13:30:00-15:30:00, 17:00:00, 17:30:00, 19:30:00-
+22:30:00
+04/18/01 - 00:00:00, 00:30:00
+04/19/01 - 13:30:00, 14:30:00-16:30:00
+04/20/01 - 01:00:00, 01:30:00, 11:30:00-17:00:00
+
+04/24/01 09:00:00 - Data for all parameters is missing because of sonde 
+retrieval and deployment. 
+
+04/29/00 09:00:00 - Data missing through end of deployment period. Battery 
+failure.
+
+May 1-31, 2001 Sampling period
+Potter's Cove
+05/06/01 4:30:00-05/09/01 9:30:00 - DO membrane puncture, data deleted.
+
+05/18/01 09:00:00-05/21/00 08:30:00 - DO membrane puncture data deleted.
+
+5/23/01 9:00:00-05/30/01 13:00:00 - Apparent DO probe failure. Measurements 
+jumped more than 4 mg/L and continued rising over a 3 day period. DO charge 
+dropped significantly during the course of deployment. The DO values were 
+deleted from the dataset.
+
+Turbidity reported negative values and/or zero values throughout the entire 
+month of May. Data were retained. 
+
+T-Wharf: 
+05/01/01 00:00:00-05/09/01 09:00:00 - Data missing. Battery failure.
+
+05/09/01 09:30:00-05/21/01 10:30:00 - Time stamp was off by 40 seconds, 
+corrected to read on the hour and half-hour.
+
+05/09/01 09:30:00-05/21/01 10:00:00 - No turbidity data because the unit was not 
+outfitted with a turbidity probe.
+
+05/30/01 13:00:00 - Data missing during sonde changeover.
+
+Continuity between deployments was not very good for May deployment 5/21/01 
+10:30:00. Pipe maintenance probably stirred up a lot of debris and oxygenated 
+the water. DO data appears to return to normal within a half-hour, but salinity 
+and pH never really recovers to prior levels. Data were retained.
+
+Two turbidity spikes 05/27/01 01:00:00 (1173) and 05/27/01 06:00:00 (1097), 
+probably anomalous. Crabs invaded the sonde guard and the turbidity probe failed 
+mechanically upon retrieval. Data have been deleted.
+
+05/30/01 13:30:00 through 05/31/01 23:30:00 - No turbidity data because sonde 
+was not outfitted with turbidity probe.
+
+June 1-30, 2001 Sampling period
+Potter's Cove
+06/04/01 04:00:00-06/08/01 08:30:00 - DO membrane puncture Data deleted.
+
+06/8/01 13:30:00-06/15/01 13:00:00 - DO membrane puncture Data deleted.
+
+6/14/01 11:30:00-6/15/01 13:00:00 - pH probe failure. Probe was cracked, 
+probably by animal trapped in sonde guard. Data deleted.
+
+06/15/01 13:30:00-06/25/01 10:30:00 - Time stamp is off by 40 seconds, corrected 
+to read on the hour and half hour.
+
+06/25/01 11:00:40-07/06/01-8:30:40 - Time stamp is off by 40 seconds, corrected 
+to read on the hour and half hour.
+
+Supersaturation measurements for dissolved oxygen (>120) were recorded on the 
+following dates and times:
+06/08/01 - 12:00:00-13:00:00
+06/15/01 - 13:30:00, 14:30:00
+06/16/01 - 09:00:00, 13:00:00, 14:00:00, 15:30:00
+06/17/01 - 08:00:00, 09:00:00-10:00:00, 14:30:00
+06/18/01 - 14:30:00, 16:00:00, 17:30:00
+06/20/01 - 13:00:00-15:00:00, 16:00:00
+06/21/01 - 02:30:00-04:30:00, 09:30:00-12:30:00, 13:30:00
+06/25/01 - 15:00:00
+06/28/01 - 09:00:00, 09:30:00, 11:00:00, 11:30:00
+
+T-Wharf:
+06/01/01 00:00:00-06/15/01 12:30:00 - No turbidity because sonde was not 
+outfitted with a turbidity probe.
+
+06/25/01 10:00:00- 07/06/01 08:00:00 - Time stamp was off by 40 seconds, 
+corrected to read on the hour and half-hour.
+
+Turbidity spikes greater than 1000 NTU on 06/18/01 21:30:00 and 06/22/01 
+20:00:00 and 20:30:00 were inconsistent with the measurements in the deployment 
+and were deleted.
+
+Supersaturation measurements for dissolved oxygen (>120) were recorded on the 
+following dates and times:
+06/06/01 - 16:00:00
+06/07/01 - 00:00:00, 15:00:00-17:00:00, 19:30:00-20:30:00
+06/08/01 - 08:30:00, 09:00:00, 10:30:00, 11:00:00, 13:30:00-17:30:00, 19:30:00-
+21:00:00
+06/09/01 - 03:30:00, 07:30:00, 09:00:00, 09:30:00, 15:30:00-17:30:00, 21:00:00-
+22:00:00
+06/10/01 - 09:30:00, 10:00:00, 17:30:00-18:30:00, 20:30:00, 21:30:00, 22:00:00
+06/11/01 - 10:30:00
+06/13/01 - 16:30:00, 18:30:00
+06/14/01 - 15:30:00, 18:00:00
+06/15/01 - 10:00:00-14:30:00, 20:00:00
+06/19/01 - 11:00:00-16:30:00
+06/20/01 - 12:00:00-14:00:00
+06/22/01 - 13:30:00-16:30:00, 18:30:00, 19:00:00
+06/29/01 - 12:30:00, 13:00:00, 14:00:00
+
+July 1-31, 2001 Sampling period
+Potter's Cove
+07/09/01 08:00:00-07/12/01 12:30 :00 - pH probe failure. Data deleted.
+
+Supersaturation measurements for dissolved oxygen (> 120%) were recorded on the 
+following dates and times:
+07/06/01 - 20:00:00
+07/25/01 - 16:00:00, 19:00:00, 19:30:00 
+
+Turbidity spikes (>75 NTU) were recorded on the following dates and times:
+07/08/01 23:30:00
+07/28/01 08:30:00
+07/30:01 03:30:00
+
+T-Wharf:
+07/06/01 08:30:00 - Missing data point due to lag time between deployments.
+
+07/23/01 10:00:00 - Missing data point due to lag time between deployments.
+
+07/23/01 09:30:00-07/23/01 10:30:00 - Discontinuity between deployments for 
+dissolved oxygen, possibly due to variance in depth and temperature.
+
+August 1-31, 2001 Sampling period:
+Potter's Cove
+08/15/01 13:30:00-08/21/01 09:00:00 - DO membrane damage. Data deleted.
+
+08/23/01 00:00:00-08/31/01 23:30:00 - DO charge drops below 25, indicated probe 
+failure of some sort. We suspect that KCL solution used for probe might have 
+been contaminated or exhausted. Data have been deleted.
+
+Supersaturation (DO values > 120%) occurred on the following dates and times.
+08/01/01 - 12:30:00-13:30:00
+08/08/01 - 15:00:00, 16:00:00, 17:00:00, 17:30:00
+08/13/01 - 18:30:00
+08/14/01 - 15:30:00
+08/21/01 - 17:30:00-19:30:00
+08/22/01 - 16:00:00-19:30:00
+
+Turbidity values greater than 25 NTU occurred on the following dates and times:
+08/15/01 - 11:30:00, 19:30:00
+08/16/01 - 00:00:00, 00:30:00, 01:30:00, 02:00:00
+08/17/01 - 01:30:00
+08/23/01 - 05:00:00
+08/24/01 - 16:30:00
+08/25/01 - 22:00:00
+08/27/01 - 11:30:00
+08/31/01 - 21:00:00, 23:00:00
+
+Turbidity values greater than 100 NTU occurred on the following dates and times:
+08/19/01 - 19:00:00
+08/25/01 - 02:00:00
+08/26/01 - 15:30:00
+
+Turbidity values greater than 1000 NTU for the following dates and times were 
+removed from the dataset.  These outliers did not appear to be consistent with 
+data for these sample periods.
+08/21/01 - 10:30:00
+08/26/01 - 12:30:00
+
+T-Wharf:
+Turbidity outliers (> 500 NTU) were removed from the dataset for the following 
+dates and times.  These outliers were inconsistent with the rest of the data for 
+that sample period.
+08/11/01 04:00:00
+08/16/01 19:00:00
+08/30/01 00:00:00
+
+Turbidity values greater than 50 NTU were noted for the following dates and 
+times:
+08/19/01 06:30:00
+08/27/01 08:00:00
+08/31/01 20:30:00
+
+Supersaturation measurements for dissolved oxygen (>120 %) were noted on the 
+following dates and times:
+08/01/01 - 13:30:00-14:30:00, 16:30:00-17:30:00
+08/02/01 - 12:30:00-16:00:00, 17:30:00-19:00:00
+08/05/01 - 14:00:00, 15:00:00
+08/06/01 - 15:00:00-16:00:00, 17:30:00, 19:00:00, 20:00:00
+08/07/01 - 16:30:00, 17:00:00, 18:30:00
+08/08/01 - 15:00:00-17:30:00, 21:00:00-22:00:00
+08/09/01 - 10:30:00, 14:30:00-23:00:00
+08/10/01 - 10:00:00-11:30:00
+08/13/01 - 19:00:00, 19:30:00
+08/16/01 - 14:00:00-17:30:00
+08/17/01 - 12:30:00-16:00:00
+08/20/01 - 15:30:00-17:00:00
+08/21/01 - 14:30:00-18:30:00
+08/22/01 - 22:30:00
+08/23/01 - 10:30:00, 14:30:00-16:00:00, 17:30:00-20:00:00, 23:00:00, 23:30:00
+08/24/01 - 16:00:00, 16:30:00
+08/25/01 - 17:00:00, 17:30:00, 19:30:00-20:30:00
+08/26/01 - 13:30:00-14:30:00, 17:30:00-19:00:00
+08/27/01 - 14:30:00
+08/28/01 - 13:00:00, 14:30:00-15:30:00, 20:30:00
+08/30/01 - 13:30:00
+
+September 1-30, 2001 Sampling period
+Potter's Cove
+DO data missing 9/1/01 0:00:00 through 9/4/01 08:30:00 due to suspected 
+contamination or exhaustion of KCL solution.
+
+Data missing 9/4/01 9:00:00 through 9/4/01 10:00:00 between deployments.  Delay 
+in deployment was a result of pipe cleaning/maintenance.
+
+09/07/01 21:00:00 - DO goes into negative numbers and DO charge spikes to 100.2. 
+Polychaete found living in membrane upon retrieval. Data deleted through end of 
+deployment  09/10/01 11:30:00
+
+9/18/01 09:30:00 - All data missing during sonde changeover. Continuity for DO 
+is poor between deployments, possibly related to variant depths.
+
+09/19/01 22:30:00 - DO drops by more than 5 mg/L within 1/2 hr. Suspected probe 
+failure, data deleted through end of deployment 09/26/01 12:30:00.
+
+Supersaturation measurements for dissolved oxygen (>120 %) were noted on the 
+following dates and times:
+09/06/01	17:30:00
+09/18/01	17:00:00-18:00:00, 19:30:00
+09/19/01	16:00:00-18:00:00, 19:00:00, 21:30:00, 22:00:00
+09/27/01	13:00:00-19:00:00
+09/28/01	01:00:00-02:00:00, 03:30:00-06:00:00, 07:30:00, 08:30:00-23:30:00
+09/29/01	00:00:00-07:00:00
+
+For the period 09/27/01-09/29/01, the supersaturation numbers noted were 
+corroborated by discrete measurements taken for another project (Andrew Altieri 
+of Brown University, NBNERR graduate research fellow) on 09/28/01 during 
+daylight hours. Bay water was markedly discolored by what appeared to be 
+phytoplankton. Numbers were further corroborated by a University of Rhode Island 
+buoy just north of the Potter's Cove site (Dr. Dana Kester). We can safely 
+assume that the supersaturation numbers taken during this period are reflective 
+of a true event, very likely related to biological processes taking place in the 
+bay. Also, please note that pH measurements were unusually high during this 
+period.
+
+Turbidity values greater than 25 NTU were noted on the following dates and 
+times:
+09/01/01 - 00:00:00
+09/02/01 - 10:30:00, 11:00:00
+09/04/01 - 03:30:00, 15:00:00
+09/05/01 - 01:00:00, 01:30:00, 02:30:00-03:30:00
+09/08/01 - 17:30:00, 19:00:00-20:00:00, 21:00:00, 23:00:00
+
+Turbidity values greater than 50 NTU were noted on the following dates and 
+times:
+09/03/01 - 20:00:00
+09/04/01 - 22:30:00
+09/05/01 - 00:30:00
+
+Turbidity value greater than 500 NTU was noted on the following date and time:
+9/11/01 - 15:30:00
+
+T-Wharf:
+Turbidity outliers (> 1000 NTU) for the following dates and times were removed 
+from the data set.  These samples were inconsistent with other measurements and 
+probably indictative of biofouling.
+09/16/01 - 03:30:00
+09/16/01 - 19:30:00
+
+High turbidity values (> 50 NTU) were noted for the following dates and times:
+09/14/01 - 20:00:, 20:30:00, 22:00:00, 23:00:00
+09/15/01 - 00:30:00, 03:00:00-05:00:00, 08:00:00, 10:00:00, 11:00:00, 12:30:00, 
+13:00:00, 
+15:00:00-18:30:00, 20:30:00-22:30:00, 23:30:00
+09/16/01 - 00:00:00-01:00:00, 02:30:00, 05:30:00, 06:00:00, 08:30:00, 10:30:00, 
+12:00:00, 13:00:00-15:30:00, 16:30:00, 17:00:00
+09/18/01 - 06:00:00
+
+Supersaturation values of dissolved oxygen (> 120%) were noted for the following 
+dates and times:
+09/27/01 - 13:00:00, 13:30:00, 15:00:00, 16:00:00, 22:00:00
+09/28/01 - 00:00:00, 00:30:00, 11:30:00-13:30:00
+
+October 1-31, 2001 Sampling period
+Potter's Cove:
+10/03/01 19:00:00 - Turbidity spike (>50 NTU). Data point retained.
+
+10/05/01 22:00:00-10/17/01 08:30:00 - DO membrane damage. Data deleted.
+
+10/06/01 07:00:00 - Anomalous data point for salinity. Salinity measure drops to 
+24.9 ppt, returns to normal within 1/2 hour. Data point along with SpCond was 
+deleted.
+
+Supersaturation values for dissolved oxygen (>120 %) were noted on the following 
+dates and times:
+10/19/01 - 16:30:00
+10/21/01 - 12:00:00-18:00:00
+10/22/01 - 16:30:00, 17:00:00, 18:00:00-23:30:00
+10/23/01 - 00:00:00-01:00:00, 03:00:00
+10/29/01 - 12:30:00, 14:30:00-16:30:00
+10/30/01 - 11:00:00-16:00:00, 18:00:00-19:30:00
+
+10/23/01 03:30:00 - 10/26/01 14:00:00 - Abrupt drop in DO mg/L 10/23/01 3:30:00. 
+DO membrane damage is suspected, data have been deleted.
+
+10/11/01 18:00:00-10/17/01 08:30:00 - pH probe failure. Data deleted.
+
+T-Wharf:
+10/08/01 - 5:30:00 Salinity inexplicably drops to 10.63 ppt, returning to normal 
+at next reading. This is almost certainly transient matter occluding the probe, 
+data points for SpCond and Salinity have been deleted.
+
+Supersaturation values (DO > 120%) were noted for the following dates and times:
+10/05/01 - 15:00:00-16:30:00, 17:30:00
+10/12/01 - 15:00:00, 15:30:00, 23:00:00, 23:30:00
+10/20/01 - 14:30:00, 15:00:00
+10/21/01 - 14:30:00-19:00:00, 20:00:00, 20:30:00, 21:30:00-22:30:00
+10/22/01 - 13:00:00-14:00:00, 15:00:00-23:30:00
+10/23/01 - 00:00:00, 02:00:00, 02:30:00, 05:00:00-06:00:00, 07:00:00, 08:30:00, 
+09:00:00, 11:00:00-15:00:00, 16:00:00, 21:30:00, 22:30:00
+10/24/01 - 13:00:00-14:00:00, 15:30:00-16:30:00, 18:30:00-22:30:00
+10/25/01 - 10:00:00-14:30:00
+It is advisable to regard the supersaturation numbers 10/21-10/25 with some 
+suspicion, as there appears to be some sort of obstruction of the pipe during 
+this period. However, no membrane damage occurred and continuity between 
+deployments on 10/26 is good.
+
+Between 10/14/01-10/26/01, depth measurements indicate that the sonde was 
+somehow pushed toward the surface and became lodged in the pipe. Post retrieval 
+data for the deployment ending 10/26 shows that depth sensor had drifted to some 
+degree, but not enough to account for the peculiar readings. At the beginning of 
+the subsequent deployment, depths were indicative of some obstruction that 
+appears to have cleared early in the deployment. All the data were retained, but 
+cannot be considered wholly reliable because water flow might have been 
+restricted to some degree.
+
+10/18/01 18:00:00 - Turbidity spiked to greater than 50 NTU
+
+Turbidity outliers for October. Small negative and/or zero values, possibly the 
+result of a calibration error.
+10/26/01 - 15:30:00-16:30:00, 18:00:00-19:30:00, 21:00:00, 21:30:00, 22:30:00-
+23:30:00
+
+November 1-31, 2001 Sampling period:
+Potter's Cove:
+Turbidity spike greater than 100 NTU on the following date:
+11/03/01 - 04:00:00 - Probably the result of an animal or other biological 
+matter occluding the probe. Data retained.
+
+11/04/01 06:00:00-11/05/01 09:30:00 - Abrupt change in DO charge indicates a 
+problem. DO membrane failed integrity test at post-deployment calibration check. 
+Data were deleted.
+
+11/05/01 10:00:00-11/19/01 10:30:00 - Time stamp off by 20 seconds, corrected to 
+read on the hour and half-hour.
+
+Supersaturation levels of dissolved oxygen (> 120%) were noted for the following 
+dates and times:
+11/05/01 - 15:00:00-16:00:00
+11/26/01 - 20:30:00
+11/27/01 - 16:30:00
+11/28/01 - 18:30:00
+
+T-Wharf:
+11/05/01 09:30:00-11/19/01 10:00:00 - Time stamp is off by 20 seconds, corrected 
+to read on the hour and half hour.
+
+11/05/01 09:30:00-11/20/01 10:00:00 - Continuity for this deployment is poor, 
+possibly because the unit was lodged in the pipe. Depth continuity is off by 
+more than 1 meter, and chances are good that circulation in the pipe was poor. 
+However, the obstruction did clear itself after 2 tidal cycles (by 11/06/01 
+15:30:00) and the rest of the deployment seems fine. All data have been 
+retained.
+
+Turbidity spike of greater than 50 NTU occurred on the following date and time:
+11/17/01 11:00:00 - This is most likely caused by transient organic matter on or 
+near the sensor, and should be considered an anomalous reading.
+
+December 1-31, 2001 Sampling period
+Potter's Cove:
+Data missing on the following dates and times is the result of battery failure:
+12/24/01 10:00:00-19:30:00, 21:00:00- 22:30:00
+12/25/01 02:00:00-08:00:00
+12/25/01 14:30:00-12/31/01 23:30:00
+
+T-Wharf:
+12/04/01 10:30:00-12/19/01 10:00:00 - Time stamp was off by 19 seconds, 
+corrected to read on the hour and half hour. 
+
+Data missing probably as a result of low battery voltage on the following dates 
+and times:
+12/19/01 09:00:00
+12/29/01 22:00:00
+12/30/01 00:00:00, 11:30:00-19:00:00
+12/30/01 23:00:00-23:30:00
+12/31/01 00:00:00-23:30:00
+
+12. 	Missing data:
+Missing data are denoted by a period in the data set.  Data are missing due to 
+equipment failure where no probes deployed, maintenance/calibration of 
+equipment, elimination of obvious outliers, or elimination of data due to 
+calibration (both pre and post) problems.  For more details on deleted data, see 
+the Anomalous Data Section (11.).  To find out more details about missing data, 
+contact the Research Coordinator at the site submitting the data.
+
+13. 	Post deployment information
+End of Deployment Post-calibration Readings in Standard Solutions:
+Potter's Cove Site:
+Instrument:	Date Retrieved	DO% 	pH	Depth 	Turbidity	SpCond
+	Sal	Batt
+		100%	(7.0)	(0 m)	(0 NTU)	(50 ms/cm)	(30.36)	V
+94M26666	01/11/00	101.1	7.07	-0.132	-0.7	29.96		10.5
+98H0211AA	02/01/01	90.8	7.13	0.13		1.3	30.20		9.8
+94M26666	02/15/01	97.4	7.07	0.47		0.0	29.88		10.8
+98H0211AA	03/12/01	95.5	7.06	0.132		7.7	30.09		10.2
+94M26666	04/09/01	104.2	7.02	0.013		0.5	49.8		10.5
+98H0211AA	04/24/01	102.6	7.2	-0.107	3.6	51.25		9.7
+94M26666	05/09/01	N/A	7.06	-0.030	-0.3	49.69		10.4
+98H0211AA	05/21/01	N/A	7.13	-0.072	0	50.23		10.5
+94M26666	05/30/01	N/A	7.07	-0.-71	0.1	49.61		11.4
+98H0211AA	06/08/01	N/A	7.02	0.025		0	49.68		11.6
+94M26666	06/15/01	N/A	5.8	0.065		0.5	50.08		11.3
+00E0937AD	06/25/01	96.2	7.06	0.020		0.3	49.83		12.0
+01E0566AD	07/06/01	99.7	7.15	-0.250	1.4	48.86		12.5
+00E0937AD	07/12/01	102.7	N/A	-0.133	0.5	49.86		12.1
+01E0566AD	07/23/01	99.5	7.04	0.142		0.6	49.93		12.3
+98H0211AA	07/30/01	93.8	6.76	-0.006	0	50.86		11.3
+01E0566AD	08/06/01	100.4	7.11	0.046		0.8	51.12		12.2
+00E0937AD	08/21/01	N/A	7.18	-0.108	-0.3	50.24		11.1
+01E0566AD	09/04/01	101.2	7.12	-0.004	0.7	50.30		11.9
+00E0937AD	09/10/01	N/A	7.12	0.097		-0.3	50.66		11.1
+01E0566AD	09/18/01	95.8	7.22	-0.015	0.5	50.52		12.0
+00E0937AD	09/26/01	N/A	7.13	-0.077	0.6	50.53		11.0
+01E0566AD	10/03/01	98.2	7.10	-0.01		-0.2	50.56		11.9
+00E0937AD	10/17/01	N/A	N/A	-0.033	0.1	50.40		11.1
+01E0566AD	10/26/01	97.9	7.17	-0.344	0.0	50.42		11.3
+00E0937AD	11/05/01	103.2	7.17	-0.091	-0.1	50.26		10.8
+01E0566AD	11/19/01	102.5	7.14	-0.182	N/A	50.73		11.1
+00E0937AD	12/4/01	100.5	7.18	-0.010	N/A	50.01		11.1
+01E0566AD	12/19/01	99.9	7.13	-0.179	0.9	50.02		11.1
+00E0937AD	1/3/02	99.6	6.97	0.018		0.4	51.38		N/A
+
+T-Wharf Site
+Instrument:	Date Retrieved	DO%	pH	Depth (0.0m)Turbidity	SpCond
+	Sal	Batt
+		100%	(7.0)	(0 m)	(0 NTU)	(50 ms/cm)	(30.36)	V
+94M26667	01/11/01	99.9	7.2	-0.108	0.9	30.37		10.0
+00E0937AB	02/01/01	105.5	7.08	0.099		N/A	30.15		11.6
+94M26667	02/15/01	105.1	7.07	0.1		2.6	29.64		10.6
+00E0937AB	03/12/01	104	7.14	0.115		N/A	30.09		11.7
+94M26667	04/09/01	100.1	7.13	0		-0.1	50.34		10.3
+00E0937AB	04/24/01	101	7.16	-0.151	N/A	51.07		12.1
+94M26667	05/09/01	91.7	7.15	N/A		2.9	50.37		N/A
+00E0937AD	05/21/01	97.8	7.19	-0.092	N/A	50.37		10.9
+94M26667	05/30/01	94.3	7.07	-0.068	17.6	50.11		10
+00E0937AD	06/08/01	97.4	7.05	-0.011	N/A	49.95		10.9
+94M26667	06/15/01	99	7.05	0.073		N/A	50.56		11.7
+00E0937AB	06/25/01	103.5	7.12	0.021		0.9	50.83		12.5
+IE8076AB	07/06/01	98.5	7.51	0.226		0.5	50.89		12.5
+00E0937AB	07/12/01	101.3	7.11	-0.143	0	50.29		12.1
+IE8076AB	07/23/01	99.8	7.06	0.139		0.6	50.03		12.2
+00E0937AB	07/30/01	95.5	6.85	-0.018	0.3	50.61		11.4
+IE8076AB	08/6/01	97.7	7.17	-0.05		0.9	50.13		12.2
+00E0937AB	08/21/01	94.5	N/A	-0.103	N/A	N/A		11.5
+IE8076AB	09/4/01	86.0	7.1	-0.012	0.8	49.41		11.9
+00E0937AB	09/10/01	101	7.03	0.095		3.4	50.5		11.3
+IE8076AB	09/18/01	99	7.12	-0.02		0.1	50.33		11.7
+00E0937AB	09/26/01	95.1	6.96	-0.067	0.1	50.28		11.1
+IE8076AB	10/03/01	100.8	7.08	-0.008	0.3	50.37		11.4
+00E0937AB	10/17/01	98.9	6.93	-0.028	0.6	50.95		11.3
+IE8076AB	10/26/01	101.6	7.16	-0.352	0.2	49.81		11.6
+00E0937AB	11/05/01	99.7	7.09	-0.087	0.0	50.84		11.2
+IE8076AB	11/19/01	100.4	7.13	-0.174	0.2	50.47		11.1
+00E0937AB	12/04/01	102.1	7.01	-0.010	N/A	50.67		11.2
+IE8076AB	12/19/01	100.1	7.12	-0.175	0.7	49.53		11.3
+00E0937AB	01/03/02	101.7	7.33	-0.043	0.3	52.47		11.2
+
+
+14. 	Other Remarks/Notes
+
+On 07/07/2023 this dataset was updated to include embedded QAQC flags for 
+anomalous/suspect data.  System-wide monitoring data beginning in 2007 were 
+processed to allow for QAQC flags and codes to be embedded in the data files 
+rather than detailed in the metadata alone (as in the anomalous/suspect, deleted, 
+and missing data sections above).  Prior to 2006, rejected data were deleted from 
+the dataset so they are unavailable to be used at all, but suspect data were only 
+noted in the metadata document.  Suspect data flags <1> were embedded retroactively 
+in order to allow suspect data to be easily identified and filtered from the dataset 
+if desired for analysis and reporting purposes.  No other flags or codes were embedded 
+in the dataset and users should still refer to the detailed explanations above for 
+more information.
+
+a) Throughout the summer months, the issue of biofouling seems to play a major 
+role in the wide disparity of measurements. Even though sea truthing and post 
+calibration records lend certain credibility to the data, there are a number of 
+measurements in the data set that should be regarded with suspicion, 
+particularly those where readings change drastically over a short period of 
+time. This data continues to be reviewed at the collection site, and it is 
+likely that many anomalous data points will be deleted during this ongoing 
+process. The Potter's Cove site seemed to be particularly affected by biofouling 
+issues this year, possibly owing to conditions within the deployment structure.
+
+b) Any time a reference is made to turbidity data being negative and/or zero, it 
+was recorded as a negative in the raw data file and a zero in the edited data 
+file due to the formatting of Excel. The technician edited none of these data 
+points by hand nor did he/she delete any of them. 
+
+c) There was a great amount of discontinuity between deployments for pH. In 
+general, the same two sondes are successively switched out at individual sites.  
+The pH probes seem to be in disagreement (one reading higher, one lower) at PC 
+for January through April and at TW beginning July through the end of the year.  
+The pattern of this disagreement becomes obvious only when data for the entire 
+year is viewed. Since there is no means to determine which of the probes was 
+functioning properly at the time of data collection (both pH probes being within 
+range and calibrating correctly), the data were all retained.  Some correction 
+of the data may be required as the variation in pH throughout the year is partly 
+artificial.
+
+d) Potter’s Cove:
+
+Low salinity values (< 25 ppt) were noted on the following dates and times:
+03/22/01	03:00; 05:00; 05:30:00
+03/25/01	07:30-16:00; 18:00-23:30
+03/26/01	00:00
+03/26/01	09:00; 12:00-14:00
+03/27/01	00:00
+03/27/01	00:30-18:00; 20:00; 21:00; 23:00; 23:30
+03/28/01	00:00
+03/28/01	00:30-23:30
+03/29/01	00:00
+03/29/01	00:30-16:00; 20:00
+03/30/01	03:00-23:30
+03/31/01	00:00
+03/31/01	00:30-23:30
+Rainfall events for the month of March support these low values.  On 03/21/01, 
+0.97 inches of rain fell and on 03/22/01 1.29 inches of rain fell. The greatest 
+rainfall event (2.95 inches) occurred on 03/30/01 and resulted in low salinity 
+values during early April.  Rainfall events occurring earlier in the month of 
+March resulting in greater then one half an inch of rain are not reflected in 
+the dataset (March 5, 6 and 13 rainfall totals: 0.58, 0.73, and 1.29 inches, 
+respectively).
+
+Low salinity values (< 25 ppt)  Heavy rainfall on 03/30/01 (2.95 inches) 
+accounts for the low salinity values in early April.  Rainfall also occurred on 
+04/06/01, 04/08/01, 04/09/01 and 04/12/01, measuring 0.3, 0.84, 0.15, and 0.35 
+inches, respectively.  Lesser amounts of rain occurred on the 04/17/01 and 
+04/18/01 (0.14 and 0.12 inches respectively).
+04/01/01 - 00:00:00-02:00:00, 03:00:00-23:00:00
+04/02/01 - 00:00:00-15:00:00, 16:00:00-23:30:00
+04/03/01 - 00:00:00-02:00:00, 05:30:00-23:30:00
+04/04/01 - 00:00:00-04:00:00, 05:30:00-15:00:00
+04/05/01 - 11:00:00-23:30:00
+04/06/01 - 00:00:00-01:00:00, 11:00:00-12:00:00
+04/07/01 - 06:30:00, 09:30:00-23:30:00
+04/08/01 - 00:00:00-04:00:00, 12:00:00-14:30:00
+04/09/01 - 05:30:00-08:00:00, 11:30:00-19:00:00
+04/10/01 - 03:00:00, 04:00:00-19:00:00
+04/11/01 - 05:30:00-08:30:00, 14:30:00, 15:00:00
+04/12/01 - 15:00:00-17:00:00, 18:00:00, 19:00:00, 20:00:00-22:00:00, 23:30:00
+04/13/01 - 00:00:00-10:30:00
+04/14/01 - 05:30:00-07:30:00, 09:00:00-23:30:00
+04/15/01 - 00:00:00-09:00:00, 10:30:00-13:00:00, 14:00:00-23:30:00
+04/16/01 - 00:00:00-02:00:00, 04:00:00-13:30:00, 14:30:00
+04/17/01 - 10:00:00, 11:00:00, 15:30:00, 22:30:00-23:30:00
+04/18/01 - 00:00:00-14:00:00
+04/26/01 - 10:30:00-12:30:00, 15:30:00-21:00:00, 22:30:00, 23:00:00
+04/27/01 - 00:30:00-09:30:00
+
+Low salinity values (<25ppt).  These values are the result of storm runoff from 
+urban areas north of the cove. (6/17/01, 2.66" precipitation recorded by NWS 
+station in Warwick, RI) 
+06/21/01 - 02:30:00-06:00:00, 07:00:00-14:30:00, 19:00:00, 21:00:00, 23:00:00, 
+23:30:00
+06/22/01 - 00:00:00-01:30:00, 02:30:00-05:00:00
+06/25/01 - 13:00:00-16:00:00
+06/27/01 - 22:30:00-23:30:00
+06/28/01 - 00:00:00, 06:00:00-12:00:00, 17:00:00-23:30:00
+06/29/01 - 00:00:00-01:30:00, 02:30:00-04:00:00, 05:00:00-09:00:00
+
+
+Low levels of dissolved oxygen (<4 mg/L, =/>28%) were recorded on the following 
+dates and times:
+06/16/01 - 04:00:00, 04:30:00
+06/17/01 - 00:30:00, 01:00:00, 18:00:00, 19:00:00, 20:00:00, 20:30:00
+06/18/01 - 02:30:00, 03:00:00, 21:30:00
+06/19/01 - 05:00:00, 07:00:00, 07:30:00, 08:30:00, 09:00:00, 10:00:00, 18:30:00, 
+21:30:00, 22:00:00, 23:30:00
+06/20/01 - 00:30:00-01:30:00, 02:30:00, 07:00:00, 07:30:00, 23:30:00
+06/21/01 - 00:00:00, 22:30:00
+06/22/01 - 00:00:00, 01:30:00, 03:00:00, 04:30:00, 05:30:00, 07:00:00-09:00:00, 
+10:00:00, 10:30:00, 11:30:00, 16:00:00, 17:00:00, 17:30:00, 19:00:00, 19:30:00, 
+22:30:00-23:30:00
+06/23/01 - 00:00:00, 01:00:00-05:30:00, 06:30:00, 07:00:00, 08:00:00, 08:30:00, 
+10:00:00, 11:00:00, 12:00:00, 12:30:00, 21:00:00
+06/24/01 - 02:00:00, 02:30:00, 03:30:00, 09:30:00-13:30:00, 14:30:00-16:30:00, 
+20:30:00, 21:00:00, 22:00:00, 23:00:00
+06/25/01 - 01:30:00, 03:00:00, 04:00:00-05:30:00, 06:30:00, 07:30:00, 11:00:00, 
+18:00:00, 18:30:00, 19:30:00, 20:30:00, 21:00:00
+06/26/01 - 00:30:00, 01:30:00, 04:00:00, 04:30:00, 05:30:00, 07:00:00, 07:30:00, 
+09:00:00, 10:30:00-12:00:00, 13:00:00-14:00:00, 15:00:00-16:00:00, 17:00:00, 
+17:30:00, 18:30:00, 19:00:00, 21:00:00, 22:00:00, 23:00:00, 23:30:00
+06/27/01 - 00:00:00, 00:30:00, 01:30:00, 02:30:00, 04:30:00, 05:30:00, 07:30:00-
+08:30:00, 10:00:00, 10:30:00, 11:30:00, 12:30:00, 13:00:00, 17:30:00, 18:00:00, 
+22:00:00, 23:30:00
+06/28/01 - 01:00:00-03:00:00, 05:30:00, 06:00:00, 07:00:00, 07:30:00, 12:30:00, 
+13:30:00, 14:00:00, 17:00:00, 17:30:00, 20:00:00, 20:30:00, 23:30:00
+06/29/01 - 00:30:00, 01:00:00, 03:30:00, 04:00:00, 05:00:00-06:00:00, 07:00:00, 
+11:00:00-12:00:00, 13:00:00, 13:30:00, 20:00:00
+06/30/01 - 03:00:00, 04:00:00, 05:00:00, 05:30:00, 07:00:00, 10:00:00, 11:00:00-
+12:00:00, 16:00:00, 16:30:00, 17:30:00, 21:30:00, 22:00:00
+
+Dangerously low dissolved oxygen values (<28%) were recorded on the following 
+dates and times:
+06/19/01 - 22:30:00
+06/20/01 - 00:00:00
+06/22/01 - 11:00:00, 12:00:00, 12:30:00, 18:00:00, 18:30:00
+06/23/01 - 00:30:00, 06:00:00, 07:30:00
+06/24/01 - 22:30:00
+06/25/01 - 02:00:00, 02:30:00, 03:30:00, 06:00:00, 19:00:00, 20:00:00, 21:30:00-
+23:30:00
+06/26/01 - 00:00:00, 01:00:00, 02:00:00-03:30:00, 05:00:00, 08:30:00, 12:30:00, 
+18:00:00, 19:30:00-20:30:00, 21:30:00, 22:30:00
+06/27/01 - 01:00:00, 02:00:00, 03:00:00-04:00:00, 05:00:00, 06:00:00-07:00:00, 
+09:00:00, 09:30:00, 11:00:00, 12:00:00, 13:30:00-17:00:00
+06/28/01 - 03:30:00-05:00:00, 13:00:00, 14:30:00-16:30:00
+06/29/01 - 02:00:00-03:00:00, 04:30:00, 14:30:00-19:30:00, 20:30:00-23:30:00
+06/30/01 - 00:00:00-02:30:00, 03:30:00, 04:30:00, 06:00:00, 06:30:00, 07:30:00-
+09:30:00, 10:30:00, 17:00:00, 18:00:00-21:00:00, 22:30:00-23:30:00
+
+Low dissolved oxygen measurements (< 4 mg/L, =/>28%) were noted on the following 
+dates and times:
+07/01/01 - 02:00:00-04:00:00, 05:30:00, 06:30:00, 09:00:00, 10:00:00, 11:00:00, 
+12:00:00, 13:00:00, 13:30:00, 14:30:00, 15:30:00-17:00:00, 18:00:00-19:30:00, 
+21:00:00-23:00:00
+07/02/01 - 00:00:00-01:30:00, 03:00:00-04:30:00, 06:30:00, 11:00:00-12:30:00, 
+17:00:00, 20:00:00, 21:30:00, 22:30:00, 23:00:00
+07/03/01 - 01:00:00, 02:30:00-4:30:00, 08:30:00-09:30:00, 10:30:00, 16:30:00, 
+17:30:00, 21:30:00, 22:00:00, 23:00:00, 23:30:00
+07/04/01 - 00:00:00-01:00:00, 02:00:00-05:30:00, 11:00:00-12:00:00, 21:00:00-
+22:00:00
+07/5/01 - 00:00:00, 02:30:00, 03:00:00, 05:00:00, 05:30:00, 06:30:00-09:00:00, 
+19:00:00, 20:00:00-22:30:00
+07/06/01 - 01:00:00-03:30:00, 05:00:00, 07:00:00, 07:30:00, 12:00:00, 14:00:00
+07/07/01 - 18:00:00, 18:30:00, 20:30:00, 21:00:00, 23:30:00
+07/08/01 - 00:00:00-04:00:00, 05:00:00, 06:00:00, 07:00:00, 11:30:00-12:30:00, 
+13:30:00, 16:00:00, 17:00:00, 18:00:00, 18:30:00, 19:30:00-21:30:00
+07/09/01 - 03:00:00-05:00:00, 06:30:00, 07:00:00, 08:00:00, 08:30:00, 10:30:00-
+11:30:00, 21:00:00-23:30:00
+07/10/01 - 00:00:00, 00:30:00, 01:30:00, 02:00:00, 03:30:00, 04:00:00, 06:00:00, 
+07:00:00-11:00:00, 12:30:00, 22:00:00-23:30:00
+07/11/01 - 02:30:00, 04:30:00-05:30:00, 06:30:00, 07:00:00, 09:30:00, 10:00:00, 
+13:30:00, 15:30:00, 22:00:00, 23:00:00, 23:30:00
+07/12/01 - 00:00:00-02:00:00, 03:00:00, 04:00:00-05:30:00, 06:30:00-07:30:00, 
+08:30:00-10:30:00, 11:30:00, 22:00:00-23:00:00
+07/13/01 - 01:00:00, 09:00:00, 10:30:00-11:30:00, 13:30:00, 14:30:00, 17:00:00-
+18:30:00
+07/14/01 - 02:00:00, 02:30:00, 03:30:00, 04:30:00, 07:30:00, 08:30:00, 09:00:00, 
+17:30:00, 18:30:00-19:30:00, 20:30:00-22:00:00
+07/15/01 - 00:00:00, 00:30:00, 02:30:00, 23:00:00, 23:30:00
+07/16/01 - 00:00:00-02:30:00, 07:00:00, 08:00:00-09:30:00, 13:00:00, 13:30:00, 
+14:30:00, 16:00:00-18:00:00
+07/17/01 - 05:30:00, 06:00:00, 07:00:00-08:30:00, 09:30:00-10:30:00, 13:00:00, 
+14:30:00, 15:00:00, 17:30:00-20:00:00, 21:30:00-23:00:00
+07/18/01 - 01:00:00, 01:30:00, 08:00:00
+07/19/01 - 02:30:00, 03:00:00, 05:00:00-08:30:00, 23:00:00
+07/20/01 -03:30:00-05:00:00, 06:00:00-08:30:00, 11:00:00, 11:30:00, 19:00:00, 
+20:00:00-21:00:00, 22:30:00, 23:00:00
+07/21/01 - 00:30:00-03:00:00, 04:00:00-06:00:00, 07:00:00, 07:30:00, 09:00:00-
+10:00:00, 23:30:00
+07/22/01 -00:00:00, 00:30:00, 01:30:00-07:00:00, 16:00:00, 20:30:00, 21:00:00, 
+22:00:00, 22:30:00
+07/23/01 - 00:00:00, 00:30:00, 03:00:00, 05:00:00, 08:00:00-09:00:00, 23:30:00
+07/24/01 - 00:00:00, 04:00:00-06:30:00, 21:00:00
+07/25/01 - 01:30:00, 02:00:00, 06:00:00-08:00:00
+07/26/01 - 23:00:00, 23:30:00
+07/28/01 - 02:30:00, 03:00:00
+07/28/01 - 05:00:00
+07/29/01 - 00:30:00, 01:30:00-02:30:00, 04:00:00, 05:00:00-07:00:00, 08:00:00, 
+17:00:00, 22:00:00, 22:30:00
+07/30/01 - 00:30:00, 02:00:00, 02:30:00, 03:30:00, 05:00:00-06:00:00
+
+Dangerous levels of dissolved oxygen (<28%) were recorded on the following dates 
+and times:
+07/01/01 - 00:00:00-01:30:00, 06:00:00, 07:00:00-08:30:00, 09:30:00, 10:30:00, 
+11:30:00, 12:30:00, 17:30:00, 20:00:00, 20:30:00, 23:30:00
+07/02/01 - 02:00:00, 02:30:00, 05:00:00-06:00:00, 07:00:00, 07:30:00
+07/03/01 - 22:30:00
+07/04/01 - 01:30:00
+07/05/01 - 23:00:00, 23:30:00
+07/06/01 - 0:00:00, 0:30:00, 04:00:00
+07/08/01 - 16:30:00, 17:30:00, 19:00:00
+07/09/01 - 05:30:00, 06:00:00, 07:30:00
+07/10/01 - 01:00:00, 04:30:00-05:30:00, 06:30:00
+07/11/01 - 06:00:00, 22:30:00
+07/12/01 - 02:30:00, 06:00:00
+07/14/01 - 20:00:00
+07/16/01 - 03:00:00-06:30:00, 07:30:00, 15:00:00, 15:30:00, 18:30:00-23:30:00
+07/17/01 - 00:00:00-05:00:00, 06:30:00,0 9:00:00, 15:30:00-17:00:00, 20:30:00, 
+21:00:00
+07/18/01 - 02:00:00-07:30:00
+07/19/01 - 03:30:00-04:30:00
+07/20/01 - 21:30:00, 22:00:00, 23:30:00
+07/21/01 - 00:00:00, 03:30:00
+07/22/01 - 01:00:00
+07/23/01 - 02:30:00, 03:30:00-04:30:00, 05:30:00-07:30:00
+
+Dangerously low dissolved oxygen (< 28%) measurements occurred on the following 
+dates and times:
+08/01/01 - 22:30:00
+08/03/01 - 01:30:00, 05:30:00, 06:00:00
+08/04/01 - 21:00:00
+08/05/01 - 01:30:00, 02:00:00, 04:30:00, 23:00:00, 23:30:00
+08/06/01 - 01:00:00- 02:00:00, 03:00:00, 06:00:00, 07:30:00
+08/07/01 - 01:30:00, 05:30:00, 06:00:00
+08/08/01 - 01:00:00, 02:00:00-04:00:00, 23:30:00
+08/09/01 - 01:30:00, 02:00:00
+08/10/01 - 02:00:00, 04:00:00, 04:30:00, 06:00:00
+08/11/01 - 00:00:00, 00:30:00, 01:30:00, 02:00:00, 04:00:00
+08/13/01 - 00:30:00, 01:00:00
+08/14/01 - 00:00:00-02:00:00, 03:00:00, 05:30:00-07:00:00
+
+Low levels of dissolved oxygen (< 4 mg/L, =/>28%). 
+08/01/01 - 06:00:00, 21:00:00-22:00:00, 23:00:00
+08/02/01 - 00:00:00, 05:00:00, 07:30:00, 19:00:00-23:30:00
+08/03/01 - 00:00:00-01:00:00, 02:00:00, 02:30:00, 03:30:00, 04:30:00, 06:30:00-
+07:30:00, 13:00:00, 13:30:00, 21:30:00, 22:00:00
+08/04/01 - 00:30:00, 02:30:00-03:30:00, 05:30:00-07:00:00, 08:00:00, 09:00:00-
+10:00:00, 11:30:00-14:30:00, 20:00:00, 20:30:00, 21:30:00-23:30:00
+08/05/01 - 00:00:00-01:00:00, 02:30:00, 03:30:00, 05:00:00-08:00:00, 11:30:00, 
+12:30:00, 20:30:00-22:30:00
+08/06/01 - 00:00:00, 00:30:00, 02:30:00, 03:30:00-05:30:00, 06:30:00, 07:00:00, 
+08:00:00-09:00:00, 11:00:00, 20:00:00-23:30:00
+08/07/01 - 00:00:00-01:00:00, 02:00:00-05:00:00, 06:30:00-09:30:00, 10:30:00-
+12:30:00, 13:30:00-14:30:00, 21:30:00-23:30:00
+08/08/01 - 00:00:00, 00:30:00, 01:30:00, 04:30:00, 05:00:00, 20:30:00, 22:00:00-
+23:00:00
+08/09/01 - 00:00:00-01:00:00, 02:30:00-05:00:00, 06:00:00-07:00:00, 09:30:00-
+13:00:00, 14:30:00, 20:30:00, 21:30:00-23:30:00
+08/10/01 - 00:00:00-01:30:00, 02:30:00-03:30:00, 05:00:00, 05:30:00, 06:30:00-
+08:30:00, 09:30:00, 10:00:00, 15:30:00, 18:00:00-23:30:00
+08/11/01 - 01:00:00, 02:30:00-03:30:00, 04:30:00-07:00:00
+08/12/01 - 03:00:00, 07:30:00, 11:30:00, 13:00:00-14:00:00
+08/13/01 - 00:00:00, 02:00:00, 03:30:00-05:00:00, 06:00:00, 07:00:00, 07:30:00, 
+11:00:00-16:00:00, 21:00:00-23:30:00
+08/14/01 - 02:30:00, 03:30:00-05:00:00, 09:00:00, 09:30:00
+08/15/01 - 02:30:00-04:30:00, 06:00:00-07:00:00
+08/21/01 - 10:30:00-13:00:00, 22:30:00-23:30:00
+08/22/01 - 00:00:00, 03:30:00-08:30:00, 10:30:00-11:30:00, 23:00:00
+
+Dangerously low dissolved oxygen values (< 28%) were noted for the following 
+dates and times.
+09/04/01	17:30:00
+09/05/01	00:30:00-03:30:00
+09/10/01	23:00:00
+09/13/01	19:00:00-20:00:00, 21:30:00, 22:00:00, 22:30:00
+09/18/01	02:30:00, 03:00:00, 04:30:00
+
+Low levels of dissolved oxygen (< 4 mg/L and =/> 28%) occurred during the 
+following sampling periods.
+09/04/01	16:00:00-17:00:00, 18:00:00-23:30:00
+09/05/01	00:00:00, 04:00:00
+09/06/01	21:00:00, 22:00:00
+09/07/01	02:00:00-04:00:00, 06:30:00, 07:00:00, 11:30:00-12:30:00
+09/10/01	19:00:00-22:30:00, 23:30:00
+09/11/01	00:00:00-02:30:00, 05:30:00-07:30:00, 23:30:00
+09/12/01	04:30:00-08:30:00
+09/13/01	00:30:00, 01:30:00-13:00:00, 18:30:00, 20:30:00, 21:00:00, 23:00:00, 
+23:30:00
+09/14/01	00:00:00-01:00:00, 02:00:00, 03:30:00-11:00:00, 12:00:00-13:00:00, 
+17:00:00, 17:30:00, 18:30:00-23:30:00
+09/15/01	00:00:00-02:30:00, 06:00:00, 07:00:00, 08:30:00, 11:00:00, 22:30:00
+09/16/01	00:00:00-5:30:00, 6:30:00-10:00:00, 19:30:00-23:30:00
+09/17/01	00:00:00-05:30:00, 19:00:00, 21:00:00-23:30:00
+09/18/01	00:00:00-02:00:00, 03:30:00, 04:00:00, 05:00:00-09:00:00
+09/26/01	16:30:00
+09/27/01	03:00:00
+
+Low dissolved oxygen (<4 mg/L and =/> 28%) measurements were noted on the 
+following dates and times::
+10/03/01 - 03:00:00-04:00:00, 08:00:00
+10/04/01 - 04:00:00, 05:00:00
+10/05/01 - 02:30:00, 03:30:00-04:30:00, 06:30:00, 07:30:00, 08:30:00, 09:00:00
+10/29/01 - 23:30:00
+
+
+e) T-Wharf:
+
+Low salinity values (<25 ppt) were recorded on the following dates and times: 
+These values likely reflect storm runoff during the period.
+03/26/01 - 04:00:00, 06:30:00, 12:30:00, 16:00:00, 16:30:00
+03/27/01 - 06:30:00
+03/29/01 - 06:00:00-07:30:00, 08:30:00
+03/31/01 - 07:30:00, 08:30:00, 19:30:00-21:00:00
+
+Low salinity (<25ppt) was recorded on the following dates and times. A highly 
+unusual circumstance, most likely the result of heavy rainfall coupled with 
+shallow depth at which measurements were taken.
+04/01/01- 08:00:00-09:30:00, 10:30:00, 13:30:00, 16:00:00, 20:30:00-22:00:00
+04/02/01 - 08:30:00-10:30:00, 14:30:00, 15:30:00, 16:30:00, 20:30:00, 21:30:00-
+23:30:00
+04/03/01 - 10:00:00-11:30:00, 23:00:00, 23:30:00
+04/04/01 - 00:00:00, 00:30:00, 01:30:00, 13:00:00, 14:00:, 14:30:00, 21:00:00, 
+21:30:00
+04/13/01 - 16:30:00
+04/14/01 - 21:00:00-22:00:00
+04/15/01 - 09:30:00-10:30:00, 21:30:00-23:00:00
+04/16/01 - 00:00:00-01:00:00
+04/16/01 - 08:30:00
+04/16/01 - 11:00:00, 11:30:00, 13:30:00-15:00:00, 17:30:00-19:00:00
+
+Low levels of dissolved oxygen (<4 mg/L) were recorded on the following dates 
+and times:
+06/18/01 - 8:30:00, 22:00:00
+06/19/01 - 1:30:00
+06/21/01 - 11:00:00, 23:00:00
+06/23/01 - 21:30:00
+06/24/01 - 10:00:00, 14:00:00, 22:30:00
+06/25/01 - 3:30:00, 6:00:00, 6:30:00, 14:00:00
+06/26/01 - 06:30:00, 12:00:00, 21:00:00, 21:30:00
+06/27/01 - 00:30:00, 03:30:00-05:00:00, 08:30:00, 09:00:00, 13:00:00, 20:30:00, 
+21:00:00, 22:00:00, 22:30:00
+06/28/01 - 04:30:00
+06/29/01 - 10:30:00
+06/30/01 - 03:30:00, 16:00:00
+
+Low levels of dissolved oxygen (<4 mg/L) was recorded for the following dates 
+and times.
+07/01/01 - 00:00:00, 00:30:00
+07/02/01 - 00:30:00, 02:30:00, 04:00:00
+07/03/01 - 00:00:00, 06:00:00
+07/04/01 - 02:30:00, 03:00:00, 07:00:00
+07/05/01 - 02:00:00, 03:00:00, 04:30:00, 23:30:00
+07/06/01 - 03:30:00, 12:00:00
+07/07/01 - 01:00:00, 04:30:00, 21:30:00
+07/08/01 - 09:30:00
+07/09/01 - 04:00:00, 05:00:00, 06:30:00, 07:00:00, 20:00:00, 23:00:00, 23:30:00
+07/10/01 - 04:00:00, 05:30:00, 06:00:00, 07:00:00, 07:30:00, 19:30:00, 20:30:00-
+21:30:00
+07/11/01 - 07:00:00, 11:30:00, 21:00:00, 21:30:00
+07/12/01 - 05:30:00-07:30:00, 08:30:00, 15:30:00, 18:30:00
+07/13/01 - 01:00:00, 09:30:00, 10:00:00, 20:30:00
+07/14/01 - 10:30:00, 17:00:00, 20:00:00, 21:00:00, 23:00:00
+07/15/01 - 02:30:00, 06:30:00, 11:00:00
+07/17/01 - 10:00:00, 10:30:00, 11:30:00-12:30:00
+07/18/01 - 09:00:00
+07/19/01 - 09:00:00, 10:30:00, 18:30:00, 21:30:00
+07/20/01 - 00:00:00, 07:00:00, 23:00:00
+07/22/01 - 03:30:00
+07/23/01 - 02:30:00
+07/24/01 - 23:00:00
+07/25/01 - 01:30:00, 06:30:00, 07:30:00
+07/26/01 - 03:30:00, 12:30:00, 15:30:00, 19:30:00
+07/27/01 - 01:00:00, 05:00:00, 08:30:00-09:30:00, 21:30:00
+07/28/01 - 05:30:00, 09:00:00, 09:30:00, 10:00:00
+07/29/01 - 10:00:00
+07/30/01 - 01:00:00, 13:00:00
+07/31/01 - 00:30:00
+
+Dangerously low levels of dissolved oxygen (<28%) were noted for the following 
+dates and times:
+07/10/01 - 06:30:00
+07/22/01 - 02:30:00
+
+Low levels of dissolved oxygen (< 4 mg/L, =/> 28%) were noted on the following 
+dates and times.
+08/04/01 - 23:30:00
+08/05/01 - 00:30:00
+
+
+
+

@@ -1,0 +1,251 @@
+Old Woman Creek (OWC) NERR Site Water Quality Metadata 
+May through October, 1995
+Latest Update: August 12, 1998
+
+1. Principal Investigator & contact persons:
+
+Dr. David Klarer, Research Coordinator
+Mr. Gene Wright, Manager
+
+Old Woman Creek SNP and NERR
+2514 Cleveland Road East
+Huron, Ohio 44839
+phone: (419) 433-4601
+
+2. Entry verification:
+
+	The data were directly downloaded from the YSI data loggers into the YSI 
+PC6000 program in the PC. The data were graphed and visually checked for any 
+obvious outliers. The data were then transferred to an Excel spreadsheet.  The 
+data files were edited to remove headers, footers, and spaces.  CDMO Excel 
+macros were used to format data, to check for outliers and to determine missing 
+dates and times, which were then added to the data file.  Missing data were 
+inserted into the spreadsheet and denoted by periods. The data files were then 
+checked for readings that were outside the instrument range.  These data were 
+removed and replaced with a period. An explanation for the missing and the 
+deleted data is included in this meta data sheet.  The files were then 
+transfered along with the associated metadata sheet by disk to the CDMO.  The 
+files are archived at OWC. Dr. Klarer is responsible for the deployment of the 
+data loggers and for data management 
+
+3. Research Objectives:
+
+	Measurements are taken every 15 minutes over approximately two week 
+periods at two sites within the Old Woman Creek estuary- one in the upper 
+reaches at State Route 2 and the other near the mouth, just south of State Route 
+6. The purpose of this monitoring program is to document the role of Great Lakes 
+estuaries in mitigating storm flow that passes through them.  
+
+4. Research methods:
+
+	The YSI monitoring program began on 24 May 1995 at both sites.  Prior to 
+deployment of the data loggers, a 4 inch diameter PVC pipe was bolted to a metal 
+sign post that had been driven into the sediment.  Each pipe had 4 rows of holes 
+drilled into it spanning the area of the probe guard on the data logger so that 
+the probes would have direct contact with the surrounding waters.  The data 
+logger at site SU is .18 meters above the bottom, while the YSI at site WM is 
+0.09 meters above the bottom.  Dissolved oxygen, pH, temperature, and specific 
+conductance readings are taken when the instrument is pulled at each site. On 
+alternate weeks, the data loggers are pulled.  The data is retrieved from each 
+data logger and each data logger is recalibrated (according to the directions in 
+the YSI Operations Manual)  before being returned to the field.  Conductivity, 
+pH (2 point calibration), and turbidity (2 point calibration) was calibrated 
+using commercial standards.
+
+5. Site location and character:
+
+	Old Woman Creek National Estuarine Research Reserve is located on the 
+southern shore of Lake Erie, slightly east of the city of Huron, Ohio (Latitude 
+41 22' N; longitude 82 31' W). 
+	The data logger at the State Route 2 (SU) 41 22’ 57” N, 82 30’ 52” W site 
+is very near the southern boundary of the reserve.  The data logger is sited 
+near a concrete piling of the eastbound Ohio State Route 2 bridge.  At this site 
+the creek is relatively deep and narrow.  Although water direction and flow is 
+influenced at this site by changes in Lake Erie water levels, this site doesn't 
+have direct contact with Lake Erie waters. 
+	The data logger at State Route 6 (WM) 41 22’ 56” N, 82 30’ 26” W is very 
+close to the mouth of Old Woman Creek.  In this portion of the Reserve, the 
+creek is very shallow but extends over a large surface area.  This site  
+frequently experiences influx of Lake Erie waters.  
+
+6. Data collection periods:
+
+	Sampling at both sites began on May 24, 1995 at 12:00:00.  Sampling for 
+1995 ceased at WM site on October 20, 1995 at 15:15:00.  Sampling for 1995 
+ceased at SU site on October 12, 1995 at 09:15:00.
+
+7. Associated projects:
+
+	There were no research projects directly associated with the two data 
+loggers.
+
+II Physical structure descripters:
+
+8. Variable sequence, column format, range of measurements, units, Resolution, 
+Accuracy:
+
+Variable Name       Range of Measurements (units)                 Resolution                    
+Accuracy
+
+DATE                     1-12, 1-31, 00-99 (month,day,year)         1 month, 1 
+day, 1year       NA
+HOUR                     0-24, 0-60, 0-60 (hours,minutes,seconds)  1hr, 1 min, 1 
+sec            NA
+WATERTEMP        -5 to 45 (degrees C)                                 0 .01 0C                      
++/-
+0.150C
+SPCOND                  0-100 (mS/cm)                                        
+0.01 mS/cm          +/-.5% 
+reading + 									
+	0.001mS/cm 
+ SALINITY                0-70 (parts per thousand-ppt)               0.01 ppt                
++/-1.0% of 
+reading or 0.1ppt 									
+	(whichever is greater)
+DO%SAT                  0-200 (% saturation)                            0.1% 
+@air saturation   +/-2% 
+@air sat.
+		           200-500(%saturation)                       0.1% @air 
+saturation   +/-6% 
+@air sat.
+DO (mg/l)                   0-20 (mg/l)                                           
+0.01 mg/l                      +/-0.2 
+mg/l
+                                   20-50 (mg/l)                                          
+0.01 mg/l                      +/-0.6 
+mg/l
+DEPTH (shallow)       0-9.1 (meters above data logger)        0.001 m                         
++/- 
+0.018 m
+pH                               2 to 14 units                                         
+0.01 units                      +/-0.2 
+units
+
+	Data columns are separated by tabs
+
+
+
+
+9. Coded variable indicator and variable code definitions:
+   SU- State Route 2      WM-State Route 6
+
+10. Data anomalies:
+ May 1995: None
+ June 1995:
+	WM: very low oxygen levels from June 15 through  June 21 at 07:00:00 (when 
+data 
+logger was changed)  may be due to colonization of oxygen probe by periphyton
+	WM: conductivity and salinity data June 21 from 09:30:00 to 11:00:00 
+deleted 
+because of 		anomalies in data
+ July 1995: 
+	WM: conductivity and salinity data July 27 from 13:00:00 to 15:15:00 
+deleted 
+because of 		anomalies in data
+	SU: conductivity and salinity data July 3 at 10:30:00 deleted because of 
+anomalies in 	
+	data
+	
+August 1995: 
+	WM: conductivity and salinity data August 01 from 11:30:00 to 14:15:00 
+deleted 
+because 		of anomalies in data
+	WM: conductivity and salinity data August 17 from 11:45:00 to August 18 
+00:15:00 	
+	deleted because of anomalies in data
+September 1995:None
+October 1995:
+	WM: conductivity and salinity data from October 7  07:45:00 through 
+October 20 at 	
+	15:15:00 is suspect because conductivity probe was irregularly out of the 
+water 	
+	during this period. 
+	WM: Depth data at following times deleted because depth probe was out of 
+water:
+		6October 07:00:00 to 10:00:00
+		6October 17:45:00 to 7 October 18:45:00
+	    	7October 19:45:00 to 8 October 01:00:00
+		10 October 07:15:00 to 07:30:00
+		13 October 05:30:00 to 08:15:00
+		13 October 10:00:00
+		13 October 18:15:00 to 16 October 07:15:00
+		16 October 09:15:00
+		16 October 13:00:00 to 13:15:00
+		16 October 14:30:00
+		17 October 19:15:00 to 18 October 08:45:00
+		18 October 12:30:00 to 12:45:00
+		18 October 14:00:00
+		19 October 14:15:00
+		19 October 21:45:00 to 20 October 15:15:00
+	
+
+11. Missing data:
+May 1995:
+WM: began collecting data on 24 May 1995 at 12:00:00
+SU: began collecting data on 24 May 1995 at 12:00:00
+June 1995:
+WM: 7 June 09:45:00 to 12:45:00 pulled datalogger to clean and recalibrate
+WM: 21 June 07:15:00 to 09:15:00 pulled datalogger to clean and recalibrate
+WM: conductivity and salinity data June 21 from 09:30:00 to 11:00:00 deleted 
+because of 	
+	anomalies in data
+SU: 8 June 09:00:00 to 11:45:00 pulled datalogger to clean and recalibrate
+SU: 20 June 08:30:00 to 09:45:00 pulled datalogger to clean and recalibrate
+July 1995:
+WM: 4 July 07:45:00 to 09:15:00 pulled datalogger to clean and recalibrate
+WM: 27 July 08:15:00 to 12:45:00 pulled datalogger to clean and recalibrate
+WM: conductivity and salinity data July 27 from 13:00:00 to 15:15:00 deleted 
+because of 	
+	anomalies in data
+SU: 3 July 08:45:00 to 10:15:00 pulled datalogger to clean and recalibrate
+SU: conductivity and salinity data July 3 at 10:30:00 deleted because of 
+anomalies in 	
+	data
+SU: 26 July 09:15:00 to 11:15:00 pulled datalogger to clean and recalibrate
+SU: 31 July 08:00:00 to 11:30:00 pulled datalogger to clean and recalibrate
+August 1995:
+WM:1 August 07:45:00 to 11:15:00 pulled datalogger to clean and recalibrate
+WM: conductivity and salinity data August 01 from 11:30:00 to 14:15:00 deleted 
+because 	
+	of anomalies in data
+WM: 17 August 08:15:00 to 11:30:00 pulled datalogger to clean and recalibrate
+WM: conductivity and salinity data August 17 from 11:45:00 to August 18 00:15:00 
+	
+	deleted because of anomalies in data
+WM: 28 August 08:15:00 to 10:45:00 pulled datalogger to clean and recalibrate
+SU: 16 August 08:45:00 to 10:15:00 pulled datalogger to clean and recalibrate
+SU: 29 August 08:30:00 to 09:45:00 pulled datalogger to clean and recalibrate
+September 1995:
+WM: 13 September 08:30:00 to 10:15:00 pulled datalogger to clean and recalibrate
+WM: 25 September 09:00:00 to 10:45:00 pulled datalogger to clean and recalibrate
+SU:12 September 08:45:00 to 10:30:00 pulled datalogger to clean and recalibrate
+SU:26 September 08:30:00 to 09:45:00 pulled datalogger to clean and recalibrate
+October 1995:
+WM: Depth data at following times deleted because depth probe was out of water:
+		6October 07:00:00 to 10:00:00
+		6October 17:45:00 to 7 October 18:45:00
+	    	7October 19:45:00 to 8 October 01:00:00
+WM: 9 October 09:30:00 to 11:45:00 pulled datalogger to clean and recalibrate
+WM: Depth data at following times deleted because depth probe was out of water:
+		10 October 07:15:00 to 07:30:00
+		13 October 05:30:00 to 08:15:00
+		13 October 10:00:00
+		13 October 18:15:00 to 16 October 07:15:00
+		16 October 09:15:00
+		16 October 13:00:00 to 13:15:00
+		16 October 14:30:00
+		17 October 19:15:00 to 18 October 08:45:00
+		18 October 12:30:00 to 12:45:00
+		18 October 14:00:00
+		19 October 14:15:00
+		19 October 21:45:00 to 20 October 15:15:00
+WM: Pulled datalogger on 20 October at 15:30:00 to end 1995 data collection 
+SU: Pulled datalogger 12 October at 09:30:00 to end 1995 data collection 
+November 1995:
+WM: no data collected
+SU: no data collected
+December 1995:
+WM: no data collected
+SU: no data collected
+
+

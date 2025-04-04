@@ -1,0 +1,1567 @@
+Jobos Bay (JOB) NERR WATER QUALITY METADATA
+JANUARY 1998 TO DECEMBER 1998
+Latest Update: July 16, 2002
+ 
+I. Data Set & Research Descriptors
+  
+1. Principal investigator(s) and contact persons
+ 	Principal Investigator:
+ 	Carmen González
+	Manager
+	Jobos Bay NERR
+	Call Box B
+	Aguirre, Puerto Rico 00704
+	Phone:(787)853-4617, (787) 853-3569
+	Fax: (787) 853-4618
+	cgonzalez @ ocean.nos.noaa.gov
+ 
+	Contact Person:
+ 	Carmen González
+	See Above
+ 
+	Pedro Robles
+	Research Coordinator
+	Jobos Bay NERR
+	Call Box B
+	Aguirre, Puerto Rico 00704
+	Phone: (787) 853-4617
+	Fax: (787) 853-4618
+ 
+	Ileana Pérez
+	Laboratory Director
+	Department of Natural and Environmental Resources
+	Stop 3 l/2, Muñoz Rivera Avenue
+	Puerta de Tierra, San Juan, P. R. 
+	P. O. Box 5887, San Juan, P. R. 00906
+	Phone: (787) 724-8648, (787) 724-8774 Ext. 334
+	Fax: (787) 722-4629, (787) 724-0365
+ 
+	Luis A. Encarnación
+	Biologist
+	Department of Natural and Environmental Resources
+	Stop 3 l/2, Muñoz Rivera Avenue
+	Puerta de Tierra, San Juan, P. R. 
+	P. O. Box 5887, San Juan, P. R. 00906
+	Phone: (787) 724-8648, 787) 724-8774 Ext. 334
+	Fax: (787) 722-4629, (787) 724-0365
+ 
+2. Entry verification:
+ 	After retrieving and carefully cleaning the dataloggers, they are examined 
+to detect any structural damage to the body or to the probes. The DO membrane is 
+checked for ruptures and then replaced if needed. The turbidity probe is 
+examined to assure that no obstruction affects the wiper and that the sensor is 
+clean. Manipulation and observation are registered in the field log for each 
+deployment respectively.
+	The YSI is connected to a Pentium II 400 MHz IBM compatible computer and 
+the data are reviewed using the YSI computer program PC6000 that accompanies the 
+YSI 6000 datalogger. The file is uploaded in two formats, one in YSI PC6000 
+format and the other in Comma and "" Delimited format then the file is renamed 
+to have a ".txt" extension. The YSI Ecowatch for Windows program is used to plot 
+the data and delete the pre- and post deployment data that are not in range of 
+the other readings. The program is used to perform basic statistical analysis 
+(i,e., min., max., mean, std. dev.). This information is printed out with a list 
+of data and filed for each station.
+	The information obtained from this printout is used during file review to 
+detect any gross outliers such as data taken when the datalogger was removed 
+from the water or those caused by instrument failure. The data are imported into 
+a Microsoft Excel file that contains the current month's cumulative recordings. 
+When a complete month of data has been recorded the file is ready for review.
+	The data review includes several steps.  The first step is to format the 
+data so that the parameter columns are in the correct order.  Secondly, a 
+modified Excel 97 version of the CDMO Excel 5.0 macro is used to check and 
+determine if there are any dates and times that were not recorded due to 
+maintenance, battery failure, or other cause. Missing dates and times are 
+inserted into the file and a period is inserted into the cells where data would 
+normally be. The reason for the missing data is recorded onto the Missing data 
+Log. The data are then formatted so that the parameter columns are in the 
+correct size and the data have the correct number of decimal place holders as 
+specified by the NERR CDMO. Next, the data are filtered using the CDMO Excel 97 
+macro to find readings outside the instrument measurement range and the "normal" 
+range for the site in question.
+	Data outside the instrument range is/are removed from the file and a 
+period is inserted to the cell(s).  An explanation for the missing dates and 
+time are recorded onto the Missing data Log.  Data that were outside the 
+"normal" range of water quality for a particular site is investigated for 
+validity based on field observation, QC check, PC6000 printouts, and instrument 
+diagnostics. If the datum is/are rejected from the file a period is inserted to 
+the cell(s) and an explanation for the missing date and time is recorded onto 
+the Missing data Log. The information recorded on the Missing data Log is 
+transferred to the metadata form. The metadata form is then submitted with the 
+data to the CDMO.  Data is stores in zip disks.  Dr. Pedro Robles, Research 
+Coordinator is responsible for the data management.
+ 
+3. Research Objectives:
+ 	The four dataloggers are deployed at Mar Negro area, major component of 
+Jobos Bay Estuarine Research Reserve, and are suspended from a pole at one foot 
+from the bottom of the selected site. Measurements are taken at thirty (30) 
+minute intervals for approximately two-week periods. The sites are identified as 
+representative of areas within the reserve and comparable to the sites that may 
+be receiving impact from human activities in the surroundings areas.
+	Station number six (6), is located in the proximity of Punta Colchones, 
+close to the thermal discharge pipeline, which can be affected by high 
+temperatures and sediment resuspension. 
+	Station number nine (9), the impacted site, collects water quality data in 
+a site associated with runoff from littoral and basin mangroves areas. This 
+sampling station is closer to the Electric Power Thermoelectric Plant, which 
+makes it subject to runoff and potential spills contamination from this 
+industrial facility. Information compiled from historical environmental 
+documents indicate that station nine (9) was used as a disposal site for the 
+residues of the previously operating sugar mill operation, which might have been 
+a high organic input to the sediments.
+	Station number ten (10), located in the mangrove lagoon area is the 
+reference or unimpacted site.
+	Station number eleven (11) is another possible impacted site. Housing 
+development that is not provided with sewage treatment facilities are the 
+potential source of contaminants for this Station. Septic tanks and possible 
+direct disposal constitute the potential contamination sources. Runoffs from 
+agricultural land and other contaminant transport through a drainage channel are 
+possible hazards at station nine (9) and eleven (11).
+ 
+4.	Research methods:
+ 	The Estuarine Water Quality Monitoring began on December 20, 1995 at 
+Station nine (9), February 1, 1996 at Station ten (10), March 15, 1996 at 
+Station eleven (11), and at Station six (6) on December 06, 1996. At this time 
+we are only performing long term water quality monitoring.
+	Before each YSI 6000 datalogger is deployed, calibration and maintenance 
+is performed following the manufacturer's instruction (YSI Manual addendum 7/94, 
+sections 3,4 and 7). Calibration standards are only required for pH, salinity, 
+and turbidity, all other parameters are done as described in the manual. Buffer 
+solutions for two-point calibration (pH 7 and pH 10) are purchased from a 
+scientific supply house. Salinity is calibrated via a specific conductance 
+standard 1000 µs/cm and are purchased from a scientific supply house.  This 
+solution is also prepared in the laboratory of Department of Natural and 
+Environmental Resources (DNER) utilizing KCl following specification of EPA 
+methods.
+	The two-point turbidity calibration (as of January 01, 1997) was performed 
+using a 0 NTU standard using lab grade DI water made at the DNER laboratory and 
+40 NTU standard purchased from a scientific supply house. We are now using 
+(since Jan 01, 1997) a 200 NTU standard purchased from a scientific company. The 
+dissolved oxygen membranes are replaced before deployment and are allowed to sit 
+at least 24 hours prior to deployment.
+	The weather conditions and tide stage during deployment are recorded in 
+the field observation log. Measurements of DO, pH, salinity, specific 
+conductance, temperature, turbidity (secchi) are taken with other calibrated 
+field instruments to check the accuracy of the instrumentation.
+	Each YSI datalogger is tied with steel cable to a wrought iron galvanized 
+pole, which is plunged into the sediments of each sampling area.  Dataloggers 
+are deployed at a depth of 0.3 m. Every 30 minutes during the sampling period 
+measurements are taken for date, time, temperature, specific conductance, 
+salinity, dissolved oxygen saturation, dissolved oxygen concentration, depth, 
+pH, and turbidity. Every two weeks the dataloggers are retrieved, uploaded, 
+cleaned, inspected, and calibrated as noted previously. The datalogger is then 
+ready to be deployed.
+
+5. Site location and character:
+ 	The Jobos Bay National Estuarine Research Reserve (JOBNERR) is located on 
+the southern coastal plain of the island of Puerto Rico, a reserve within the 
+West Indies geographical area. JOBNERR is composed of two major areas: (1) Mar 
+Negro, located on the western margin of the Bay, and (2) Cayos Caribe, a chain 
+of 15 tear-shaped islets located to the southeast. The Mar Negro area comprises 
+the bulk of the Reserve, and consists of mangrove forests and a complex system 
+of lagoons and channels interspersed with salt and mud flats.  Coral reefs and 
+seagrass beds, with small beach deposits and upland areas fringe Cayos Caribe 
+mangrove islands.
+ 	Station 6 is located in the bay close to the peninsular drape area in Mar 
+Negro knows as Punta Colchones.  The datalogger is deployed at about five meters 
+from the emergence of the fallout pipe cooling water from the Thermoelectric 
+Power Plant. This station is subject to high temperatures and sediment 
+resuspension.  The tidal range varies from 12 in. to 14 in. in the vicinity of 
+the monitoring station.  No fresh water input in the vicinity of the station is 
+probable.  The salinity at the vicinity of the monitoring station varies from 
+34.0 ppt to 35.7 ppt.  The station pole is located at 17° 56' 6.5"N and 66° 13' 
+43.6"W.
+	Station 9 is an impacted site and is located at the northeastern part of 
+the Mar Negro unit. The sampling station is associated with the mangrove lagoon 
+area and received the Thermoelectric Power Plant runoff through mudflats and 
+areas adjacent. The tidal range varies from 12 in. to 14 in. in the vicinity of 
+the monitoring station.  No fresh water input in the vicinity of the station is 
+probable. The salinity at the vicinity of the monitoring station varies from 0.0 
+ppt to 41.1 ppt.  The station pole is located at 17° 56' 36.8" N and 66° 14' 
+18.5" W.
+ 	Station 10 is located in a mangrove lagoon not impacted from upland or 
+marine activities. It provided a reference for comparison of the data obtained 
+in other stations, especially to the stations in Mar Negro lagoon environment.  
+The tidal range varies from 12 in. to 14 in. in the vicinity of the monitoring 
+station.  No fresh water input in the vicinity of the station is probable. The 
+salinity at the vicinity of the monitoring station varies from 0.0 ppt to 41.7 
+ppt.  The pole is located at 17° 56' 20.3" N and 66° 45' 26.7" W.
+ 	Station 11 datalogger is tied to a small pier stand in the westernmost 
+lagoon in the Mar Negro unit. Although a chain from a small pier suspends this 
+datalogger, and it has been deployed at the same depth of the other dataloggers. 
+Non point sources of contaminants from residences and boating activities in the 
+vicinity are probable. The lagoon is characterized by dark bottom, tidal range 
+from 12 in. to 14 in., allegedly related to long term deposition of organic 
+wastes from the sugar mill operation when the mill was operating. No fresh water 
+input in the vicinity of the station is probable. The salinity at the vicinity 
+of the monitoring station varies from 0.0 ppt to 36.7 ppt.  The datalogger is 
+suspended by a chain and localized at 17° 56' 41.8" N and 66° 15' 46.0" W.
+ 	All monitoring is considered long term.
+ 
+6. Data collection period: 
+ 	Station nine (9) sampling with the YSI began on December 20, 1995.
+	Station ten (10) sampling with the YSI began on February 1, 1996.
+	Station eleven (11) sampling with the YSI began on March 15, 1996.
+	Station six (6) sampling with the YSI began on December 06, 1996.
+	Station eighteen (18) sampling with the YSI began on October 08, 1998.
+ 
+7. Associated researchers and projects:
+	A water quality and plankton monitoring scheme was initiated in 1995, to 
+monitor 12 stations in the Jobos Bay system. This effort, conducted by the 
+Department of Natural and Environmental Resources Laboratory began in March 
+1995, using a Hydrolab Data sonde 3 with a Surveyor 3 readout system, monitoring 
+the water column on a bimonthly time basis for abiotic parameter similar to the 
+YSI. Monthly samples for nutrients, plankton and chlorophyll were conducted from 
+March to October (Water Quality Monitoring-Spatial and temporal variations of 
+main abiotic and plankton components in JOBNERR, 1996). Samplings were resumed 
+in January 1996 and will be conducted until March 1997).
+ 
+8. Variable sequence, range of measurements, units, resolution and accuracy:
+YSI 6000/6600 datalogger
+
+Variable      Range of Measurements          Resolution           Accuracy
+Date          1-12, 1-31, 00-99 (Mo,Day,Yr)  1 mo, 1 day, 1 yr    NA
+Time          0-24, 0-60, 0-60 (Hr,Min,Sec)  1 hr, 1 min, 1 s     NA
+Temp               -5 to 45 (c)              0.01  C              +/-0.15C
+Sp COND            0-100(mS/cm)              0.01mS/cm            +/-0.5% Of 
+reading + 0.001mS/Cm
+Salinity      0-70 Parts per thousand (ppt)  0.01 ppt             +/- 1% of 
+Reading or 0.1 ppt, (whichever is greater)
+DO            0-200 (% air saturation)       0.1% @air sat        +/-2% @air 
+Saturation
+DO            200-500 (% air saturation      0.1% @ air sat       +/- 6% @ 
+Saturation
+DO                 0-20 (mg/l)               0.01 mg/l            +/- 0.2mg/l
+DO                 20-50 (mg/l)              0.01 mg/l            +/- 0.6mg/l
+Depth (shallow)    0-9.1 (m)                 0.001m               +/- 0.018m
+PH                 2-14 units                0.01 units           +/- 0.2units
+Turb               0-1000 NTU                0.1 NTU              +/- 5% of 
+Reading or 2 NTU (whichever is greater)
+
+Data columns are separated by tabs.  Each file contains a two line
+column header at the top of the page which identifies measurements and 
+units for each column.
+
+ 9. Coded variable indicator and variable code definitions:
+ 	Site definitions: S9 = Station 9
+	Site definitions: S10 = Station 10
+	Site definitions: S11 = Station 11
+	Site definitions: S6 = Station 6
+	Site definitions: S18 = Station 18
+ 	File definitions: site/month/year (ex: XXaug95 = Station data from August 
+	of 1995).
+
+10. Data anomalies:
+January 1998
+
+Station 06
+Low DO Outliers removed			
+01/23/98	16:00:00	through	01/23/98	16:30:00
+01/23/98	18:00:00			
+
+Station 10
+Low DO Outliers removed			
+1/1/98	0:00:00	through	1/11/98	3:30:00
+
+Anomalous Low Turbidity	due to small calibration error		
+1/23/98	16:00:00	through	1/31/98	23:30:00
+
+High Salin Outliers removed				
+1/23/98	16:00:00	through	1/31/98	23:30:00
+
+High SpCond Outliers removed				
+1/23/98	16:00:00	through	1/31/98	23:30:00
+
+Station 11
+High DO due to redeployment on 01/23/98 16:00:00
+
+Anomalous Low Turbidity				
+01/27/98	15:00:00			
+01/28/98	12:30:00			
+01/28/98	10:30:00	through	01/28/98	13:00:00
+01/28/98	14:00:00			
+01/28/98	16:00:00			
+01/28/98	17:00:00			
+01/28/98	21:30:00			
+01/29/98	10:30:00			
+01/29/98	11:30:00	through	01/29/98	14:30:00
+01/29/98	15:30:00			
+01/29/98	16:30:00	through	01/29/98	17:00:00
+01/29/98	20:00:00			
+01/29/98	22:00:00	through	01/29/98	23:30:00
+01/30/98	01:30:00			
+01/30/98	03:00:00	through	01/30/98	03:30:00
+01/30/98	04:30:00			
+01/30/98	09:00:00			
+01/30/98	10:00:00	through	01/30/98	10:30:00
+01/30/98	14:00:00	through	01/30/98	14:30:00
+01/30/98	15:30:00	through	01/30/98	16:30:00
+01/30/98	18:00:00
+01/30/98	20:30:00	through	01/30/98	22:00:00
+01/30/98	21:00:00 	through 01/30/98	21:30:00	
+01/31/98	00:00:00	through	01/31/98	00:30:00
+01/31/98	05:00:00			
+01/31/98	06:00:00	through	01/31/98	06:30:00
+01/31/98	07:30:00	through	01/31/98	12:00:00
+01/31/98	15:30:00	through	01/31/98	16:30:00			
+01/31/98	15:00:00	through	01/31/98	17:00:00
+01/31/98	18:30:00	through	01/31/98	19:30:00
+01/31/98	20:30:00
+01/31/98	21:30:00
+01/31/98	22:30:00	through	01/31/98	23:30:00
+
+February 1998
+
+Station 06
+Internal Error				
+02/13/98	20:30:00	through	02/13/98	21:00:00
+02/14/98	01:30:00	through	02/14/98	02:30:00
+02/14/98	06:30:00			
+02/14/98	08:00:00			
+02/14/98	10:00:00	
+
+Station 10
+High Salin Outliers				
+2/1/98	0:00:00	through	2/11/98	8:00:00
+
+High SpCond Outliers				
+2/1/98	0:00:00	through	2/11/98	8:00:00
+
+Anomalous Low Turbidity	due to small calibration error			
+2/1/98	0:00:00	2/11/98	8:00:00
+
+DO data removed; possible membrane puncture				
+2/10/98	01:00:00	through	2/11/98	08:00:00
+
+Station 11
+Anomalous Low Turbidity				
+02/01/98	00:30:00	through	02/01/98	01:30:00
+02/01/98	02:30:00	through	02/01/98	03:00:00
+02/01/98	04:00:00			
+02/01/98	05:00:00	through	02/01/98	06:30:00
+02/01/98	12:00:00	through	02/01/98	13:30:00
+02/01/98	15:00:00			
+02/01/98	18:00:00	through	02/01/98	18:30:00
+02/01/98	21:30:00			
+02/01/98	23:00:00			
+02/02/98	01:00:00			
+02/04/98	16:30:00			
+02/04/98	17:30:00			
+02/04/98	19:30:00			
+02/05/98	04:00:00			
+02/05/98	05:00:00			
+02/05/98	08:00:00			
+02/05/98	10:00:00			
+02/05/98	12:00:00	through	02/05/98	12:30:00
+02/06/98	00:30:00			
+02/06/98	02:00:00	through	02/06/98	02:30:00
+02/06/98	05:00:00	through	02/06/98	07:30:00
+02/06/98	09:30:00	through	02/06/98	10:00:00
+02/06/98	11:00:00			
+02/06/98	15:00:00			
+02/06/98	16:30:00			
+02/06/98	18:30:00			
+02/06/98	22:00:00	through	02/06/98	23:30:00
+02/07/98	01:00:00	through	02/07/98	03:00:00
+02/07/98	08:00:00	through	02/07/98	09:30:00
+02/07/98	11:00:00	through	02/07/98	14:30:00
+02/07/98	05:30:00	through	02/07/98	06:00:00
+02/07/98	17:00:00	through	02/07/98	19:00:00
+02/08/98	00:30:00			
+02/08/98	08:30:00			
+02/08/98	09:00:00	through	02/08/98	12:00:00
+02/08/98	13:00:00
+02/08/98	14:00:00	through	02/28/98	14:30:00
+02/08/98	15:30:00	through	02/28/98	16:00:00
+02/08/98	18:00:00			
+02/08/98	21:30:00			
+02/09/98	00:00:00			
+02/09/98	12:00:00	through	02/09/98	12:30:00
+02/09/98	13:30:00	through	02/09/98	14:00:00
+02/09/98	15:00:00	through	02/09/98	16:00:00
+02/10/98	13:00:00	through	02/10/98	13:30:00
+
+April 1998
+
+Station 09
+First four DO values were deleted because membrane had not settled yet
+04/07/98 14:00:00 through 15:30
+
+DO removed due to possible membrane puncture				
+04/16/98	22:00:00	through	04/23/98	05:00:00
+
+Anomalous Low Turbidity				
+04/11/98	05:30:00			
+04/11/98	19:00:00			
+04/11/98	21:30:00			
+04/12/98	04:30:00			
+04/12/98	07:00:00			
+04/12/98	12:00:00			
+04/13/98	04:00:00			
+04/13/98	07:30:00	through	04/13/98	08:00:00
+04/14/98	00:30:00			
+04/14/98	01:30:00			
+04/14/98	02:30:00			
+04/14/98	03:30:00			
+04/14/98	04:30:00	through	04/14/98	05:00:00
+04/14/98	06:30:00			
+04/15/98	04:30:00			
+04/15/98	06:30:00
+04/15/98	11:30:00
+04/15/98	12:30:00
+04/21/98	23:30:00
+04/22/98	02:00:00
+04/22/98	08:30:00
+04/23/98	01:30:00
+04/23/98	02:30:00
+
+Anomalous High Turbidity	
+04/14/98	08:00:00
+04/15/98	12:00:00
+04/15/98	16:30:00
+04/23/98	03:30:00
+
+May 1998
+
+Station 06
+No Data due to other reasons
+05/12/98	20:00:00			
+05/12/98	21:30:00			
+05/12/98	23:30:00			
+05/13/98	00:30:00	through	05/13/98	01:30:00
+05/13/98	03:00:00			
+05/13/98	04:30:00	through	05/13/98	05:00:00
+05/13/98	09:30:00	through	05/13/98	10:00:00
+05/13/98	11:00:00			
+05/13/98	12:00:00			
+05/13/98	13:00:00			
+05/13/98	18:30:00	through	05/13/98	20:30:00
+05/13/98	22:00:00	through	05/13/98	22:30:00
+
+Anomalous Low Turbidity				
+05/08/98	16:00:00	through	05/08/98	23:30:00
+05/09/98	00:00:00	through	05/09/98	11:00:00
+05/09/98	12:00:00	through	05/09/98	23:30:00
+05/10/98	00:00:00	through	05/10/98	23:30:00
+05/11/98	00:00:00	through	05/11/98	23:30:00
+05/12/98	00:00:00	through	05/12/98	12:00:00
+05/12/98	13:00:00	through	05/12/98	19:30:00
+05/12/98	20:30:00	through	05/12/98	21:00:00
+05/12/98	22:00:00	through	05/12/98	23:00:00
+05/13/98	00:00:00			
+05/13/98	02:00:00	through	05/13/98	02:30:00
+05/13/98	03:30:00	through	05/13/98	04:00:00
+05/13/98	05:30:00	through	05/13/98	09:00:00
+05/13/98	10:30:00			
+05/13/98	11:30:00			
+05/13/98	12:30:00			
+05/13/98	13:30:00	through	05/13/98	18:00:00
+05/13/98	21:00:00	through	05/13/98	21:30:00
+05/13/98	23:30:00			
+
+Station 09
+High DO Outliers removed			
+05/08/98	16:00:00	through	05/08/98	16:30:00
+
+Salinity, SpCond and DOmg/L were deleted due to extremely high spcond and salinity 
+5/8/98 16:00 through 5/10/98 04:30
+
+Station 11
+High Spcond and Salinity data was removed due to possible calibration error
+05/08/98 16:00:00 – 05/15/98 22:30:00
+
+Anomalous Low Turbidity	due to small calbration error			
+05/08/98	16:00:00	through	05/15/98	22:30:00
+
+June
+
+Station 09
+High DO due to redeployment on 06/11/98 16:00:00
+
+First seven DO values were deleted because membrane had not settled yet
+06/11/98 16:00 through 19:00
+
+DO data removed due to possible membrane puncture				
+06/28/98	19:30:00	through	06/30/98	23:30:00
+
+Station 10
+Data removed due to instrument being out of water
+06/05/98 08:30:00 – 06/07/98 15:30:00
+06/09/98 16:00:00 – 06/11/98 09:30:00
+
+Anomalous Low Turbidity	due to small calibration error			
+6/11/98	10:00:00	through 	6/12/98	7:30:00
+
+Station 11
+Low DO Outliers removed			
+06/23/98	06:00:00	through	06/23/98	08:00:00
+
+Internal Error				
+06/23/98	15:30:00			
+06/30/98	16:00:00	through	06/30/98	23:30:00
+
+All data removed due to instrument being out of water
+06/23/98 09:30:00 – 15:00:00
+
+Anomalous Low Turbidity				
+06/11/98	16:00:00	through	06/11/98	17:00:00
+06/11/98	18:00:00	through	06/11/98	18:30:00
+06/11/98	19:30:00			
+06/12/98	00:00:00			
+06/12/98	01:30:00			
+06/12/98	03:00:00			
+06/12/98	04:00:00			
+06/12/98	05:00:00	through	06/12/98	05:30:00
+06/12/98	07:30:00	through	06/12/98	13:30:00
+06/12/98	14:30:00
+06/12/98	15:30:00	through	06/12/98	19:00:00
+06/12/98	21:30:00			
+06/12/98	23:00:00			
+06/13/98	00:30:00			
+06/13/98	01:30:00	through	06/13/98	03:00:00
+06/13/98	04:30:00	through	06/13/98	06:00:00
+06/13/98	07:00:00	through	06/13/98	20:30:00
+06/13/98	21:30:00	through	06/13/98	22:00:00
+06/14/98	00:30:00	through	06/14/98	01:00:00
+06/14/98	02:00:00
+06/14/98	03:30:00	through	06/14/98	09:00:00
+06/14/98	10:00:00	through	06/14/98	11:30:00
+06/14/98	12:30:00	through	06/14/98	19:30:00
+06/14/98	20:30:00	through	06/14/98	23:00:00
+06/15/98	00:00:00	through	06/15/98	03:00:00
+06/15/98	04:00:00	through	06/15/98	10:00:00
+06/15/98	11:00:00	through	06/15/98	14:00:00
+06/15/98	15:00:00	through	06/15/98	16:30:00
+06/15/98	17:30:00
+06/15/98	18:30:00	through	06/15/98	19:00:00
+06/15/98	21:00:00	through	06/15/98	21:30:00
+06/15/98	22:30:00			
+06/15/98	23:30:00			
+06/16/98	00:00:00	through	06/16/98	05:30:00
+06/16/98	06:30:00	through	06/16/98	11:30:00
+06/16/98	12:30:00	through	06/16/98	13:30:00
+06/16/98	15:00:00	through	06/16/98	16:00:00
+06/16/98	17:00:00
+06/16/98	18:30:00	through	06/16/98	19:00:00
+06/16/98	21:00:00			
+06/16/98	22:30:00	through	06/16/98	23:30:00
+06/17/98	00:30:00	through	06/17/98	03:00:00
+06/17/98	04:00:00	through	06/17/98	05:30:00
+06/17/98	07:30:00			
+06/17/98	09:30:00	through	06/17/98	12:00:00
+06/17/98	14:00:00	through	06/17/98	15:30:00
+06/17/98	18:00:00
+06/17/98	19:300:00	through	06/17/98	21:00:00
+06/17/98	23:30:00			
+06/18/98	00:00:00	through	06/18/98	01:00:00
+06/18/98	02:00:00
+06/18/98	03:00:000
+6/18/98		04:30:00
+06/18/98	06:30:00	through	06/18/98	07:00:00
+06/18/98	08:00:00	through	06/18/98	08:30:00
+06/18/98	11:30:00	through	06/18/98	11:30:00
+06/18/98	12:30:00			
+06/18/98	13:30:00	through	06/18/98	14:30:00
+06/18/98	15:30:00
+06/18/98	16:30:00
+06/18/98	18:30:00	through	06/18/98	19:30:00
+06/18/98	21:30:00			
+06/18/98	23:30:00			
+06/19/98	00:00:00	through	06/19/98	00:30:00
+06/19/98	01:30:00	through	06/19/98	05:00:00
+06/19/98	06:30:00	through	06/19/98	14:30:00
+06/19/98	15:30:00	through	06/19/98	17:00:00
+06/19/98	18:00:00			
+06/19/98	19:00:00	through	06/19/98	19:30:00
+06/19/98	20:30:00	through	06/19/98	22:00:00
+06/19/98	23:30:00			
+06/20/98	00:00:00
+06/20/98	01:00:00	through	06/20/98	07:30:00
+06/20/98	08:30:00			
+06/20/98	09:30:00	through	06/20/98	10:00:00
+06/20/98	12:00:00			
+06/20/98	14:30:00			
+06/20/98	15:30:00	through	06/20/98	16:00:00
+06/20/98	22:30:00	through	06/20/98	23:30:00
+06/21/98	00:00:00	through	06/21/98	05:00:00
+06/21/98	06:00:00	through	06/21/98	07:30:00
+06/21/98	09:00:00			
+06/21/98	10:00:00			
+
+July 1998
+
+Station 06
+Low DO Outliers removed				
+07/01/98	01:30:00	through	07/01/98	02:00:00
+07/01/98	03:00:00			
+07/01/98	06:30:00	through	07/01/98	08:30:00
+07/01/98	09:30:00			
+07/01/98	20:00:00	through	07/01/98	23:30:00
+07/02/98	00:00:00	through	07/02/98	10:00:00
+07/02/98	14:30:00			
+07/02/98	19:30:00	through	07/02/98	23:30:00
+07/03/98	00:00:00	through	07/03/98	10:30:00
+07/03/98	11:30:00			
+07/03/98	14:00:00			
+07/03/98	19:30:00	through	07/03/98	21:30:00
+07/03/98	22:30:00	through	07/03/98	23:30:00
+07/04/98	00:00:00	through	07/04/98	00:30:00
+07/04/98	01:30:00			
+07/04/98	02:30:00	through	07/04/98	03:30:00
+07/04/98	04:30:00	through	07/04/98	09:00:00
+07/05/98	04:00:00			
+07/05/98	05:30:00	through	07/05/98	06:00:00
+07/06/98	02:30:00			
+07/06/98	06:30:00	through	07/06/98	07:00:00
+07/06/98	22:30:00			
+07/07/98	00:30:00			
+07/07/98	02:30:00			
+07/07/98	04:00:00			
+07/07/98	23:00:00	through	07/07/98	23:30:00
+07/08/98	00:00:00			
+07/08/98	01:00:00			
+07/08/98	05:30:00	through	07/08/98	07:00:00
+
+Station 10
+Data removed due to instrument being out of water
+07/21/98 15:00:00 – 07/23/98 09:00:00
+
+Anomalous Low Turbidity				
+07/23/98	09:30:00	through	07/31/98	23:30:00
+
+Station 11
+Internal Error				
+07/01/98	00:00:00	through	07/06/98	04:30:00
+
+Low DO Outliers removed			
+07/28/98	03:30:00	through	07/28/98	13:00:00
+07/28/98	20:00:00	through	07/29/98	06:30:00
+
+Anomalous Low Turbidity				
+07/26/98	00:00:00			
+07/26/98	02:30:00	through	07/26/98	03:00:00
+07/27/98	01:00:00	through	07/27/98	01:30:00
+07/27/98	03:30:00			
+
+August 1998
+
+Station 09
+First twelve DO values were deleted because membrane had not settled yet
+08/21/98 16:00 through 21:30
+
+Station 10
+Anomalous High Turbidity	
+08/30/98	23:30:00
+
+Anomalous Low Turbidity	due to small calibration error			
+08/21/98	16:00:00	through	08/31/98	23:30:00
+
+Spcond, salinity, and DO data were deleted from 8/21/98 16:00 through 8/31/98 23:30
+due to possible calibration error. 
+
+Station 11
+Low DO Outliers removed				
+08/12/98	07:30:00	through	08/12/98	08:00:00
+08/12/98	20:00:00			
+08/13/98	06:30:00			
+08/13/98	17:30:00			
+08/13/98	21:00:00	through	08/14/98	10:30:00
+08/14/98	11:30:00	through	08/14/98	12:00:00
+08/14/98	13:00:00	through	08/14/98	13:30:00
+08/14/98	14:30:00	through	08/14/98	15:00:00
+08/14/98	16:00:00	through	08/14/98	21:00:00
+08/14/98	22:00:00	through	08/16/98	00:00:00			
+08/16/98	01:30:00	through	08/16/98	02:00:00
+08/16/98	03:00:00	through	08/16/98	05:30:00
+08/16/98	06:30:00	through	08/16/98	08:00:00
+08/16/98	09:30:00			
+08/16/98	21:30:00			
+08/16/98	22:30:00	through	08/17/98	04:00:00
+
+Anomalous Low Turbidity	
+08/02/98	18:00:00
+
+All data removed due to instrument being out of water
+08/17/98 09:30:00 – 08/18/98 09:00:00
+
+October 1998
+
+Station 06
+Internal Error				
+10/11/98	00:30:00	through	10/11/98	01:30:00
+10/11/98	03:30:00	through	10/11/98	04:00:00
+10/11/98	06:00:00			
+10/11/98	11:00:00	through	10/11/98	11:30:00
+10/11/98	12:30:00			
+10/11/98	14:00:00	through	10/11/98	14:30:00
+10/11/98	15:30:00			
+10/11/98	16:30:00			
+10/11/98	18:30:00			
+10/12/98	11:30:00			
+10/31/98	09:30:00			
+10/31/98	16:00:00			
+10/31/98	22:30:00	through 23:00:00
+
+Anomalous Low Turbidity				
+10/30/98	16:00:00	through	10/30/98	23:30:00
+10/31/98	00:00:00	through	10/31/98	00:30:00
+10/31/98	01:30:00	through	10/31/98	02:00:00
+10/31/98	04:00:00	through	10/31/98	09:00:00
+10/31/98	10:00:00	through	10/31/98	15:30:00
+10/31/98	16:30:00	through	10/31/98	22:00:00
+10/31/98	23:30:00
+
+Station 09
+DO data deleted due to possible membrane puncture 
+10/14/98 05:00:00 through 10/26/98 10:00
+
+All Data removed – Instrument out of water
+10/26/98 10:30:00 – 10/27/98 12:00:00
+
+Anomalous Low Turbidity				
+10/26/98	13:30:00	through	10/26/98	14:00:00
+10/30/98	16:00:00	through	10/30/98	17:30:00
+
+Anomalous High Turbidity	
+10/16/98	13:30:00
+10/26/98	14:30:00
+
+Anomalous Low Depth				
+10/26/98	10:30:00	through	10/26/98	23:30:00
+10/27/98	00:00:00	through	10/27/98	12:00:00
+
+Station 10
+DO data removed due to possible membrane puncture
+10/12/98 19:00:00 – 10/22/98 13:30:00
+
+Station 11
+All data removed due to instrument being out of water
+10/08/98 12:00:00
+10/26/98 11:00:00 – 10/27/98 09:30:00
+
+All DO data removed – very erratic
+10/01/98 00:00:00 – 10/31/98 23:30:00
+
+Anomalous Low Depth				
+10/26/98	13:00:00	through	10/26/98	14:00:00
+
+Station 18
+All data suspect due to possible rain event or biofouling or probe malfunction. 
+Data not removed.
+10/08/98 12:00:00 through 10/26/98 09:30:00
+
+Low DO Outliers removed				
+10/19/98	10:30:00			
+10/23/98	7:30:00			
+10/25/98	1:00:00			
+10/26/98	8:00:00			
+10/26/98	9:00:00			
+
+All data removed due to instrument being out of water
+10/26/98 10:00:00 – 10/27/98 11:30:00
+
+Anomalous Low Turbidity				
+10/30/98	16:00:00	through	10/30/98	20:00:00
+10/30/98	21:00:00	through	10/31/98	3:30:00
+10/31/98	4:30:00		through	10/31/98	5:30:00
+10/31/98	6:30:00		through	10/31/98	8:00:00
+10/31/98	9:30:00		through	10/31/98	11:30:00
+10/31/98	12:30:00	through	10/31/98	23:30:00
+
+November 1998
+
+Station 06
+Internal Error	
+11/01/98	06:30:00
+
+Anomalous Low Turbidity				
+11/01/98	00:00:00	through	11/01/98	06:00:00
+
+Station 09
+Anomalous Low Turbidity				
+11/01/98	10:00:00			
+11/01/98	19:30:00			
+11/02/98	06:00:00	through	11/02/98	06:30:00
+11/02/98	07:30:00	through	11/02/98	10:00:00
+11/02/98	22:00:00	through	11/02/98	22:30:00
+11/03/98	06:30:00	through	11/03/98	11:00:00
+11/04/98	08:00:00	through	11/04/98	11:00:00
+11/30/98	01:30:00	
+Depth deleted from 11/24/98 1200-1330; 	depth was unusually high and deleted
+due to possible probe problem	
+
+Station 11
+All data removed due to instrument being out of water
+11/24/98 12:00:00 – 13:30:00
+
+Station 18
+Anomalous Low Turbidity	due to small calibration error		
+11/1/98	0:00:00			through	11/13/98	3:30:00
+
+
+December 1998
+
+Station 06
+All Data removed - Instrument out of water
+12/01/98 08:30:00 – 12/02/98 13:00:00
+
+Station 09
+Depth data removed – possible bad calibration; low depth compared with the rest 
+of the month’s data
+12/01/98 00:00:00 – 12/07/98 09:30:00
+
+Specific Conductivity data removed; was very high compared to rest of the month; 
+possible bad calibration
+12/01/98 00:00:00 – 12/07/98 09:30:00
+
+Dissolved Oxygen mg/L data removed due to abrupt increase; possible membrane 
+puncture
+12/27/98 22:00:00 – 12/28/98 10:00:00
+
+Station 10
+High Salin Outliers removed			
+12/03/98	16:00:00	through	12/03/98	16:30:00
+
+All data suspect; possible culprits could be a rain event, obstructed 
+instrument, bad calibration.  Data not removed.
+12/03/98 16:00:00 through 12/08/98 10:30:00
+
+Spcond, salinity, and DO data were deleted from 12/3/98 16:00 through 12/15/98 13:00.
+Salinity and DO was very erratic.   
+
+Depth and pH are suspicious from new deployment on 12/8 1100 through end of month
+due to drastic difference between depth of new deployment and depth of old.  Also pH
+drastically increases with new deployment.  Anomalous values are probably due to probe
+obstruction and should be considered suspect.  
+
+Anomalous High Turbidity				
+12/04/98	04:00:00			
+12/05/98	02:00:00			
+12/05/98	15:30:00			
+12/05/98	17:00:00			
+12/06/98	06:00:00			
+12/06/98	11:30:00			
+12/06/98	13:30:00			
+12/06/98	16:30:00			
+12/06/98	17:30:00	through	12/06/98	18:00:00
+12/06/98	20:00:00			
+12/06/98	21:00:00	through	12/06/98	21:30:00
+12/06/98	23:00:00			
+12/07/98	02:30:00	through	12/07/98	03:00:00
+12/07/98	04:00:00			
+12/07/98	05:30:00	through	12/07/98	07:30:00
+12/07/98	09:00:00			
+12/07/98	11:30:00			
+12/07/98	13:00:00			
+12/07/98	14:00:00			
+12/07/98	15:00:00	through	12/07/98	15:30:00
+12/07/98	17:00:00			
+12/07/98	18:00:00			
+12/07/98	19:00:00	through	12/07/98	20:00:00
+12/07/98	21:00:00	through	12/07/98	21:30:00
+12/07/98	23:00:00			
+12/08/98	00:00:00			
+12/08/98	02:30:00	through	12/08/98	03:00:00
+12/08/98	04:00:00	through	12/08/98	05:30:00
+12/08/98	07:00:00	through	12/08/98	07:30:00
+12/08/98	09:30:00	through	12/08/98	10:30:00
+12/12/98	17:00:00			
+
+Station 11
+All data removed due to instrument being out of water
+12/01/98 10:00:00 – 12/02/98 13:00:00
+
+Dissolved Oxygen mg/L data removed due to possible membrane puncture
+12/06/98 02:30:00 – 12/07/98 09:30:00
+
+Anomalous Low Turbidity	
+12/15/98	09:30:00
+12/15/98	12:00:00
+12/15/98	14:00:00
+12/26/98	11:30:00
+
+
+11. Missing data:
+January 1998
+
+Station 06
+No Data	due to service			
+01/01/98	00:00:00	through	01/23/98	15:30:00
+01/24/98	06:30:00			
+01/24/98	08:00:00			
+01/24/98	11:30:00			
+01/24/98	14:00:00	through	01/31/98	23:30:00
+
+No Depth Data (the sensor was disabled)
+01/23/98 16:00:00 through 01/24/98 13:30:00
+
+No Turbidity Data (the sensor was disabled)
+01/23/98 16:00:00 through 01/24/98 13:30:00
+
+Low DO Outliers removed			
+01/23/98	16:00:00	through	01/23/98	16:30:00
+01/23/98	18:00:00			
+
+Station 09
+No Data to Report due to service
+01/01/98 00:00:00 through 01/31/98 23:30:00
+
+Station 10
+No Salinity Data (the sensor was disabled)
+01/01/98 00:00:00 through 01/11/98 03:30:00
+
+Low DO Outliers removed				
+1/1/98	0:00:00	through	1/11/98	3:30:00
+
+No Data	due to service		
+1/11/98	4:00:00	through	1/23/98	15:30:00
+
+High Salin Outliers removed				
+1/23/98	16:00:00	through	1/31/98	23:30:00
+
+High SpCond Outliers removed				
+1/23/98	16:00:00	through	1/31/98	23:30:00
+
+Station 11
+No Data	due to service	
+01/01/98	00:00:00	through	01/23/98	15:30:00
+
+Station 18
+No Data to Report (there was no station)
+01/01/98 00:00:00 through 01/31/98 23:30:00
+
+February 1998
+
+Station 06
+No Depth Data (the sensor was disabled)
+02/13/98 16:00:00 through 02/14/98 10:00:00
+
+No Turbidity Data (the sensor was disabled)
+02/13/98 16:00:00 through 02/14/98 10:00:00
+
+No Data	due to service		
+02/01/98	00:00:00	through	02/13/98	15:30:00
+02/13/98	18:00:00	through	02/13/98	18:30:00
+02/13/98	22:00:00			
+02/13/98	23:30:00			
+02/14/98	01:00:00			
+02/14/98	04:00:00			
+02/14/98	06:00:00			
+02/14/98	07:00:00			
+02/14/98	09:30:00			
+02/14/98	10:30:00	through	02/28/98	23:30:00
+
+Internal Error 				
+02/13/98	20:30:00	through	02/13/98	21:00:00
+02/14/98	01:30:00	through	02/14/98	02:30:00
+02/14/98	06:30:00			
+02/14/98	08:00:00			
+02/14/98	10:00:00			
+
+Station 09
+No Data to Report due to service
+02/01/98 00:00:00 through 02/28/98 23:30:00
+
+Station 10
+High Salin Outliers removed				
+2/1/98	0:00:00	through	2/11/98	8:00:00
+
+High SpCond Outliers removed				
+2/1/98	0:00:00	through	2/11/98	8:00:00
+
+DO data removed; possible membrane puncture				
+2/10/98	01:00:00	through	2/11/98	08:00:00
+
+No Data	due to service			
+2/11/98	8:30:00	through	2/28/98	23:30:00
+
+Station 11
+No Data	due to service		
+02/11/98	08:30:00	through	02/28/98	23:30:00
+
+Station 18
+No Data to Report (there was no station)
+02/01/98 00:00:00 through 02/28/98 23:30:00
+
+
+March 1998
+
+Station 06
+No Data to Report due to service
+03/01/98 00:00:00 through 03/31/98 23:30:00
+
+Station 09
+No Data to Report due to service
+03/01/98 00:00:00 through 03/31/98 23:30:00
+
+Station 10
+No Data to Report due to service
+03/01/98 00:00:00 through 03/31/98 23:30:00
+
+Station 11
+No Data to Report due to service
+03/01/98 00:00:00 through 03/31/98 23:30:00
+
+Station 18
+No Data to Report (there was no station)
+03/01/98 00:00:00 through 03/31/98 23:30:00
+
+
+April 1998
+
+Station 06
+No Data to Report due to service
+04/01/98 00:00:00 through 04/30/98 23:30:00
+
+Station 09
+No Data	due to service		
+04/01/98	00:00:00	through	04/07/98	13:30:00
+04/23/98	04:30:00			
+04/23/98	05:30:00	through	04/30/98	23:30:00
+
+First four DO values were deleted because membrane had not settled yet
+04/07/98 14:00:00 through 15:30
+
+DO removed due to possible membrane puncture				
+04/16/98	22:00:00	through	04/23/98	05:00:00
+
+Station 10
+No Data to Report due to service
+04/01/98 00:00:00 through 04/30/98 23:30:00
+
+Station 11
+No Data to Report due to service
+04/01/98 00:00:00 through 04/30/98 23:30:00
+
+Station 18
+No Data to Report (there was no station)
+04/01/98 00:00:00 through 04/30/98 23:30:00
+
+
+May 1998
+
+Station 06
+No Data	due to service			
+05/01/98	00:00:00	through	05/08/98	15:30:00
+
+No Data due to other reasons
+05/12/98	20:00:00			
+05/12/98	21:30:00			
+05/12/98	23:30:00			
+05/13/98	00:30:00	through	05/13/98	01:30:00
+05/13/98	03:00:00			
+05/13/98	04:30:00	through	05/13/98	05:00:00
+05/13/98	09:30:00	through	05/13/98	10:00:00
+05/13/98	11:00:00			
+05/13/98	12:00:00			
+05/13/98	13:00:00			
+05/13/98	18:30:00	through	05/13/98	20:30:00
+05/13/98	22:00:00	through	05/13/98	22:30:00
+
+No Data due to service
+05/14/98	00:00:00	through	05/31/98	23:30:00
+
+Station 09
+No Data	 due to service		
+05/01/98	00:00:00	through	05/08/98	15:30:00
+05/10/98	05:00:00	through	05/31/98	23:30:00
+
+High DO Outliers removed			
+05/08/98	16:00:00	through	05/08/98	16:30:00
+
+Salinity, SpCond and DOmg/L were deleted due to extremely high spcond and salinity 
+5/8/98 16:00 through 5/10/98 04:30
+
+Station 10
+No Data to Report due to service
+05/01/98 00:00:00 through 05/31/98 23:30:00
+
+Station 11
+No Data	 due to service		
+05/01/98	00:00:00	through	05/08/98	15:30:00
+05/15/98	23:00:00	through	05/31/98	23:30:00
+
+High Spcond and Salinity data was removed due to possible calibration error
+05/08/98 16:00:00 – 05/15/98 22:30:00
+
+Station 18
+No Data to Report (there was no station)
+05/01/98 00:00:00 through 05/31/98 23:30:00
+
+
+June 1998
+Station 06
+No Data	 due to service		
+06/01/98	00:00:00	through	06/11/98	15:30:00
+
+No Depth Data (the sensor was disabled)
+06/30/98 16:00:00 through 06/30/98 23:30:00
+
+No Turbidity Data (the sensor was disabled)
+06/30/98 16:00:00 through 06/30/98 23:30:00
+
+
+Station 09
+No Data	 due to service		
+06/01/98	00:00:00	through	06/11/98	15:30:00
+06/16/98	04:30:00	through	06/28/98	15:30:00
+06/30/98	06:00:00	through	06/30/98	23:30:00
+
+First seven DO values were deleted because membrane had not settled yet
+06/11/98 16:00 through 19:00
+
+DO data removed due to possible membrane puncture				
+06/28/98	19:30:00	through	06/30/98	23:30:00
+
+Station 10
+No Data	 due to service		
+6/1/98	0:00:00	through	6/5/98	8:00:00
+6/7/98	16:00:00	through	6/8/98	23:30:00
+6/9/98	0:00:00	through	6/9/98	15:30:00
+6/12/98	8:00:00	through	6/30/98	23:30:00
+
+Data removed due to instrument being out of water
+06/05/98 08:30:00 – 06/07/98 15:30:00
+06/09/98 16:00:00 – 06/11/98 09:30:00
+
+Station 11
+No Data	 due to service 		
+06/01/98	00:00:00	through	06/11/98	15:30:00
+06/23/98	16:00:00	through	06/30/98	15:30:00
+
+Low DO Outliers removed			
+06/23/98	06:00:00	through	06/23/98	08:00:00
+
+All data removed due to instrument being out of water
+06/23/98 09:30:00 – 15:00:00
+
+Internal Error				
+06/23/98	15:30:00			
+06/30/98	16:00:00	through	06/30/98	23:30:00
+
+
+Station 18
+
+No Data to Report (there was no station)
+06/01/98 00:00:00 through 06/30/98 23:30:00
+
+
+July 1998
+
+Station 06
+No Depth Data (the sensor was disabled)
+07/01/98 00:00:00 through 07/08/98 15:30:00
+
+No Turbidity Data (the sensor was disabled)
+07/01/98 00:00:00 through 07/08/98 15:30:00
+
+No Data	 due to service			
+07/01/98	14:00:00			
+07/04/98	04:00:00			
+07/05/98	10:30:00			
+07/05/98	15:30:00			
+07/06/98	13:30:00			
+07/07/98	18:30:00	through	07/07/98	19:30:00
+07/07/98	21:30:00			
+07/08/98	13:00:00	through	07/08/98	13:30:00
+07/08/98	14:30:00	through	07/08/98	15:00:00
+07/08/98	16:00:00	through	07/31/98	23:30:00
+
+Low DO Outliers removed				
+07/01/98	01:30:00	through	07/01/98	02:00:00
+07/01/98	03:00:00			
+07/01/98	06:30:00	through	07/01/98	08:30:00
+07/01/98	09:30:00			
+07/01/98	20:00:00	through	07/01/98	23:30:00
+07/02/98	00:00:00	through	07/02/98	10:00:00
+07/02/98	14:30:00			
+07/02/98	19:30:00	through	07/02/98	23:30:00
+07/03/98	00:00:00	through	07/03/98	10:30:00
+07/03/98	11:30:00			
+07/03/98	14:00:00			
+07/03/98	19:30:00	through	07/03/98	21:30:00
+07/03/98	22:30:00	through	07/03/98	23:30:00
+07/04/98	00:00:00	through	07/04/98	00:30:00
+07/04/98	01:30:00			
+07/04/98	02:30:00	through	07/04/98	03:30:00
+07/04/98	04:30:00	through	07/04/98	09:00:00
+07/05/98	04:00:00			
+07/05/98	05:30:00	through	07/05/98	06:00:00
+07/06/98	02:30:00			
+07/06/98	06:30:00	through	07/06/98	07:00:00
+07/06/98	22:30:00			
+07/07/98	00:30:00			
+07/07/98	02:30:00			
+07/07/98	04:00:00			
+07/07/98	23:00:00	through	07/07/98	23:30:00
+07/08/98	00:00:00			
+07/08/98	01:00:00			
+07/08/98	05:30:00	through	07/08/98	07:00:00
+
+Station 09
+No Data to Report due to service
+07/01/98 00:00:00 through 07/31/98 23:30:00
+
+Station 10
+No Data	due to service			
+07/01/98	00:00:00	through	07/21/98	14:30:00
+07/30/98	16:30:00	through	07/31/98	23:30:00
+
+Data removed due to instrument being out of water
+07/21/98 15:00:00 – 07/23/98 09:00:00
+
+Station 11
+No Data due to service				
+07/06/98	05:00:00	through	07/24/98	16:00:00
+
+Internal Error				
+07/01/98	00:00:00	through	07/06/98	04:30:00
+
+Low DO Outliers removed				
+07/28/98	03:30:00	through	07/28/98	13:00:00
+07/28/98	20:00:00	through	07/29/98	06:30:00
+
+Station 18
+No Data to Report (there was no station) 
+07/01/98 00:00:00 through 07/31/98 23:30:00
+
+
+August 1998
+
+Station 06
+No Data to Report due to service
+08/01/98 00:00:00 through 08/31/98 23:30:00
+
+Station 09
+No Data	 due to service			
+08/01/98	00:00:00	through	08/21/98	15:30:00
+08/31/98	08:30:00	through	08/31/98	23:30:00
+
+First twelve DO values were deleted because membrane had not settled yet
+08/21/98 16:00 through 21:30
+
+Station 10
+No Data	 due to service			
+08/01/98	00:00:00	through	08/21/98	15:30:00
+08/31/98	08:30:00	through	08/31/98	23:30:00
+
+Spcond, salinity, and DO data were deleted from 8/21/98 16:00 through 8/31/98 23:30
+due to possible calibration error. 
+
+Station 11
+All data removed due to instrument being out of water
+08/17/98 09:30:00 – 08/18/98 09:00:00
+
+No Depth Data (the sensor was disabled)
+8/21/98 16:00:00 through 8/22/98 1:00:00
+
+No Turbidity Data (the sensor was disabled)
+8/21/98 16:00:00 through 8/22/98 1:00:00
+
+No Data	due to service			
+08/17/98	14:30:00			
+08/18/98	09:30:00	through	08/21/98	15:30:00
+08/22/98	01:30:00	through	08/31/98	23:30:00
+
+Low DO Outliers removed				
+08/12/98	07:30:00	through	08/12/98	08:00:00
+08/12/98	20:00:00			
+08/13/98	06:30:00			
+08/13/98	17:30:00			
+08/13/98	21:00:00	through	08/14/98	10:30:00
+08/14/98	11:30:00	through	08/14/98	12:00:00
+08/14/98	13:00:00	through	08/14/98	13:30:00
+08/14/98	14:30:00	through	08/14/98	15:00:00
+08/14/98	16:00:00	through	08/14/98	21:00:00
+08/14/98	22:00:00	through	08/16/98	00:00:00			
+08/16/98	01:30:00	through	08/16/98	02:00:00
+08/16/98	03:00:00	through	08/16/98	05:30:00
+08/16/98	06:30:00	through	08/16/98	08:00:00
+08/16/98	09:30:00			
+08/16/98	21:30:00			
+08/16/98	22:30:00	through	08/17/98	04:00:00
+
+Station 18
+No Data to Report (there was no station)
+08/01/98 00:00:00 through 08/31/98 23:30:00
+
+
+September 1998
+
+Station 06
+No Data to Report due to service
+09/01/98 00:00:00 through 09/30/98 23:30:00
+
+Station 09
+No Data to Report due to service
+09/01/98 00:00:00 through 09/30/98 23:30:00
+
+Station 10
+No Data to Report due to service
+09/01/98 00:00:00 through 09/30/98 23:30:00
+
+Station 11
+No Data to Report due to service
+09/01/98 00:00:00 through 09/30/98 23:30:00
+
+Station 18
+No Data to Report (there was no station)
+09/01/98 00:00:00 through 09/30/98 23:30:00
+
+
+October 1998
+
+Station 06
+No Data	due to service and data uploading 			
+10/01/98	00:00:00	through	10/08/98	11:30:00
+
+No Depth Data (the sensor was disabled)
+10/08/98 12:00:00 through 10/12/98 14:00:00 
+
+No Turbidity Data (the sensor was disabled)
+10/08/98 12:00:00 through 10/12/98 14:00:00
+
+No Data due to service and data uploading
+10/12/98	14:30:00	through	10/30/98	15:30:00
+
+No Data due to other reasons
+10/09/98	19:30:00			
+10/10/98	23:30:00			
+10/11/98	02:30:00	through	10/11/98	03:00:00
+
+Internal Error				
+10/11/98	00:30:00	through	10/11/98	01:30:00
+10/11/98	03:30:00	through	10/11/98	04:00:00
+10/11/98	06:00:00			
+10/11/98	11:00:00	through	10/11/98	11:30:00
+10/11/98	12:30:00			
+10/11/98	14:00:00	through	10/11/98	14:30:00
+10/11/98	15:30:00			
+10/11/98	16:30:00			
+10/11/98	18:30:00			
+10/12/98	11:30:00			
+10/31/98	09:30:00			
+10/31/98	16:00:00			
+10/31/98	22:30:00	through 	23:00:00	
+
+Station 09
+No Data due to service and data uploading			
+10/01/98	00:00:00	through	10/08/98	11:30:00
+10/27/98	12:30:00	through	10/30/98	15:30:00
+
+DO data deleted due to possible membrane puncture 
+10/14/98 05:00:00 through 10/26/98 10:00
+
+All Data removed – Instrument out of water
+10/26/98 10:30:00 – 10/27/98 12:00:00
+
+Station 10
+No Data due to service and data uploading			
+10/01/98	00:00:00	through	10/08/98	11:30:00
+10/22/98	14:00:00	through	10/31/98	23:30:00
+
+DO data removed due to possible membrane puncture
+10/12/98 19:00:00 – 10/22/98 13:30:00
+
+Station 11
+No Data due to service and data uploading				
+10/01/98	00:00:00	through	10/08/98	11:30:00
+10/27/98	10:00:00	through	10/31/98	23:30:00
+
+All data removed due to instrument being out of water
+10/08/98 12:00:00
+10/26/98 11:00:00 – 10/27/98 09:30:00
+
+All DO data removed – very erratic
+10/01/98 00:00:00 – 10/31/98 23:30:00
+
+Station 18
+No Data due to service and data uploading			
+10/1/98	0:00:00	through	10/8/98	11:30:00
+10/27/98 12:00:00 through 10/30/98 15:30:00
+
+All data removed due to instrument being out of water
+10/26/98 10:00:00 – 10/27/98 11:30:00
+
+Low DO Outliers removed				
+10/19/98	10:30:00			
+10/23/98	7:30:00			
+10/25/98	1:00:00			
+10/26/98	8:00:00			
+10/26/98	9:00:00			
+
+November 1998
+
+Station 06
+No Data due to service			
+11/01/98	07:00:00	through	11/24/98	11:30:00
+
+Internal Error	
+11/01/98	06:30:00
+
+No Salinity Data (the sensor was disabled)
+11/24/98 12:00:00 through 11/30/98 23:30:00
+
+No DO % Data (the sensor was disabled)
+11/24/98 12:00:00 through 11/30/98 23:30:00
+
+Depth deleted from 11/24/98 1200-1330; 	depth was unusually high and deleted
+due to possible probe problem	
+
+Station 09
+No Salinity Data (the sensor was disabled)
+11/24/98 12:00:00 through 11/30/98 23:30:00
+
+No DO % Data (the sensor was disabled)
+11/24/98 12:00:00 through 11/30/98 23:30:00
+
+No Data	 (due to service)		
+11/04/98	15:00:00	through	11/24/98	11:30:00
+
+Station 10
+No Data to Report  (due to service)
+11/01/98 00:00:00 through 11/30/98 23:30:00
+
+Station 11
+No Data	 (due to service) 		
+11/01/98	00:00:00	through	11/24/98	11:30:00
+
+No DO % or salinity Data (the sensor was disabled)
+11/24/98 14:00:00 through 11/30/98 23:30:00
+
+All data removed due to instrument being out of water
+11/24/98 12:00:00 – 13:30:00
+
+Station 18
+No Data	(the sonde was not deployed due to insufficient sondes available)	
+		
+11/13/98	4:00:00	through	11/30/98	23:30:00
+
+
+December 1998
+
+Station 06
+No Salinity Data (the sensor was disabled)
+12/01/98 00:00:00 through 12/07/98 09:30:00
+
+No DO % Data (the sensor was disabled)
+12/01/98 00:00:00 through 12/07/98 09:30:00
+
+All Data removed - Instrument out of water
+12/01/98 08:30:00 – 12/02/98 13:00:00
+
+No Data	 due to service		
+12/07/98	10:00:00	through	12/31/98	23:30:00
+
+Station 09
+No Salinity Data (the sensor was disabled)
+12/01/98	00:00:00 through 12/28/98	10:00:00
+
+No DO % Data (the sensor was disabled)
+12/01/98	00:00:00 through 12/28/98	10:00:00
+ 
+Depth data removed – possible bad calibration; low depth compared with the rest 
+of the month’s data
+12/01/98 00:00:00 – 12/07/98 09:30:00
+
+Specific Conductivity data removed; was very high compared to rest of the month; 
+possible bad calibration
+12/01/98 00:00:00 – 12/07/98 09:30:00
+
+Dissolved Oxygen mg/L data removed due to abrupt increase; possible membrane 
+puncture
+12/27/98 22:00:00 – 12/28/98 10:00:00
+
+No Data	due to service and data uploading			
+12/07/98	10:00:00	through	12/10/98	15:30:00
+12/28/98	10:30:00	through	12/31/98	23:30:00
+
+Station 10
+No Data	 due to service		
+12/01/98	00:00:00	through	12/03/98	15:30:00
+12/15/98	13:30:00	through	12/31/98	23:30:00
+
+High Salin Outliers removed				
+12/03/98	16:00:00	through	12/03/98	16:30:00
+
+Spcond, salinity, and DO data were deleted from 12/3/98 16:00 through 12/15/98 13:00.
+Salinity and DO was very erratic.   
+
+Station 11
+No DO % and salinity Data (the sensor was disabled)
+12/1/98 0:00:00 through 12/7/98 9:30:00
+
+All data removed due to instrument being out of water
+12/01/98 10:00:00 – 12/02/98 13:00:00
+
+Dissolved Oxygen mg/L data removed due to possible membrane puncture
+12/06/98 02:30:00 – 12/07/98 09:30:00
+
+No Data	 due to service		
+12/01/98	09:00:00	through	12/01/98	09:30:00
+12/07/98	10:00:00	through	12/10/98	15:30:00
+12/28/98	10:30:00	through	 2/31/98	23:30:00
+
+Station 18
+No Data to Report No Data (the sonde was not deployed due to insufficient sondes 
+available)	
+12/01/98 00:00:00 through 12/31/98 23:30:00
+
+
+
+12. Other remarks
+Note:  All time drifts were corrected.  
+
+January 1998
+
+Station 06
+Time Drift
+01/24/98 6:16:51
+01/24/98 7:08:37 through 01/24/98 7:38:37
+01/24/98 8:39:17 through 01/24/98 13:39:17
+
+February 1998
+
+Station 06
+02/13/98 19:00:16 through 02/14/98 5:30:16
+02/14/98 6:24:13
+02/14/98 7:33:22 through 02/14/98 10:03:22
+
+
+March 1998
+
+Station 09
+Time Drift
+03/02/98 16:02:35 through 03/31/98 12:02:35
+03/31/98 13:02:59 through 03/31/98 23:32:59
+
+April 1998
+
+Station 09
+Time Drift
+4/23/98	5:00:51
+
+
+May 1998
+
+Station 06
+Time Drift
+05/12/98 20:00:00 through 05/13/98
+05/13/98
+05/12/98 21:17:12 through 05/13/98 0:17:12
+05/13/98 0:30:00 through 05/13/98 1:30:00
+05/13/98 2:18:34 through 05/13/98 4:18:34
+05/13/98 5:48:51 through 05/13/98 9:18:51
+05/13/98 10:36:46
+05/13/98 11:52:30 through 05/13/98 18:22:30
+05/13/98 21:04:39 through 05/14/98 4:34:39
+05/14/98 5:34:56
+
+Station 10
+Time Drift
+06/05/98 8:30:00 through 06/07/98 15:30:00
+
+Station 11
+Time Drift
+05/08/98 16:26:38 through 05/15/98 22:56:38
+
+

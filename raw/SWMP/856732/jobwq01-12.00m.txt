@@ -1,0 +1,2024 @@
+Jobos Bay (JOB) NERR Water Quality Metadata
+January - December 2000
+Latest Update: June 30, 2021
+ 
+I. Data Set & Research Descriptors
+  
+1. Principal investigator(s) and contact persons
+ Principal Investigator:
+ Carmen González
+ Manager, JBNERR
+ carmen.gonzalez@noaa.gov
+ 
+ Contact Persons:
+ Pedro Robles
+ Research Coordinator, JBNERR
+ pedro.robles@noaa.gov
+ 
+ Lic. Enid Malavé
+ Chemist I, JBNERR
+
+ Luis A. Encarnación
+ GIS Coordinator, JBNERR
+	
+ Mailing Address:
+ Call Box B
+ Aguirre, Puerto Rico 00704
+ Phone: (787) 853-4617
+ Fax: (787) 853-4618
+
+ 
+2. Entry verification:
+ 	After retrieving and carefully cleaning the dataloggers, they are examined 
+to detect any structural damage to the body or to the probes. The DO membrane is 
+checked for ruptures and then replaced if needed. The turbidity probe is 
+examined to assure that no obstruction affects the wiper and that the sensor 
+is clean. Manipulation and observation are registered in the field log for each 
+deployment respectively.
+	The YSI is connected to a Pentium II 400 MHz IBM compatible computer and 
+the data are reviewed using the YSI computer program Ecowatch for Windows that 
+accompanies the YSI 6000 datalogger. The file is uploaded in two formats, one in 
+YSI PC6000 format and the other in Comma and "" Delimited format then the file 
+is renamed to have a ".txt" extension. The YSI Ecowatch for Windows program is 
+used to plot the data and delete the pre- and post deployment data that are not 
+in range of the other readings. The program is used to perform basic statistical 
+analysis (i.e., min., max., mean, std. dev.). Data is initially reviewed using 
+the Ecowatch graphing tool. Data for a month is compiled into one single Excel 
+97 data sheet for further examination to detect gross outliers, data recorded 
+during instrument retrieval or caused by instrument failure. 
+	Missing dates and times are checked before submitting the data to the 
+Central Data Management Office. CDMO provided Excel 5.0 macros to assist in data 
+reviewing and data editing. Data is opened into this program and empty or 
+unrecorded data spaces are filled with periods. Columns are corrected for a 
+specific format (correct size and the data have the correct number of decimal 
+place holders as specified by the NERR CDMO), data and time readings are also 
+checked and outliers are identified by this program. Outliers file is saved and 
+printed for revision of each file. Missing data and explanatory reasons are 
+recorded in the missing data section. 
+	Data that was found to be out of the instrument range or normal parameters 
+for each sampling station is removed from the file and a period is inserted to 
+the cell(s). Explanations for changes in data are also included in the metadata. 
+Data that were outside the "normal" range of water quality for a particular site 
+is investigated for validity based on filed observation, QA/QC check, Ecowatch 
+for Windows printouts, and the instrument diagnostics. The metadata form is 
+submitted with the data to the CDMO. Data is stored in zip disks. Dr. Pedro 
+Robles, Research Coordinator, is responsible for data management. 
+ 
+3. Research Objectives:
+ 	Three dataloggers are deployed at the Mar Negro area, the major component 
+of Jobos Bay Estuarine Research Reserve, and are suspended from a pole at 0.3 
+meter from the bottom of the selected site. Only data from stations 9 and 10 
+will be submitted to the Central Data Management Office as part of the System-
+Wide Monitoring Program. Measurements are taken at thirty-minute intervals for 
+approximately two-week periods. The sites are identified as representative of 
+areas within the reserve and comparable to the sites that may be receiving 
+impact from human activities in the surroundings areas.
+	Station number nine (9), the impacted site, collects water quality data in 
+a site associated with runoff from littoral and basin mangrove areas. This 
+sampling station is closer to the Electric Power Thermoelectric Plant, which 
+makes it subject to runoff and potential contamination spills from this 
+industrial facility. Information compiled from historical environmental 
+documents indicate that station nine (9) was used as a disposal site for the 
+residues of the previously operating sugar mill operation, which might have been 
+a high organic input to the sediments.
+	Station number ten (10), located in the mangrove lagoon area is the 
+reference or unimpacted site. 
+	
+4.	Research methods:
+ 	The Estuarine Water Quality Monitoring began on December 20, 1995 at 
+Station nine (9), February 1, 1996 at Station ten (10). At this time we are only 
+performing long term water quality monitoring.
+	Before each YSI 6000 datalogger is deployed, calibration and maintenance 
+is performed following the manufacturer's instruction (YSI Manual addendum 7/94, 
+sections 3,4 and 7). Calibration standards are only required for pH, salinity, 
+and turbidity, all other parameters are done as described in the manual. Buffer 
+solutions for two-point calibration (pH 7 and pH 10) are purchased from a 
+scientific supply house. Salinity is calibrated via a specific conductance 
+standard 1000 µs/cm and are purchased from a scientific supply house.  This 
+solution is also prepared in the laboratory of Department of Natural and 
+Environmental Resources (DNER) utilizing KCl following specification of EPA 
+methods.
+	The two-point turbidity calibration (as of January 01, 1997) was performed 
+using a 0 NTU standard using lab grade DI water made at the DNER laboratory and 
+40 NTU standard purchased from a scientific supply house. We are now using 
+(since Jan 01, 1997) a 200 NTU standard purchased from a scientific company. The 
+dissolved oxygen membranes are replaced before deployment and are allowed to 
+sit at least 24 hours prior to deployment.
+	The weather conditions and tide stage during deployment are recorded in 
+the field observation log. Measurements of DO, pH, salinity, specific 
+conductance, and temperature are taken with other calibrated field instruments 
+to check the accuracy of the instrumentation.
+	Each YSI datalogger is tied with steel cable to a wrought iron galvanized 
+pole, which is plunged into the sediments of each sampling area.  Dataloggers 
+are suspended from a pole at 0.3 meter from the bottom of the selected site. 
+Every 30 minutes during the sampling period measurements are taken for date, 
+time, temperature, specific conductance, salinity, dissolved oxygen saturation, 
+dissolved oxygen concentration, depth, pH, and turbidity. Every two weeks the 
+dataloggers are retrieved, uploaded, cleaned, inspected, and calibrated as noted 
+previously. The datalogger is then ready to be deployed.
+
+5. Site location and character:
+ 	The Jobos Bay National Estuarine Research Reserve (JOBNERR) is located on 
+the southern coastal plain of the island of Puerto Rico, a reserve within the 
+West Indies geographical area. JOBNERR is composed of two major areas: (1) Mar 
+Negro, located on the western margin of the Bay, and (2) Cayos Caribe, a chain 
+of 15 tear-shaped islets located to the southeast. The Mar Negro area comprises 
+the bulk of the Reserve, and consists of mangrove forests and a complex system 
+of lagoons and channels interspersed with salt and mud flats.  Coral reefs and 
+seagrass beds, with small beach deposits and upland areas fringe Cayos Caribe 
+mangrove islands.
+ 	Station 9 is an impacted site and is located at the northeastern part of 
+the Mar Negro unit. The sampling station is associated with the mangrove lagoon 
+area and received the Thermoelectric Power Plant runoff  - mudflats and areas 
+adjacent. The tidal range varies from 12 in. to 14 in. in the vicinity of the 
+monitoring station.  No fresh water input in the vicinity of the station is 
+probable. The salinity at the vicinity of the monitoring station varies from 0.0 
+ppt to 41.1 ppt.  The station pole is located at 17° 56' 36.8" N and 66° 14' 
+18.5" W.
+ 	Station 10 is located in a mangrove lagoon not impacted from upland or 
+marine activities. It provided a reference for comparison of the data obtained 
+in other stations, especially to the stations in Mar Negro lagoon environment.  
+The tidal range varies from 12 in. to 14 in. in the vicinity of the monitoring 
+station.  No fresh water input in the vicinity of the station is probable. The 
+salinity at the vicinity of the monitoring station varies from 0.0 ppt to 41.7 
+ppt.  The pole is located at 17° 56' 20.3" N and 66° 45' 26.7" W.
+ 	Data from stations 9 and 10 are the only one to be submitted to the CDMO. 
+Of five sondes we have, two will be permanently devoted to take reading from 
+these two sites, while other two will serve as replacement when sondes are taken 
+out of the water for data upload and maintenance. This will avoid data gaps for 
+station 9 and 10 between sonde maintenance procedures. Data collected by station 
+11 will not be submitted because of gaps that will result at sonde retrieval for 
+data uploading and maintenance. All monitoring is considered long term.
+ 
+6. Data collection period: 
+ 	Station nine (9) sampling with the YSI began on December 20, 1995.
+	Station ten (10) sampling with the YSI began on February 1, 1996.
+	
+7. Associated researchers and projects:
+	A plankton monitoring program covers various stations in the Bay. Stations 
+9 and 10 are sampling points of this program, which is conducted monthly. 
+Personnel from the laboratory of Puerto Rico Environmental Quality Board have 
+identified plankton species.
+ 
+8. Variable sequence, range of measurements, units, resolution and accuracy:
+
+YSI 6000/6600 datalogger
+
+Variable      Range of Measurements          Resolution           Accuracy
+Date          1-12, 1-31, 00-99 (Mo,Day,Yr)  1 mo, 1 day, 1 yr    NA
+Time          0-24, 0-60, 0-60 (Hr,Min,Sec)  1 hr, 1 min, 1 s     NA
+Temp               -5 to 45 (c)              0.01  C              +/-0.15C
+Sp COND            0-100(mS/cm)              0.01mS/cm            +/-0.5% Of 
+reading + 0.001mS/Cm
+Salinity      0-70 Parts per thousand (ppt)  0.01 ppt             +/- 1% of 
+Reading or 0.1 ppt, (whichever is greater)
+DO            0-200 (% air saturation)       0.1% @air sat        +/-2% @air 
+Saturation
+DO            200-500 (% air saturation      0.1% @ air sat       +/- 6% @ 
+Saturation
+DO                 0-20 (mg/l)               0.01 mg/l            +/- 0.2mg/l
+DO                 20-50 (mg/l)              0.01 mg/l            +/- 0.6mg/l
+Depth (shallow)    0-9.1 (m)                 0.001m               +/- 0.018m
+PH                 2-14 units                0.01 units           +/- 0.2units
+Turb               0-1000 NTU                0.1 NTU              +/- 5% of 
+Reading or 2 NTU (whichever is greater)
+
+Data columns are separated by tabs.  Each file contains a two-line column header 
+at the top of the page, which identifies measurements and units for each column.
+
+ 9. Coded variable indicator and variable code definitions:	
+Site definitions: 09 = Station 9
+Site definitions: 10 = Station 10
+File definitions: site/month/year (ex: 090895.txt = Station 9 data from August 
+of 1995).
+
+10. Data anomalies:
+January 2000
+
+Station 09
+DO data deleted due to problem with membrane and/or probe:
+01/21/2000 16:00:00 - 01/25/2000 21:30:00
+DO values deleted due to fouling of probe:
+01/26/2000 14:30:00 - 01/27/2000 20:30:00
+01/29/2000 02:30:00 - 13:00:00
+High turbidity values (>1000), data were retained:
+01/21/2000 21:00:00
+01/28/2000 20:30:00
+
+
+
+Station 10
+Negative turbidity values, data were deleted:
+01/21/2000 16:00:00 - 01/22/2000 09:30:00
+01/22/2000 10:30:00 - 01/31/2000 15:00:00
+01/31/2000 17:00:00 - 17:30:00
+Zero turbidity values. Data were deleted. 
+01/31/2000 22:00:00
+
+February 2000
+
+Station 09
+DO membrane punctured; data were deleted: 
+02/07/00 09:00:00 - 02/07 13:30:00
+02/28/00 10:00:00 - 02/29/00 08:30:00
+High turbidity values (>1000), data were retained:
+02/27/2000 00:30:00
+DO data deleted due to punctured membrane:
+02/25/2000 09:00:00 - 02/28/2000 09:30:00
+Suspect data due to fouling of the sonde. Data were retained: 
+02/15/2000 09:30:00 - 02/28/2000 09:30:00
+
+Station 10 
+Negative turbidity. Data were deleted. 
+02/01/2000 09:00:00, 18:30:00, 19:30:00 - 21:30:00
+02/02/2000 00:30:00 - 02:30:00
+02/10/2000 16:00:00 - 02/16/2000 22:30:00
+02/17/2000 02:00:00
+02/17/2000 03:30:00 - 04:00:00
+02/17/2000 05:30:00
+02/17/2000 07:30:00 - 02/19/2000 01:00:00
+02/19/2000 02:00:00
+02/19/2000 03:30:00 - 20:30:00
+02/19/2000 22:30:00
+02/19/2000 23:30:00
+02/20/2000 09:30:00
+02/20/2000 10:30:00 - 02/20/2000 14:00:00
+02/20/2000 15:00:00
+02/20/2000 23:00:00 - 02/21/2000 01:00:00
+02/21/2000 02:00:00 - 05:30:00
+02/21/2000 07:30:00 - 12:00:00
+02/22/2000 05:30:00
+02/25/2000 05:30:00
+02/26/2000 17:30:00
+02/26/2000 19:30:00
+High turbidity values (>1000), data were retained:
+02/06/2000 14:00:00
+02/23/2000 19:30:00
+02/24/2000 12:00:00 - 02/28/2000 03:00:00
+
+March
+
+Station 9
+No file. File was corrupted. 
+
+Station 10
+DO data suspect 03/03/2000 16:00:00 - 03/31/2000 23:30:00 due to bad 
+calibration; calibration solution had a higher salinity than normal, causing 
+higher output values from datalogger when deployed. Data were retained. 
+Negative and/or zero turbidity values. Data were deleted. 
+03/02/2000 16:00:00 - 03/03/2000 11:30:00
+03/04/2000 10:30:00 - 16:00:00
+03/04/2000 18:00:00 - 18:30:00
+03/04/2000 21:00:00 - 21:30:00, 23:00:00
+03/05/2000 10:00:00
+03/05/2000 17:30:00 - 03/07/2000 07:00:00
+03/07/2000 08:00:00 - 03/08/2000 09:00:00
+03/08/2000 10:00:00 - 10:30:00
+03/08/2000 12:30:00 - 15:30:00
+03/08/2000 16:30:00 - 03/09/2000 07:00:00
+03/09/2000 08:00:00 - 03/10/2000 10:30:00
+03/10/2000 11:30:00 - 13:00:00
+03/10/2000 17:00:00 - 17:30:00
+03/10/2000 18:30:00 - 03/10/2000 20:30:00
+03/10/2000 21:30:00 - 22:30:00, 23:30:00
+03/11/2000 00:30:00 - 10:00:00
+03/11/2000 11:00:00 - 13:00:00
+03/11/2000 18:30:00 - 22:00:00
+03/11/2000 23:00:00 - 03/12/2000 08:30:00
+03/12/2000 09:30:00 - 11:00:00, 12:30:00
+03/12/2000 19:30:00 - 03/13/2000 00:30:00
+03/13/2000 01:30:00 - 10:30:00, 11:30:00, 13:30:00, 14:30:00 - 15:30:00
+03/13/2000 17:00:00 - 22:00:00
+03/14/2000 00:00:00, 03:00:00
+03/14/2000 08:30:00 - 09:30:00, 11:00:00, 13:00:00, 18:30:00 - 21:30:00
+03/14/2000 22:30:00 - 03/15/2000 04:00:00
+03/15/2000 05:00:00 - 09:00:00
+03/15/2000 10:00:00
+03/15/2000 11:00:00 - 12:30:00
+03/15/2000 19:30:00
+03/18/2000 07:30:00
+03/19/2000 12:30:00 
+03/19/2000 14:00:00
+03/19/2000 21:00:00
+03/20/2000 12:30:00
+03/21/2000 02:00:00
+03/21/2000 18:30:00
+03/22/2000 03:30:00
+03/22/2000 14:30:00
+03/24/2000 01:30:00, 22:00:00, 23:30:00
+03/25/2000 03:30:00 - 04:00:00
+03/26/2000 16:00:00 - 03/26/2000 17:30:00
+03/27/2000 01:30:00
+03/30/2000 23:00:00 - 23:30:00
+03/31/2000 00:30:00 - 01:00:00
+03/31/2000 03:00:00 
+03/31/2000 07:00:00 
+03/31/2000 08:00:00 
+03/31/2000 09:30:00
+High turbidity values, data retained. 
+03/21/2000 20:30:00
+03/23/2000 16:00:00
+03/24/2000 19:30:00
+03/25/2000 01:30:00
+03/26/2000 01:30:00
+
+April 2000
+
+Station 9
+Salinity and Specific Conductivity data suspect 04/26/2000 16:00:00 - 04/30/2000 
+23:30:00 due to calibration problem. Calibration solution had a higher salinity 
+than normal, causing higher output values from datalogger when deployed. Data 
+were retained.  
+
+Station 10
+DO data suspect 04/01/2000 00:00:00 - 04/30/2000 23:30:00 due to bad 
+calibration; calibration solution had a higher salinity than normal, causing 
+higher output values from datalogger when deployed. Data were retained. 
+Bad DO membrane; DO data were deleted:
+04/19/2000 20:30:00 - 04/24/2000 08:30:00
+Negative and/or zero turbidity values. Data were deleted.
+04/26/2000 16:00:00 - 04/30/2000 23:30:00
+Zero turbidity values. Data were deleted. 
+04/01/2000 01:30:00
+04/01/2000 03:00:00
+04/01/2000 04:00:00
+04/01/2000 05:00:00 - 05:30:00
+04/01/2000 06:30:00 - 07:00:00
+04/01/2000 22:30:00 - 23:30:00
+04/02/2000 00:30:00
+04/02/2000 01:30:00
+04/02/2000 02:30:00
+04/02/2000 03:30:00
+04/02/2000 06:00:00
+04/02/2000 07:00:00
+04/02/2000 08:00:00 - 08:30:00
+04/02/2000 21:30:00 
+04/02/2000 23:00:00
+04/03/2000 03:00:00
+04/03/2000 05:30:00
+04/03/2000 07:00:00
+04/03/2000 09:00:00
+04/03/2000 10:30:00 - 11:30:00
+04/03/2000 12:30:00
+04/03/2000 20:00:00 - 20:30:00
+04/03/2000 21:30:00 - 22:00:00
+04/03/2000 23:30:00
+04/04/2000 00:30:00
+04/04/2000 01:30:00 - 02:00:00
+04/04/2000 22:30:00
+04/05/2000 00:30:00
+04/05/2000 03:00:00
+04/05/2000 08:30:00
+04/05/2000 10:00:00
+04/05/2000 18:30:00 - 19:00:00
+04/05/2000 20:00:00 - 04/06/2000 02:00:00
+04/06/2000 03:00:00 - 03:30:00
+04/07/2000 00:00:00
+04/07/2000 01:30:00
+04/07/2000 04:00:00
+04/08/2000 00:00:00
+04/08/2000 01:00:00
+04/08/2000 22:30:00 - 23:00:00
+04/09/2000 03:30:00
+04/09/2000 05:30:00
+04/10/2000 06:00:00
+04/12/2000 03:00:00
+04/12/2000 04:30:00
+04/12/2000 06:30:00 - 07:00:00
+04/26/2000 16:30:00
+04/27/2000 10:30:00
+04/27/2000 11:30:00
+04/27/2000 12:30:00
+04/27/2000 14:30:00
+04/28/2000 12:30:00
+04/28/2000 14:00:00
+04/28/2000 14:30:00
+04/29/2000 12:30:00
+04/29/2000 14:30:00 
+04/29/2000 16:30:00 - 17:00:00
+04/30/2000 12:30:00
+Negative turbidity values. Data were deleted.
+04/26/2000 16:00:00
+04/26/2000 17:00:00 - 04/27/2000 10:00:00
+04/27/2000 11:00:00
+04/27/2000 12:00:00
+04/27/2000 13:00:00 - 14:00:00
+04/27/2000 15:00:00 - 04/28/2000 12:00:00
+04/28/2000 13:00:00 - 13:30:00
+04/28/2000 15:00:00 - 04/29/2000 12:00:00
+04/29/2000 13:00:00 - 13:30:00
+04/29/2000 14:00:00
+04/29/2000 15:00:00 - 16:00:00
+04/29/2000 17:30:00 - 04/30/2000 12:00:00
+04/30/2000 13:00:00 - 23:30:00
+
+
+
+May 2000
+
+Station 09 
+Salinity and Specific Conductivity data suspect 05/01/2000 00:00:00 - 05/15/2000 
+09:00:00 due to calibration problem. Calibration solution had a higher salinity 
+than normal, causing higher output values from datalogger when deployed. Data 
+were retained.
+DO data deleted due to problem with membrane and/or probe:
+05/06/2000 05:30:00 - 05/15/2000 09:00:00
+High turbidity values (>1000):
+05/11/2000 17:30:00, data were deleted
+05/14/2000 05:30:00 (986 NTU), data were retained
+
+Station 10
+DO data suspect 05/01/2000 00:00:00 - 05/15/2000 08:30:00 due to bad 
+calibration; calibration solution had a higher salinity than normal, causing 
+higher output values from datalogger when deployed. Data were retained. 
+Turbidity spike (1048 NTU) 05/13/200 22:00. Data retained. 
+Zero turbidity values, bad data fouling. Data were deleted.
+05/03/2000 23:00:00
+05/04/2000 16:30:00
+05/04/2000 17:30:00
+05/04/2000 18:30:00 - 19:00:00
+05/04/2000 20:00:00
+05/05/2000 06:00:00
+05/05/2000 07:00:00 - 10:30:00
+05/05/2000 12:30:00
+05/05/2000 16:30:00 - 17:00:00
+05/05/2000 18:00:00 - 19:00:00
+05/05/2000 23:00:00
+05/06/2000 02:30:00
+05/06/2000 03:30:00
+05/06/2000 05:00:00 
+05/06/2000 22:00:00
+Negative turbidity values. Data were deleted.
+05/01/2000 00:00:00 - 05/03/2000 22:30:00, bad data due to fouling
+05/03/2000 23:30:00 - 05/04/2000 15:30:00
+05/04/2000 17:00:00
+05/04/2000 18:00:00
+05/04/2000 19:30:00
+05/04/2000 20:30:00 - 05/05/2001 05:30:00
+05/05/2000 06:30:00
+05/09/2000 05:30:00
+05/09/2000 21:30:00
+05/14/2000 05:00:00
+05/15/2000 02:00:00
+05/25/2000 16:00:00 - 05/31/2000 23:30:00, bad data bad calibration
+Punctured DO membrane, data were deleted:
+05/25/2000 16:00:00 - 05/31/2000 23:30:00
+
+
+June 2000
+
+Station 09
+DO deleted due to fouling of membrane:
+06/18/2000 03:30:00 - 06/28/2000 10:30:00
+High turbidity values (algal debris), data were deleted.
+06/03/2000 11:30:00
+06/03/2000 13:30:00
+06/03/2000 23:00:00
+06/05/2000 17:00:00 - 19:00:00
+06/06/2000 06:00:00
+06/06/2000 19:30:00 - 23:00:00
+06/07/2000 00:00:00 - 02:30:00
+06/07/2000 04:30:00 - 06:00:00
+06/07/2000 07:00:00
+06/07/2000 08:30:00 - 09:00:00
+06/07/2000 13:30:00
+06/29/2000 07:00:00
+06/30/2000 16:00:00
+
+Station 10
+DO data deleted due to punctured membrane:
+06/01/2000 00:00:00 - 06/12/2000 09:00:00
+Negative turbidity values. Data were deleted. 
+06/01/2000 00:00:00 - 06/06/2000 10:00:00
+06/06/2000 11:00:00
+06/11/2000 18:30:00 - 19:30:00
+06/11/2000 21:30:00
+06/14/2000 16:00:00 - 06/17/2000 14:30:00
+06/17/2000 16:30:00 - 06/19/2000 15:30:00
+06/19/2000 17:00:00
+06/19/2000 18:00:00 - 06/20/2000 16:00:00
+06/20/2000 17:30:00 - 18:00:00
+06/20/2000 21:00:00 - 23:00:00
+06/21/2000 00:00:00 - 10:30:00, 20:30:00 - 22:00:00
+06/22/2000 01:00:00, 02:00:00 - 07:30:00, 13:30:00, 21:30 - 22:30:00
+06/22/2000 23:30:00 - 06/23/2000 00:00:00
+06/23/2000 01:00:00 - 10:00:00, 12:30:00 - 13:30:00
+06/24/2000 06:00:00 - 12:00:00, 13:00:00 - 13:30:00, 22:00:00 - 23:30:00
+06/25/2000 01:00:00 - 04:30:00, 05:30:00 - 13:00:00, 21:30:00 - 22:30:00 
+06/25/2000 23:30:00 - 06/26/2000 09:30:00
+06/27/2000 00:30:00 - 02:00:00
+06/29/2000 19:30:00 - 22:00:00
+06/29/2000 23:30:00 - 06/30/2000 03:00
+06/30/2000 04:00:00 - 07:00:00, 08:00, 09:30:00 - 10:30:00, 11:30:00, 22:00:00
+High turbidity values (>1000), data were retained:
+06/30/2000 11:00:00
+06/30/2000 21:30:00
+
+July 2000
+
+Station 09
+DO%, DO mg/L: deleted data: punctured membrane
+07/27/2000 23:30:00 - 07/31/2000 23:30:00
+Turbidity outliers, high values, data deleted. 
+07/02/2000 00:30:00 - 01:00:00
+07/21/2000 20:30:00
+07/25/2000 21:00:00
+07/25/2000 22:00:00
+07/25/2000 23:00:00 - 07/26/2000 06:00:00
+07/26/2000 07:30:00
+07/26/2000 10:00:00 - 11:00:00
+07/26/2000 19:30:00 - 20:00:00
+07/26/2000 21:00:00 - 21:30:00
+07/27/2000 00:00:00
+07/27/2000 01:30:00 - 02:00:00
+07/27/2000 03:00:00
+07/27/2000 04:00:00
+07/27/2000 05:00:00
+07/27/2000 06:00:00 - 07:30:00
+07/27/2000 08:30:00 - 09:00:00
+07/27/2000 10:30:00
+07/27/2000 16:30:00 - 17:00:00
+07/27/2000 18:00:00
+07/27/2000 20:30:00 - 21:30:00
+07/27/2000 22:30:00 - 07/28/2000 08:30:00
+07/28/2000 09:30:00 - 12:30:00
+07/28/2000 14:00:00 - 15:00:00
+07/28/2000 16:30:00 - 18:30:00
+07/28/2000 20:00:00 - 23:00:00
+07/29/2000 00:00:00 - 01:00:00
+07/29/2000 02:00:00 - 06:30:00
+07/29/2000 07:30:00 - 09:30:00
+07/29/2000 10:30:00
+07/29/2000 11:30:00 - 14:30:00
+07/29/2000 15:30:00 - 22:30:00
+07/30/2000 01:00:00
+07/30/2000 02:00:00
+07/30/2000 03:30:00 - 10:30:00
+07/30/2000 11:30:00 - 13:30:00
+07/30/2000 15:00:00 - 15:30:00
+07/30/2000 16:30:00
+07/30/2000 17:30:00
+07/30/2000 18:30:00 - 19:30:00
+07/31/2000 00:00:00
+07/31/2000 01:00:00 - 01:30:00
+07/31/2000 03:00:00 - 03:30:00
+07/31/2000 04:30:00
+07/31/2000 05:30:00 - 07:00:00
+07/31/2000 08:00:00 - 09:00:00
+07/31/2000 10:00:00 - 11:00:00
+07/31/2000 13:00:00 - 13:30:00
+07/31/2000 15:30:00 - 16:00:00 
+07/31/2000 17:00:00 - 19:00:00
+07/31/2000 20:00:00 - 21:00:00
+07/31/2000 23:00:00 - 23:30:00
+
+Station 10
+High turbidity values (>1000), data were retained
+07/01/2000 14:30:00
+07/01/2000 18:00:00  - 18:30:00
+07/02/2000 08:00:00
+07/03/2000 03:00:00
+07/03/2000 10:30:00
+07/03/2000 12:30:00
+07/03/2000 16:30:00  - 17:30:00
+07/03/2000 19:00:00  - 19:30:00
+07/03/2000 22:00:00
+07/04/2000 03:30:00  - 04:00:00
+07/04/2000 05:00:00
+07/04/2000 07:00:00
+07/04/2000 08:30:00
+07/04/2000 09:30:00  - 10:00:00
+07/04/2000 11:00:00
+07/04/2000 15:00:00  - 16:00:00
+07/04/2000 17:30:00  - 07/05/2000 03:30:00
+07/05/2000 05:00:00  - 09:30:00
+
+Negative turbidity values, data were deleted.
+07/01/2000 15:30:00  - 17:30:00
+07/02/2000 07:30:00
+07/02/2000 08:30:00  - 11:00:00
+07/02/2000 12:00:00  - 14:30:00
+07/02/2000 15:30:00  - 16:30:00
+07/02/2000 17:30:00  - 18:30:00
+07/02/2000 19:30:00  - 21:30:00
+07/02/2000 22:30:00  - 07/03/2000 00:00:00
+07/03/2000 01:00:00  - 02:30:00, 03:30:00 - 04:30:00
+07/03/2000 13:00:00  - 16:00:00
+07/03/2000 18:00:00  - 18:30:00
+07/03/2000 20:00:00  - 21:30:00
+07/03/2000 22:30:00
+07/04/2000 04:30:00
+07/04/2000 05:30:00
+07/04/2000 08:00:00
+07/04/2000 12:00:00 - 14:30:00
+07/04/2000 16:30:00 - 17:00:00
+07/05/2000 04:00:00 - 04:30:00
+07/10/2000 16:00:00 - 07/11/2000 20:30:00
+07/11/2000 21:30:00 - 07/15/2000 16:30:00
+07/15/2000 19:00:00 - 07/16/2000 18:30:00
+07/16/2000 19:30:00 - 07/17/2000 18:30:00
+07/17/2000 20:30:00 - 07/18/2000 20:00:00
+07/18/2000 21:00:00
+07/18/2000 22:00:00 - 07/19/2000 19:30:00
+07/19/2000 20:30:00 
+07/19/2000 21:30:00 - 07/31/2000 23:30:00
+
+
+August 2000
+Station 9 
+Turbidity data deleted 08/01/2000 00:00:00 - 08/02/2000 08:30:00 due to bad 
+probe. No probe available for deployment 08/29/2000 13:00:00 - 08/31/2000 
+23:30:00.  
+
+Station 10 
+No anomalies
+
+September 2000
+
+Station 09
+High turbidity values (>1000), data were retained:
+09/08/2000 23:00:00
+Negative turbidity values, data deleted:
+09/01/2000 00:00:00 - 09/02/2000 10:30:00
+09/02/2000 11:30:00 - 09/05/2000 19:00:00
+09/05/2000 20:30:00 - 09/06/2000 10:30:00
+09/06/2000 12:00:00 - 09/07/2000 19:00:00
+09/07/2000 20:00:00 - 09/08/2000 07:30:00
+09/08/2000 08:30:00 - 09:00:00 
+09/08/2000 10:00:00 
+09/08/2000 11:30:00 - 14:30:00 
+09/08/2000 15:30:00 - 21:00:00 
+09/08/2000 22:00:00 - 22:30:00
+09/09/2000 00:30:00 
+09/09/2000 02:00:00 - 02:30:00 
+09/09/2000 10:30:00 
+09/09/2000 21:30:00
+09/10/2000 08:30:00
+09/10/2000 21:30:00
+09/11/2000 00:00:00
+09/15/2000 16:00:00 - 09/17 15:00:00
+All data deleted due to stolen datalogger out of water:
+09/17/2000 15:30:00 - 09/30/2000 23:30:00
+
+Station 10
+No data due to calibration error and/or fouling of membrane:
+09/15/2000 16:00:00 - 09/30/2000 23:30:00
+
+October 2000
+
+Station 09
+All data deleted due to stolen datalogger out of water:
+10/01/2000 00:00:00 - 10/06/2000 12:00:00
+Negative depth data were deleted:
+10/06/2000 12:30:00 - 10/15/2000 16:00:00, bad data due to calibration error
+Negative turbidity data due to problems with probe were deleted:
+10/06/2000 12:30:00  - 10/09/2000 08:30:00
+10/09/2000 10:00:00
+10/09/2000 11:00:00
+10/09/2000 12:30:00  - 13:30:00
+
+Station 10
+DO data deleted due to fouling of probe:
+10/01/2000 00:00:00 - 10/02/2000 09:00:00
+Negative and/or zero turbidity values were deleted:
+10/01/2000 00:00:00 - 01:30:00
+10/01/2000 04:00:00 - 05:00:00
+10/01/2000 22:00:00
+10/01/2000 23:30:00
+10/02/2000 00:00:00 
+10/02/2000 04:30:00 
+10/02/2000 08:30:00 - 09:00:00
+10/13/2000 14:30:00
+10/17/2000 14:30:00
+10/17/2000 18:30:00
+10/18/2000 16:00:00 - 16:30:00 
+10/18/2000 18:30:00 
+10/18/2000 01:30:00
+10/19/2000 15:00:00 
+10/19/2000 16:30:00 - 17:00:00 
+10/19/2000 19:00:00
+10/20/2000 16:00:00 - 19:00:00 
+10/20/2000 20:30:00 
+10/20/2000 21:30:00 - 22:00:00
+10/21/2000 14:00:00
+10/21/2000 17:30:00 - 18:00:00
+10/21/2000 19:00:00 - 19:30:00
+10/21/2000 21:00:00
+10/21/2000 22:30:00 - 10/22/2000 00:00:00
+10/22/2000 06:00:00 
+10/22/2000 14:30:00 
+10/22/2000 18:30:00 
+10/22/2000 20:00:00 - 22:30:00 
+10/22/2000 23:30:00
+10/23/2000 00:00:00 
+10/23/2000 01:00:00 
+10/23/2000 02:30:00 
+10/23/2000 13:30:00 
+10/23/2000 18:00:00 
+10/23/2000 19:30:00 - 20:00:00 
+10/23/2000 22:00:00
+10/24/2000 04:30:00 
+10/24/2000 17:00:00
+10/27/2000 16:00:00
+10/27/2000 20:00:00 - 10/28/2000 00:30:00
+10/28/2000 01:30:00 - 05:00:00
+10/28/2000 06:00:00 - 06:30:00
+10/28/2000 12:00:00 - 13:00:00
+10/28/2000 14:00:00 
+10/28/2000 15:00:00 
+10/28/2000 18:30:00 
+10/28/2000 19:30:00 - 21:30:00
+10/28/2000 23:00:00
+10/29/2000 02:30:00
+10/29/2000 04:00:00 - 05:00:00 
+10/29/2000 07:00:00 
+10/29/2000 11:00:00
+10/29/2000 12:00:00 - 13:00:00
+10/29/2000 14:00:00 
+10/29/2000 15:00:00
+10/29/2000 16:30:00
+10/29/2000 19:00:00 - 20:00:00
+10/29/2000 21:00:00 - 22:30:00
+10/30/2000 00:00:00 - 01:30:00
+10/30/2000 02:30:00 - 04:00:00 
+10/30/2000 05:00:00 - 06:30:00 
+10/30/2000 07:30:00 
+10/30/2000 11:30:00 - 13:30:00
+10/30/2000 14:30:00 - 19:30:00
+10/30/2000 20:30:00 - 21:30:00 
+10/30/2000 22:30:00  
+10/31/2000 00:00:00 
+10/31/2000 11:00:00 - 12:00:00
+10/31/2000 13:00:00 - 14:30:00 
+10/31/2000 15:30:00 - 16:30:00
+10/31/2000 17:30:00 - 18:00:00
+10/31/2000 19:00:00 - 21:00:00
+
+November 2000
+
+Station 09
+Turbidity outlier data deleted:
+11/25/2000 11:30:00
+
+Station 10
+Turbidity outliers (>1000), data were deleted:
+11/13/2000 17:30:00 - 18:30:00, 20:30:00 - 22:30:00, 23:30:00
+11/14/2000 00:00:00, 01:30:00, 03:30:00 - 04:00:00, 06:30:00
+Sonde out of water; data deleted:
+11/13/2000 10:30:00 - 13:30:00
+Negative turbidity values, data were deleted:
+11/01/2000 00:30:00 
+11/01/2000 14:00:00 
+11/01/2000 19:00:00 - 21:30:00 
+11/01/2000 22:30:00 - 23:30:00
+11/02/2000 01:00:00 
+11/02/2000 18:30:00 
+11/02/2000 20:00:00
+11/02/2000 21:00:00 - 22:30:00
+11/03/2000 00:00:00 
+11/03/2000 01:00:00 - 02:00:00 
+11/03/2000 03:30:00 - 04:30:00 
+11/03/2000 06:30:00 - 07:00:00 
+11/03/2000 09:00:00 
+11/03/2000 10:00:00 - 13:00:00 
+11/03/2000 14:00:00 - 15:30:00 
+11/03/2000 16:30:00 - 17:00:00 
+11/03/2000 18:00:00 
+11/03/2000 19:30:00 - 23:30:00
+11/04/2000 00:00:00 - 01:00:00 
+11/04/2000 02:00:00 - 02:30:00
+11/04/2000 05:00:00 
+11/04/2000 07:00:00 - 10:30:00 
+11/04/2000 11:30:00 
+11/04/2000 18:30:00 - 22:00:00 
+11/04/2000 23:00:00
+11/05/2000 00:00:00 
+11/05/2000 01:00:00 - 03:00:00 
+11/05/2000 04:30:00, 06:30:00 
+11/05/2000 07:30:00 - 08:00:00 
+11/05/2000 09:30:00 - 13:30:00 
+11/05/2000 14:30:00 
+11/05/2000 15:30:00 
+11/05/2000 16:30:00 
+11/05/2000 18:00:00 
+11/05/2000 19:00:00 - 20:00:00 
+11/05/2000 21:00:00 - 22:00:00
+11/06/2000 00:30:00 - 02:00:00
+11/06/2000 03:00:00 
+11/06/2000 04:00:00 
+11/06/2000 05:00:00 
+11/06/2000 06:00:00 - 07:30:00 
+11/06/2000 08:30:00 - 09:30:00 
+11/06/2000 10:30:00 - 11:30:00 
+11/06/2000 12:30:00 - 13:00:00 
+11/06/2000 15:00:00 
+11/06/2000 17:00:00 
+11/06/2000 18:00:00 
+11/06/2000 19:30:00 - 23:30:00
+11/07/2000 00:00:00 - 00:30:00
+11/07/2000 01:30:00 
+11/07/2000 02:30:00 
+11/07/2000 03:30:00 - 04:00:00 
+11/07/2000 05:00:00 - 05:30:00 
+11/07/2000 06:30:00 - 09:00:00 
+11/07/2000 10:00:00 - 12:30:00 
+11/07/2000 13:30:00 
+11/07/2000 14:30:00 
+11/07/2000 18:00:00 - 21:00:00
+11/07/2000 22:00:00 - 23:30:00
+11/08/2000 00:00:00 - 02:00:00
+11/08/2000 03:00:00 - 06:30:00
+11/08/2000 07:30:00 - 12:00:00 
+11/08/2000 13:00:00 - 14:00:00 
+11/08/2000 15:30:00
+11/08/2000 16:30:00 - 17:00:00 
+11/08/2000 19:00:00 - 23:30:00
+11/09/2000 00:00:00 - 00:30:00 
+11/09/2000 01:30:00 - 10:00:00 
+11/09/2000 11:00:00 - 12:00:00
+11/09/2000 13:00:00 - 15:00:00 
+11/09/2000 18:30:00 - 19:00:00 
+11/09/2000 20:00:00 
+11/09/2000 21:30:00 - 22:00:00
+11/09/2000 23:00:00
+11/10/2000 02:30:00 - 03:00:00 
+11/10/2000 04:30:00 - 05:00:00 
+11/10/2000 06:30:00 - 09:30:00 
+11/10/2000 10:30:00 - 15:00:00 
+11/10/2000 16:30:00 - 21:30:00 
+11/10/2000 22:30:00 - 23:30:00
+11/11/2000 00:00:00 - 04:00:00
+11/11/2000 05:00:00 - 05:30:00
+11/11/2000 06:30:00 - 07:30:00
+11/11/2000 08:30:00 - 09:00:00 
+11/11/2000 10:00:00 - 14:30:00 
+11/11/2000 16:00:00 
+11/11/2000 17:30:00 - 18:30:00 
+11/11/2000 20:00:00 
+11/11/2000 21:30:00 - 23:30:00
+11/12/2000 01:00:00
+11/12/2000 02:00:00
+11/12/2000 03:00:00
+11/12/2000 04:00:00 
+11/12/2000 05:30:00
+11/12/2000 07:00:00 
+11/12/2000 08:00:00 - 14:30:00
+11/12/2000 17:30:00 
+11/12/2000 19:00:00 - 20:00:00 
+11/12/2000 21:00:00 - 23:30:00 
+11/13/2000 00:30:00 - 02:00:00 
+11/13/2000 03:30:00 - 04:00:00 
+11/13/2000 05:00:00 - 05:30:00
+11/13/2000 07:00:00 
+11/13/2000 09:30:00 - 10:00:00 
+11/14/2000 10:30:00 - 15:30:00
+11/14/2000 16:30:00 - 17:00:00
+11/14/2000 18:00:00 - 23:30:00
+11/15/2000 00:30:00 - 02:00:00, 04:30:00 - 05:00:00
+11/15/2000 06:00:00 - 06:30:00
+11/15/2000 07:30:00 - 11/16/2000 03:30:00
+11/16/2000 05:00:00 - 05:30:00, 07:00:00 - 07:30:00, 09:30:00
+11/16/2000 11:00:00 - 11/17/2000 05:30:00
+11/17/2000 06:30:00 - 07:00:00, 08:00:00
+11/17/2000 09:00:00 - 09:30:00
+11/17/2000 10:30:00 - 16:00:00
+11/17/2000 17:00:00 - 11/18/2000 01:00:00
+11/18/2000 02:00:00 - 07:00:00
+11/18/2000 08:00:00 - 12:30:00
+11/18/2000 13:30:00 - 18:00:00
+11/18/2000 19:00:00
+11/18/2000 20:00:00
+11/18/2000 21:00:00 - 23:30:00
+11/19/2000 00:00:00 - 00:30:00
+11/19/2000 01:30:00 - 10:30:00
+11/19/2000 11:30:00 - 15:30:00
+11/19/2000 16:30:00 - 22:00:00
+11/19/2000 23:00:00 - 23:30:00
+11/20/2000 00:00:00
+11/20/2000 01:00:00 - 12:00:00
+11/20/2000 13:00:00 - 23:30:00
+11/21/2000 00:00:00 - 00:30:00 
+11/21/2000 01:30:00 - 02:00:00
+11/21/2000 03:00:00 - 09:30:00
+11/21/2000 10:30:00 - 13:00:00
+11/21/2000 14:00:00
+11/21/2000 15:00:00 - 20:30:00
+11/21/2000 21:30:00, 22:30:00
+11/22/2000 00:30:00 - 02:30:00
+11/22/2000 03:30:00 - 07:00:00
+11/22/2000 08:00:00
+11/22/2000 11:30:00 - 13:30:00
+11/22/2000 16:00:00 - 16:30:00
+11/22/2000 17:30:00 - 18:00:00
+11/23/2000 02:00:00 
+11/23/2000 05:00:00 
+11/23/2000 07:00:00 
+11/23/2000 09:00:00 
+11/23/2000 17:00:00 
+11/23/2000 18:30:00
+11/23/2000 21:00:00
+11/24/2000 01:00:00 - 03:30:00
+11/24/2000 04:30:00 - 05:30:00
+11/24/2000 06:30:00 - 07:00:00
+11/24/2000 15:00:00
+11/24/2000 18:00:00
+11/24/2000 21:00:00 - 23:30:00
+11/25/2000 00:30:00
+11/25/2000 04:00:00 - 05:00:00
+11/25/2000 06:30:00 - 07:30:00
+11/25/2000 12:00:00
+11/25/2000 16:30:00
+11/26/2000 00:30:00
+11/26/2000 03:00:00 - 04:00:00, 05:00:00
+11/26/2000 06:30:00 - 13:00:00
+11/26/2000 14:00:00 - 15:00:00 
+11/26/2000 21:30:00 
+11/26/2000 23:00:00
+11/27/2000 02:30:00 - 05:30:00
+11/27/2000 06:30:00
+11/27/2000 07:30:00 
+11/27/2000 08:30:00 
+11/27/2000 09:30:00 
+11/27/2000 10:30:00 - 13:30:00
+11/27/2000 15:30:00 
+11/27/2000 18:30:00
+11/27/2000 19:30:00 - 11/28/2000 10:30:00
+11/28/2000 11:30:00 - 12:00:00
+11/28/2000 13:30:00
+11/28/2000 14:30:00 - 17:30:00
+11/28/2000 19:30:00 - 11/29/2000 09:00:00
+11/29/2000 14:00:00, 15:00:00
+11/30/2000 20:00:00
+11/30/2000 21:30:00
+
+December 2000
+
+Station 09
+No pH data, broken sensor
+12/26/2000 08:30:00  - 12/27/2000 03:30:00
+High turbidity values (>1000), data were retained:
+12/02/2000 15:00:00
+Bad SpCond and salinity data due to possible fouling, all data were deleted:
+12/04/2000 03:00:00  - 12/04/2000 08:30:00
+SpCond and salinity data deleted due to possible fouling: 
+12/08/2000 03:30:00  - 12/14/2000 05:30:00 
+
+Negative and/or zero turbidity values, data were deleted. 
+12/04/2000 09:00:00 - 09:30:00
+12/04/2000 16:00:00
+12/05/2000 06:30:00 - 07:00:00
+12/07/2000 04:00:00 - 05:00:00
+12/08/2000 00:30:00
+12/08/2000 02:30:00
+12/08/2000 03:30:00 - 06:00:00
+12/08/2000 09:00:00
+12/09/2000 05:30:00 - 06:00:00
+12/10/2000 08:00:00 - 08:30:00
+12/11/2000 06:00:00 - 06:30:00
+12/12/2000 07:30:00
+12/12/2000 08:30:00
+12/20/2000 04:00:00, 05:00:00
+12/20/2000 06:00:00
+12/20/2000 08:00:00 - 08:30:00
+12/20/2000 22:00:00
+12/20/2000 23:00:00
+12/21/2000 00:00:00
+12/21/2000 01:00:00
+12/21/2000 08:00:00 - 08:30:00
+12/23/2000 05:30:00
+12/23/2000 06:30:00
+12/23/2000 07:30:00
+12/24/2000 07:00:00 - 07:30:00
+12/24/2000 12:00:00, 13:30:00
+12/25/2000 06:00:00
+12/25/2000 07:00:00 - 09:30:00
+12/25/2000 10:30:00
+12/25/2000 11:30:00
+12/27/2000 09:30:00 - 12:30:00
+12/27/2000 14:30:00 - 15:00:00
+12/27/2000 22:30:00 - 12/28/2000 01:30:00
+12/28/2000 03:30:00
+12/28/2000 05:00:00 - 06:30:00
+12/28/2000 07:30:00 - 08:00:00
+12/28/2000 09:00:00 - 11:30:00
+12/28/2000 13:00:00 - 13:30:00
+12/28/2000 19:00:00 - 19:30:00
+12/28/2000 20:30:00 - 21:00:00
+12/28/2000 23:00:00 - 12/29/2000 00:30:00
+12/29/2000 01:30:00 - 02:00:00
+12/29/2000 03:30:00 - 06:30:00
+12/29/2000 07:30:00
+12/29/2000 08:30:00 - 14:00:00
+12/29/2000 20:30:00 - 12/30/2000 01:00:00
+12/30/2000 02:00:00 - 02:30:00
+12/30/2000 04:00:00 - 04:30:00
+12/30/2000 05:30:00 - 07:00:00
+12/30/2000 08:00:00 - 15:30:00
+12/30/2000 21:30:00 - 12/31/2000 10:00:00
+12/31/2000 11:30:00 - 13:30:00
+12/31/2000 14:30:00 - 16:00:00
+
+Station 10
+pH data deleted due to sensor failure:
+12/04/2000 09:30:00 - 12/26/2000 09:00:00
+12/26/2000 13:30:00 - 12/27/2000 03:00:00
+Specific Conductivity and salinity data deleted due to fouling of membrane:
+12/08/2000 03:30:00 - 12/14/2000 05:30:00
+The following negative and/or zero turbidity values were deleted:
+12/01/2000 01:30:00, 03:00:00, 07:30:00 - 08:00:00, 11:00:00, 21:00:00, 22:30:00
+12/02/2000 00:30:00 - 01:00:00
+12/02/2000 02:00:00 - 03:00:00
+12/02/2000 04:00:00
+12/02/2000 05:00:00
+12/02/2000 18:30:00
+12/02/2000 20:30:00
+12/02/2000 21:30:00
+12/02/2000 22:30:00
+12/03/2000 02:00:00
+12/03/2000 03:30:00 - 07:30:00
+12/03/2000 08:30:00 - 09:00:00
+12/03/2000 10:30:00 - 11:00:00
+12/03/2000 12:00:00 - 21:30:00
+12/03/2000 23:00:00
+12/04/2000 01:00:00 - 06:00:00
+12/04/2000 07:30:00 - 08:00:00, 09:30:00, 16:00:00
+12/05/2000 04:30:00 - 05:00:00
+12/05/2000 06:30:00 - 07:00:00
+12/07/2000 04:00:00 - 05:00:00
+12/08/2000 00:30:00
+12/08/2000 02:30:00 
+12/08/2000 03:30:00 - 06:00:00 
+12/08/2000 09:00:00
+12/09/2000 05:30:00 - 06:00:00
+12/10/2000 08:30:00 - 09:00:00
+12/11/2000 06:00:00 - 06:30:00
+12/12/2000 08:30:00
+12/16/2000 16:30:00, 19:00:00
+12/20/2000 04:00:00
+12/20/2000 05:00:00
+12/20/2000 06:00:00
+12/20/2000 08:00:00 - 08:30:00
+12/20/2000 23:00:00
+12/21/2000 00:00:00
+12/21/2000 08:00:00 - 08:30:00
+12/23/2000 05:30:00, 06:30:00, 07:30:00
+12/24/2000 07:00:00 - 07:30:00
+12/24/2000 12:00:00, 13:00:00 - 13:30:00
+12/25/2000 03:00:00
+12/25/2000 06:00:00 
+12/25/2000 07:00:00  - 09:30:00
+12/25/2000 10:30:00
+12/25/2000 11:30:00
+12/26/2000 09:00:00 
+12/27/2000 09:00:00 - 12:00:00, 13:00:00  - 17:30:00
+12/27/2000 18:30:00 - 20:00:00
+12/27/2000 21:00:00 - 12/29/2000 04:00:00
+12/29/2000 05:00:00 - 14:00:00
+12/29/2000 15:00:00 - 16:00:00
+12/29/2000 17:00:00 - 17:30:00, 18:30:00 - 19:30:00
+12/29/2000 20:30:00 - 12/30/2000 02:00:00
+12/30/2000 03:00:00 - 04:00:00, 05:00:00  - 09:00:00
+12/30/2000 10:00:00 - 14:30:00
+12/30/2000 15:30:00
+12/30/2000 22:30:00 - 12/31/2000 05:00:00
+12/31/2000 06:00:00
+12/31/2000 07:00:00 - 10:30:00 
+12/31/2000 12:00:00 - 13:30:00
+12/31/2000 14:30:00
+12/31/2000 15:30:00 - 16:00:00 
+12/31/2000 17:00:00 - 19:30:00
+12/31/2000 20:30:00 
+12/31/2000 21:30:00 - 23:30:00
+
+
+11. Missing data:
+January 2000
+
+Station 09
+DO data deleted due to problem with membrane and/or probe:
+01/21/2000 16:00:00 - 01/25/2000 21:30:00
+DO values deleted due to fouling of probe:
+01/26/2000 14:30:00 - 01/27/2000 20:30:00
+01/29/2000 02:30:00 - 13:00:00
+No data due to programming error: 01/01/00 00:00:00 - 01/19/00 08:00:00.
+No data due to sonde maintenance: 01/19/00 08:30:00  - 01/21/00 15:30:00.
+
+Station 10
+01/01/00 00:00:00  - 01/21/00 15:30:00, no sonde deployed due to maintenance.
+Negative turbidity values, data were deleted:
+01/21/2000 16:00:00 - 01/22/2000 09:30:00
+01/22/2000 10:30:00 - 01/31/2000 15:00:00
+01/31/2000 17:00:00 - 17:30:00
+Zero turbidity values. Data were deleted. 
+01/31/2000 22:00:00
+
+
+February 2000
+
+Station 09
+No data due to punctured DO membrane:
+02/07/2000 09:00:00  - 02/07/2000 13:30:00
+02/28/2000 10:00:00  - 02/29/2000 08:30:00
+Sonde servicing: 
+02/07/00 14:00:00  - 02/10/00 15:30:00
+02/29/00 09:00:00  - 02/29/00 23:30:00
+DO data deleted due to punctured membrane:
+02/25/2000 09:00:00 - 02/28/2000 09:30:00
+
+Station 10 
+Negative turbidity. Data were deleted. 
+02/01/2000 09:00:00, 18:30:00, 19:30:00 - 21:30:00
+02/02/2000 00:30:00 - 02:30:00
+02/10/2000 16:00:00 - 02/16/2000 22:30:00
+02/17/2000 02:00:00
+02/17/2000 03:30:00 - 04:00:00
+02/17/2000 05:30:00
+02/17/2000 07:30:00 - 02/19/2000 01:00:00
+02/19/2000 02:00:00
+02/19/2000 03:30:00 - 20:30:00
+02/19/2000 22:30:00
+02/19/2000 23:30:00
+02/20/2000 09:30:00
+02/20/2000 10:30:00 - 14:00:00
+02/20/2000 15:00:00
+02/20/2000 23:00:00 - 02/21/2000 01:00:00
+02/21/2000 02:00:00 - 05:30:00
+02/21/2000 07:30:00 - 12:00:00
+02/22/2000 05:30:00
+02/25/2000 05:30:00
+02/26/2000 17:30:00
+02/26/2000 19:30:00
+No data: maintenance
+02/07/2000 09:30:00 - 02/10/2000 15:30:00 
+02/28/2000 10:30:00 - 02/29/2000 23:30:00 
+
+
+March 2000
+
+Station 09
+No file, corrupted file.
+
+Station 10
+No data: maintenance
+03/01/2000 00:00:00  - 03/02/2000 15:30:00
+03/27/2000 09:30:00  - 03/30/2000 15:30:00
+Negative and/or zero turbidity values. Data were deleted. 
+03/02/2000 16:00:00 - 03/03/2000 11:30:00
+03/04/2000 10:30:00 - 16:00:00
+03/04/2000 18:00:00 - 18:30:00
+03/04/2000 21:00:00 - 21:30:00, 23:00:00
+03/05/2000 10:00:00
+03/05/2000 17:30:00 - 03/07/2000 07:00:00
+03/07/2000 08:00:00 - 03/08/2000 09:00:00
+03/08/2000 10:00:00 - 10:30:00
+03/08/2000 12:30:00 - 15:30:00
+03/08/2000 16:30:00 - 03/09/2000 07:00:00
+03/09/2000 08:00:00 - 03/10/2000 10:30:00
+03/10/2000 11:30:00 - 13:00:00
+03/10/2000 17:00:00 - 17:30:00
+03/10/2000 18:30:00 - 20:30:00
+03/10/2000 21:30:00 - 22:30:00, 23:30:00
+03/11/2000 00:30:00 - 10:00:00
+03/11/2000 11:00:00 - 13:00:00
+03/11/2000 18:30:00 - 22:00:00
+03/11/2000 23:00:00 - 03/12/2000 08:30:00
+03/12/2000 09:30:00 - 11:00:00, 12:30:00
+03/12/2000 19:30:00 - 03/13/2000 00:30:00
+03/13/2000 01:30:00 - 10:30:00 
+03/13/2000 11:30:00 
+03/13/2000 13:30:00 
+03/13/2000 14:30:00 - 15:30:00
+03/13/2000 17:00:00 - 22:00:00
+03/14/2000 00:00:00, 03:00:00
+03/14/2000 08:30:00 - 09:30:00 
+03/14/2000 11:00:00 
+03/14/2000 13:00:00 
+03/14/2000 18:30:00 - 21:30:00
+03/14/2000 22:30:00 - 03/15/2000 04:00:00
+03/15/2000 05:00:00 - 09:00:00
+03/15/2000 10:00:00
+03/15/2000 11:00:00 - 12:30:00
+03/15/2000 19:30:00
+03/18/2000 07:30:00
+03/19/2000 12:30:00 
+03/19/2000 14:00:00
+03/19/2000 21:00:00
+03/20/2000 12:30:00
+03/21/2000 02:00:00
+03/21/2000 18:30:00
+03/22/2000 03:30:00
+03/22/2000 14:30:00
+03/24/2000 01:30:00, 22:00:00, 23:30:00
+03/25/2000 03:30:00 - 04:00:00
+03/26/2000 16:00:00 - 17:30:00
+03/27/2000 01:30:00
+03/30/2000 23:00:00 - 23:30:00
+03/31/2000 00:30:00 - 01:00:00
+03/31/2000 03:00:00 
+03/31/2000 07:00:00
+03/31/2000 08:00:00
+03/31/2000 09:30:00
+
+
+
+April 2000
+
+Station 09
+No data 04/01/2000 00:00:00  - 04/23/2000 07:30:00, due to the corrupted March 
+deployment file.
+No data due to maintenance:
+04/23/2000 08:00:00  - 04/26/2000 15:30:00
+
+Station 10
+Bad DO membrane; DO data were deleted:
+04/19/2000 20:30:00 - 04/24/2000 08:30:00
+Zero turbidity values. Data were deleted.
+04/01/2000 01:30:00
+04/01/2000 03:00:00
+04/01/2000 04:00:00
+04/01/2000 05:00:00 - 05:30:00
+04/01/2000 06:30:00 - 07:00:00
+04/01/2000 22:30:00 - 23:30:00
+04/02/2000 00:30:00
+04/02/2000 01:30:00
+04/02/2000 02:30:00
+04/02/2000 03:30:00
+04/02/2000 06:00:00
+04/02/2000 07:00:00
+04/02/2000 08:00:00 - 08:30:00
+04/02/2000 21:30:00 
+04/02/2000 23:00:00
+04/03/2000 03:00:00
+04/03/2000 05:30:00
+04/03/2000 07:00:00
+04/03/2000 09:00:00
+04/03/2000 10:30:00 - 11:30:00
+04/03/2000 12:30:00
+04/03/2000 20:00:00 - 20:30:00
+04/03/2000 21:30:00 - 22:00:00
+04/03/2000 23:30:00
+04/04/2000 00:30:00
+04/04/2000 01:30:00 - 02:00:00
+04/04/2000 22:30:00
+04/05/2000 00:30:00
+04/05/2000 03:00:00
+04/05/2000 08:30:00
+04/05/2000 10:00:00
+04/05/2000 18:30:00 - 19:00:00
+04/05/2000 20:00:00 - 04/06/2000 02:00:00
+04/06/2000 03:00:00 - 03:30:00
+04/07/2000 00:00:00
+04/07/2000 01:30:00
+04/07/2000 04:00:00
+04/08/2000 00:00:00
+04/08/2000 01:00:00
+04/08/2000 22:30:00 - 23:00:00
+04/09/2000 03:30:00
+04/09/2000 05:30:00
+04/10/2000 06:00:00
+04/12/2000 03:00:00
+04/12/2000 04:30:00
+04/12/2000 06:30:00 - 07:00:00
+04/26/2000 16:30:00
+04/27/2000 10:30:00
+04/27/2000 11:30:00
+04/27/2000 12:30:00
+04/27/2000 14:30:00
+04/28/2000 12:30:00
+04/28/2000 14:00:00
+04/28/2000 14:30:00
+04/29/2000 12:30:00
+04/29/2000 14:30:00 
+04/29/2000 16:30:00 - 17:00:00
+04/30/2000 12:30:00
+Negative turbidity values. Data were deleted.
+04/26/2000 16:00:00
+04/26/2000 17:00:00 - 04/27/2000 10:00:00
+04/27/2000 11:00:00
+04/27/2000 12:00:00
+04/27/2000 13:00:00 - 14:00:00
+04/27/2000 15:00:00 - 04/28/2000 12:00:00
+04/28/2000 13:00:00 - 13:30:00
+04/28/2000 15:00:00 - 04/29/2000 12:00:00
+04/29/2000 13:00:00 - 13:30:00
+04/29/2000 14:00:00
+04/29/2000 15:00:00 - 16:00:00
+04/29/2000 17:30:00 - 04/30/2000 12:00:00
+04/30/2000 13:00:00 - 23:30:00
+No data due to sonde maintenance
+04/24/2000 09:00:00  - 04/26/2000 15:30:00
+Negative and/or zero turbidity values. Data were deleted.
+04/26/2000 16:00:00 - 04/30/2000 23:30:00
+
+
+May 2000
+
+Station 09
+DO data deleted due to problem with membrane and/or probe:
+05/06/2000 05:30:00 - 05/15/2000 09:00:00
+Turbidity outlier (>1000) deleted:
+05/11/2000 17:30:00
+No data due to sonde maintenance:
+05/15/2000 09:30:00  - 05/25/2000 15:30:00
+Data suspect 05/30/2000 22:00:00  - 05/30/2000	23:30:00, therefore all data 
+were deleted. 
+
+Station 10
+No data: sonde calibration
+05/15/2000 09:00:00 - 05/25/2000 15:30:00
+Zero turbidity values were deleted:
+05/03/2000 23:00:00
+05/04/2000 16:30:00
+05/04/2000 17:30:00
+05/04/2000 18:30:00 - 19:00:00
+05/04/2000 20:00:00
+05/05/2000 06:00:00
+05/05/2000 07:00:00 - 10:30:00
+05/05/2000 12:30:00
+05/05/2000 16:30:00 - 17:00:00
+05/05/2000 18:00:00 - 19:00:00
+05/05/2000 23:00:00
+05/06/2000 02:30:00
+05/06/2000 03:30:00
+05/06/2000 05:00:00 
+05/06/2000 22:00:00
+Negative turbidity values
+05/01/2000 00:00:00 - 05/03/2000 22:30:00, bad data due to fouling
+05/03/2000 23:30:00 - 05/04/2000 15:30:00
+05/04/2000 17:00:00
+05/04/2000 18:00:00
+05/04/2000 19:30:00
+05/04/2000 20:30:00 - 05/05/2001 05:30:00
+05/05/2000 06:30:00
+05/09/2000 05:30:00
+05/09/2000 21:30:00
+05/14/2000 05:00:00
+05/15/2000 02:00:00
+05/25/2000 16:00:00 - 05/31/2000 23:30:00, bad data bad calibration
+Punctured DO membrane, data were deleted:
+05/25/2000 16:00:00 - 05/31/2000 23:30:00
+
+
+June 2000
+
+Station 09
+DO deleted due to fouling of membrane:
+06/18/2000 03:30:00 - 06/28/2000 10:30:00
+No data: sonde maintenance 
+06/12/2000 09:30:00  - 06/14/2000 15:30:00
+High turbidity values (algal debris), data were deleted.
+06/03/2000 11:30:00
+06/03/2000 13:30:00
+06/03/2000 23:00:00
+06/05/2000 17:00:00 - 19:00:00
+06/06/2000 06:00:00
+06/06/2000 19:30:00 - 23:00:00
+06/07/2000 00:00:00 - 02:30:00
+06/07/2000 04:30:00 - 06:00:00
+06/07/2000 07:00:00
+06/07/2000 08:30:00 - 09:00:00
+06/07/2000 13:30:00
+06/29/2000 07:00:00
+06/30/2000 16:00:00
+
+
+Station 10
+DO data deleted due to punctured membrane:
+06/01/2000 00:00:00 - 06/12/2000 09:00:00
+No data due to maintenance
+06/12/2000 09:30:00  - 06/14/2000 15:30:00
+Negative turbidity values. Data were deleted. 
+06/01/2000 00:00:00 - 06/06/2000 10:00:00
+06/06/2000 11:00:00
+06/11/2000 18:30:00 - 19:30:00
+06/11/2000 21:30:00
+06/14/2000 16:00:00 - 06/17/2000 14:30:00
+06/17/2000 16:30:00 - 06/19/2000 15:30:00
+06/19/2000 17:00:00
+06/19/2000 18:00:00 - 06/20/2000 16:00:00
+06/20/2000 17:30:00 - 18:00:00
+06/20/2000 21:00:00 - 23:00:00
+06/21/2000 00:00:00 - 10:30:00
+06/21/2000 20:30:00 - 22:00:00
+06/22/2000 01:00:00
+06/22/2000 02:00:00 - 07:30:00 
+06/22/2000 13:30:00 
+06/22/2000 21:30:00 - 22:30:00
+06/22/2000 23:30:00 - 06/23/2000 00:00:00
+06/23/2000 01:00:00 - 10:00:00 
+06/23/2000 12:30:00 - 13:30:00
+06/24/2000 06:00:00 - 12:00:00 
+06/24/2000 13:00:00 - 13:30:00 
+06/24/2000 22:00:00 - 23:30:00
+06/25/2000 01:00:00 - 04:30:00 
+06/25/2000 05:30:00 - 13:00:00 
+06/25/2000 21:30:00 - 22:30:00 
+06/25/2000 23:30:00 - 06/26/2000 09:30:00
+06/27/2000 00:30:00 - 02:00:00
+06/29/2000 19:30:00 - 22:00:00
+06/29/2000 23:30:00 - 06/30/2000 03:00:00
+06/30/2000 04:00:00 - 07:00:00 
+06/30/2000 08:00:00 
+06/30/2000 09:30:00 - 10:30:00 
+06/30/2000 11:30:00, 22:00:00
+
+
+
+July 2000
+
+Station 09 
+DO%, DO mg/L: deleted data: punctured membrane
+07/27/2000 23:30:00 - 07/31/2000 23:30:00
+No data due to maintenance
+07/05/2000 10:00:00  - 07/10/2000 15:30:00
+No data (sonde malfunctioning)
+07/30/2000 22:00:00  - 23:30:00
+Turbidity outliers, high values, data deleted. 
+07/02/2000 00:30 - 01:00:00
+07/21/2000 20:30:00
+07/25/2000 21:00:00
+07/25/2000 22:00:00
+07/25/2000 23:00:00 - 07/26/2000 06:00:00
+07/26/2000 07:30:00
+07/26/2000 10:00:00 - 11:00:00
+07/26/2000 19:30:00 - 20:00:00
+07/26/2000 21:00:00 - 21:30:00
+07/27/2000 00:00:00
+07/27/2000 01:30:00 - 02:00:00
+07/27/2000 03:00:00
+07/27/2000 04:00:00
+07/27/2000 05:00:00
+07/27/2000 06:00:00 - 07:30:00
+07/27/2000 08:30:00 - 09:00:00
+07/27/2000 10:30:00
+07/27/2000 16:30:00 - 17:00:00
+07/27/2000 18:00:00
+07/27/2000 20:30:00 - 21:30:00
+07/27/2000 22:30:00 - 07/28/2000 08:30:00
+07/28/2000 09:30:00 - 12:30:00
+07/28/2000 14:00:00 - 15:00:00
+07/28/2000 16:30:00 - 18:30:00
+07/28/2000 20:00:00 - 23:00:00
+07/29/2000 00:00:00 - 01:00:00
+07/29/2000 02:00:00 - 06:30:00
+07/29/2000 07:30:00 - 09:30:00
+07/29/2000 10:30:00
+07/29/2000 11:30:00 - 14:30:00
+07/29/2000 15:30:00 - 22:30:00
+07/30/2000 01:00:00
+07/30/2000 02:00:00
+07/30/2000 03:30:00 - 10:30:00
+07/30/2000 11:30:00 - 13:30:00
+07/30/2000 15:00:00 - 15:30:00
+07/30/2000 16:30:00
+07/30/2000 17:30:00
+07/30/2000 18:30:00 - 19:30:00
+07/31/2000 00:00:00
+07/31/2000 01:00:00 - 01:30:00
+07/31/2000 03:00:00 - 03:30:00
+07/31/2000 04:30:00
+07/31/2000 05:30:00 - 07:00:00
+07/31/2000 08:00:00 - 09:00:00
+07/31/2000 10:00:00 - 11:00:00
+07/31/2000 13:00:00 - 13:30:00
+07/31/2000 15:30:00 - 16:00:00 
+07/31/2000 17:00:00 - 19:00:00
+07/31/2000 20:00:00 - 21:00:00
+07/31/2000 23:00:00 - 23:30:00
+
+
+Station 10
+No data due to sonde maintenance
+07/05/2000 10:00:00  - 07/10/2000 15:30:00
+Negative turbidity values, data were deleted.
+07/01/2000 15:30:00  - 17:30:00
+07/02/2000 07:30:00
+07/02/2000 08:30:00 - 11:00:00
+07/02/2000 12:00:00 - 14:30:00
+07/02/2000 15:30:00 - 16:30:00
+07/02/2000 17:30:00 - 18:30:00
+07/02/2000 19:30:00 - 21:30:00
+07/02/2000 22:30:00 - 07/03/2000 00:00:00
+07/03/2000 01:00:00 - 02:30:00, 03:30:00 - 04:30:00
+07/03/2000 13:00:00 - 16:00:00
+07/03/2000 18:00:00 - 18:30:00
+07/03/2000 20:00:00 - 21:30:00
+07/03/2000 22:30:00
+07/04/2000 04:30:00
+07/04/2000 05:30:00
+07/04/2000 08:00:00
+07/04/2000 12:00:00 - 14:30:00
+07/04/2000 16:30:00 - 17:00:00
+07/05/2000 04:00:00 - 04:30:00
+07/10/2000 16:00:00 - 07/11/2000 20:30:00
+07/11/2000 21:30:00 - 07/15/2000 16:30:00
+07/15/2000 19:00:00 - 07/16/2000 18:30:00
+07/16/2000 19:30:00 - 07/17/2000 18:30:00
+07/17/2000 20:30:00 - 07/18/2000 20:00:00
+07/18/2000 21:00:00
+07/18/2000 22:00:00 - 07/19/2000 19:30:00
+07/19/2000 20:30:00 
+07/19/2000 21:30:00 - 07/31/2000 23:30:00
+
+
+August 2000
+
+Station 09
+No data from 08/02/2000 09:00:00  - 08/29/2000 12:30:00, due to an error by 
+technician when programming the new YSI 6600 model.
+Turbidity data deleted 08/01/2000 00:00:00 - 08/02/2000 08:30:00 due to bad 
+probe. No probe available for deployment 08/29/2000 13:00:00 - 08/31/2000 
+23:30:00.  
+
+
+Station 10
+No data due to sonde maintenance
+08/01/2000 00:00:00  - 08/29/2000 11:30:00
+Deleted data: instrument was out of water
+08/29/2000 12:00:00 - 12:30:00
+No turbidity data: no probe available 
+08/29/2000 13:00:00  - 08/31/2000 23:30:00
+
+September 2000
+
+Station 09
+High turbidity values (>1000), data were retained:
+09/08/2000 23:00:00
+No data due to sonde maintenance:
+09/11/2000 11:00:00 - 09/15/2000 15:30:00
+Negative turbidity values, data deleted:
+09/01/2000 00:00:00 - 09/02/2000 10:30:00
+09/02/2000 11:30:00 - 09/05/2000 19:00:00
+09/05/2000 20:30:00 - 09/06/2000 10:30:00
+09/06/2000 12:00:00 - 09/07/2000 19:00:00
+09/07/2000 20:00:00 - 09/08/2000 07:30:00
+09/08/2000 08:30:00 - 09:00:00 
+09/08/2000 10:00:00 
+09/08/2000 11:30:00 - 14:30:00 
+09/08/2000 15:30:00 - 21:00:00 
+09/08/2000 22:00:00 - 22:30:00
+09/09/2000 00:30:00 
+09/09/2000 02:00:00 - 02:30:00 
+09/09/2000 10:30:00 
+09/09/2000 21:30:00
+09/10/2000 08:30:00
+09/10/2000 21:30:00
+09/11/2000 00:00:00
+09/15/2000 16:00:00 - 09/17 15:00:00
+All data deleted due to stolen datalogger out of water:
+09/17/2000 15:30:00 - 09/30/2000 23:30:00
+
+
+
+Station 10
+No data due to sonde maintenance:
+09/11/2000 11:00:00  - 09/15/2000 15:30:00
+No data due to calibration error and/or fouling of membrane:
+09/15/2000 16:00:00 - 09/30/2000 23:30:00
+No turbidity sensor or probe available:
+09/01/2000 00:00:00  - 09/11/2000 10:30:00
+
+October 2000
+
+Station 09
+All data deleted due to calibration error:
+10/01/2000 00:00:00 - 10/06/2000 12:00:00
+10/15/2000 16:30:00:00  - 10/25/2000 07:30:00 data not recorded because the 
+sonde was not deployed at station 09 (it was missing due to vandalism).
+No data due to maintenance of sondes:
+10/25/2000 08:00:00 - 10/27/2000 15:30:00 
+Negative depth data were deleted:
+10/06/2000 12:00:00 - 10/15/2000 16:00:00, bad data due to calibration error
+Negative turbidity data due to problems with probe were deleted:
+10/06/2000 12:30:00 - 10/09/2000 08:30:00
+10/09/2000 10:00:00
+10/09/2000 11:00:00
+10/09/2000 12:30:00 - 13:30:00
+
+
+Station 10
+DO data deleted due to fouling of probe:
+10/01/2000 00:00:00 - 10/02/2000 09:00:00
+No data due to sonde maintenance
+10/02/2000 09:30:00 - 10/05/2000 09:00:00
+10/25/2000 03:30:00 - 10/27/2000 15:30:00
+Negative and/or zero turbidity values were deleted:
+10/01/2000 00:00:00 - 01:30:00
+10/01/2000 04:00:00 - 05:00:00
+10/01/2000 22:00:00
+10/01/2000 23:30:00
+10/02/2000 00:00:00 
+10/02/2000 04:30:00 
+10/02/2000 08:30:00 - 09:00:00
+10/13/2000 14:30:00
+10/17/2000 14:30:00, 18:30:00
+10/18/2000 16:00:00 - 16:30:00 
+10/18/2000 18:30:00 
+10/18/2000 21:30:00
+10/19/2000 15:00:00 
+10/19/2000 16:30:00 - 17:00:00 
+10/19/2000 19:00:00
+10/20/2000 16:00:00 - 19:00:00 
+10/20/2000 20:30:00 
+10/20/2000 21:30:00 - 22:00:00
+10/21/2000 14:00:00
+10/21/2000 17:30:00 - 18:00:00
+10/21/2000 19:00:00 - 19:30:00
+10/21/2000 21:00:00
+10/21/2000 22:30:00 - 10/22/2000 00:00:00
+10/22/2000 06:00:00
+10/22/2000 14:30:00 
+10/22/2000 18:30:00 
+10/22/2000 20:00:00 - 22:30:00 
+10/22/2000 23:30:00
+10/23/2000 00:00:00 
+10/23/2000 01:00:00
+10/23/2000 02:30:00 
+10/23/2000 13:30:00 
+10/23/2000 18:00:00 
+10/23/2000 19:30:00 - 20:00:00 
+10/23/2000 22:00:00
+10/24/2000 04:30:00, 17:00:00
+10/27/2000 16:00:00
+10/27/2000 20:00:00 - 10/28/2000 00:30:00
+10/28/2000 01:30:00 - 05:00:00 
+10/28/2000 06:00:00 - 06:30:00
+10/28/2000 12:00:00 - 13:00:00
+10/28/2000 14:00:00 
+10/28/2000 15:00:00 
+10/28/2000 18:30:00
+10/28/2000 19:30:00 - 21:30:00 
+10/28/2000 23:00:00
+10/29/2000 02:30:00
+10/29/2000 04:00:00 - 05:00:00 
+10/29/2000 07:00:00 
+10/29/2000 11:00:00
+10/29/2000 12:00:00 - 13:00:00 
+10/29/2000 14:00:00 
+10/29/2000 15:00:00 
+10/29/2000 16:30:00 
+10/29/2000 19:00:00 - 20:00:00
+10/29/2000 21:00:00 - 22:30:00
+10/30/2000 00:00:00 - 01:30:00
+10/30/2000 02:30:00 - 04:00:00 
+10/30/2000 05:00:00 - 06:30:00 
+10/30/2000 07:30:00 
+10/30/2000 11:30:00 - 13:30:00 
+10/30/2000 14:30:00 - 19:30:00 
+10/30/2000 20:30:00 - 21:30:00
+10/30/2000 22:30:00  
+10/31/2000 00:00:00 
+10/31/2000 11:00:00 - 12:00:00 
+10/31/2000 13:00:00 - 14:30:00 
+10/31/2000 15:30:00 - 16:30:00 
+10/31/2000 17:30:00 - 18:00:00
+10/31/2000 19:00:00 - 21:00:00
+
+
+November 2000
+
+Station 9
+Turbidity outlier data deleted:
+11/25/2000 11:30:00
+
+
+Station 10 
+Turbidity outliers (>1000), data were deleted:
+11/13/2000 17:30:00 - 18:30:00, 20:30:00 - 22:30:00, 23:30:00
+11/14/2000 00:00:00, 01:30:00, 03:30:00 - 04:00:00, 06:30:00
+Sonde out of water; data deleted:
+11/13/2000 10:30:00 - 13:30:00
+Negative turbidity values, data were deleted:
+11/01/2000 00:30:00 
+11/01/2000 14:00:00 
+11/01/2000 19:00:00 - 21:30:00 
+11/01/2000 22:30:00 - 23:30:00
+11/02/2000 01:00:00 
+11/02/2000 18:30:00 
+11/02/2000 20:00:00
+11/02/2000 21:00:00 - 22:30:00
+11/03/2000 00:00:00 
+11/03/2000 01:00:00 - 02:00:00 
+11/03/2000 03:30:00 - 04:30:00 
+11/03/2000 06:30:00 - 07:00:00 
+11/03/2000 09:00:00 
+11/03/2000 10:00:00 - 13:00:00 
+11/03/2000 14:00:00 - 15:30:00 
+11/03/2000 16:30:00 - 17:00:00 
+11/03/2000 18:00:00 
+11/03/2000 19:30:00 - 23:30:00
+11/04/2000 00:00:00 - 01:00:00 
+11/04/2000 02:00:00 - 02:30:00
+11/04/2000 05:00:00 
+11/04/2000 07:00:00 - 10:30:00 
+11/04/2000 11:30:00 
+11/04/2000 18:30:00 - 22:00:00 
+11/04/2000 23:00:00
+11/05/2000 00:00:00 
+11/05/2000 01:00:00 - 03:00:00 
+11/05/2000 04:30:00, 06:30:00 
+11/05/2000 07:30:00 - 08:00:00 
+11/05/2000 09:30:00 - 13:30:00 
+11/05/2000 14:30:00 
+11/05/2000 15:30:00 
+11/05/2000 16:30:00 
+11/05/2000 18:00:00 
+11/05/2000 19:00:00 - 20:00:00 
+11/05/2000 21:00:00 - 22:00:00
+11/06/2000 00:30:00 - 02:00:00
+11/06/2000 03:00:00 
+11/06/2000 04:00:00 
+11/06/2000 05:00:00 
+11/06/2000 06:00:00 - 07:30:00 
+11/06/2000 08:30:00 - 09:30:00 
+11/06/2000 10:30:00 - 11:30:00 
+11/06/2000 12:30:00 - 13:00:00 
+11/06/2000 15:00:00 
+11/06/2000 17:00:00 
+11/06/2000 18:00:00 
+11/06/2000 19:30:00 - 23:30:00
+11/07/2000 00:00:00 - 00:30:00
+11/07/2000 01:30:00 
+11/07/2000 02:30:00 
+11/07/2000 03:30:00 - 04:00:00 
+11/07/2000 05:00:00 - 05:30:00 
+11/07/2000 06:30:00 - 09:00:00 
+11/07/2000 10:00:00 - 12:30:00 
+11/07/2000 13:30:00 
+11/07/2000 14:30:00 
+11/07/2000 18:00:00 - 21:00:00
+11/07/2000 22:00:00 - 23:30:00
+11/08/2000 00:00:00 - 02:00:00
+11/08/2000 03:00:00 - 06:30:00
+11/08/2000 07:30:00 - 12:00:00 
+11/08/2000 13:00:00 - 14:00:00 
+11/08/2000 15:30:00
+11/08/2000 16:30:00 - 17:00:00 
+11/08/2000 19:00:00 - 23:30:00
+11/09/2000 00:00:00 - 00:30:00 
+11/09/2000 01:30:00 - 10:00:00 
+11/09/2000 11:00:00 - 12:00:00
+11/09/2000 13:00:00 - 15:00:00 
+11/09/2000 18:30:00 - 19:00:00 
+11/09/2000 20:00:00 
+11/09/2000 21:30:00 - 22:00:00
+11/09/2000 23:00:00
+11/10/2000 02:30:00 - 03:00:00 
+11/10/2000 04:30:00 - 05:00:00 
+11/10/2000 06:30:00 - 09:30:00 
+11/10/2000 10:30:00 - 15:00:00 
+11/10/2000 16:30:00 - 21:30:00 
+11/10/2000 22:30:00 - 23:30:00
+11/11/2000 00:00:00 - 04:00:00
+11/11/2000 05:00:00 - 05:30:00
+11/11/2000 06:30:00 - 07:30:00
+11/11/2000 08:30:00 - 09:00:00 
+11/11/2000 10:00:00 - 14:30:00 
+11/11/2000 16:00:00 
+11/11/2000 17:30:00 - 18:30:00 
+11/11/2000 20:00:00 
+11/11/2000 21:30:00 - 23:30:00
+11/12/2000 01:00:00
+11/12/2000 02:00:00
+11/12/2000 03:00:00
+11/12/2000 04:00:00 
+11/12/2000 05:30:00
+11/12/2000 07:00:00 
+11/12/2000 08:00:00 - 14:30:00
+11/12/2000 17:30:00 
+11/12/2000 19:00:00 - 20:00:00 
+11/12/2000 21:00:00 - 23:30:00 
+11/13/2000 00:30:00 - 02:00:00 
+11/13/2000 03:30:00 - 04:00:00 
+11/13/2000 05:00:00 - 05:30:00
+11/13/2000 07:00:00 
+11/13/2000 09:30:00 - 10:00:00 
+11/14/2000 10:30:00 - 15:30:00
+11/14/2000 16:30:00 - 17:00:00
+11/14/2000 18:00:00 - 23:30:00
+11/15/2000 00:30:00 - 02:00:00, 04:30:00 - 05:00:00
+11/15/2000 06:00:00 - 06:30:00
+11/15/2000 07:30:00 - 11/16/2000 03:30:00
+11/16/2000 05:00:00 - 05:30:00, 07:00:00 - 07:30:00, 09:30:00
+11/16/2000 11:00:00 - 11/17/2000 05:30:00
+11/17/2000 06:30:00 - 07:00:00, 08:00:00
+11/17/2000 09:00:00 - 09:30:00
+11/17/2000 10:30:00 - 16:00:00
+11/17/2000 17:00:00 - 11/18/2000 01:00:00
+11/18/2000 02:00:00 - 07:00:00
+11/18/2000 08:00:00 - 12:30:00
+11/18/2000 13:30:00 - 18:00:00
+11/18/2000 19:00:00
+11/18/2000 20:00:00
+11/18/2000 21:00:00 - 23:30:00
+11/19/2000 00:00:00 - 00:30:00
+11/19/2000 01:30:00 - 10:30:00
+11/19/2000 11:30:00 - 15:30:00
+11/19/2000 16:30:00 - 22:00:00
+11/19/2000 23:00:00 - 23:30:00
+11/20/2000 00:00:00
+11/20/2000 01:00:00 - 12:00:00
+11/20/2000 13:00:00 - 23:30:00
+11/21/2000 00:00:00 - 00:30:00 
+11/21/2000 01:30:00 - 02:00:00
+11/21/2000 03:00:00 - 09:30:00
+11/21/2000 10:30:00 - 13:00:00
+11/21/2000 14:00:00
+11/21/2000 15:00:00 - 20:30:00
+11/21/2000 21:30:00, 22:30:00
+11/22/2000 00:30:00 - 02:30:00
+11/22/2000 03:30:00 - 07:00:00
+11/22/2000 08:00:00
+11/22/2000 11:30:00 - 13:30:00
+11/22/2000 16:00:00 - 16:30:00
+11/22/2000 17:30:00 - 18:00:00
+11/23/2000 02:00:00 
+11/23/2000 05:00:00 
+11/23/2000 07:00:00
+11/23/2000 09:00:00 
+11/23/2000 17:00:00 
+11/23/2000 18:30:00
+11/23/2000 21:00:00
+11/24/2000 01:00:00 - 03:30:00
+11/24/2000 04:30:00 - 05:30:00
+11/24/2000 06:30:00 - 07:00:00
+11/24/2000 15:00:00
+11/24/2000 18:00:00
+11/24/2000 21:00:00 - 23:30:00
+11/25/2000 00:30:00
+11/25/2000 04:00:00 - 05:00:00
+11/25/2000 06:30:00 - 07:30:00
+11/25/2000 12:00:00
+11/25/2000 16:30:00
+11/26/2000 00:30:00
+11/26/2000 03:00:00 - 04:00:00, 05:00:00
+11/26/2000 06:30:00 - 13:00:00
+11/26/2000 14:00:00 - 15:00:00
+11/26/2000 21:30:00 
+11/26/2000 23:00:00
+11/27/2000 02:30:00 - 05:30:00 
+11/27/2000 06:30:00
+11/27/2000 07:30:00 
+11/27/2000 08:30:00 
+11/27/2000 09:30:00 
+11/27/2000 10:30:00 - 13:30:00 
+11/27/2000 15:30:00, 18:30:00
+11/27/2000 19:30:00 - 11/28/2000 10:30:00
+11/28/2000 11:30:00 - 12:00:00
+11/28/2000 13:30:00
+11/28/2000 14:30:00 - 17:30:00
+11/28/2000 19:30:00 - 11/29/2000 09:00:00
+11/29/2000 14:00:00, 15:00:00
+11/30/2000 20:00:00
+11/30/2000 21:30:00
+
+December 2000
+
+Station 09
+Bad SpCond and salinity data due to possible fouling, all data were deleted:
+12/04/2000 03:00:00  - 12/04/2000 08:30:00
+SpCond and salinity data deleted due to possible fouling:
+12/08/2000 03:30:00  - 12/14/2000 05:30:00 
+pH data: broken probe
+12/26/2000 08:30:00  - 12/27/2000 03:30:00
+No data recorded by sonde (gap)
+12/27/2000 04:00:00  - 09:00:00
+Negative and/or zero turbidity values, data were deleted. 
+12/04/2000 09:00:00 - 09:30:00
+12/04/2000 16:00:00
+12/05/2000 06:30:00 - 07:00:00
+12/07/2000 04:00:00 - 05:00:00
+12/08/2000 00:30:00
+12/08/2000 02:30:00
+12/08/2000 03:30:00 - 06:00:00
+12/08/2000 09:00:00
+12/09/2000 05:30:00 - 06:00:00
+12/10/2000 08:00:00 - 08:30:00
+12/11/2000 06:00:00 - 06:30:00
+12/12/2000 07:30:00
+12/12/2000 08:30:00
+12/20/2000 04:00:00, 05:00:00
+12/20/2000 06:00:00
+12/20/2000 08:00:00 - 08:30:00
+12/20/2000 22:00:00
+12/20/2000 23:00:00
+12/21/2000 00:00:00
+12/21/2000 01:00:00
+12/21/2000 08:00:00 - 08:30:00
+12/23/2000 05:30:00
+12/23/2000 06:30:00
+12/23/2000 07:30:00
+12/24/2000 07:00:00 - 07:30:00
+12/24/2000 12:00:00, 13:30:00
+12/25/2000 06:00:00
+12/25/2000 07:00:00 - 09:30:00
+12/25/2000 10:30:00
+12/25/2000 11:30:00
+12/27/2000 09:30:00 - 12:30:00
+12/27/2000 14:30:00 - 15:00:00
+12/27/2000 22:30:00 - 12/28/2000 01:30:00
+12/28/2000 03:30:00
+12/28/2000 05:00:00 - 06:30:00
+12/28/2000 07:30:00 - 08:00:00
+12/28/2000 09:00:00 - 11:30:00
+12/28/2000 13:00:00 - 13:30:00
+12/28/2000 19:00:00 - 19:30:00
+12/28/2000 20:30:00 - 21:00:00
+12/28/2000 23:00:00 - 12/29/2000 00:30:00
+12/29/2000 01:30:00 - 02:00:00
+12/29/2000 03:30:00 - 06:30:00
+12/29/2000 07:30:00
+12/29/2000 08:30:00 - 14:00:00
+12/29/2000 20:30:00 - 12/30/2000 01:00:00
+12/30/2000 02:00:00 - 02:30:00
+12/30/2000 04:00:00 - 04:30:00
+12/30/2000 05:30:00 - 07:00:00
+12/30/2000 08:00:00 - 15:30:00
+12/30/2000 21:30:00 - 12/31/2000 10:00:00
+12/31/2000 11:30:00 - 13:30:00
+12/31/2000 14:30:00 - 16:00:00
+
+
+Station 10
+pH data deleted due to sensor failure:
+12/04/2000 09:30:00 - 12/26/2000 09:00:00
+Specific Conductivity and salinity data deleted due to fouling of membrane:
+12/08/2000 03:30:00 - 12/14/2000 05:30:00
+No data due to sonde maintenance
+12/27/2000 03:30:00  - 08:30:00
+pH sensor failure, pH data were deleted for the following dates/times:
+12/26/2000 13:30:00  - 12/27/2000 03:00:00
+Negative depth, all data deleted:
+12/26/2000 09:30:00  - 13:00:00
+The following negative and/or zero turbidity values were deleted:
+12/01/2000 01:30:00, 03:00:00, 07:30:00 - 08:00:00, 11:00:00, 21:00:00, 22:30:00
+12/02/2000 00:30:00 - 01:00:00
+12/02/2000 02:00:00 - 03:00:00
+12/02/2000 04:00:00
+12/02/2000 05:00:00
+12/02/2000 18:30:00
+12/02/2000 20:30:00
+12/02/2000 21:30:00
+12/02/2000 22:30:00
+12/03/2000 02:00:00
+12/03/2000 03:30:00 - 07:30:00
+12/03/2000 08:30:00 - 09:00:00
+12/03/2000 10:30:00 - 11:00:00
+12/03/2000 12:00:00 - 21:30:00
+12/03/2000 23:00:00
+12/04/2000 01:00:00 - 06:00:00
+12/04/2000 07:30:00 - 08:00:00, 09:30:00, 16:00:00
+12/05/2000 04:30:00 - 05:00:00
+12/05/2000 06:30:00 - 07:00:00
+12/07/2000 04:00:00 - 05:00:00
+12/08/2000 00:30:00, 02:30:00, 03:30:00 - 06:00:00, and 09:00:00
+12/09/2000 05:30:00 - 06:00:00
+12/10/2000 08:30:00 - 09:00:00
+12/11/2000 06:00:00 - 06:30:00
+12/12/2000 08:30:00
+12/16/2000 16:30:00, 19:00:00
+12/20/2000 04:00:00
+12/20/2000 05:00:00
+12/20/2000 06:00:00
+12/20/2000 08:00:00 - 08:30:00
+12/20/2000 23:00:00
+12/21/2000 00:00:00
+12/21/2000 08:00:00 - 08:30:00
+12/23/2000 05:30:00, 06:30:00, 07:30:00, 12/24/2000 07:00:00 - 07:30:00
+12/24/2000 12:00:00, 13:00:00 - 13:30:00
+12/25/2000 03:00:00, 06:00:00, 07:00:00 - 09:30:00
+12/25/2000 10:30:00
+12/25/2000 11:30:00
+12/26/2000 09:00:00 
+12/27/2000 09:00:00 - 12:00:00, 13:00:00 - 17:30:00
+12/27/2000 18:30:00 - 20:00:00
+12/27/2000 21:00:00 - 12/29/2000 04:00:00
+12/29/2000 05:00:00 - 14:00:00
+12/29/2000 15:00:00 - 16:00:00
+12/29/2000 17:00:00 - 17:30:00, 18:30:00 - 19:30:00
+12/29/2000 20:30:00 - 12/30/2000 02:00:00
+12/30/2000 03:00:00 - 04:00:00, 05:00:00 - 09:00:00
+12/30/2000 10:00:00 - 14:30:00
+12/30/2000 15:30:00
+12/30/2000 22:30:00 - 12/31/2000 05:00:00
+12/31/2000 06:00:00, 07:00:00 - 10:30:00, 12:00:00 - 13:30:00, 14:30:00, 
+15:30:00 - 16:00:00, 17:00:00 - 19:30:00, 20:30:00, 21:30:00 - 23:30:00
+
+
+12. Other remarks
+
+On 06/30/2021 this dataset was updated to include embedded QAQC flags for 
+anomalous/suspect data.  System-wide monitoring data beginning in 2007 were 
+processed to allow for QAQC flags and codes to be embedded in the data files 
+rather than detailed in the metadata alone (as in the anomalous/suspect, 
+deleted, and missing data sections above).  Prior to 2006, rejected data 
+were deleted from the dataset so they are unavailable to be used at all, but 
+suspect data were only noted in the metadata document.  Suspect data flags 
+<1> were embedded retroactively in order to allow suspect data to be easily 
+identified and filtered from the dataset if desired for analysis and 
+reporting purposes.  No other flags or codes were embedded in the dataset 
+and users should still refer to the detailed explanations above for more 
+information.
+
+The sonde from Station 09 was deployed on 09/15/2000 16:00:00. The sonde was 
+stolen shortly after, and then appeared on 10/25/2000 around 08:00:00. 

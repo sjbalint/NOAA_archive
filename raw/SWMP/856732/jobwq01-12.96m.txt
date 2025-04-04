@@ -1,0 +1,606 @@
+Jobos Bay (JOB) NERR WATER QUALITY METADATA 
+JANUARY 1996 TO DECEMBER 1996
+Latest Update: July 16, 2002
+ 
+I. Data Set & Research Descriptors
+  
+1. Principal investigator(s) and contact persons
+ 	Principal Investigator:
+ 	Carmen González
+	Manager
+	Jobos Bay NERR
+	Call Box B
+	Aguirre, Puerto Rico 00704
+	Phone:(787)853-4617, (787) 853-3569
+	Fax: (787) 853-4618
+	cgonzalez @ ocean.nos.noaa.gov
+ 
+	Contact Person:
+ 	Carmen González
+	See Above
+ 
+	Pedro Robles
+	Research Coordinator
+	Jobos Bay NERR
+	Call Box B
+	Aguirre, Puerto Rico 00704
+	Phone: (787) 853-4617
+	Fax: (787) 853-4618
+ 
+	Ileana Pérez
+	Laboratory Director
+	Department of Natural and Environmental Resources
+	Stop 3 l/2, Muñoz Rivera Avenue
+	Puerta de Tierra, San Juan, P. R. 
+	P. O. Box 5887, San Juan, P. R. 00906
+	Phone: (787) 724-8648, (787) 724-8774 Ext. 334
+	Fax: (787) 722-4629, (787) 724-0365
+ 
+	Luis A. Encarnación
+	Biologist
+	Department of Natural and Environmental Resources
+	Stop 3 l/2, Muñoz Rivera Avenue
+	Puerta de Tierra, San Juan, P. R. 
+	P. O. Box 5887, San Juan, P. R. 00906
+	Phone: (787) 724-8648, 787) 724-8774 Ext. 334
+	Fax: (787) 722-4629, (787) 724-0365
+ 
+2. Entry verification:
+ 	After retrieving and carefully cleaning the dataloggers, they are examined 
+to detect any structural damage to the body or to the probes. The DO membrane is 
+checked for ruptures and then replaced if needed. The turbidity probe is 
+examined to assure that no obstruction affects the wiper and that the sensor is 
+clean. Manipulation and observation are registered in the field log for each 
+deployment respectively.
+	The YSI is connected to a Pentium II 400 MHz IBM compatible computer and 
+the data are reviewed using the YSI computer program PC6000 that accompanies the 
+YSI 6000 datalogger. The file is uploaded in two formats, one in YSI PC6000 
+format and the other in Comma and "" Delimited format then the file is renamed 
+to have a ".txt" extension. The YSI Ecowatch for Windows program is used to plot 
+the data and delete the pre- and post deployment data that are not in range of 
+the other readings. The program is used to perform basic statistical analysis 
+(i,e., min., max., mean, std. dev.). This information is printed out with a list 
+of data and filed for each station.
+	The information obtained from this printout is used during file review to 
+detect any gross outliers such as data taken when the datalogger was removed 
+from the water or those caused by instrument failure. The data are imported into 
+a Microsoft Excel file that contains the current month's cumulative recordings. 
+When a complete month of data has been recorded the file is ready for review.
+	The data review includes several steps.  The first step is to format the 
+data so that the parameter columns are in the correct order.  Secondly, a 
+modified Excel 97 version of the CDMO Excel 5.0 macro is used to check and 
+determine if there are any dates and times that were not recorded due to 
+maintenance, battery failure, or other cause. Missing dates and times are 
+inserted into the file and a period is inserted into the cells where data would 
+normally be. The reason for the missing data is recorded onto the Missing data 
+Log. The data are then formatted so that the parameter columns are in the 
+correct size and the data have the correct number of decimal place holders as 
+specified by the NERR CDMO. Next, the data are filtered using the CDMO Excel 97 
+macro to find readings outside the instrument measurement range and the "normal" 
+range for the site in question.
+	Data outside the instrument range is/are removed from the file and a 
+period is inserted to the cell(s).  An explanation for the missing dates and 
+time are recorded onto the Missing data Log.  Data that were outside the 
+"normal" range of water quality for a particular site is investigated for 
+validity based on field observation, QC check, PC6000 printouts, and instrument 
+diagnostics. If the datum is/are rejected from the file a period is inserted to 
+the cell(s) and an explanation for the missing date and time is recorded onto 
+the Missing data Log. The information recorded on the Missing data Log is 
+transferred to the metadata form. The metadata form is then submitted with the 
+data to the CDMO.  Data is stores in zip disks.  Dr. Pedro Robles, Research 
+Coordinator is responsible for the data management.
+ 
+3. Research Objectives:
+ 	The four dataloggers are deployed at Mar Negro area, major component of 
+Jobos Bay Estuarine Research Reserve, and are suspended from a pole at one foot 
+from the bottom of the selected site. Measurements are taken at thirty (30) 
+minute intervals for approximately two-week periods. The sites are identified as 
+representative of areas within the reserve and comparable to the sites that may 
+be receiving impact from human activities in the surroundings areas.
+	Station number six (6), is located in the proximity of Punta Colchones, 
+close to the thermal discharge pipeline, which can be affected by high 
+temperatures and sediment resuspension. 
+	Station number nine (9), the impacted site, collects water quality data in 
+a site associated with runoff from littoral and basin mangroves areas. This 
+sampling station is closer to the Electric Power Thermoelectric Plant, which 
+makes it subject to runoff and potential spills contamination from this 
+industrial facility. Information compiled from historical environmental 
+documents indicate that station nine (9) was used as a disposal site for the 
+residues of the previously operating sugar mill operation, which might have been 
+a high organic input to the sediments.
+	Station number ten (10), located in the mangrove lagoon area is the 
+reference or unimpacted site.
+	Station number eleven (11) is another possible impacted site. Housing 
+development that is not provided with sewage treatment facilities are the 
+potential source of contaminants for this Station. Septic tanks and possible 
+direct disposal constitute the potential contamination sources. Runoffs from 
+agricultural land and other contaminant transport through a drainage channel are 
+possible hazards at station nine (9) and eleven (11).
+ 
+4.	Research methods:
+ 	The Estuarine Water Quality Monitoring began on December 20, 1995 at 
+Station nine (9), February 1, 1996 at Station ten (10), March 15, 1996 at 
+Station eleven (11), and at Station six (6) on December 06, 1996. At this time 
+we are only performing long term water quality monitoring.
+	Before each YSI 6000 datalogger is deployed, calibration and maintenance 
+is performed following the manufacturer's instruction (YSI Manual addendum 7/94, 
+sections 3,4 and 7). Calibration standards are only required for pH, salinity, 
+and turbidity, all other parameters are done as described in the manual. Buffer 
+solutions for two-point calibration (pH 7 and pH 10) are purchased from a 
+scientific supply house. Salinity is calibrated via a specific conductance 
+standard 1000 µs/cm and are purchased from a scientific supply house.  This 
+solution is also prepared in the laboratory of Department of Natural and 
+Environmental Resources (DNER) utilizing KCl following specification of EPA 
+methods.
+	The two-point turbidity calibration (as of January 01, 1997) was performed 
+using a 0 NTU standard using lab grade DI water made at the DNER laboratory and 
+40 NTU standard purchased from a scientific supply house. We are now using 
+(since Jan 01, 1997) a 200 NTU standard purchased from a scientific company. The 
+dissolved oxygen membranes are replaced before deployment and are allowed to sit 
+at least 24 hours prior to deployment.
+	The weather conditions and tide stage during deployment are recorded in 
+the field observation log. Measurements of DO, pH, salinity, specific 
+conductance, temperature, turbidity (secchi) are taken with other calibrated 
+field instruments to check the accuracy of the instrumentation.
+	Each YSI datalogger is tied with steel cable to a wrought iron galvanized 
+pole, which is plunged into the sediments of each sampling area.  Dataloggers 
+are deployed at a depth of 0.3 m. Every 30 minutes during the sampling period 
+measurements are taken for date, time, temperature, specific conductance, 
+salinity, dissolved oxygen saturation, dissolved oxygen concentration, depth, 
+pH, and turbidity. Every two weeks the dataloggers are retrieved, uploaded, 
+cleaned, inspected, and calibrated as noted previously. The datalogger is then 
+ready to be deployed.
+
+5. Site location and character:
+ 	The Jobos Bay National Estuarine Research Reserve (JOBNERR) is located on 
+the southern coastal plain of the island of Puerto Rico, a reserve within the 
+West Indies geographical area. JOBNERR is composed of two major areas: (1) Mar 
+Negro, located on the western margin of the Bay, and (2) Cayos Caribe, a chain 
+of 15 tear-shaped islets located to the southeast. The Mar Negro area comprises 
+the bulk of the Reserve, and consists of mangrove forests and a complex system 
+of lagoons and channels interspersed with salt and mud flats.  Coral reefs and 
+seagrass beds, with small beach deposits and upland areas fringe Cayos Caribe 
+mangrove islands.
+ 	Station 6 is located in the bay close to the peninsular drape area in Mar 
+Negro knows as Punta Colchones.  The datalogger is deployed at about five meters 
+from the emergence of the fallout pipe cooling water from the Thermoelectric 
+Power Plant. This station is subject to high temperatures and sediment 
+resuspension.  The tidal range varies from 12 in. to 14 in. in the vicinity of 
+the monitoring station.  No fresh water input in the vicinity of the station is 
+probable.  The salinity at the vicinity of the monitoring station varies from 
+34.0 ppt to 35.7 ppt.  The station pole is located at 17° 56' 6.5"N and 66° 13' 
+43.6"W.
+	Station 9 is an impacted site and is located at the northeastern part of 
+the Mar Negro unit. The sampling station is associated with the mangrove lagoon 
+area and received the Thermoelectric Power Plant runoff through mudflats and 
+areas adjacent. The tidal range varies from 12 in. to 14 in. in the vicinity of 
+the monitoring station.  No fresh water input in the vicinity of the station is 
+probable. The salinity at the vicinity of the monitoring station varies from 0.0 
+ppt to 41.1 ppt.  The station pole is located at 17° 56' 36.8" N and 66° 14' 
+18.5" W.
+ 	Station 10 is located in a mangrove lagoon not impacted from upland or 
+marine activities. It provided a reference for comparison of the data obtained 
+in other stations, especially to the stations in Mar Negro lagoon environment.  
+The tidal range varies from 12 in. to 14 in. in the vicinity of the monitoring 
+station.  No fresh water input in the vicinity of the station is probable. The 
+salinity at the vicinity of the monitoring station varies from 0.0 ppt to 41.7 
+ppt.  The pole is located at 17° 56' 20.3" N and 66° 45' 26.7" W.
+ 	Station 11 datalogger is tied to a small pier stand in the westernmost 
+lagoon in the Mar Negro unit. Although a chain from a small pier suspends this 
+datalogger, and it has been deployed at the same depth of the other dataloggers. 
+Non point sources of contaminants from residences and boating activities in the 
+vicinity are probable. The lagoon is characterized by dark bottom, tidal range 
+from 12 in. to 14 in., allegedly related to long term deposition of organic 
+wastes from the sugar mill operation when the mill was operating. No fresh water 
+input in the vicinity of the station is probable. The salinity at the vicinity 
+of the monitoring station varies from 0.0 ppt to 36.7 ppt.  The datalogger is 
+suspended by a chain and localized at 17° 56' 41.8" N and 66° 15' 46.0" W.
+ 	All monitoring is considered long term.
+ 
+6. Data collection period: 
+ 	Station nine (9) sampling with the YSI began on December 20, 1995.
+	Station ten (10) sampling with the YSI began on February 1, 1996.
+	Station eleven (11) sampling with the YSI began on March 15, 1996.
+	Station six (6) sampling with the YSI began on December 06, 1996.
+ 
+7. Associated researchers and projects:
+	A water quality and plankton monitoring scheme was initiated in 1995, to 
+monitor 12 stations in the Jobos Bay system. This effort, conducted by the 
+Department of Natural and Environmental Resources Laboratory began in March 
+1995, using a Hydrolab Data sonde 3 with a Surveyor 3 readout system, monitoring 
+the water column on a bimonthly time basis for abiotic parameter similar to the 
+YSI. Monthly samples for nutrients, plankton and chlorophyll were conducted from 
+March to October (Water Quality Monitoring-Spatial and temporal variations of 
+main abiotic and plankton components in JOBNERR, 1996). Samplings were resumed 
+in January 1996 and will be conducted until March 1997).
+ 
+8. Variable sequence, range of measurements, units, resolution and accuracy:
+
+Variable     Range of Measurements (units)         Resolution         Accuracy
+Date         1-12,1-31,00-99 (Mo,Day,Yr)     1 mo, 1 day, 1 yr        NA
+Time         0-24,0-60,0-60 (Hr,Min,Sec)     1 hr, 1 min, 1 sec       NA
+Temp        -5.0 to 45.0 (C)                       0.01 C             +/- 0.15 C
+SpCond       0-100 (mS/cm)                         0.01 mS/cm         +/- 0.5% 
+reading + 0.001 mS/cm
+Salinity     0-70 Parts per thousand (ppt)         0.01 ppt           +/- 1.0% 
+reading or 0.1ppt, (whichever is greater)
+DO           0-200 (% air saturation)              0.1% @ air sat     +/- 2.0% @ 
+air sat
+DO           200-500 (% air saturation)            0.1% @ air sat     +/- 6.0% @ 
+air sat
+DO           0-20 (mg/L)                           0.01 mg/L        +/- 0.2 mg/L
+DO           20-50 (mg/L)                          0.01 mg/L        +/- 0.6 mg/L
+Depth        0-9.1 (m)                             0.001 m          +/- 0.018 m
+PH           2-14 units                            0.01 units      +/- 0.2 units
+Turbidity    0-1000 NTU                            0.1 NTU            +/- 5% of 
+reading or 2 NTU (whichever is greater) 	
+
+
+ 9. Coded variable indicator and variable code definitions:
+ 	Site definitions: S9 = Station 9
+	Site definitions: S10 = Station 10
+	Site definitions: S11 = Station 11
+	Site definitions: S6 = Station 6
+ 	File definitions: site/month/year (ex: XXaug95 = Station data from August 
+	of 1995).
+
+
+10. Data anomalies:
+January 1996: 
+	S9:	Problem with Specific Conductance Standard. Error in Calibration for S9 
+		from 01/31/96 15:30:00 through 01/31/96 23:30:00
+
+February 1996: 
+	S9:	Problem with Specific Conductance Standard. Error in Calibration for S9 
+		from 02/01/96 00:00:00 through 02/16/96 09:00:00
+
+March 1996: 
+	S10:	High DO spikes for S10 on 3/16 10:30:00 through 13:30 and 3/17 15:00:00	
+		should be considered anomalous
+		
+
+April 1996: 
+	S9:	Very low DO (zeroes) on 4/3 15:00:00 – 4/8 15:30:00 for S9
+	S10:	low DO values on 4/6 05:00:00 and 4/26 06:30:00 for S10
+
+May 1996: none to report
+
+June 1996: 
+	S9:	Very low DO (zeroes) on 6/10 05:00:00 – 6/14 08:30:00 for S9. 
+		Data for Specific Conductance and Salinity on 6/24/96 9:30:00 to 6/24/96 
+		10:00:00 for S9 are out range and were deleted.
+
+July 1996: 
+	S9:	DO data deleted from 7/24/96 20:00 through 7/31/96 08:30 due to 
+		suspected DO membrane puncture.  DO values jump from 100% to 280% in 
+		15 minute time period.  
+	S10:	7/31/96 1500 through 9/1/96 1600 depth is very low, probably due to 
+		clogged probes and should be considered suspect.  
+	S11:	No data due to reparation of datalogger at 07/12/96 10:00:00 through
+		07/31/96 14:30:00 for S11.
+
+August, 1996: 
+	S9:	DO data suspect and deleted from 8/16/96 16:00 through 8/24/96 19:00.
+		There was only one day where DO values were > 0 %.  
+		No data due to "Internal Error" on 08/24/96 19:30:00 through
+		08/31/96 23:30:00 for S9.
+	S10:	7/31/96 1500 through 9/1/96 1600 depth is very low, probably due to 
+		clogged probes and should be considered suspect.  
+
+September, 1996: 
+	S9:	No data due to "Internal Error" on 09/16/96 12:30:00 through
+		09/30/96 23:30:00 for S9.
+	S10:	7/31/96 1500 through 9/1/96 1600 depth is very low, probably due to 
+		clogged probes and should be considered suspect.  
+		pH spike from 9/15/96 1400 through 2030 should be considered suspect
+		due to instrument malfunction.  
+	S11:	Very erractic DO values from 9/13 10:00:00 - 9/22 07:30:00 for S11.
+		Negative DO % Values for  Station 11 deleted:
+		09/14/96 18:30:00 through 09/14/96 19:30:00
+		09/15/96 10:00:00 through 09/15/96 12:00:00
+		09/15/96 14:00:00 through 09/15/96 16:00:00
+		09/16/96 10:00:00 through 09/16/96 14:00:00
+		09/16/96 15:00:00
+		Negative DO mg Values for  Station 11 deleted:
+		09/14/96 18:30:00 through 09/14/96 19:30:00
+		09/15/96 10:00:00 through 09/15/96 12:00:00
+		09/15/96 14:00:00 through 09/15/96 16:00:00
+		09/16/96 10:00:00 through 09/16/96 14:00:00
+		09/16/96 15:00:00
+
+October, 1996: 
+	S9:	First four DO values were deleted because they were >200% from 10/3/96
+		12:00 through 13:30.  Appears as if the membrane was not settled yet. 
+		DO data deleted from 10/16/96 12:00 through 10/30/96 13:30.  All values
+		except last day are >100% indicating calibration problems.  
+		First four DO values of deployment were deleted from 10/31/96 18:00 through
+		19:30 because membrane was not settled yet.
+	S10:	No data due to "Internal Error" on 10/15/96 08:00:00 through
+		10/31/96 23:30:00 for S10; intermittent zero DO values for S10.
+				
+November, 1996: 
+	S9 :	No data DO % and DO mg/L from 11/18/96 12:00:00 through 11/30/96 23:30:00. 
+		YSI datalogger or sensor for DO are damaged.
+
+	S10: 	DO values deleted from 11/07/96 16:00 through 11/14/96 10:30 due to 
+		suspected DO membrane puncture.  
+		High DO value on 11/18 12:00:00 was deleted because membrane was not settled yet
+		
+	S11:	Very erractic DO values from 11/6 09:00:00 – 11/14 12:30:00 for S11
+		Negative DO mg Values for Station 11 deleted:
+		11/08/96 00:00:00 11/08/96 12:30:00
+		11/08/96 13:30:00
+		11/08/96 14:30:00 11/08/96 16:00:00
+		11/08/96 18:00:00
+		11/12/96 19:30:00 11/12/96 20:30:00
+		11/12/96 04:30:00
+		11/18/96 12:00:00 through 11/24/96 10:00:00
+		11/24/96 13:00:00 through 11/24/96 15:30:00
+		11/25/96 04:30:00
+		11/25/96 05:30:00 through 11/25/96 07:30:00
+		11/28/96 03:30:00 through 11/28/96 07:00:00
+		11/30/96 07:00:00
+		Negative DO % Values for  Station 11 deleted:
+		11/08/96 00:00:00 11/08/96 12:30:00
+		11/08/96 13:30:00
+		11/08/96 14:30:00 11/08/96 16:00:00
+		11/08/96 18:00:00
+		11/12/96 19:30:00 11/12/96 20:30:00
+		11/12/96 04:30:00
+		11/18/96 12:00:00 through 11/24/96 10:00:00
+		11/24/96 13:00:00 through 11/24/96 15:30:00
+		11/25/96 04:30:00
+		11/25/96 05:30:00 through 11/25/96 07:30:00
+		11/28/96 03:30:0 through 11/28/96 07:00:00
+		11/30/96 07:00:00
+		Negative Depth values for station 11:
+		11/14/96 11:00:00 through 11/14/96 12:30:00
+
+December, 1996 : 
+	S9:	Sensor problem for DO on 12/01/96 00:00:00 through 12/31/96
+		23:30:00 for S9. DO % and DO mg/L data were deleted.
+	S11:	Sensor problem for DO on 12/06/96 12:00:00 through 12/31/96
+		23:30:00 for S11. DO % and DO mg/L data were deleted. 
+	S6:	No data due to "Internal Error" on 12/07/96 05:00:00, 12/07/96
+		08:00:00, 12/24/96 05:30:00, 12/24/96 11:30:00, 12/24/96 13:00:00
+		and 12/25/96 08:00:00 through 12/31/96 10:30:00 for S6.
+
+
+
+11. Missing data:
+Note: There were no turbidity probes available on our instruments until January 1997
+
+January, 1996 :
+	S9: 	No data from 01/31/96 10:00:00 through 01/31/96 15:00:00 for 
+		servicing.
+		No data for Specific Conductance and Salinity from 01/31/96 
+		15:30:00 through 01/31/96 23:30:00 due to calibration error
+
+February, 1996 :
+	S9 :	No data for Specific Conductance and Salinity from 02/01/96 
+		00:00:00 through 02/16/96 09:00:00 for calibration error.
+		No data from 02/16/96 09:30:00 through 02/16/96 14:00:00 for 
+		servicing.
+	S10 :	The YSI 6000 data logger were not deployed until February 1,
+		1996. at 00:00:00. No data from 02/16/96 10:00:00 through 02/16/96
+		14:00:00 for servicing.
+
+March, 1996 :
+	S9 ;	No data from 03/01/96 09:30:00 through 03/01/96 14:00:00 for 
+		servicing.
+		No data from 03/15/96 11:00:00 through 03/15/96 16:00:00 for 
+		servicing.
+		No data from 03/31/96 16:30:00 through 03/31/96 23:30:00 for 
+		servicing.
+	S10 :	No data from 03/01/96 10:00:00 through 03/01/96 14:00:00 for 
+		servicing.
+		No data from 03/15/96 11:30:00 through 03/15/96 16:00:00 for  
+		servicing.
+		No data from 03/31/96 16:30:00 through 03/31/96 23:30:00 for 
+		servicing.
+	S11 :	The YSI 6000 data logger were not deployed until March 15, 1996
+		16:30:00, the following data missing :
+		No data from 03/01/96 00:00:00 through 03/15/96 16:00:00 
+		No data from 03/31/96 17:00:00 through 03/31/96 23:30:00 for 
+		servicing.
+
+April, 1996 :
+	S9 :	No data from 04/01/96 00:00:00 through 04/01/96 14:30:00 for 
+		servicing.
+		No data from 04/17/96 11:00:00 through 04/17/96 16:00:00 for 
+		servicing.
+	S10 :	No data from 04/01/96 00:00:00 through 04/01/96 15:00:00 for 
+		servicing.
+		No data from 04/17/96 11:00:00 through 04/17/96 16:00:00 for 
+		servicing.
+	S11 :	No data from 04/01/96 00:00:00 through 04/01/96 15:00:00 for 
+		servicing.
+		No data from 04/17/96 11:30:00 through 04/17/96 16:30:00 for 
+		servicing.
+
+May, 1996 :	
+	S9 :	No data from 05/02/96 16:30:00 through 05/03/96 17:30:00 for 
+		servicing.
+		No data from 05/17/96 09:30:00 through 05/17/96 16:00:00 internal 
+		error
+		No data from 05/31/96 09:30:00 through 05/31/96 14:30:00 internal 
+		error
+	S10 :	No data from 05/03/96 11:30:00 through 05/03/96 18:00:00 for 
+		servicing.
+		No data from 05/17/96 10:00:00 through 05/17/96 16:30:00 for S10
+		No data from 05/31/96 10:00:00 through 05/31/96 14:30:00 for S10
+	S11 :	No data from 05/03/96 12:00:00 through 05/03/96 18:00:00 for 
+		servicing.
+		No data from 05/17/96 10:00:00 through 05/17/96 16:30:00 internal 
+		error
+		No data from 05/31/96 10:30:00 through 05/31/96 15:00:00 internal 
+		error
+
+June, 1996 :
+	S9 :	No data from 06/14/96 09:00:00 through 06/17/96 14:30:00 for 
+		servicing.
+		Data for Specific Conductance and Salinity are out range:
+		from 06/24/96 09:30:00 through 06/24/96 10:00:00
+	S10 :	No data from 06/14/96 09:00:00 through 06/17/96 15:00:00 for 
+		servicing.
+	S11 :	No data from 06/14/96 09:30:00 through 06/17/96 15:00:00 for 
+		servicing.
+
+July, 1996 :
+	S9 :	No data from 07/01/96 10:00:00 through 07/01/96 14:30:00 for 
+		servicing.
+		No data from 07/12/96 10:00:00 through 07/12/96 15:30:00 for 
+		servicing.
+		DO data deleted from 7/24/96 20:00 through 7/31/96 08:30 due to 
+		suspected DO membrane puncture.  DO values jump from 100% to 280% in 
+		15 minute time period.  
+		No data from 07/31/96 09:00:00 through 07/31/96 14:30:00 for 
+		servicing.
+	S10 :	No data from 07/01/96 10:00:00 through 07/01/96 14:30:00 for 
+		servicing.
+		No data from 07/12/96 10:00:00 through 07/12/96 15:30:00 for 
+		servicing.
+		No data from 07/31/96 09:00:00 through 07/31/96 14:30:00 for 
+		servicing.
+	S11 :	No data from 07/01/96 10:00:00 through 07/01/96 14:30:00 for 
+		servicing.
+		No data from 07/12/96 10:00:00 through 07/31/96 14:30:00. YSI
+		datalogger or sensor for DO are damages.
+
+August, 1996 :
+	S9 :	No data from 08/16/96 10:30:00 through 08/16/96 15:30:00 for 
+		servicing.
+		DO data suspect and deleted from 8/16/96 16:00 through 8/24/96 19:00.
+		There was only one day where DO values were > 0 %.  		
+		All data missing due to "Internal Error" from 08/24/96 19:30:00 
+		through 08/31/96 23:30:00.
+	S10 :	No data from 08/14/96 01:30:00 through 08/16/96 15:30:00 for 
+		servicing.
+	S11 :	No data from 08/16/96 11:00:00 through 08/16/96 15:30:00 for 
+		servicing.
+
+September, 1996 :
+	S9 :	No data from 09/01/96 00:00:00 through 09/16/96 12:00:00 for 
+		servicing.
+		All data missing due to "Internal Error" from 09/16/96 12:30:00
+		through 09/30/96 23:30:00.
+	S10 :	No data from 09/01/96 16:30:00 through 09/13/96 09:30:00 for 
+		servicing.
+		No data from 09/29/96 10:30:00 through 09/30/96 23:30:00 for 
+		servicing.
+	S11 :	No data from 09/01/96 16:30:00 through 09/13/96 09:30:00 for 
+		servicing.
+		No data from 09/29/96 10:30:00 through 09/30/96 23:30:00 for 
+		servicing.
+
+		Negative DO % Values for  Station 11 deleted:
+		09/14/96 18:30:00 through 09/14/96 19:30:00
+		09/15/96 10:00:00 through 09/15/96 12:00:00
+		09/15/96 14:00:00 through 09/15/96 16:00:00
+		09/16/96 10:00:00 through 09/16/96 14:00:00
+		09/16/96 15:00:00
+
+		Negative DO mg Values for  Station 11 deleted:
+		09/14/96 18:30:00 through 09/14/96 19:30:00
+		09/15/96 10:00:00 through 09/15/96 12:00:00
+		09/15/96 14:00:00 through 09/15/96 16:00:00
+		09/16/96 10:00:00 through 09/16/96 14:00:00
+		09/16/96 15:00:00
+
+October, 1996 :
+	S9 :	No data from 10/01/96 00:00:00 through 10/03/96 11:30:00 for 
+		servicing.
+		First four DO values were deleted because they were >200% from 10/3/96
+		12:00 through 13:30.  Appears as if the membrane was not settled yet. 
+		No data from 10/15/96 08:00:00 through 10/16/96 11:30:00 for 
+		servicing.
+		DO data deleted from 10/16/96 12:00 through 10/30/96 13:30.  All values
+		except last day are >100% indicating calibration problems.  
+		No data from 10/30/96 14:00:00 through 10/31/96 17:30:00 for 
+		servicing.
+		DO data deleted from 10/31/96 18:00 through 10/31/96 19:30.  DO membrane
+		not settled yet. 
+	S10 :	No data from 10/01/96 00:00:00 through 10/03/96 11:30:00 for 
+		servicing.
+		All data missing due to "Internal Error" from 10/15/96 08:00:00 
+		through 10/31/96 23:30:00.
+	S11 :	No data from 10/01/96 00:00:00 through 10/03/96 12:00:00 for 
+		servicing.
+		No data from 10/15/96 08:00:00 through 10/16/96 12:00:00 for 
+		servicing.
+		No data from 10/30/96 14:00:00 through 10/31/96 17:30:00 for 
+		servicing.
+
+November, 1996 :
+	S9 :	No data from 11/14/96 10:30:00 through 11/18/96 11:30:00 for 
+		servicing.
+		No data DO % and DO mg/L from 11/18/96 12:00:00 through 11/30/96 
+		23:30:00. YSI datalogger or sensor for DO are damaged. 
+
+	S10 :	No data from 11/01/96 00:00:00 through 11/07/96 15:30:00 for 
+		servicing.
+		DO values deleted from 11/07/96 16:00 through 11/14/96 10:30 due to 
+		suspected DO membrane puncture.  
+		No data from 11/14/96 11:00:00 through 11/18/96 11:30:00 for 
+		servicing.
+		High DO value on 11/18 12:00:00 was deleted because membrane was not settled yet
+
+	S11 :	Negative DO mg Values for Station 11 deleted:
+		11/08/96 00:00:00 - 11/08/96 12:30:00
+		11/08/96 13:30:00
+		11/08/96 14:30:00 - 11/08/96 16:00:00
+		11/08/96 18:00:00
+		11/12/96 19:30:00 - 11/12/96 20:30:00
+		11/13/96 04:30:00
+		11/18/96 12:00:00 through 11/24/96 10:00:00
+		11/24/96 13:00:00 through 11/24/96 15:30:00
+		11/25/96 04:30:00
+		11/25/96 05:30:00 through 11/25/96 07:30:00
+		11/28/96 03:30:00 through 11/28/96 07:00:00
+		11/30/96 07:00:00
+
+		Negative DO % Values for Station 11 deleted:
+		11/08/96 00:00:00 11/08/96 12:30:00
+		11/08/96 13:30:00
+		11/08/96 14:30:00 11/08/96 16:00:00
+		11/08/96 18:00:00
+		11/12/96 19:30:00 11/12/96 20:30:00
+		11/13/96 04:30:00
+		11/18/96 12:00:00 through 11/24/96 10:00:00
+		11/24/96 13:00:00 through 11/24/96 15:30:00
+		11/25/96 04:30:00
+		11/25/96 05:30:00 through 11/25/96 07:30:00
+		11/28/96 03:30:00 through 11/28/96 07:00:00
+		11/30/96 07:00:00
+
+		Negative Depth values for station 11:
+		11/14/96 11:00:00 through 11/14/96 12:30:00
+		No data from 11/14/96 13:00:00 through 11/18/96 11:30:00 for servicing.
+
+
+December, 1996 :
+	S6 :	The YSI 6000 data logger were not deployed until December 6,
+		1996 at 12:00:00.  No data for 12/01/96 00:00:0 through 12/06/96 11:30:00.  
+All 
+		data missing due to "Internal Error" on 12/07/96 05:00:00
+		All data missing due to "Internal Error" on 12/07/96 08:00:00
+		All data missing due to "Internal Error" on 12/24/96 05:30:00
+		All data missing due to "Internal Error" on 12/24/96 11:30:00
+		All data missing due to "Internal Error" on 12/24/96 13:00:00
+		All data missing due to "Internal Error" from 12/25/96 08:00:00
+		through 12/31/96 10:30:00.
+	S9 :	No DO% and DO mg/L data from 12/01/96 00:00:00 through 12/31/96 23:30:00. 
+		YSI datalogger or sensor for DO are damages.
+		No data from 12/04/96 10:30:00 through 12/06/96 12:30:00 for
+		servicing.
+	S10 :	No data from 12/04/96 10:00:00 through 12/06/96 12:00:00 for
+		servicing.
+	S11 :	No data from 12/04/96 10:00:00 through 12/06/96 11:30:00 for  
+		servicing.
+		No DO% and DO mg/L data from 12/06/96 12:00:00 through 12/31/96 23:30:00. 
+		YSI datalogger or sensors for DO are damaged.
+ 
+
+12. Other remarks
+
+

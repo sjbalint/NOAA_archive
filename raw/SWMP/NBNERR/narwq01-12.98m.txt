@@ -1,0 +1,362 @@
+Narragansett Bay NERR Metadata Form
+(Jan - Dec 1998)
+Latest update: November 11, 1999
+
+I.  Data set and Research Descriptors
+
+1.  Principle investigators and contact persons.
+
+Allan D. Beck, Manager		Susan C. Adamowicz, Research Associate
+Narragansett Bay NERR		University of Rhode Island
+422 Narragansett Ave.		Graduate School of Oceanography
+Prudence Island, RI 02872		South Ferry Road
+				Narragansett, RI  02882
+Tel: (401) 683-6780		Tel: (401) 874-6617
+Fax: (401) 682-1936		Fax: (401) 874-6613
+				Email:  scadam@gsosun1.gso.uri.edu
+
+2.  Entry verification.
+
+Other water quality measurements are made by standard field methods at the time 
+of datalogger deployment and weekly thereafter.  Results are compared with YSI 
+6000 data records.  Data may be corrected based on the comparative analyses and 
+is then so noted in the data anomaly section of the metadata form. 
+
+Temperature is measured by mercury thermometer calibrated with a NBS certified 
+thermometer.  Dissolved oxygen is determined by a modified Winkler titration.  
+Salinity is measured with a Hydrolab Surveyor 3 equipped with a salinity/ 
+conductivity sensor.  The pH is determined by a Corning benchtop pH meter.  
+Turbidity is presently measured with a Secchi disk.  (This method does not 
+provide data that is comparable to the YSI data.  An appropriate method 
+recommended by the manufacturer and accepted by the scientific community will be 
+used in the future.)  Allan Beck is responsible for these water quality 
+measurements.
+
+Data is uploaded to a PC from the YSI datalogger using the PC6000 software in 
+both the PC6000 format and in comma delimited format.  The comma-delimited data 
+is opened in Excel 5.0 and edited to remove headers and extra spaces.  Each file 
+contains a month's data and missing days are denoted by periods.  
+
+3.  Research objectives.
+
+YSI6000 dataloggers are being deployed off Prudence Island in Narragansett Bay 
+as part of the National Estuarine Research Reserve's (NERR) Water Quality 
+Monitoring Program. The goal is to develop long-term data sets for 
+representative estuarine systems in order to track changes in water quality over 
+time. The instruments are deployed for two to four weeks at a time, depending on 
+season, and measurements are taken every 30 minutes.  Currently one station on 
+Prudence Island, Potters Cove in the north has been established.   Potters Cove 
+site, which was established in December 1995 receives waste from boaters and is 
+considered an impacted site.  All Rhode Island State waters, however, were 
+declared a federal no-discharge zone (for marine sewage) in late Spring 1998.  
+It is now illegal for boaters to discharge treated or untreated sewage into 
+waters of the state, including Potters Cove.
+
+4.  Research Methods.
+
+Before each deployment, routine maintenance and calibration of the YSI 
+instrument are carried out.  The instrument is cleaned to remove any fouling and 
+the probes are checked for cracks or other visible signs of damage.  O-rings are 
+cleaned and greased, and batteries installed.  Calibrations are performed for 
+salinity, pH, dissolved oxygen, depth, and turbidity.  For the salinity 
+calibration, filtered seawater from Narragansett Bay is collected and its 
+salinity determined using an autosal.  This seawater is then used as a salinity 
+standard. A two-point pH calibration is performed using pre-made buffer 
+solutions of pH 7 and 10 obtained from Fisher Scientific. Old pH solutions are 
+used for rinsing the probes.  The dissolved oxygen membrane is replaced 24 hours 
+prior to calibration.  The DO probe is then calibrated by placing a wet sponge 
+in the calibration cup and allowing the instrument to equilibrate as per the 
+manufacturer's instructions for 100% air saturation calibration.  The depth 
+sensor is calibrated to sea level with the sonde standing up in air, calibration 
+cup removed.  The turbidity sensor is calibrated with distilled water (NTU = 0).  
+In August 1998, turbidity sensors were calibrated with distilled, deionized 
+water (0 NTU) and a standard diluted with distilled, deionized water to 10 NTU.  
+As  of December 28, 1998, a three point turbidity calibration was instituted (0, 
+10, 100 NTU).  
+
+Currently only a northern site, Potters Cove, is being monitored. The sondes are 
+deployed in PVC tubes with sections cut out to allow water flow.  The PVC tube 
+is attached to a dock.   The sondes are programmed to collect data every 30 
+minutes during deployment.  Deployments generally last two weeks to four weeks, 
+data collection is continuous unless some mishap occurs.  At the end of each 
+deployment, the data is uploaded, put in Excel format, and QA/QC'd using the 
+Excel Macros provided by the CDMO.  
+
+5.  Site Location and Character.
+
+The NARNERR consists of 2200 acres of diverse estuarine and terrestrial habitats 
+ranging from deep water to salt marshes to forested uplands.  The land holdings 
+include 60% of Prudence Island, most of nearby Patience Island and all of Hope 
+Island off the west shore of Prudence.  The Reserve is located close to the 
+geographical center of Narragansett Bay in Rhode Island.
+	Tidal range:  -0.2 to 1.7 meters MLW
+	Salinity:  15 to 32 ppt
+	Temperature:  -1.0 to 26 C
+	Province:  North temperate, Virginian bioregion
+	Lat. 41 38'30"    Long. 71 20'30"
+
+Specific characteristics of the Potters Cove site are:
+	Depth:  2.2 to 3.8 meters
+	Bottom habitat: Sand, silt, some organic mud
+	Pollutants:  Boaters' wastes
+	Watershed:  Narragansett Bay, North Prudence (4801 square km) 
+	Location:  41 38'25"N, 71 20'28"W 
+
+Specific characteristics of the T-wharf site are:
+	Depth:  4 meters
+	Bottom habitat: sand and silt
+	Watershed:  Narragansett Bay
+	Location:  41 34'53"N, 71 19'18"W
+
+6.  Data Collection Period
+
+Potters Cove data collection began December 3, 1995 and is ongoing.  T-wharf 
+data collection began September 1996 and terminated in January 1998 when the 
+sonde and its mounting were lost at sea.
+
+ 7.  Associated Researchers and Projects.
+
+There is a research grade meteorological station located approximately 200 yards 
+from the Potters Cove station.  Chris Turner, R. I. Department of Environmental 
+Management, Water Resources Division, is currently collecting data.  Parameters 
+measured include wind speed and direction, air temperature, humidity, 
+precipitation, and barometric pressure.
+
+
+II.  Physical Structure Descriptors
+
+8.  Sensor specifications, range of measurements, units, resolution, and 
+accuracy:
+
+YSI 6000 datalogger
+Variable Name
+Range of Measurement (Units)
+Resolution	
+Accuracy
+Date
+1-12, 1-31, 00-99 (Mo,Day,Yr)
+1 month, 1 day, 1 year
+NA
+
+Time
+0-24, 0-60, 0-60 (Hr, Min, Sec)
+1 hr, 1 min, 1 s
+NA
+
+Temp
+-5 to 45 ( C)
+0.01 C
++/-0.15C
+
+SpCOND
+0-100 (mS/cm)
+0.01mS/cm
++/-0.5% of reading +0.001 mS/cm
+Salinity
+0-70 Parts per thousand (ppt)
+0.01ppt
++/-1.0% of reading or 0.1ppt, (whichever is greater)
+DO
+0-200 (%air saturation)
+0.1% @air saturation
++/-2% @air saturation
+DO
+200-500 (% air saturation)
+0.1% @air saturation
++/-6% @air saturation
+DO
+0-20 (mg/l)
+0.01 mg/l
++/-0.2 mg/l
+DO
+20-50 (mg/l)
+0.01 mg/l
++/-0.6 mg/l
+Depth(shallow)
+0-9.1 (m)
+0.001 m
++/-0.018 m
+pH
+2-14 units
+0.01 units
++/-0.2 units
+Turb
+0-1000 (NTU)
+0.1 NTU
++/-5% of reading or 2 NTU (whichever is >)
+
+
+9.  Coded variable indicator and variable code definitions:
+
+Site definitions: PC = Potters Cove; TW = T-wharf.
+File definitions: YSI deployment site/month/year (ex: PC0196 = Potters Cove data 
+from January of 1996)
+
+10.  Data anomalies.
+
+January, 1998:
+	PC: No alterations were made to the data, no anomalies were noted.
+
+	TW:  Sonde was lost at sea on 12/30/97 and not recovered until late Fall 
+1998.  Data was collected for a portion of January while the sonde, but is not 
+reported here since it is not possible to determine the unit's exact location 
+even though it evidently remained in the vicinity of the T-Wharf where it was 
+eventually recovered.
+
+February, 1998: 
+	PC: DO values noted as high, especially on 2/13/98 but were left in the 
+data set.  These DO values may be a result of fouling.  Did note that DO and 
+temperature seemed to track from 2/26/98 to end of month, but again, no data 
+were deleted.
+	 
+March, 1998:
+	PC: No data anomalies noted, no data deleted.
+	 
+April, 1998:
+	PC: DO values noted as high from 04/07/98 17:00 hr, but again left in.
+	 
+May, 1998:
+	PC: DO data seemed high on 5/16/98 through 5/19/98 but this was part of a 
+continuous deployment from 5/06/98 through end of month. Rapid decline in water 
+temperature on May 7 - May 8 may have been due to a passing storm.  Sonde was 
+deployed continuously from May 6 through end of month. 
+
+June, 1998:
+	PC:  Begin turbidity probe deployment 6/05/98 with 1 point calibration (0 
+NTU); no turbidity data prior to 06/05/98.  Turbidity spike on June 12, 2100 hr. 
+is anomalous.  Puncture in DO membrane resulted in deletion of anomalous data 
+from 6/20/98 19:00 hr through 6/26/98 7:30 hr.   Extreme negative turbidity 
+value (-656) on 6/30/98 18:00 hr deleted.  NB:  There were severe rains during 
+this month resulting in a monthly total of over 12.00 inches.  One rain storm 
+left over 4 inches over the course of a weekend.  
+
+July, 1998
+	PC:  High DO values noted for 7/1/98 through 7/13/98; values exceeded 200% 
+saturation and were deleted.   A clear puncture caused extreme DO values that 
+were deleted from 7/23/98 00:00 hr until 7/24/98 8:30 hr.  Large negative 
+turbidity values were deleted on 7/3/98 17:00 hr (-81.9 NTU) and on 7/5/98 4:30 
+hr (-702.9 NTU).  Turbidity spike on July 22 0100 hr deemed an anomalous event.  
+From 7/13/98 through 7/24/98, sonde actually logged parameters at 9:52 minutes 
+after the half-hour.  
+
+August, 1998:
+	PC:  Several internal device errors occurred throughout deployment of 
+sonde from 8/12/98 through 8/24/98 possibly due to power supply malfunction.  
+This resulted in large gaps of missing data.  However, consultation with YSI 
+technical support indicated that the data that were collected at this time 
+should be of satisfactory reliability.  Data stream regained on 8/24/98 when a 
+different sonde was deployed.  DO membrane punctured 8/25/98 2:30 hr resulting 
+in deletion of DO data from that point through the end of the month.  Large 
+negative turbidity value on 8/11/98 13:30 hr. was deleted. Turbidity spike on 
+August 30 1030hr deemed an anomalous event. 
+
+September, 1998:
+	PC:  Several rows of data were not gathered due to gaps in deployment:  on 
+9/9/98 at 6:30 hr through 9:00 hr. and on 9/23/98 at 8:30 hr and 9:00 hr.  
+Despite use of three different sondes through the course of the month, punctures 
+or other problems developed so that DO data collected was significantly above 
+realistic levels (e.g. 400%).  As a result of these difficulties, all DO data 
+collected for the month was deleted.  :(  Turbidity spikes on September 8, 
+1900hr and September 19, 1600 hr deemed anomalous events.
+
+October, 1998:
+	PC: DO data deleted from 10/1/98 through 10/12/98 7:30 hr since this was 
+the same sonde deployment continued from September.  See September 1998 data 
+anomaly section for full explanation. Turbidity spikes on October 1, 1500hr; 
+October 10, 1730hr; and October 13, 1930hr deemed anomalous events.
+
+November, 1998
+	PC:  Power malfunction in sonde for deployment of 11/18/98 through end of 
+month.  No data collected for this period.  :(  Low DO values noted for 11/5/98, 
+but not deleted since these data were from one sonde deployed continuously from 
+10/28/98 through 11/18.  
+
+December, 1998
+	PC:  Power malfunction in sonde for deployment 12/01/98 through 12/2/98 
+14:30 hr., no data obtained for this period.  Negative turbidity values (-1 NTU 
+when rounded) occurred at the following times and were converted to 0 values:  
+12/30/98 from 10:30 hr through 21:00 hr; 12/31/98 00:00 hr through 8:00 hr and 
+10:30, 11:00, 12:00, 12:30, 15:00, 15:30, 16:30, 17:30, 18:30, 19:30, 20:00, 
+21:00 and 22:00 through 23:30 hr.  Turbidity spike on December 10, 1730hr deemed 
+an anomalous event.
+
+
+11.  Missing Data
+	
+January, 1998:
+	PC:  No turbidity data were collected this month.
+
+	TW:  Sonde was lost at sea on 12/30/97 and not recovered until late Fall 
+1998.  Data was collected for a portion of January while the sonde, but is not 
+reported here since it is not possible to determine the unit's exact location 
+even though it evidently remained in the vicinity of the T-Wharf where it was 
+eventually recovered.
+
+February, 1998: 
+	PC:  No sonde deployed 2/20/98 11:30 hrs until 2/26/98 12:30 hrs.  No 
+turbidty data collected for whole month.
+	 
+March, 1998:
+	PC: No turbidity data were gathered during the entire month.	 
+
+April, 1998:
+	PC:   No turbidity data were gathered during the entire month.  Missing 2 
+rows of data (4/09/98 09:30 hrs and 10:00 hrs) between deployment of sondes. 
+
+May, 1998:
+	PC:  Missing data between deployments 5/1/98 15:00 hr until 5/6/98 08:30 
+hr.  No turbidity data taken for the whole month 
+
+June, 1998:
+	PC: No turbidity data prior to 06/05/98.   Maintenance period 6/4 11:30 – 
+6/5 08:00.  Puncture in DO membrane resulted in deletion of anomalous data from 
+6/20/98 19:00 hr through 6/26/98 7:30 hr.   Maintenance period 6/26 08:00 – 6/27 
+08:30.  Extreme negative turbidity value (-656) on 6/30/98 18:00 hr deleted. 
+
+July, 1998
+	PC:   Missing data between deployments: 7/24/98 9:00 hr and 7/24/98 9:30 
+hr.  High DO values noted for 7/1/98 through 7/13/98; values exceeded 200% 
+saturation and were deleted.   A clear puncture caused extreme DO values which 
+were deleted from 7/23/98 00:00 hr until 7/24/98 8:30 hr.  Large negative 
+turbidity values were deleted on 7/3/98 17:00 hr (-81.9 NTU) and on 7/5/98 4:30 
+hr (-702.9 NTU).
+
+August, 1998:
+	PC:  Several internal device errors occurred throughout deployment of 
+sonde from 8/12/98 through 8/24/98 possibly due to power supply malfunction.  
+This resulted in large gaps of missing data.  DO membrane punctured 8/25/98 2:30 
+hr resulting in deletion of DO data from that point through the end of the 
+month.  Large negative turbidity value on 8/11/98 13:30 hr. was deleted.  
+
+September, 1998:
+	PC:  Several rows of data were not gathered due to gaps in deployment -- 
+on 9/9/98 at 6:30 hr through 9:00 hr. and on 9/23/98 at 8:30 hr and 9:00 hr.  
+Despite use of three different sondes through the course of the month, punctures 
+or other problems developed so that DO data collected was significantly above 
+realistic levels (e.g. 400%).  As a result of these difficulties, all DO data 
+collected for the month was deleted.  
+
+
+
+October, 1998:
+	PC:  Missing data for 10/28/98  9:00 hr. as a result of deployment 
+mismatch.  DO data deleted from 10/1/98 through 10/12/98 7:30 hr since this was 
+the same sonde deployment continued from September.  See September 1998 data 
+anomaly section for full explanation.  
+
+November, 1998
+	PC:  Power malfunction in sonde for deployment of 11/18/98 through end of 
+month.  No data collected for this period.  
+
+December, 1998
+	PC:  Power malfunction in sonde for deployment 12/01/98 through 12/2/98 
+14:30 hr., no data obtained for this period. 
+
+12.  Other Remarks/Notes
+	Probe failures have resulted in the loss of much dissolved oxygen and 
+turbidity data, particularly in the summer.  Membrane puncture during deployment 
+has also caused losses in DO data.  We are currently working on ways to more 
+effectively keep animals out of the probe guards.  Meshes used to date seem only 
+to trap animals once they get past the mesh.  
+
+

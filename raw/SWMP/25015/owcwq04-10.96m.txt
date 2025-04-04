@@ -1,0 +1,386 @@
+Old Woman Creek (OWC) NERR Site Water Quality Metadata 
+April through October, 1996
+Latest Update: October 1, 2001
+
+1. Principal Investigator & contact persons:
+
+Dr. David Klarer, Research Coordinator
+Mr. Gene Wright, Manager
+
+Old Woman Creek SNP and NERR
+2514 Cleveland Road East
+Huron, Ohio 44839
+phone: (419) 433-4601
+
+2. Entry verification:
+
+		The data were directly downloaded from the YSI data loggers into the 
+YSI PC6000 program in the PC. The data were graphed and visually checked for any 
+obvious outliers. The data were then transferred to an Excel spreadsheet.  The 
+data files were edited to remove headers, footers, and spaces.  CDMO Excel 
+macros were used to format the data, to check for outliers and determine missing 
+dates and times, which were then added to the data file.  Missing data were 
+inserted into the spreadsheet and denoted by periods. The data files were then 
+checked for readings that were outside the instrument range.  These data were 
+removed and replaced with a period. An explanation for the missing and the 
+deleted data is included in this meta data sheet.  The files were then 
+transfered along with the associated metadata sheet by disk to the CDMO.  The 
+files are archived at OWC. Dr. David Klarer is responsible for both data logger 
+deployment and data management.
+
+3.Research Objectives:
+
+		Measurements are taken every 15 minutes over approximately two week 
+periods at two sites within the Old Woman Creek estuary- one in the upper 
+reaches at State Route 2 and the other near the mouth, just south of State Route 
+6. The purpose of this monitoring program is to document the role of Great Lakes 
+estuaries in mitigating storm flow that passes through them.  
+
+4. Research methods:
+
+	The YSI monitoring program began on 25 April, 1996 at both sites.  Prior 
+to deployment of the data loggers, a 4 inch diameter PVC pipe was bolted to a 
+metal sign post that had been driven into the sediment.  Each pipe had 4 rows of 
+holes drilled into it spanning the area of the probe guard on the data logger so 
+that the probes would have direct contact with the surrounding waters.  The data 
+logger at site SU is .18 meters above the bottom, while the YSI at site WM is 
+0.05 meters above the bottom.  Dissolved oxygen, pH, temperature, turbidity, and 
+specific conductance readings are taken when the instrument is pulled at each 
+site. On alternate weeks, the data loggers are pulled.  The data is retrieved 
+from each data logger and each data logger is recalibrated (according to the 
+directions in the YSI Operations Manual)  before being returned to the field.  
+Dissolved oxygen, pH, temperature, and specific conductance readings are taken 
+when the instrument is pulled at each site. On alternate weeks, the data loggers 
+are pulled.  The data is retrieved from each data logger and each data logger is 
+recalibrated (according to the directions in the YSI Operations Manual)  before 
+being returned to the field.  Conductivity, pH (2 point calibration), and 
+turbidity (2 point calibration) were calibrated using commercial standards.
+
+5. Site location and character:
+
+	Old Woman Creek National Estuarine Research Reserve is located on the 
+southern shore of Lake Erie, slightly east of the city of Huron, Ohio (Latitude 
+41 22' N; longitude 82 31' W). 
+	The data logger at the State Route 2 (SU) 41 22’ 57” N, 82 30’ 52” W site 
+is very near the southern boundary of the reserve.  The data logger is sited 
+near a concrete piling of the eastbound Ohio State Route 2 bridge.  At this site 
+the creek is relatively deep and narrow.  Although water direction and flow is 
+influenced at this site by changes in Lake Erie water levels, this site doesn't 
+have direct contact with Lake Erie waters. 
+	The data logger at State Route 6 (WM) 41 22’ 56” N, 82 30’ 26” W is very 
+close to the mouth of Old Woman Creek.  In this portion of the Reserve, the 
+creek is very shallow but extends over a large surface area.  This site  
+frequently experiences influx of Lake Erie waters.  
+
+6. Data collection periods:
+
+	Sampling at WM began on April 25, 1996 at 09:15:00.  Sampling for 1995 
+ceased at WM site on October 31, 1996 at 23:45:00.  Sampling at SU began on 
+April 25, 1996 at 15:30:00.  Sampling ceased at SU site on October 31, 1996 at 
+23:45:00.
+
+7. Associated projects:
+
+	There were no projects directly associated with the datalogger project.
+
+II. Physical Structure and Descriptors:
+
+8. Variable sequence, column format, range of measurements, units, Resolution, 
+Accuracy:
+
+Variable      Range of Measurements          Resolution           Accuracy
+Date          1-12, 1-31, 00-99 (Mo,Day,Yr)  1 mo, 1 day, 1 yr    NA
+Time          0-24, 0-60, 0-60 (Hr,Min,Sec)  1 hr, 1 min, 1 s     NA
+Temp               -5 to 45 (c)              0.01  C              +/-0.15C
+Sp COND            0-100(mS/cm)              0.01mS/cm            +/-0.5% Of 
+reading + 0.001mS/Cm
+Salinity      0-70 Parts per thousand (ppt)  0.01 ppt             +/- 1% of 
+Reading or 0.1 ppt, (whichever is greater)
+DO            0-200 (% air saturation)       0.1% @air sat        +/-2% @air 
+Saturation
+DO            200-500 (% air saturation      0.1% @ air sat       +/- 6% @ 
+Saturation
+DO                 0-20 (mg/l)               0.01 mg/l            +/- 0.2mg/l
+DO                 20-50 (mg/l)              0.01 mg/l            +/- 0.6mg/l
+Depth (shallow)    0-9.1 (m)                 0.001m               +/- 0.018m
+PH                 2-14 units                0.01 units           +/- 0.2units
+Turb               0-1000 NTU *               0.1 NTU              +/- 5% of 
+Reading or 2 NTU (whichever is greater)
+
+*(Note: negative Turb values signify turbidity values greater than 1000)
+
+Data columns are separated by tabs.  Each file contains a two line
+column header at the top of the page which identifies measurements and 
+units for each column.
+
+
+9. Coded variable indicator and variable code definitions:
+   SU- State Route 2      WM-State Route 6
+
+10. Data anomalies:
+
+ April 1996: 
+WM:  Turbidity on 04/25/96  (09:15:00)-data deleted due to sediment 
+resuspension caused when installing data logger
+
+May 1996:
+WM: Turbidity 05/08/96 (08:15:00) through 05/20/96 (08:45:00)- probe malfunction
+DO levels from 05/24/96 (13:45:00) to 05/31/96 (23:45:00) deleted because 
+of oxygen probe failure; DO values from 5/20/96 (09:00:00) through 5/24/96 (13:30:00)
+questionable due to high variability in values.  
+
+
+WM: Turbidity from 05/22/96 (12:15:00) through 05/31/96 (23:45:00) very 
+erratic perhaps due to problems of the wiper parking over the optics during some of the 
+readings negative turbidity values: 05/22/96 (12:15:00, 13:15:00, 14:15:00-14:45:00, 
+15:15:00-17:30:00, 18:00:00-18:15:00, 18:45:00, 19:15:00-19:30:00, 20:00:00, 20:45:00, 
+21:15:00-21:30:00, 22:15:00-22:45:00, 23:15:00-23:30:00); 05/23/96 (00:15:00,00:45:00-
+01:00:00, 01:30:00, 02:30:00, 03:15:00-04:15:00, 04:45:00, 05:30:00-05:45:00, 06:30:00, 
+07:15:00-07:30:00, 08:00:00, 08:30:00, 09:00:00, 09:30:00-09:45:00, 11:45:00, 12:15:00-
+13:00:00, 13:30:00, 14:00:00-14:15:00, 14:45:00, 15:30:00-16:00:00, 16:30:00, 17:00:00, 
+17:30:00, 18:00:00-18:15:00, 18:45:00-19:15:00, 19:45, 20:15:00-20:45:00, 21:30:00, 
+22:00:00,22:45:00-23:00:00, 23:30:00); 05/24/96 (00:00, 00:30, 01:15, 01:45, 02:15, 
+02:45-03:00, 03:30-04:00, 05:15-05:45, 06:30, 07:15, 07:45-08:00, 08:30-08:45, 10:15, 10:45-
+11:00, 11:45, 12:30, 13:00, 13:30-14:00, 14:30, 15:30-16:15, 16:45, 17:15, 18:15, 
+19:00, 19:30, 20:00-20:30, 21:15, 21:45, 23:45); 05/25/96 (00:00:00, 00:45:00, 01:30:00-
+02:00:00, 02:45:00-03:00:00, 03:30:00, 04:00:00, 04:30:00-04:45:00, 05:30:00, 06:00:00, 
+06:30:00-06:45:00, 07:45:00-08:00:00, 08:45:00-09:00:00, 09:30:00-09:45:00, 10:15:00-
+11:00:00, 11:30:00,12:00:00, 12:30:00-13:00:00,13:30:00,14:15:00,14:45:00,15:45:00-
+16:15:00, 16:45:00, 17:00:00, 17:30:00-17:45:00,18:15:00, 19:00:00,19:30:00, 20:00:00-
+20:30:00, 22:00:00, 23:00:00-23:15:00, 23:45:00) 05/26/96 (00:15:00, 00:45:00, 01:30:00-
+01:45:00, 02:15:00-03:15:00, 03:45:00-05:15:00, 06:00:00-07:30:00, 08:00:00-08:30:00, 
+09:00:00-:09:30:00, 10:00:00-11:00:00, 11:30:00-12:00:00, 12:45:00, 13:30:00-14:30:00, 
+15:00:00,15:30:00-16:45:00, 18:00:00-18:15:00, 19:15:00-20:00:00, 20:30:00, 
+21:00:00-22:00:00, 22:30:00-22:45:00, 23:30:00) 05/27/96 (00:00:00- 00:45:00, 01:15:00, 
+01:45:00, 02:15:00-02:30:00,03:00:00, 03:30:00-04:30:00, 05:00:00, 05:45:00, 06:30:00, 
+07:30:00-08:00:00, 08:45:00-09:15:00, 09:45:00-10:45:00, 11:15:00-11:30:00,12:15:00, 
+12:45:00-13:00:00, 14:00:00, 14:30:00, 15:00:00, 15:30:00, 16:00:00, 16:30:00-16:45:00, 
+17:15:00-17:30:00, 18:00:00-20:45:00, 21:15:00-21:30:00, 22:00:00-22:15:00, 22:45:00-
+23:15:00) 05/28/96 (00:00:00, 00:30:00, 01:00:00, 01:30:00, 02:00:00-02:45:00, 03:45:00, 
+04:30:00, 05:00:00-05:15:00, 05:45:00-06:30:00, 07:00:00-10:15:00, 10:45:00-11:00:00, 
+11:30:00, 12:00:00-12:45:00, 13:15:00-13:45:00, 14:15:00, 14:45:00, 15:45:00-16:15:00, 
+16:45:00-17:00:00, 17:30:00, 18:00:00-18:15:00, 18:45:00, 19:15:00, 19:45:00-20:30:00, 
+21:00:00, 21:30:00, 22:00:00, 22:45:00, 23:30:00) 05/29/96 (00:00:00, 00:30:00, 01:00:00, 
+01:30:00, 03:30:00, 04:00:00-05:00:00, 06:00:00,06:30:00-07:15:00, 07:45:00, 08:15:00- 
+08:45:00, 09:45:00, 10:15:00-10:30:00, 11:00:00, 11:30:00, 13:00:00-13:30:00, 14:00:00, 
+14:45:00, 15:15:00,15:45:00, 16:15:00-16:45:00, 17:30:00, 18:00:00, 18:30:00-19:30:00, 
+20:15:00, 21:00:00-21:30:00, 22:00:00, 23:30:00-23:45:00) 05/30/96 (00:00:00, 00:45:00-
+01:15:00, 01:45:00, 02:15:00-03:15:00, 03:45:00, 04:15:00-04:30:00, 05:00:00-05:30:00, 
+06:00:00, 06:45:00, 07:30:00, 08:00:00, 09:00:00, 09:30:00-10:15:00, 10:45:00, 11:30:00, 
+12:00:00, 12:30:00, 13:00:00-13:15:00, 13:45:00-14:30:00, 15:15:00, 15:45:00, 16:15:00, 
+16:45:00, 18:15:00-18:30:00, 19:00:00, 19:30:00-19:45:00, 20:45:00-21:15:00, 22:00:00-
+22:15:00, 22:45:00-23:15:00) 05/31/96 (00:30:00, 01:15:00-01:30:00, 02:15:00, 02:45:00-
+03:00:00, 03:30:00, 04:00:00, 04:45:00, 05:15:00, 06:00:00, 06:45:00, 07:15:00, 07:45:00, 
+08:15:00, 09:00:00-09:45:00, 10:15:00, 10:45:00-12:00:00, 12:30:00-12:45:00, 13:30:00-
+13:45:00, 14:15:00, 14:45:00-15:15:00, 16:15:00, 17:15:00, 18:15:00, 19:45:00-20:00:00, 
+20:45:00-21:00:00, 22:00:00, 22:30:00, 23:00:00, 23:30:00) 
+
+Turbidity values over 1000 NTU  05/22/96 (18:30:00, 19:00:00, 20:15:00, 
+23:00:00) 05/24/96 (08:45:00, 16:00:00) 05/26/96 (10:00:00) 05/27/96 (07:45:00, 
+18:45:00) 05/29/96 (05:15:00, 14:15:00, 17:00:00-17:15:00, 19:45:00) 05/30/96 
+(12:45:00, 17:00:00, 20:15:00,21:30:00-21:45:00, 22:30:00) 05/31/96 (13:15:00, 22:45:00)
+
+An anomalous spike in specific conductivity/salinity occurred on 5/20/96 (09:15:00). Unknown
+what caused spike, therefore, data was retained.  
+
+June 1996:
+WM: Dissolved oxygen data deleted from 06/01/96 (00:00:00) through 06/11/96 (08:15:00) 
+due to probe malfunction 
+
+Turbidity from 06/01/96 (00:00:00) through 06/11/96 (08:15:00) very erratic perhaps 
+due to problems of the wiper parking over the optics during some of the readings 
+negative turbidity values: 06/01/96 (00:15:00-00:30:00, 02:00:00,
+	02:30:00-02:45:00,03:15:00-03:45:00, 04:15:00-04:30:00, 05:00:00-
+	06:00:00,06:30:00,07:45:00, 08:15:00-08:45:00, 09:15:00-09:30:00, 
+	10:00:00-10:30:00, 11:15:00, 11:45:00,12:15:00-12:30:00,13:15:00,13:45:00, 
+	14:30:00-15:45:00,16:45:00,17:15:00, 17:45:00,18:15:00-19:15:00,20:30:00-	
+	21:00:00,21:30:00,22:00:00-22:15:00,23:00:00,23:45:00) 06/02/96 	
+	(00:15:00,00:45:00,01:15:00,02:15:00-02:45:00,03:15:00,03:45:00,04:15:00-
+	05:15:00,05:45:00-06:15:00,06:45:00-07:00:00,07:45:00-		
+	08:00:00, 08:45:00,09:15:00-09:30:00,10:00:00-	
+	10:30:00,11:00:00,11:45:00,12:15:00-12:30:00,13:45:00,14:15:00-	
+	14:30:00,15:00:00,15:30:00-15:45:00,16:15:00-16:30:00,17:15:00,17:45:00-
+	18:30:00,19:00:00,19:30:00,20:30:00-20:45:00,21:15:00,22:00:00-	
+	22:45:00,23:30:00) 06/03/96 (00:00:00,00:45:00-	
+	01:30:00,02:00:00,02:30:00,03:00:00-04:00:00, 05:00:00, 05:30:00, 06:30:00, 	
+	07:00:00-07:15:00,08:00:00,08:30:00-08:45:00,09:15:00-09:30:00,  10:15:00, 
+	10:45:00, 11:15:00, 11:45:00, 12:45:00-13:00:00, 13:30:00, 14:00:00, 14:30:00-	
+	14:45:00, 15:30:00, 16:00:00-16:15:00, 16:45:00-17:15:00, 18:00:00,18:30:00-	
+	18:45:00, 19:15:00-19:30:00, 20:15:00,20:45:00, 21:15:00, 21:45:00-22:30:00, 	
+	23:15:00-23:45:00) 06/04/96 (00:00:00, 00:30:00,01:15:00, 02:00:00, 02:30:00-	
+	03:15:00, 03:45:00-04:15:00, 05:00:00, 05:30:00, 06:00:00-06:15:00, 07:15:00-	
+	07;30:00, 08:00:00, 08:30:00, 09:00:00, 09:45:00-10:15:00, 11:00:00-11:15:00, 	
+	12:15:00, 13:00:00-13:30:00, 14:15:00, 14:45:00-16:00:00, 17:00:00, 17:45:00-	
+	18:45:00, 19:15:00, 19:45:00-20:00:00, 20:30:00-21:00:00, 21:30:00, 22:00:00, 22:30:00-	
+	22:45:00, 23:45:00) 06/05/96 (00:00:00, 00:45:00-01:45:00, 02:15:00-04:00:00, 	
+	04:30:00, 05:00:00-05:30:00, 06:15:00-06:30:00, 07:30:00-07:45:00, 08:45:00-	
+	09:00:00, 09:30:00-10:00:00, 10:30:00, 11:15:00, 12:15:00, 12:45:00, 13:15:00-	
+	13:30:00, 14:00:00-14:30:00, 15:00:00, 15:45:00-16:00:00, 16:45:00, 17:15:00-	
+	17:30:00, 18:00:00-18:15:00, 18:45:00-19:00:00, 19:45:00-20:15:00, 20:45:00, 	
+	21:15:00-21:30:00, 22:15:00, 23:30:00) 06/06/96 (00:15:00-00:30:00, 01:00:00, 	
+	01:45:00-02:00:00, 02:30:00-03:15:00, 03:45:00-04:30:00, 05:00:00, 07:30:00, 	
+	08:00:00, 08:30:00-09:15:00, 09:45:00, 10:30:00-11:30:00, 12:30:00-13:15:00, 	
+	13:45, 14:15:00-15:30:00, 16:00:00-16:15:00, 16:45:00-17:00:00, 17:45:00-18:00:00, 	
+	18:30:00, 19:00:00-19:15:00, 19:45:00, 20:30:00, 21:15:00-21:30:00, 22:00:00, 	
+	22:45:00-23:15:00) 06/07/96 (00:00:00-00:30:00, 01:00:00-01:15:00, 01:45:00-	
+	02:00:00, 02:30:00-03:00:00, 05:00:00-05:15:00, 05:45:00, 06:30:00-06:45:00, 	
+	09:15:00-09:30:00, 10:00:00-11:00:00, 11:30:00-12:15:00, 12:45:00, 15:00:00-	
+	15:45:00, 16:15:00-16:45:00, 17:15:00, 17:45:00, 18:45:00, 19:15:00, 20:15:00-	
+	20:30:00, 21:00:00-21:30:00, 22:15:00-22:45:00, 23:45:00) 06/08/96 (00:00:00, 	
+	00:45:00-01:00:00, 02:00:00, 03:00:00, 03:30:00-04:15:00, 05:30:00-05:45:00, 	
+	06:15:00, 06:45:00, 07:15:00, 08:45:00, 09:15:00, 09:45:00-10:00:00,10:30:00-
+	10:45:00, 11:15:00, 12:15:00, 12:45:00, 14:00:00-14:15:00, 15:00:00-15:30:00, 	
+	16:45:00-17:00:00, 17:30:00, 18:00:00, 18:30:00-19:00:00, 19:30:00, 20:00:00, 	
+	20:30:00-20:45:00, 21:15:00-21:30:00, 22:15:00, 22:45:00, 23:15:00, 23:45:00) 	
+	06/09/96 (00:00:00-00:15:00, 01:15:00-01:30:00, 02:00:00, 02:45:00, 03:45:00-	
+	04:00:00, 04:45:00-05:15:00, 07:00:00-07:15:00, 07:45:00-08:00:00, 08:30:00-	
+	08:45:00, 09:15:00-09:30:00, 10:00:00-10:30:00, 11:00:00-11:45:00, 12:15:00-	
+	12:30:00, 13:15:00, 13:45:00, 15:00:00-15:45:00, 16:30:00, 17:00:00-18:00:00, 	
+	18:30:00-19:00:00, 19:30:00, 20:00:00-20:15:00, 21:15:00-21:30:00, 22:30:00, 	
+	23:15:00, 23:45:00) 06/10/96 (00:00:00-00:30:00, 01:00:00, 01:30:00-01:45:00, 	
+	03:00:00, 03:30:00-03:45:00, 04:15:00-04:30:00, 05:00:00-05:15:00, 05:45:00-	
+	06:00:00, 06:45:00, 07:15:00-07:45:00, 08:30:00, 09:00:00, 09:45:00-10:00:00, 	
+	10:30:00-11:00:00, 11:30:00, 12:00:00, 12:30:00,13:15:00, 14:00:00-15:00:00, 	
+	15:45:00, 16:15:00, 16:45:00-17:00:00, 17:30:00, 18:45:00-19:00:00, 20:45:00-	
+	21:00:00, 21:45:00-22:00:00, 22:45:00, 23:15:00-23:30:00) 06/11/96 (00:00:00, 	
+	01:00:00, 01:30, 02:15:00, 02:45:00, 03:45:00-04:15:00, 04:45:00-05:00:00, 05:30, 
+06:15:00, 06:45:00, 07:15:00-07:45:00, 08:15:00) ; 06/27/96 (12:45, 17:45)
+
+Turbidity values over 1000 NTU 06/02/96 (01:30:00, 10:45:00, 13:15:00, 17:00:00) 
+06/03/96 (06:15:00, 11:00:00, 16:30:00) 06/04/96 (05:45:00) 
+06/05/96 (11:45:00,13:45:00, 17:45:00) 06/06/96 (00:00:00, 07:15:00, 22:15:00) 
+06/07/96 (03:15:00) 06/08/96 (01:15:00, 02:45:00, 11:45:00) 06/09/96 
+(05:45:00) 06/10/96 (09:15:00, 20:15:00) 06/27/96 (01:15:00-01:30:00) 
+06/28/96 (13:00:00) 06/29/96 (05:00:00, 11:30:00)
+
+Dissolved oxygen gradually declined from 06/15/96 through 06/24/96 (10:30:00) 
+due to colonization of oxygen probe by periphyton
+
+PH gradually declined from 06/15/96 through 06/24/96 (10:30:00) due to colonization 
+of oxygen probe by periphyton
+
+Turbidity deleted 06/13/96 (23:15:00), 06/20/96 (02:00:00, 04:30:00, 06:45:00,
+ 17:45:00-18:00:00, 19:00:00, 21:15:00), 06/21/96 (17:00:00. 21:45:00), 06/22/96
+ (10:00:00, 19:15:00), 06/29/96 (19:30:00-20:30:00)- probe malfunction (all values were negative)
+	
+Depth values were deleted from 06/25/96 (10:45:00) through 06/29/96 (20:30:00); depth was 
+questionable averaging 0.2 when it should be 0.9.  
+
+SU: Turbidity deleted 06/07/96 (08:00:00) because high value was due to 
+data logger recovery activities
+
+Negative turbidity values 06/19/96 (22:30:00 to 22:45:00), 06/19/96 (23:15:00) to 
+06/20/96 (08:30:00), 06/20/96 (09:30:00), and 06/24 (17:30) and turbidity values over 1000 
+06/19/96 (23:00:00), 06/20/96 (08:45:00-09:00:00), and 06/24/96 (17:45:00- 18:45:00) 
+are legitimate values as turbidity at this time was over 1000 NTU
+
+July 1996:
+WM: Dissolved oxygen gradually declined from 07/25/96 to 07/29/96 (08:30:00) due to 
+colonization of oxygen probe by periphyton
+
+Negative turbidity values 07/28/96 at 10:45:00 and at 15:15:00 probably due to biological activity
+
+SU:Dissolved oxygen data deleted 07/31/96 (08:30:00) through 07/31/96 (12:30:00)- probe malfunction
+
+August 1996:
+WM: Dissolved oxygen gradually declined from 08/01/96 to 08/03/96 (23:45:00) due to colonization 
+of oxygen probe by periphyton
+Dissolved oxygen declined from 08/28/96 through 09/02/96 (09:15:00) due to colonization of 
+oxygen probe by periphyton
+Negative turbidity values on 08/19/96 (07:15:00), 08/28/96 (04:30:00), and 08/31/96 (18:45:00) 
+probably due to biological activity
+
+SU: Dissolved oxygen data deleted 08/05/96 (11:00:00) probe malfunction
+Dissolved oxygen data deleted from 08/06/96 (07:15:00) through 08/14/96 (14:30:00) probe malfunction	
+Dissolved oxygen questionable from 08/14/96 (14:45:00) to 08/26/96 (08:45:00)
+pH from period 08/26/96 (09:15:00) to 08/31/96 (23:45:00) due to a cracked bulb on the probe.
+Dissolved oxygen data deleted from 08/27/96 (19:30:00) through 08/31/96 (23:45:00) probe malfunction
+Negative turbidity levels on 08/03/96 (22:15:00), 08/09/96 (15:30:00), 08/11/96 (07:30:00), 
+08/14/96 (04:15:00), 08/25/96 (01:00:00) and 08/26/96 (04:45:00) probably due to biological activity.
+
+September 1996
+WM: Negative turbidity values on 09/01/96 (15:00:00-15:15:00), 09/04/96 (07:45:00),
+ 09/05/96 (09:45:00), and 09/15/96 (20:45:00) probably due to biological activity
+Dissolved oxygen data deleted from 09/02/96 (09:30:00) through 09/06/96 (07:30:00) probe malfunction 
+
+SU:  Dissolved oxygen deleted from 09/01/96 (00:00:00) through 09/09/96 (08:30:00) probe malfunction
+pH from period 09/01/96 (00:00:00) to 09/09/96 (08:30:00) due to a cracked bulb on the probe
+Dissolved oxygen deleted from 09/09/96 (11:00:00) through 09/16/96 (05:30:00) probe malfunction
+Negative turbidity values on 09/11/96 03:00-04:00,05:15,06:30-12:30; 09/12/96 16:45, 17:15-18:00; 
+and 09/14/96 05:15 are legitimate values as turbidity at this time was often over 1000 NTU
+Turbidity data deleted from 09/20/96 (09:45:00) through 09/30/96 (23:45:00) probe malfunction
+
+October 1996
+WM: Negative turbidity values on 10/03/96 (14:45:00-15:00:00) probably due to biological activity
+Dissolved oxygen data deleted from 10/07/96 (13:00:00) through 10/21/96 (09:30:00) probe malfunction
+Negative turbidity on 10/29/96 17:45
+
+SU: Turbidity data deleted from 10/01/96 (00:00:00) through 10/07/96 (09:15:00) probe malfunction
+
+11. Missing data:
+
+April 1996:
+WM: Sampling began  on 25 April, 1996 at 09:15:00
+Turbidity on 04/25/96  (09:15:00)-data deleted due to sediment resuspension caused when 
+installing data logger
+
+SU: Sampling began on 25 April, 1996 at 15:30:00
+
+May 1996:
+WM: Turbidity 05/08/96 (08:15:00) through 05/20/96 (08:45:00)- probe malfunction
+
+Oxygen levels from 05/24/96 (13:45:00) to 05/31/96 (23:45:00) deleted because of oxygen probe failure
+
+SU: Salinity 05/07/96 (08:45:00) through 05/10/96 (23:45:00)-parameter not measured
+Turbidity 05/10/96 (17:30:00-23:45:00) parameter not measured
+All parameters missing 05/11/96 (00:00:00) through 05/21/96 (07:45:00)- power failure
+All parameters missing 05/27/96 (11:45:00) through 05/30/96 (08:45:00)- power failure
+Salinity missing 05/30/96 (09:00:00) through 05/31/96 (23:45:00)-parameter not measured
+
+June 1996:
+WM: Dissolved oxygen from 06/01/96 (00:00:00) through 06/11/96 (08:15:00)- probe malfunction
+All parameters 06/11/96 (08:30:00)- service
+Turbidity deleted 06/13/96 (23:15:00), 06/20/96 (02:00:00, 04:30:00, 06:45:00, 17:45:00-18:00:00, 
+19:00:00, 21:15:00), 06/21/96 (17:00:00, 21:45:00), 06/22/96 (10:00:00, 19:15:00), 
+06/29/96 (19:30:00-20:30:00)- probe malfunction (all values were negative)
+All parameters from 06/29/96 (20:45:00) through 06/30/96 (23:45:00)- power failure
+Depth values were deleted from 06/25/96 (10:45:00) through 06/29/96 (20:30:00); depth was 
+questionable averaging 0.2 when it should be 0.9.  
+
+SU: Turbidity deleted 06/07/96 (08:00:00) because high value was due to data logger recovery activities
+All parameters from 06/07/96 (08:15:00) through 06/13/96 (08:30:00)- power failure
+All parameters 06/25/96 (10:00:00)- service
+
+July 1996:
+WM: All parameters from 07/01/96 (00:00:00) through 07/21/96 (09:45:00)- power failure
+All parameters 07/29/96 (08:45:00)- service
+SU: All parameters from 07/10/96 (01:30:00) through 07/21/96 (11:15:00)- power failure
+ Dissolved oxygen 07/31/96 (08:30:00) through 07/31/96 (12:30:00)- probe malfunction
+
+August 1996:
+WM: All parameters 08/04/96 (00:00:00) through 08/14/96 (09:15:00)- power failure
+
+SU: Dissolved oxygen 08/05/96 (11:00:00)- probe malfunction
+Dissolved oxygen 08/06/96 (07:15:00) through 08/14/96 (14:30:00)- probe malfunction
+All parameters 08/26/96 (09:00:00)- service
+Dissolved oxygen 08/27/96 (19:30:00) through 09/09/96 (08:30:00)- probe	malfunction
+
+September 1996:
+WM: Dissoved oxygen 09/02/96 (09:30:00) through 09/06/96 (07:30:00)- probe malfunction
+All parameters 09/06/96 (07:45:00) through 09/06/96 (11:00:00)- service
+All parameters 09/20/96 (09:15:00) through 09/20/96 (13:30:00)- service
+
+SU: Dissolved oxygen deleted from 09/01/96 (00:00:00) through 09/09/96 (08:30:00) probe malfunction
+All parameters 09/09/96 (08:45:00) through 09/09/96 (10:45:00)-service
+Dissolved oxygen 09/09/96 (11:00:00) through 09/16/95 (05:30:00)-probe malfunction
+All parameters  09/16/96 (05:45:00) through 09/20/96 (09:30:00)- power failure
+Turbidity 09/20/96 (09:45:00) through  10/07/96 (09:15:00)- probe malfunction 
+
+October 1996:
+WM: All parameters 10/07/96 (10:00:00) through 10/07/96 (12:45:00)- service.
+Dissolved oxygen 10/07/96 (13:00:00) through 10/21/96 (09:30:00)-probe malfunction.
+All parameters 10/21/96 (09:45:00) through 10/21/96 (13:45:00)- service
+
+SU: Turbidity data deleted from 10/01/96 (00:00:00) through 10/07/96 (09:15:00) probe malfunction.
+All parameters 10/20/96 (09:00:00) through 10/21/96 (09:00:00)-service
+

@@ -1,0 +1,2499 @@
+Narragansett Bay (NAR) NERR Water Quality Metadata
+January-December 2003 
+Latest update: January 24, 2022
+
+I.	Data Set & Research Descriptors
+1.	Principal investigator & contact persons:
+
+Address: Narragansett Bay NERR
+55 South Reserve Drive
+Prudence Island, RI 02872
+401-683-6780
+
+Contact Persons:
+	Dr. Kenneth Raposa, Research Coordinator
+	E-mail: kenny@gso.uri.edu; 	(401) 683-6780 (ext. 3)
+	Robin Weber, Reserve Technician
+	E-mail: rweber@gso.uri.edu; 	(401) 683-6780 (ext. 4)
+	Matt Rehor, Reserve Technician		
+	E-mail: mrehor@gso.uri.edu	(401) 683-6780 (ext. 7)
+ 
+2.	Entry verification:
+Data are downloaded from the YSI Model 6600 sondes to comma-delimited files 
+(*.csv) and PC6000 files (*.dat) to a PC located at the reserve laboratory. 
+Graphs are produced from the .dat files using the Eco-Watch application supplied 
+by YSI and examined for obvious sensor failure, using the suggested data 
+analysis protocol provided to the NERRS by YSI. A post-deployment check is run 
+on the sondes to determine if there is significant sensor drift (>10%) due to 
+biofouling. Fouling of sensors is detected by 1) visual inspection of the 
+instrument, 2) post-deployment measurements taken using calibration standards, 
+and 3) by comparing final measurements of a given deployment with initial 
+measurements of the succeeding deployment.
+
+Sea-truthing was conducted by measuring water quality with an additional 
+datalogger taking real-time measurements at the time of deployment.  The data 
+were recorded using a hand-held YSI 556-MPS datalogger. Values for temperature, 
+salinity, DO mg/L, pH, and time were recorded real-time at 0.5 meter intervals 
+between the surface and bottom at each deployment site.  Depth measurements were 
+estimated using a weighted, nylon braid line marked at 0.5 meter intervals.  The 
+preparation and post-deployment procedures for the data logger used in sea-
+truthing follows the same general procedure as that for data loggers used in 
+deployments, and is the responsibility of the reserve technicians.
+
+The comma-delimited files are imported into Excel 2002 and a printed version is 
+produced to aid in the QA/QC process. The file is processed using macros 
+supplied by the CDMO which are designed to: 1) check data files for missing data 
+points, 2) fill all cells that do not contain data with periods (.) (upon data 
+review by the CDMO, periods were later removed for data dissemination purposes and 
+left blank); 3) convert the data columns to the CDMO-approved formats for time, 
+date and numeric variables; 4) find all data that are out of acceptable range 
+for the sensors and write the anomalous data to an output file (*.dat); and 
+5) save the files as Excel worksheets (*.xls).  The anomalous data are evaluated 
+to determine whether to flag or delete the suspect data.  Data are flagged 
+if the values are: 1) outside the range expected for the site (see Section 5, 
+Site Location and Character), 2) outside the range of measurements and accuracy 
+established for the sensors (Part II, Section 8: Variable Sequence, Range of Measurements, 
+Units, Resolution, and Accuracy section), or 3) outside the range established 
+for good water quality conditions (i.e., dissolved oxygen <4 mg/L).  Data are 
+deleted if the anomalies are attributed to: 1) a sensor malfunction, or 2) 
+significant fouling of sensors by marine organisms. After appropriate 
+corrections or deletions are made to the Excel worksheet (*.xls), the files are 
+exported as tab-delimited files  (*.txt).  Robin Weber was responsible for these 
+tasks.
+
+3.	Research Objectives:
+YSI 6600 dataloggers are being deployed off Prudence Island in Narragansett Bay 
+as part of the National Estuarine Research Reserve's (NERR) System Wide Water 
+Quality Monitoring Program (SWMP). The goal is to develop long-term data sets 
+for representative estuarine systems in order to track changes in water quality 
+over time. Because Prudence Island is located in the geographic center of 
+Narragansett Bay, it is an ideal location for monitoring the status and trends 
+in water quality in the Bay over time. One NERR water quality monitoring station 
+has been established at Potter's Cove, on the island's northeastern shore.  This 
+area is impacted by boat traffic and storm runoff from mainland urban and 
+residential areas. The second NERR water quality monitoring station, T-Wharf, is 
+situated on the southeastern shore of the island, facing the open waters of 
+Rhode Island Sound. It is approximately 6 miles south of the Potter's Cove site. 
+Boat traffic is sparse at this site and storm runoff is less likely to have a 
+significant impact on water quality. A third monitoring site was added in March 
+2002.  This monitoring site is located in Nag Creek, a salt marsh tidal creek 
+which flows into the West Passage of Narragansett Bay.  The addition of this 
+site completes our representation of dominant habitat types occurring in 
+Narragansett Bay (i.e. marsh, cove, and open water).  In July of 2002, the T-
+Wharf monitoring station was replaced with two new monitoring sites located a 
+short distance from the original T-Wharf location.  The new stations are 
+situated on either side of a wharf support piling.  One datalogger records water 
+quality near the surface while the second records water quality parameters 
+approximately 0.5 meters off the bottom.  This allows for the identification of 
+both the frequency and duration of any stratification which may occur in the 
+open waters of Narragansett Bay.  The Narragansett Bay water quality monitoring 
+program began in December 1995 at Potter's Cove, September 1996 at T-Wharf, and 
+March 2002 at Nag Creek. (see Section 5, Site Location and Character section for 
+description of sites).  YSI electronic data loggers were deployed to measure the 
+water temperature, specific conductance, dissolved oxygen, pH, depth, and 
+turbidity conditions at 30-minute intervals. With the exception of the T-Wharf 
+Surface site, all dataloggers are deployed approximately 0.5 meters off the 
+bottom.  
+
+4.	Research Methods
+One data logger is deployed at each permanent monitoring station in Narragansett 
+Bay. The instruments are deployed for two to four weeks at a time, depending on 
+the season, and measurements are taken every 30 minutes. The monitoring station 
+at Potter's Cove was constructed in 1995, and it consists of a PVC pipe mounted 
+vertically on a piling located approximately 6 feet west of a floating dock.  To 
+facilitate water flow across the sensors, openings are cut into the PVC pipes.  
+The pipes are also positioned to ensure that the sensors are less than 1 meter 
+from the bottom.  In 1996, the T-Wharf station was put into service: the PVC 
+pipe is mounted on a piling attached to a pier. The two replacement T-Wharf 
+sites (surface and bottom) are also deployed in PVC pipes mounted to a piling.  
+The datalogger at the T-Wharf surface station is maintained just below the 
+surface by means of a buoy attached by rope to the adjacent wharf.  At this time 
+a maintenance schedule was adopted whereby the pipes are cleaned monthly with a 
+chimney brush during the summer to reduce the impact of biofouling on the data.  
+The Nag Creek datalogger was originally deployed in a metal cage which was 
+tethered to the bank.  A permanent deployment structure was installed 12/31/02 
+and consists of a 4 by 4 pressure-treated post with a hinged 2 by 4 horizontal 
+arm.  At the end of the sampling period, the data loggers are retrieved and 
+freshly cleaned and calibrated instruments are deployed. The retrieved data 
+loggers are brought back to the laboratory, post deployment evaluations of the 
+instrument are carried out, and the device is cleaned, calibrated, and 
+serviced by methods outlined in the YSI Operating and Service Manual. After 
+cleaning the data loggers, the pH, salinity, depth, and turbidity sensors are 
+calibrated, using the following standards: pH 7 and 10, salinity standard of 
+30.36 ppt or specific conductivity standard of 50.00 mS/cm, depth in the air, 
+and turbidity standards of 0 and 100 NTU, respectively.  The dissolved oxygen 
+(DO) membrane is replaced and allowed to stretch for a minimum of 12 hours 
+before the DO sensor is calibrated in water-saturated air. The sonde is 
+programmed to begin taking measurements approximately 12 hours in advance of 
+planned deployment, allowing the DO membrane to stabilize. The file is checked 
+for DO sensor drift before the DO probe is calibrated. Calibration of the 
+dissolved oxygen sensor is usually done within 2 hours of deployment.
+
+5.	Site Location and Character:
+The NBNERR consists of 4376 acres of diverse estuarine and terrestrial habitats 
+ranging from deep water to salt marshes to forested uplands.  The land holdings 
+include 60% of Prudence Island, most of nearby Patience Island, and all of Hope 
+and Dyer Islands.  The Reserve is located close to the geographic center of 
+Narragansett Bay in Rhode Island. The bay has a drainage basin of 1,800 square 
+miles.
+	Tidal range:  -0.2 to 1.7 meters MLW
+	Salinity:  15 to 32 ppt
+	Temperature:  -1.0 to 26 C
+	Province:  North temperate, Virginian bioregion
+	Lat. 41°38'30" Long. 71°20'30"
+
+Specific characteristics of the Potters Cove site are:
+	Depth:  .9 to 3.9 meters
+	Bottom habitat: Sand, silt, some organic mud
+	Pollutants:  Boaters' wastes, storm runoff from mainland urban areas
+	Watershed:  Narragansett Bay, North Prudence (4801 square km) 
+	Location:  41°38.435 N, 71°20.467 W
+
+Specific characteristics of the Nag Creek site are:
+	Depth:  0.1 to 1.4 meters
+	Bottom habitat: Organic mud
+	Pollutants:  negligible
+	Watershed:  Narragansett Bay, West Passage
+	Location:  41°37.486 N, 71°19.465 W 
+
+Specific characteristics of the T-Wharf Surface site are:
+	Depth:  0.2 to 0.9 meters
+	Bottom habitat: Sand, silt, some organic mud
+	Pollutants:  negligible
+	Watershed:  Narragansett Bay, South Prudence
+	Location:  41°34.731 N, 71°19.287 W 
+
+Specific characteristics of the T-Wharf Bottom site are:
+	Depth:  4.6 to 6.9 meters
+	Bottom habitat: Sand, silt, some organic mud
+	Pollutants:  negligible
+	Watershed:  Narragansett Bay, South Prudence
+	Location:  41°34.731 N, 71°19.287 W 
+
+
+6.	Data collection period: Ongoing since 1995. 
+Deployments for the year 2003 are:
+Potter's Cove
+Sonde S/N		Start			End
+00E0937AD		12/24/02	11:30:00		01/08/03	10:30:00
+01E0566AD		01/08/03	11:30:00		01/22/03	09:30:00
+00E0937AB		01/22/03	10:00:00		02/05/03	09:30:00
+00E0937AD		02/05/03	10:30:00		02/19/03	09:30:00
+01E0566AD		02/19/03	10:00:00		03/04/03	08:00:00
+02A0229AC		03/04/03	08:30:00		03/19/03	09:30:00
+02K0977AA		03/19/03	09:59:40		04/02/03	08:59:40
+01E0876AB		04/02/03	09:29:40		04/16/03	09:59:40
+00E0937AD		04/16/03	10:30:00		05/14/03	09:00:00
+01E0876AB		05/14/03	09:29:40		05/28/03	07:29:40
+00E0937AB		05/28/03	08:00:00		06/10/03	09:00:00
+01E0566AA		06/10/03	09:30:00		06/24/03	09:00:00
+01E0876AB		06/24/03	09:29:47		07/08/03	07:29:48
+02K0977AA		07/08/03	08:00:00		07/23/03	09:00:00
+00E0937AB		07/23/03	09:31:00		08/05/03	08:01:00
+01E0876AB		08/05/03	08:29:47		08/20/03	09:29:48
+02A0229AA		08/20/03	10:00:00		09/04/03	08:00:00
+00E0937AD		09/04/03	08:30:00		09/17/03	08:30:00
+01E0566AA		09/17/03	09:00:00		10/01/03	08:00:00
+02K0977AA		10/01/03	08:29:47		10/15/03	09:59:47
+00E0937AB		10/15/03	10:30:00		10/28/03	06:30:00
+01E0876AB		10/28/03	07:30:00		11/11/03	13:00:00
+02K0977AA		11/11/03	13:30:00		11/25/03	11:30:00
+00E0937AB		11/25/03	12:00:00		12/09/03	10:00:00
+01E0566AA		12/09/03	11:00:00		12/24/03	11:30:00
+01E0566AD		12/24/03	13:00:00		01/06/04	12:30:00
+
+Nag Creek
+Sonde S/N		Start			End
+02A0229AC		12/23/02	10:30:00		01/08/03	10:00:00
+02A0229AA		01/08/03	13:30:00		01/29/03	12:30:00
+02A0229AA		02/05/03	16:00:00		02/11/03	11:30:00
+01E0876AB		03/12/03	10:29:40		03/26/03	11:29:40
+00E0937AD		03/26/03	12:30:00		04/09/03	08:30:00
+02A0229AA		04/09/03	09:00:00		04/23/03	09:00:00
+01E0566AD		04/23/03	10:00:00		05/07/03	08:30:00
+02K0977AA		05/07/03	08:59:40		05/21/03	08:29:40
+00E0937AD		05/21/03	09:00:00		06/10/03	08:30:00
+02A0229AC		06/10/03	09:00:00		06/24/03	09:00:00
+01E0566AD		06/24/03	10:00:00		07/08/03	08:00:00
+02A0229AA		07/08/03	08:30:00		07/23/03	09:00:00
+00E0937AD		07/23/03	09:30:00		08/05/03	08:00:00
+01E0566AD		08/05/03	08:30:00		08/20/03	09:30:00
+02K0977AA		08/20/03	09:59:45		09/04/03	07:29:46
+00E0937AB		09/04/03	08:00:00		09/17/03	08:00:00
+01E0876AB		09/17/03	08:29:47		10/01/03	07:59:48
+02A0229AA		10/01/03	09:00:00		10/16/03	07:30:00
+00E0937AD		10/16/03	08:00:00		10/28/03	06:30:00
+01E0566AA		10/28/03	07:00:00		11/11/03	13:30:00
+02A0229AA		11/11/03	14:00:00		11/25/03	13:30:00
+00E0937AD		11/25/03	14:00:00		12/09/03	11:30:00
+01E0876AB		12/09/03	12:00:00		12/24/03	11:30:00
+02K0977AA		12/24/03	12:30:00		01/06/04	12:00:00
+
+T-Wharf Surface
+Sonde S/N		Start			End
+02K0977AA		12/31/02	10:00:47		01/16/03	10:30:48
+02A0229AC		01/16/03	11:00:00		01/28/03	07:30:00
+02K0977AA		01/28/03	09:59:47		02/12/03	08:59:48
+00E0937AB		02/12/03	09:30:00		02/26/03	09:00:00
+02K0977AA		02/26/03	09:29:48		03/12/03	11:29:48
+00E0937AB		03/12/03	12:00:00		03/26/03	11:00:00
+01E0566AA		03/26/03	11:30:00		04/09/03	08:00:00
+02K0977AA		04/09/03	08:29:52		04/23/03	07:59:51
+01E0876AB		04/23/03	08:29:46		05/08/03	10:59:47
+00E0937AB		05/08/03	11:30:00		05/21/03	07:30:00
+01E0566AA		05/21/03	08:30:00		06/04/03	08:30:00
+01E0566AD		06/04/03	09:00:00		06/18/03	08:30:00
+02A0229AA		06/18/03	09:00:00		07/01/03	08:30:00
+00E0937AD		07/01/03	09:00:00		07/15/03	08:00:00
+01E0566AD		07/15/03	08:31:00		07/29/03	06:31:00
+02K0977AA		07/29/03	06:59:46		08/12/03	06:59:46
+00E0937AB		08/12/03	07:30:00		08/26/03	08:00:00
+01E0876AB		08/26/03	08:29:47		09/10/03	07:59:48
+02A0229AA		09/10/03	08:30:00		09/24/03	08:00:00
+00E0937AD		09/24/03	08:31:00		10/07/03	09:01:00
+01E0876AB		10/07/03	09:30:00		10/21/03	07:30:00
+02K0977AA		10/21/03	07:59:46		11/05/03	11:59:47
+00E0937AD		11/05/03	12:30:00		11/18/03	07:30:00
+01E0876AB		11/18/03	08:00:00		12/02/03	07:00:00
+02K0977AA		12/02/03	10:30:00		12/16/03	08:30:00
+00E0937AB		12/16/03	09:00:00		12/30/03	09:00:00
+01E0876AB		12/30/03	09:31:00		01/13/04	09:01:00
+
+T-Wharf Bottom
+Sonde S/N		Start			End
+00E0937AB		12/31/02	10:00:00		01/16/03	10:30:00
+00E0937AD		01/16/03	11:00:00		01/28/03	09:30:00
+01E0566AD		01/28/03	10:30:00		02/12/03	09:30:00
+02A0229AC		02/12/03	10:00:00		02/26/03	09:00:00
+02A0229AA		02/26/03	09:30:00		03/12/03	11:30:00
+01E0566AD		03/12/03	12:30:00		03/26/03	11:00:00
+02A0229AC		03/26/03	11:30:00		04/09/03	07:30:00
+00E0937AB		04/08/03	08:00:00		04/23/03	08:00:00
+98H0211AB		04/23/03	08:59:00		05/08/03	10:59:00
+02A0229AA		05/08/03	11:30:00		05/21/03	08:00:00
+02A0229AC		05/21/03	08:00:00		06/04/03	08:00:00
+01E0876AB		06/04/03	08:59:40		06/18/03	07:59:40
+02K0977AA		06/18/03	08:29:40		07/01/03	08:29:40
+00E0937AB		07/01/03	09:00:00		07/15/03	08:00:00
+01E0876AB		07/15/03	08:29:47		07/29/03	06:29:48
+02A0229AA		07/29/03	07:00:00		08/12/03	07:30:00
+00E0937AD		08/12/03	08:00:00		08/26/03	08:00:00
+01E0566AD		08/26/03	08:30:00		09/10/03	08:00:00
+02K0977AA		09/10/03	08:29:46		09/24/03	07:59:47
+00E0937AB		09/24/03	08:30:00		10/07/03	08:30:00
+01E0566AA		10/07/03	09:30:00		10/21/03	07:30:00
+02A0229AA		10/21/03	08:30:00		11/05/03	12:00:00
+00E0937AB		11/05/03	12:30:00		11/18/03	07:30:00
+01E0566AA		11/18/03	08:00:00		12/02/03	09:30:00
+02A0229AA		12/02/03	10:30:00		12/16/03	08:30:00
+00E0937AD		12/16/03	09:00:00		12/30/03	09:00:00
+01E0566AA		12/30/03	09:30:00		01/13/04	09:00:00
+
+7. 	Distribution
+According to the Ocean and Coastal Resource Management Data Dissemination Policy 
+for the NERRS System-wide Monitoring Program, NOAA/ERD retains the right 
+to analyze, synthesize and publish summaries of the NERRS System-wide Monitoring 
+Program data.  The Principal Investigator retains the right to be fully credited 
+for having collected and processed the data.  Following academic courtesy 
+standards, the PI and NERR site where the data were collected will be contacted 
+and fully acknowledged in any subsequent publications in which any part of the 
+data are used.  Manuscripts resulting from the NOAA/OCRM supported research that 
+are produced for publication in open literature, including refereed scientific 
+journals will acknowledge that the research was conducted under an award from 
+the Estuarine Reserves Division, Office of Ocean and Coastal Resource 
+Management, National Ocean Service, National Oceanic and Atmospheric 
+Administration.  The data set enclosed within this package/transmission is only 
+as good as the quality assurance and quality control procedures outlined by the 
+enclosed metadata reporting statement.  The user bears all responsibility for 
+its subsequent use/misuse in any further analyses or comparisons.  The Federal 
+government does not assume liability to the Recipient of third persons, nor will 
+the Federal government reimburse or indemnify the Recipient for its liability 
+due to any losses resulting in any way from the use of this data.
+
+NERR water quality data and metadata can be obtained from the Research 
+Coordinator at the individual NERR site (please see Section 1. Principal 
+investigators and contact persons), from the Data Manager at the Centralized 
+Data Management Office (please see personnel directory under general information 
+link on CDMO homepage) and online at the CDMO homepage 
+http://cdmo.baruch.sc.edu.  Data are available in text tab-delimited format, 
+Microsoft Excel spreadsheet format and comma-delimited format.
+
+8.	Associated researchers and projects:
+Dissolved Oxygen Survey - Under the direction of Dr. Christopher Deacutis, with 
+volunteers from the R.I. Dept. of Environmental Management, Roger Williams 
+University, the University of Rhode Island, Brown University, the Environmental 
+Protection Agency offices in Narragansett, RI and Lexington, MA, the 
+Massachusetts Coastal Zoning Management Agency, U.S. Fish and Wildlife Service, 
+the Narragansett Bay Commission, Save the Bay, Yellow Springs Instruments, and 
+NBNERR staff. The goal of the survey is to take discrete samples within the 
+water column (surface, bottom, and every 1.5 meters of depth) at more than 75 
+stations in the Narragansett Bay. These surveys are performed overnight during 
+neap tide. The project began in 1999, and takes place at least twice during the 
+summer. The data will be used to map dissolved oxygen levels bay-wide and help 
+to identify sites at risk for hypoxic and anoxic events. Inquiries should be 
+directed to Dr. Deacutis at the RIDEM, Dept. of Water Resources, 235 Promenade 
+St., Providence RI 02908, tel. (401) 222-4700 x7270.
+
+II. Physical Structure Descriptors
+9. 	Variable sequence, range of measurements, units, resolution, and accuracy:
+
+YSI 6000/6600 datalogger
+
+Variable      Range of Measurements          Resolution           Accuracy
+Date          1-12, 1-31, 00-99 (Mo,Day,Yr)  1 mo, 1 day, 1 yr    NA
+Time          0-24, 0-60, 0-60 (Hr,Min,Sec)  1 hr, 1 min, 1 s     NA
+Temp               -5 to 45 (c)              0.01  C              +/-0.15C
+Sp COND            0-100(mS/cm)              0.01mS/cm            +/-0.5% Of 
+reading + 0.001mS/Cm
+Salinity      0-70 Parts per thousand (ppt)  0.01 ppt             +/- 1% of 
+Reading or 0.1 ppt, (whichever is greater)
+DO            0-200 (% air saturation)       0.1% @air sat        +/-2% @air 
+Saturation
+DO            200-500 (% air saturation      0.1% @ air sat       +/- 6% @ 
+Saturation
+DO                 0-20 (mg/l)               0.01 mg/l            +/- 0.2mg/l
+DO                 20-50 (mg/l)              0.01 mg/l            +/- 0.6mg/l
+Depth (shallow)    0-9.1 (m)                 0.001m               +/- 0.018m
+PH                 2-14 units                0.01 units           +/- 0.2units
+Turb               0-1000 NTU                0.1 NTU              +/- 5% of 
+Reading or 2 NTU (whichever is greater)
+
+Data columns are separated by tabs.  Each file contains a two line column 
+header at the top of the page which identifies measurements and units for each 
+column.
+The data loggers have the capability to record turbidity readings greater than 
+1000 NTU.
+
+10.	Coded variable indicator and variable code definitions:
+	PC= Potter's Cove		NC=Nag Creek 		TS=T-Wharf Surface	
+	TB=T-Wharf Bottom
+
+EQWin station codes: narpcwq, narncwq, nartswq, nartbwq	
+
+11.	Data anomalies:	
+
+
+January 1 - 31, Sampling period
+PC
+Turbidity reported several negative and/or zero values during the month.  (Refer 
+to notes in Section 14 regarding turbidity measurements).
+
+Data for dissolved oxygen parameters were removed for the 1/08/03 deployment.  
+The DO charge was out of range for the whole deployment which suggests probe 
+failure.
+
+Supersaturation measurements for dissolved oxygen (> 120%) were noted for the 
+following dates and times:
+1/27/2003	15:30:00-19:30:00, 20:30:00-23:00:00
+1/28/2003	15:00:00, 17:00:00
+1/31/2003	17:30:00-19:00:00, 20:00:00
+
+Low salinity (< 25 ppt) occurred on the following dates and times:
+Note: This dip in salinity corresponds to a period of high winds, no rain.  The 
+data appear to be valid.
+1/24/2003	9:00:00
+1/24/2003	9:30:00
+1/24/2003	10:00:00
+
+A slight pH anomaly (not significant) occurred at the start of the 1/22/03 
+deployment.  This anomaly is likely due to temperature shock.  
+
+NC
+Data are missing 1/8/03 from 10:30:00 to 13:00:00 during sonde changeover.  
+Modifications to the deployment structure were being made at this time.
+
+Data for all parameters were removed for the entire 1/8/03 deployment.  The 
+sonde had become completely encased in ice and the data were considered invalid.  
+
+Data are missing 1/29/02 at 13:00:00 through the end of the month.  No sonde was 
+deployed at this time because of heavy ice in the tidal creek.
+
+Turbidity reported several negative and/or zero values during the month.  (Refer 
+to notes in Section 14 regarding turbidity measurements).
+
+Supersaturation measurements for dissolved oxygen (> 120%) were noted for the 
+following date and times:
+1/05/2003	16:00:00-17:30:00
+
+Low salinity (< 25 ppt) occurred on the following dates and times:
+1/01/2003	0:00:00-23:30:00
+1/02/2003	0:00:00-23:30:00
+1/03/2003	0:00:00-23:30:00
+1/04/2003	0:00:00-23:30:00
+1/05/2003	0:00:00-23:30:00
+1/06/2003	0:00:00-23:30:00
+1/07/2003	0:00:00-23:30:00
+1/08/2003	0:00:00-10:00:00
+
+TS
+Time stamp for the 12/31/02 and 1/28/03 deployments was off by 00:00:48, 
+corrected to read on the hour and half hour.
+
+Depth was recorded in feet for the 12/31/02 and 1/28/03 deployments, corrected 
+to meters using a 3.2808 conversion factor.
+
+Slight depth anomalies occur throughout the month.  Refer to notes (Section 14).
+
+Turbidity reported several negative and/or zero values during the month.  (Refer 
+to notes in Section 14 regarding turbidity measurements).
+
+TB
+Dissolved oxygen data for the 1/28/03 deployment were removed.  The DO charge 
+was out of range for the entire deployment which suggests that the membrane was 
+compromised.  
+
+Turbidity reported several negative and/or zero values during the month.  (Refer 
+to notes in Section 14 regarding turbidity measurements).
+
+February 1 - 28, Sampling period 
+PC
+Data for dissolved oxygen parameters were removed for the 2/19/03 deployment.  
+The DO charge was out of range for the whole deployment which suggests probe 
+failure.  
+
+Specific conductivity, salinity, and depth data for the 2/19/03 deployment were 
+removed.  During the post deployment calibration check for this deployment the 
+specific 
+conductivity probe was reading 59.27 (in 50 mS/cm solution) and data values for 
+this deployment were consistently high.  This would suggest that the specific 
+conductivity sensor had not been properly calibrated. 
+
+Supersaturation measurements for dissolved oxygen (> 120%) were noted for the 
+following dates and times:
+2/03/2003	12:30:00, 13:00:00, 14:00:00, 16:30:00, 19:00:00-23:30:00
+2/04/2003	0:00:00, 0:30:00, 13:00:00, 13:30:00, 14:30:00-15:30:00, 18:00:00
+2/05/2003	15:00:00-19:00:00
+2/06/2003	12:30:00-19:00:00, 22:00:00-23:30:00
+2/07/2003	0:00:00-3:00:00
+2/08/2003	13:30:00-19:30:00, 20:30:00-22:30:00
+2/09/2003	15:00:00-21:30:00
+2/10/2003	9:30:00-23:30:00
+2/11/2003	0:00:00-4:30:00, 9:30:00-23:30:00
+2/12/2003	0:00:00-13:00:00, 14:00:00, 15:00:00-16:00:00, 17:30:00-19:00:00
+2/13/2003	14:30:00-19:30:00
+2/14/2003	12:30:00-22:00:00
+2/15/2003	13:00:00-19:30:00, 21:30:00
+2/16/2003	11:00:00-23:30:00
+2/17/2003	0:00:00-2:30:00, 3:30:00-6:30:00, 8:00:00, 8:30:00, 12:30:00
+
+NC
+Data are missing from the start of the month through 2/5/03 at 15:30:00.  No 
+sonde was deployed at this time due to heavy ice in the tidal creek.
+
+Data are missing from 2/11/03 at 12:00:00 through the end of the month due to 
+heavy ice in the tidal creek.
+
+Remaining data for the month (approximately 6 days) may not be valid.  Greater 
+turbidity values beginning 2/10/03 at 20:30:00 are a result of ice build-up and 
+may 
+indicate that all data were compromised at this time.
+
+TS
+Time stamp for the 2/25/03 deployment was off by 00:00:12, corrected to read on 
+the hour and half hour.
+
+Depth was recorded in feet for the 1/28/03 and 2/26/03 deployments, corrected to 
+meters using a 3.2808 conversion factor.
+
+Slight depth anomalies occur throughout the month.  Refer to notes (Section 14).
+
+Turbidity reported several negative and/or zero values during the month.  (Refer 
+to notes in Section 14 regarding turbidity measurements).
+
+Supersaturation measurements for dissolved oxygen (> 120%) were noted for the 
+following dates and times:
+2/10/2003	16:00:00, 21:30:00
+2/11/2003	17:00:00-18:30:00
+
+TB
+Dissolved oxygen data from the beginning of the month through 2/12/03 at 9:30:00 
+were removed.  The DO charge was out of range for the entire deployment.
+
+A single anomalous reading for pH occurred at the start of the 2/26/03 
+deployment (at 9:30:00).  This is likely a result of temperature shock. 
+
+There was a slight discontinuity in specific conductivity (and salinity) at the 
+end of 1/28/03 deployment.  This discontinuity is most likely due to sensor 
+drift and the data may require correction.
+
+March 1 - 31, Sampling period
+PC
+Data for dissolved oxygen parameters were removed from the first of the month 
+through 3/4/03 at 8:00:00 due to a probe failure.
+
+Specific conductivity, salinity, and depth data were removed from the first of 
+the month through 3/4/03 at 8:00:00 due to a calibration error.
+
+Time stamp was off by 00:00:20 for the 3/19/03 deployment, corrected to read on 
+the hour and half hour.
+
+Depth was recorded in feet during the 3/19/03 deployment, corrected to meters 
+using a 3.2808 conversion factor.
+
+There was a slight pH anomaly at the start of the 3/19/03 deployment, which is 
+likely due to temperature shock.
+
+Supersaturation measurements for dissolved oxygen (> 120%) were noted for the 
+following dates and times:
+3/04/2003	16:30:00, 17:00:00
+3/05/2003	19:30:00
+3/11/2003	15:30:00, 16:30:00
+3/12/2003	16:00:00, 16:30:00
+3/15/2003	14:00:00
+3/16/2003	13:30:00-23:30:00
+3/17/2003	0:00:00-4:30:00, 6:30:00-8:30:00, 9:30:00-23:30:00
+3/18/2003	0:00:00, 0:30:00, 1:30:00-23:30:00
+3/19/2003	0:00:00-3:00:00, 7:30:00-8:30:00, 10:30:00-23:30:00
+3/20/2003	0:00:00-7:00:00, 8:00:00-23:30:00
+3/21/2003	0:00:00-3:00:00, 4:00:00, 13:30:00-15:30:00, 17:00:00, 17:30:00, 
+18:30:00, 21:00:00-23:30:00
+3/22/2003	13:00:00-22:30:00
+3/23/2003	1:00:00-2:00:00, 4:00:00, 6:00:00, 7:00:00, 7:30:00, 8:30:00-
+23:30:00
+3/24/2003	0:00:00-22:00:00
+3/25/2003	10:30:00-13:00:00, 15:00:00-18:00:00
+3/26/2003	14:00:00, 14:30:00, 15:30:00-21:30:00
+3/27/2003	10:00:00-23:30:00
+3/28/2003	0:00:00-4:00:00, 5:00:00, 5:30:00, 6:30:00, 7:30:00-18:00:00, 
+19:30:00-23:00:00
+3/29/2003	0:30:00, 1:00:00, 3:00:00, 9:30:00, 11:00:00-12:00:00, 13:30:00, 
+14:30:00-20:00:00, 21:30:00-22:30:00
+3/31/2003	14:00:00, 14:30:00
+
+Low salinity (< 25 ppt) occurred on the following dates and times:
+3/06/2003	11:30:00-19:30:00, 20:30:00
+3/19/2003	0:30:00, 1:00:00, 2:00:00-15:00:00, 16:00:00, 17:00:00, 17:30:00
+3/22/2003	7:30:00-9:00:00, 15:30:00-18:30:00
+3/23/2003	15:30:00-20:30:00, 21:30:00-22:30:00
+3/24/2003	5:30:00-6:30:00, 7:30:00-8:30:00, 9:30:00, 10:00:00, 11:00:00, 
+16:00:00, 16:30:00
+3/27/2003	10:30:00-23:30:00
+3/28/2003	0:00:00, 8:30:00, 10:00:00
+
+NC
+data were missing from the beginning of the month through 3/12/03 at 10:00:00.  
+No sonde was deployed during this period due to heavy ice in the tidal creek.
+
+Time stamp for the 3/12/03 deployment was off by 00:00:20, corrected to read on 
+the hour and half hour.
+
+Turbidity reported several negative and/or zero values during the month.  (Refer 
+to notes in Section 14 regarding turbidity measurements).
+
+Supersaturation measurements for dissolved oxygen (> 120%) were noted for the 
+following dates and times:
+3/14/2003	16:00:00-19:30:00
+3/15/2003	16:30:00-19:30:00
+3/16/2003	17:00:00-20:00:00
+3/17/2003	6:00:00, 7:30:00-8:30:00, 13:30:00, 16:00:00, 17:30:00-21:00:00
+3/18/2003	13:00:00-20:00:00
+3/19/2003	9:00:00-18:00:00, 19:30:00, 20:00:00
+3/20/2003	8:30:00-19:00:00, 20:00:00-22:00:00
+3/21/2003	10:30:00-11:30:00, 21:30:00-23:00:00
+3/22/2003	10:00:00-17:30:00, 22:00:00-23:30:00
+3/23/2003	11:00:00-19:30:00
+3/24/2003	9:00:00-10:00:00, 12:00:00-18:00:00, 23:00:00
+3/25/2003	1:00:00, 1:30:00, 13:30:00-17:30:00
+3/26/2003	14:30:00-22:30:00, 23:30:00
+3/27/2003	15:30:00-23:30:00
+3/28/2003	0:30:00, 16:00:00-23:00:00
+3/29/2003	17:00:00
+
+Salinity data are missing throughout the month.  data were missing due to a 
+programming error during the 3/12/03 deployment.  Data for both specific 
+conductivity and salinity were removed for the 3/26/03 deployment, the probe 
+likely had trapped air in the sensor and was not recording valid data.
+
+Depth anomalies occur at the start of the 3/12/03 deployment and are most likely 
+a result of ice in the tidal creek blocking the sensor.  
+
+TS
+Time stamp for the 2/25/03 deployment was off by 00:00:12, corrected to read on 
+the hour and half hour.
+
+Depth was recorded in feet for the 2/26/03 deployment, corrected to meters using 
+a 3.2808 conversion factor.
+
+Slight depth anomalies occur throughout the month.  Refer to notes (Section 14).
+
+Dissolved oxygen data are missing for the entire 3/26/03 deployment (3/26/03 at 
+11:30:00 through the end of the month).  The DO charge was out of range and the 
+data were removed.
+
+Supersaturation measurements for dissolved oxygen (> 120%) were noted for the 
+following dates and times:
+3/18/2003	14:00:00, 14:30:00
+3/24/2003	12:30:00, 13:00:00, 16:30:00
+
+TB
+There was discontinuity in dissolved oxygen data at the start and end of the 
+3/12/03 deployment and all values through the deployment appear to be low.  
+During the post deployment calibration check the DO values were low (79.8 %).  
+The entire 
+deployment may be considered suspect for DO and should be removed or corrected.
+
+April 1 - 30, Sampling period
+PC
+Time stamp was off by 00:00:20 for the 4/02/03 deployment, corrected to read on 
+the hour and half hour.
+
+Turbidity reported several negative and/or zero values during the month.  (Refer 
+to notes in Section 14 regarding turbidity measurements).
+
+Salinity data are missing for the 4/02/03 deployment.   Suspect that this was 
+due to a programming error (salinity was probably de-selected in the report 
+menu).
+
+Supersaturation measurements for dissolved oxygen (> 120%) were noted for the 
+following dates and times:
+4/02/2003	11:30:00-23:30:00
+4/03/2003	0:00:00-1:00:00, 2:30:00, 13:00:00-17:00:00, 18:00:00, 21:00:00, 
+21:30:00
+4/06/2003	14:30:00-19:30:00
+4/07/2003	15:00:00-18:30:00
+4/08/2003	12:30:00-21:30:00
+4/09/2003	15:30:00, 17:00:00
+4/10/2003	10:30:00-23:30:00
+4/11/2003	0:00:00-19:30:00
+4/12/2003	17:30:00, 19:30:00, 20:00:00
+4/13/2003	8:00:00-23:30:00
+4/14/2003	0:00:00-4:00:00, 6:00:00-20:30:00, 21:30:00-23:00:00
+4/15/2003	11:00:00-23:30:00
+4/16/2003	0:00:00-1:30:00, 3:00:00, 3:30:00, 4:30:00, 7:30:00-21:00:00
+4/17/2003	12:30:00-20:00:00
+4/18/2003	12:30:00-20:00:00
+4/19/2003	4:30:00, 8:30:00-23:30:00
+4/20/2003	0:00:00-23:30:00
+4/21/2003	0:00:00-23:30:00
+4/22/2003	0:00:00-19:00:00, 20:00:00
+4/23/2003	13:00:00-23:30:00
+4/24/2003	0:00:00-1:30:00, 5:00:00, 9:00:00-13:30:00, 17:00:00, 17:30:00, 
+18:30:00, 21:00:00-23:00:00
+4/25/2003	8:30:00-16:30:00
+4/28/2003	14:00:00, 15:30:00
+4/30/2003	10:00:00-11:00:00, 12:30:00-15:00:00
+
+Low salinity (< 25 ppt) occurred on the following dates and times:
+4/20/2003	18:30:00
+4/30/2003	8:00:00-11:00:00, 12:30:00, 13:30:00
+
+NC
+There was slight discontinuity between the 4/9/03 and 4/23/03 deployments in 
+salinity, specific continuity, and dissolved oxygen (both % saturation and mg/l) 
+which may be a result of the time lapse between deployments and the high degree 
+of variability in the dataset.
+
+Supersaturation measurements for dissolved oxygen (> 120%) were noted for the 
+following dates and times:
+4/02/2003	11:00:00, 13:30:00-19:30:00
+4/03/2003	10:00:00-13:30:00
+4/08/2003	13:00:00-17:30:00
+4/10/2003	13:00:00-23:30:00
+4/11/2003	0:00:00-1:00:00
+4/13/2003	13:30:00-20:00:00
+4/14/2003	10:00:00, 10:30:00, 12:00:00, 12:30:00, 13:30:00-14:30:00, 16:30:00-
+19:30:00
+4/15/2003	15:00:00, 17:30:00, 18:00:00
+4/16/2003	8:30:00, 13:00:00, 15:30:00-16:30:00, 18:00:00-19:30:00
+4/17/2003	9:00:00-18:30:00
+4/18/2003	9:30:00-21:00:00
+4/19/2003	9:30:00-20:30:00
+4/20/2003	10:00:00-21:30:00
+4/21/2003	11:00:00-17:30:00, 23:00:00, 23:30:00
+4/22/2003	0:00:00-1:30:00, 12:30:00-13:30:00
+4/23/2003	13:30:00-16:30:00
+4/24/2003	14:00:00-19:00:00
+4/25/2003	11:30:00-12:30:00, 15:00:00-20:00:00
+4/27/2003	16:30:00
+4/28/2003	17:00:00
+4/29/2003	13:00:00-14:00:00, 17:30:00
+4/30/2003	13:00:00, 17:30:00, 18:00:00
+
+Low levels of dissolved oxygen (< 4 mg/L, =/> 28%) were recorded on the 
+following dates and times:
+4/26/2003	2:00:00, 2:30:00
+4/28/2003	4:30:00
+
+Salinity data were removed for the 3/26/03 deployment (through 4/9/03 at 
+8:30:00).  The probe was not functioning properly.
+
+Low salinity (< 25 ppt) occurred on the following dates and times:
+Note:  There was a great amount of variability in salinity data throughout the 
+month.  This is likely due to ice and snow-melt and the accompanying run-off 
+from 
+adjacent upland areas.
+4/11/2003	14:00:00-23:30:00
+4/12/2003	0:00:00-2:00:00
+4/14/2003	15:00:00-16:00:00, 21:30:00-23:30:00
+4/15/2003	0:00:00-5:00:00, 9:30:00-17:30:00, 22:00:00-23:30:00
+4/16/2003	0:00:00-6:00:00, 10:30:00-15:30:00, 16:30:00-18:00:00
+4/17/2003	4:00:00-7:00:00
+4/18/2003	07:30:00, 19:30:00
+4/19/2003	20:30:00
+4/21/2003	22:30:00
+4/22/2003	12:00:00, 15:30:00-23:30:00
+4/23/2003	0:00:00, 10:00:00-23:30:00
+4/24/2003	0:00:00-7:00:00, 11:30:00, 12:00:00, 13:30:00-23:30:00
+4/25/2003	0:00:00-3:00:00, 10:00:00, 12:30:00, 13:00:00, 15:00:00, 19:30:00, 
+20:30:00
+4/26/2003	11:30:00-15:00:00, 19:30:00-23:30:00
+4/27/2003	0:00:00-4:30:00, 11:00:00, 12:30:00, 14:00:00-16:00:00
+4/28/2003	12:30:00-16:00:00, 22:00:00-23:30:00
+4/29/2003	0:00:00-5:30:00
+4/30/2003	16:00:00, 16:30:00
+
+Negative depth occurred on the following dates and times:  
+Refer to notes regarding negative depth at this location (Section 14).
+4/12/2003	1:00:00, 7:30:00-14:00:00
+4/16/2003	14:00:00-15:00:00
+
+TS
+Time stamp for the 4/09/03 deployment was off by 00:00:08, corrected to read on 
+the hour and half hour.
+
+Time stamp for the 4/23/03 deployment was off by 00:00:14, corrected to read on 
+the hour and half hour.
+
+Depth was recorded in feet for the 4/09/03 deployment, corrected to meters using 
+a 3.2808 conversion factor.
+
+Slight depth anomalies occur throughout the month.  Refer to notes (Section 14).
+
+Dissolved oxygen data are missing from the start of the month through 4/9/03 at 
+8:00:00.  The DO charge was out of range and the data were removed.
+
+Turbidity reported several negative and/or zero values during the month.  (Refer 
+to notes in Section 14 regarding turbidity measurements).
+
+High turbidity values (> 250 NTU, </= 1000) occurred on the following date and 
+time:
+4/01/2003	2:00:00
+
+Supersaturation measurements for dissolved oxygen (> 120%) were noted for the 
+following dates and times:
+4/14/2003	14:30:00-18:30:00
+4/15/2003	1:00:00, 3:30:00-5:30:00, 12:00:00-18:00:00
+4/16/2003	2:30:00, 3:30:00-5:00:00, 13:30:00-16:00:00, 17:00:00
+4/18/2003	17:00:00-18:00:00
+4/19/2003	16:00:00, 18:30:00
+4/20/2003	14:00:00-16:00:00, 17:00:00, 17:30:00, 19:00:00, 19:30:00
+4/21/2003	2:30:00-4:00:00, 6:00:00, 7:30:00-10:00:00, 11:00:00-12:30:00, 
+14:30:00-23:30:00
+4/22/2003	0:00:00-1:00:00, 3:30:00, 5:00:00, 6:30:00, 9:30:00-12:30:00, 
+19:30:00
+4/23/2003	11:00:00, 11:30:00, 19:30:00, 20:00:00
+4/24/2003	16:00:00-18:30:00
+4/25/2003	10:30:00-15:30:00, 17:30:00, 18:00:00
+
+Low salinity (< 25 ppt) occurred on the following date and times:
+4/04/2003	5:30:00, 6:30:00
+
+TB
+Time stamp for the 4/23/03 deployment was off by 00:01:00, adjusted to read on 
+the hour and half hour. 
+
+Turbidity reported one negative and/or zero value during the month.  (Refer to 
+notes in Section 14 regarding turbidity measurements).
+
+Dissolved oxygen data were removed from 4/16/03 at 22:30:00 through the end of 
+the deployment (4/23/03 at 8:00:00).  The DO charge indicated a membrane 
+puncture 
+at this time.
+
+Supersaturation measurements for dissolved oxygen (> 120%) were noted for the 
+following dates and times:
+4/14/2003	15:00:00
+4/25/2003	14:30:00, 15:00:00
+
+May 1 - 31, Sampling period
+PC
+Time stamp for the 5/14/03 deployment was off by 00:00:20, corrected to read on 
+the hour and half hour.
+
+Turbidity reported several negative and/or zero values during the month.  (Refer 
+to notes in Section 14 regarding turbidity measurements).
+
+Supersaturation measurements for dissolved oxygen (> 120%) were noted for the 
+following dates and times:
+5/04/2003	15:30:00-16:30:00
+5/05/2003	13:00:00-18:00:00, 19:30:00-22:00:00, 23:30:00
+5/06/2003	0:00:00-2:00:00, 4:00:00, 6:00:00, 6:30:00, 9:00:00, 10:00:00-
+16:00:00
+5/07/2003	13:30:00-19:30:00
+5/08/2003	4:00:00, 6:30:00, 7:00:00
+5/09/2003	15:00:00-18:00:00, 20:00:00-21:30:00, 23:30:00
+5/10/2003	0:30:00, 4:30:00-6:30:00, 7:30:00, 8:30:00, 9:30:00-15:30:00, 
+17:30:00, 19:00:00, 19:30:00, 20:30:00, 23:00:00, 23:30:00
+5/11/2003	0:00:00-1:00:00, 2:00:00, 3:00:00-5:00:00, 6:00:00-15:30:00, 
+17:00:00-21:30:00
+5/14/2003	9:30:00, 10:30:00, 11:00:00, 12:00:00, 12:30:00, 14:30:00, 15:30:00
+5/15/2003	3:00:00, 13:00:00-17:30:00
+5/17/2003	17:30:00
+5/19/2003	17:30:00, 19:30:00
+5/20/2003	15:30:00, 16:00:00, 17:30:00-18:30:00
+
+NC
+Time stamp for the 5/07/03 deployment was off by 00:00:20, corrected to read on 
+the hour and half hour.
+
+Depth was recorded in feet for the 5/07/03 deployment, corrected to meters using 
+a 3.2808 conversion factor.
+
+There was some discontinuity between the 5/21/03 and 6/10/03 deployments in 
+salinity, specific conductivity, and dissolved oxygen (both % saturation and 
+mg/l).  These data appear to be valid and the discontinuity is likely a result 
+of the high level of variation in these parameters at this location.
+
+Supersaturation measurements for dissolved oxygen (> 120%) were noted for the 
+following dates and times:
+5/02/2003	16:00:00, 16:30:00, 18:30:00, 19:00:00
+5/03/2003	10:30:00-19:30:00
+5/04/2003	10:30:00-11:30:00, 15:00:00, 15:30:00
+5/05/2003	10:30:00-12:30:00
+5/06/2003	12:00:00
+5/07/2003	11:30:00-14:00:00, 15:30:00
+5/09/2003	13:00:00-21:30:00
+5/10/2003	12:00:00, 13:30:00-19:30:00
+5/11/2003	3:30:00, 14:00:00-17:30:00
+5/12/2003	15:00:00
+5/14/2003	14:30:00, 15:00:00, 16:00:00-17:00:00
+5/15/2003	13:00:00-16:30:00, 17:30:00, 18:00:00
+5/16/2003	8:30:00, 9:00:00, 10:00:00-12:00:00, 13:00:00-15:30:00
+5/17/2003	8:30:00-18:30:00
+5/18/2003	9:00:00-18:00:00
+5/19/2003	10:00:00-14:30:00, 15:30:00-17:00:00
+5/20/2003	11:00:00-16:00:00, 17:00:00, 17:30:00
+5/28/2003	16:30:00
+5/29/2003	16:30:00, 17:00:00
+5/30/2003	14:00:00-15:30:00, 17:00:00-19:30:00
+5/31/2003	8:30:00-9:30:00, 13:00:00, 14:30:00-18:00:00
+
+Low levels of dissolved oxygen (< 4 mg/L, =/> 28%) were recorded on the 
+following dates and times:
+5/01/2003	2:30:00-6:00:00
+5/02/2003	4:00:00, 4:30:00, 6:30:00
+5/07/2003	8:00:00, 10:00:00, 10:30:00
+5/09/2003	6:00:00-12:00:00
+5/13/2003	0:30:00-3:00:00
+5/15/2003	2:00:00, 3:00:00-5:30:00
+5/19/2003	20:30:00, 21:00:00
+5/20/2003	3:30:00-4:30:00, 21:00:00-22:00:00
+5/21/2003	3:30:00, 4:00:00, 5:00:00, 9:00:00-10:00:00
+5/22/2003	0:00:00
+5/23/2003	8:00:00, 9:00:00-11:00:00, 12:00:00-13:00:00
+5/24/2003	0:00:00, 6:30:00, 7:00:00, 9:00:00
+5/25/2003	7:30:00
+5/26/2003	13:00:00, 14:30:00
+5/27/2003	2:30:00, 4:00:00, 9:30:00-11:00:00, 12:30:00-14:00:00
+5/28/2003	4:30:00, 12:30:00, 13:30:00, 14:30:00, 23:00:00, 23:30:00
+5/29/2003	0:00:00, 3:00:00, 23:30:00
+5/30/2003	0:00:00-2:30:00, 6:00:00
+5/31/2003	0:00:00-3:00:00
+
+Dangerously low dissolved oxygen levels (< 28%) were recorded on the following 
+dates and times:
+Note:  Includes some instances of negative DO values.  Refer to notes (Section 
+14).
+5/02/2003	5:00:00-6:00:00, 7:00:00
+5/21/2003	4:30:00
+5/23/2003	11:30:00
+5/27/2003	3:30:00, 4:30:00
+5/28/2003	4:00:00
+5/30/2003	3:00:00-5:30:00
+5/31/2003	3:30:00-6:30:00
+
+Low salinity (< 25 ppt) occurred on the following dates and times:
+5/01/2003	13:30:00, 14:30:00-18:00:00
+5/02/2003	6:00:00, 7:30:00, 13:00:00-15:30:00, 16:30:00
+5/07/2003	11:00:00, 11:30:00, 23:30:00
+5/09/2003	13:00:00
+5/10/2003	1:30:00, 3:00:00, 11:30:00, 12:30:00, 14:00:00, 19:30:00, 20:00:00, 
+22:00:00-23:30:00
+5/11/2003	0:00:00-2:30:00, 10:30:00-14:00:00, 22:00:00-23:30:00
+5/12/2003	0:00:00-2:00:00, 15:00:00
+5/13/2003	2:30:00-3:30:00, 8:30:00-11:00:00, 12:30:00-15:30:00
+5/14/2003	0:00:00-4:30:00, 13:30:00, 16:30:00
+5/15/2003	5:30:00, 15:30:00, 16:00:00, 17:00:00
+5/16/2003	6:30:00, 18:00:00
+5/19/2003	17:30:00-19:00:00
+5/20/2003	16:30:00-18:00:00, 19:00:00
+5/21/2003	6:30:00, 7:00:00, 8:00:00, 8:30:00, 10:30:00
+5/26/2003	15:30:00
+5/28/2003	22:30:00-23:30:00
+5/29/2003	0:00:00-5:30:00, 11:00:00-16:30:00
+5/30/2003	6:00:00
+
+Negative depth values were recorded on the following dates and times: 
+Refer to notes regarding negative depth at this location (Section 14).
+5/29/2003	14:30:00-15:30:00
+5/30/2003	3:00:00-5:00:00, 13:30:00-16:00:00
+
+TS
+Time stamp for the 4/23/03 deployment was off by 00:00:14, corrected to read on 
+the hour and half hour.
+
+A slight discontinuity in depth occurred at the start of the 5/21/03 deployment.  
+Refer to notes (Section 14) regarding depth anomalies at this deployment 
+location.
+
+Turbidity reported several negative and/or zero values during the month.  (Refer 
+to notes in Section 14 regarding turbidity measurements).
+
+Supersaturation measurements for dissolved oxygen (> 120%) were noted for the 
+following dates and times:
+5/05/2003	8:30:00, 11:30:00, 12:30:00-13:30:00, 15:30:00-20:00:00, 22:00:00-
+23:00:00
+5/06/2003	9:00:00, 9:30:00
+5/07/2003	6:30:00, 7:00:00, 8:00:00, 9:00:00-20:30:00, 22:00:00, 23:00:00, 
+23:30:00
+5/08/2003	0:30:00, 9:00:00, 11:30:00
+5/09/2003	12:00:00-17:30:00, 18:30:00, 22:30:00-23:30:00
+5/10/2003	8:00:00, 10:00:00-15:30:00, 17:00:00, 18:00:00, 22:00:00
+5/11/2003	10:00:00, 10:30:00, 11:30:00-13:30:00, 16:00:00
+5/31/2003	15:30:00-19:00:00, 20:00:00, 20:30:00
+
+TB
+Data are missing 5/8/03 11:30:00 through 12:30:00.  Although the sonde was 
+deployed at this time, it was apparently caught up in the deployment pipe (based 
+on depth values).  The data recorded at this time were not valid and were 
+removed.
+
+Time stamp for the 4/23/03 deployment was off by 00:01:00, adjusted to read on 
+the hour and half hour.
+
+Data for pH were removed from 5/1/03 at 4:00:00 through the end of the 
+deployment (5/8/03 at 11:00:00).  An abrupt drop in pH occurred at this time and 
+the data values did not recover.  This implies that the probe was not 
+functioning properly, probably due to an obstruction on the pH probe.
+
+June 1 - 30, Sampling period
+PC
+Data are missing on 6/4/03 at 09:30:00.  The deployment pipe was being cleaned 
+and the sonde was briefly removed during this procedure.
+
+Turbidity reported several negative and/or zero values during the month.  (Refer 
+to notes in Section 14 regarding turbidity measurements).
+
+Supersaturation measurements for dissolved oxygen (> 120%) were noted for the 
+following dates and times:
+6/01/2003	0:30:00
+6/06/2003	12:00:00-14:00:00, 15:30:00-18:00:00
+6/10/2003	12:30:00-14:30:00, 15:30:00-17:00:00, 22:30:00
+6/12/2003	14:30:00-16:00:00, 20:30:00-23:30:00
+6/13/2003	4:00:00, 4:30:00, 10:30:00-13:30:00
+6/16/2003	17:00:00-18:00:00, 19:00:00, 20:00:00, 22:00:00
+6/17/2003	0:00:00-2:00:00, 10:30:00-11:30:00, 12:30:00-19:00:00
+6/20/2003	11:00:00-20:00:00
+6/21/2003	11:30:00, 19:00:00
+6/25/2003	5:30:00, 6:30:00-8:00:00, 9:00:00, 11:30:00-18:30:00, 19:30:00-
+23:30:00
+6/26/2003	0:00:00-1:00:00, 2:00:00-4:30:00, 11:30:00-15:30:00, 19:00:00
+6/27/2003	7:30:00-10:00:00, 11:00:00-16:00:00, 22:30:00-23:30:00
+6/28/2003	0:00:00-16:00:00
+6/29/2003	12:30:00-16:30:00
+6/30/2003	13:00:00-16:30:00
+
+Low levels of dissolved oxygen (< 4 mg/L, =/> 28%) were recorded on the 
+following dates and times:
+6/12/2003	3:00:00
+6/21/2003	3:00:00
+6/28/2003	18:30:00-20:00:00, 22:30:00, 23:00:00
+6/29/2003	3:30:00, 7:30:00-9:30:00, 18:00:00-22:30:00, 23:30:00
+6/30/2003	0:00:00-1:00:00, 20:30:00-22:00:00, 23:30:00
+
+Dangerously low dissolved oxygen levels (< 28%) were recorded on the following 
+date and times Note:  Includes some instances of negative DO values.  Refer to 
+notes (Section 14).
+6/30/2003	22:30:00, 23:00:00
+
+Low salinity (< 25 ppt) occurred on the following dates and times:
+Note:  There were a number of significant rainfall events throughout this month.  
+The data appear to be valid.
+6/05/2003	15:00:00-17:30:00
+6/08/2003	20:00:00-23:00:00
+6/09/2003	5:30:00-10:00:00
+6/12/2003	21:30:00, 22:00:00
+6/13/2003	4:00:00, 4:30:00, 10:30:00-14:00:00
+6/14/2003	2:00:00-5:30:00, 11:00:00-14:00:00
+6/20/2003	17:00:00-19:30:00
+6/21/2003	4:30:00-8:30:00, 9:30:00-13:00:00, 15:30:00, 16:00:00, 17:30:00-
+20:30:00, 22:00:00
+6/22/2003	0:00:00
+6/28/2003	3:00:00-16:00:00
+
+NC
+There was some discontinuity between the 6/10/03 and 6/24/03 deployments for the 
+dissolved oxygen parameters.  These data appear to be valid and the 
+discontinuity is likely a result of the high level of variability in these 
+parameters at this location.
+
+The specific conductivity sensor was not functioning for the 6/10/03 deployment.  
+All specific conductivity, salinity, dissolved oxygen (mg/L), and depth data 
+were removed from 6/10/03 at 9:00:00 through 6/24/03 at 9:00:00.
+
+Turbidity reported several negative and/or zero values during the month.  (Refer 
+to notes in Section 14 regarding turbidity measurements).
+
+Anomalous turbidity values (> 1000 NTU) were deleted on the following date and 
+time:
+6/29/2003	14:00:00
+
+Supersaturation measurements for dissolved oxygen (> 120%) were noted for the 
+following dates and times:
+6/02/2003	10:00:00, 11:00:00, 12:00:00, 14:00:00-15:00:00, 16:00:00-19:30:00
+6/03/2003	10:00:00-16:30:00
+6/04/2003	12:30:00-14:30:00, 15:30:00
+6/05/2003	12:00:00-14:30:00, 16:00:00, 17:30:00
+6/06/2003	9:30:00, 11:00:00-19:00:00
+6/07/2003	12:30:00-17:30:00, 19:30:00
+6/08/2003	11:00:00-12:30:00, 13:30:00-18:30:00, 20:00:00
+6/09/2003	9:30:00-17:30:00
+6/10/2003	11:30:00-13:00:00, 14:00:00-18:30:00
+6/11/2003	13:30:00-15:00:00
+6/12/2003	16:30:00
+6/14/2003	13:30:00-18:30:00
+6/15/2003	10:00:00, 11:30:00-18:30:00
+6/16/2003	12:30:00-19:30:00
+6/17/2003	10:00:00-19:00:00
+6/18/2003	12:30:00
+6/19/2003	11:00:00-15:30:00
+6/20/2003	9:30:00-19:30:00
+6/21/2003	9:00:00-12:30:00
+6/23/2003	7:30:00, 11:30:00-19:00:00, 20:00:00
+6/24/2003	8:00:00-9:00:00, 13:30:00-20:00:00
+6/25/2003	14:30:00-21:00:00
+6/26/2003	10:30:00, 12:00:00-20:00:00
+6/27/2003	12:30:00, 13:30:00-20:30:00
+6/28/2003	11:30:00-21:30:00
+6/29/2003	7:30:00-9:30:00, 15:00:00-20:30:00
+6/30/2003	10:30:00, 13:30:00-19:00:00, 20:00:00
+
+Low levels of dissolved oxygen (< 4 mg/L, =/> 28%) were recorded on the 
+following dates and times:
+6/01/2003	0:30:00-3:00:00, 4:00:00, 4:30:00, 5:30:00, 6:30:00, 7:00:00, 
+18:30:00
+6/02/2003	3:00:00-8:00:00
+6/03/2003	4:30:00, 5:30:00, 6:00:00
+6/04/2003	1:30:00-4:00:00, 5:00:00, 6:00:00, 6:30:00, 7:30:00-9:00:00, 
+10:00:00
+6/05/2003	2:00:00-4:30:00, 8:00:00-10:00:00, 20:30:00
+6/06/2003	3:00:00-4:00:00, 5:00:00, 6:00:00, 7:00:00
+6/07/2003	4:00:00, 4:30:00
+6/08/2003	22:00:00, 22:30:00
+6/09/2003	0:00:00, 21:30:00-23:30:00
+6/11/2003	0:00:00-1:30:00, 7:30:00, 8:00:00, 9:00:00, 9:30:00, 10:30:00, 
+11:00:00, 12:00:00, 21:30:00-23:30:00
+6/12/2003	8:30:00, 9:00:00, 10:00:00, 22:30:00-23:30:00
+6/13/2003	0:00:00-1:00:00, 23:30:00
+6/14/2003	0:00:00-3:30:00, 6:00:00
+6/15/2003	0:30:00-2:00:00, 6:30:00
+6/16/2003	1:00:00-3:00:00, 4:30:00, 6:00:00, 6:30:00
+6/17/2003	2:30:00-6:00:00
+6/18/2003	2:00:00-3:00:00, 20:30:00
+6/19/2003	2:30:00, 3:00:00
+6/20/2003	3:00:00, 3:30:00, 4:30:00-6:00:00
+6/21/2003	3:30:00-5:00:00
+6/22/2003	1:00:00, 6:00:00-8:00:00, 10:00:00, 11:00:00, 11:30:00, 13:00:00, 
+19:00:00-21:30:00
+6/23/2003	2:30:00
+6/24/2003	0:30:00, 3:00:00
+6/25/2003	2:30:00, 3:00:00, 4:00:00, 8:30:00
+6/26/2003	3:30:00, 4:00:00, 5:00:00, 23:00:00, 23:30:00
+6/27/2003	0:00:00-2:00:00, 5:30:00, 10:30:00, 22:00:00, 22:30:00
+6/28/2003	0:30:00, 6:30:00
+6/29/2003	1:30:00-7:00:00
+6/30/2003	0:00:00-1:30:00
+
+Dangerously low dissolved oxygen levels (< 28%) were recorded on the following 
+dates and times:
+Note:  Includes some instances of negative DO values.  Refer to notes (Section 
+14).
+6/01/2003	3:30:00, 5:00:00, 6:00:00
+6/04/2003	4:30:00, 5:30:00, 7:00:00
+6/05/2003	5:00:00-7:30:00
+6/06/2003	4:30:00
+6/08/2003	23:00:00, 23:30:00
+6/09/2003	23:30:00
+6/10/2003	0:00:00-2:30:00
+6/11/2003	2:00:00-3:30:00, 8:30:00
+6/12/2003	0:00:00-4:30:00
+6/13/2003	1:30:00-5:00:00
+6/14/2003	4:00:00-5:30:00
+6/15/2003	2:30:00-6:00:00
+6/16/2003	3:30:00, 4:00:00, 5:00:00, 5:30:00
+6/18/2003	3:30:00-9:30:00
+6/19/2003	3:30:00-6:00:00
+6/20/2003	4:00:00
+6/22/2003	22:00:00-23:30:00
+6/23/2003	0:00:00-2:00:00
+6/26/2003	4:30:00
+6/27/2003	2:30:00-5:00:00, 23:00:00, 23:30:00
+6/28/2003	0:00:00, 1:00:00-6:00:00
+6/30/2003	2:00:00-7:30:00
+
+Low salinity (< 25 ppt) occurred on the following dates and times:
+6/01/2003        7:00:00
+6/03/2003	14:30:00-20:30:00
+6/06/2003	3:30:00-12:00:00, 16:00:00, 16:30:00, 20:30:00, 23:30:00
+6/07/2003	0:00:00, 12:00:00, 12:30:00
+6/09/2003	21:00:00-23:30:00
+6/10/2003	0:00:00-2:30:00, 8:00:00, 8:30:00
+6/24/2003	15:00:00-16:30:00, 18:30:00-23:30:00
+6/25/2003	0:00:00-2:30:00, 4:00:00, 13:00:00-14:30:00, 15:30:00
+6/26/2003	1:30:00, 3:30:00-5:30:00, 8:00:00, 13:30:00, 14:30:00, 15:30:00-
+17:00:00, 19:30:00, 20:30:00-23:30:00
+6/27/2003	0:00:00-7:30:00, 8:30:00-14:30:00, 15:30:00-17:00:00, 19:30:00, 
+21:30:00-23:30:00
+6/28/2003	0:00:00-1:30:00, 2:30:00-6:00:00, 17:30:00
+6/29/2003	0:00:00, 0:30:00, 6:00:00, 7:00:00-23:30:00
+6/30/2003	0:00:00-23:30:00	
+
+Negative depth values were recorded on the following date and times: 
+Refer to notes regarding negative depth at this location (Section 14).
+6/01/2003	3:30:00-6:30:00, 15:30:00-18:00:00
+
+TS
+A slight discontinuity in depth occurred at the start of the 6/4/03 deployment.  
+Refer to notes (Section 14) regarding depth anomalies at this deployment 
+location.
+
+Dissolved oxygen data are missing from 6/11/03 at 15:30:00 through 6/18/03 at 
+8:30:00.  An abrupt drop in DO charge at the end of this deployment indicated 
+that the DO membrane had been punctured.  The data were removed.
+
+Supersaturation measurements for dissolved oxygen (> 120%) were noted for the 
+following dates and times:
+6/03/2003	16:00:00
+6/24/2003	14:00:00-16:30:00, 17:30:00-19:30:00
+6/25/2003	11:30:00-20:00:00, 21:00:00
+6/26/2003	1:30:00, 2:00:00, 5:30:00-6:30:00, 8:00:00, 8:30:00, 10:00:00, 
+11:00:00-22:30:00, 23:30:00
+6/27/2003	0:00:00-3:00:00, 4:00:00, 4:30:00, 5:30:00-7:00:00, 8:00:00, 
+9:30:00-21:00:00, 22:00:00
+6/28/2003	0:30:00, 2:00:00-4:00:00, 7:00:00-23:30:00
+6/29/2003	0:00:00-2:30:00, 3:30:00-22:30:00
+6/30/2003	1:30:00-2:30:00, 3:30:00-5:00:00, 10:30:00, 12:00:00-17:00:00
+
+
+TB
+Depth was recorded in feet for the 6/18/03 deployment, corrected to meters using 
+a 3.2808 conversion factor.
+
+Time stamps for the 6/4/03 and 6/18/03 deployments were off by 00:00:20, 
+corrected to read on the hour and half hour.
+
+Turbidity reported several negative and/or zero values during the month.  (Refer 
+to notes in Section 14 regarding turbidity measurements).
+
+Supersaturation measurements for dissolved oxygen (> 120%) were noted for the 
+following dates and times:
+6/27/2003	13:30:00
+6/29/2003	14:30:00, 15:00:00
+6/30/2003	6:00:00, 6:30:00, 15:30:00, 16:00:00
+
+July 1 - 31, Sampling period
+PC
+Data are missing for the 7/08/03 deployment due to a technician error.  The 
+sonde was not put in logging mode.
+
+Time stamp for the 7/23/03 deployment was off by 00:01:00, corrected to read on 
+the hour and half hour.
+
+Turbidity reported several negative and/or zero values during the month.  (Refer 
+to notes in Section 14 regarding turbidity measurements).
+
+Supersaturation measurements for dissolved oxygen (> 120%) were noted for the 
+following dates and times:
+7/01/2003	6:30:00-9:30:00, 10:30:00-16:00:00
+7/02/2003	12:30:00-16:00:00
+7/04/2003	14:30:00, 15:00:00
+7/25/2003	13:30:00-14:30:00, 15:30:00, 16:00:00, 17:30:00, 18:00:00, 19:00:00
+7/26/2003	9:30:00-13:30:00
+
+Low levels of dissolved oxygen (< 4 mg/L, =/> 28%) were recorded on the 
+following dates and times:
+7/01/2003	17:00:00-18:00:00, 19:00:00, 19:30:00, 21:00:00-22:00:00
+7/02/2003	1:30:00, 2:00:00, 20:30:00-21:30:00, 22:30:00, 23:00:00
+7/03/2003	0:30:00, 1:00:00, 2:00:00, 2:30:00, 5:00:00-6:00:00, 7:00:00, 
+8:00:00, 12:00:00, 23:00:00, 23:30:00
+7/04/2003	0:00:00, 19:30:00, 20:30:00-21:30:00
+7/05/2003	2:30:00, 7:30:00, 8:00:00, 9:00:00, 9:30:00, 10:30:00, 13:30:00-
+14:30:00, 17:30:00, 18:30:00, 19:30:00-23:00:00
+7/06/2003	0:00:00-3:30:00, 5:00:00-6:30:00, 9:30:00, 10:00:00, 11:30:00-
+13:00:00
+7/07/2003	0:30:00, 2:30:00, 4:30:00, 5:00:00, 7:00:00-10:00:00, 11:00:00-
+13:30:00, 15:30:00-16:30:00, 19:00:00-21:30:00, 22:30:00, 23:30:00
+7/08/2003	0:00:00-1:30:00, 7:00:00, 7:30:00
+7/23/2003	10:00:00, 10:30:00, 14:00:00-15:00:00, 16:30:00, 17:00:00, 19:00:00-
+20:30:00, 22:00:00-23:30:00
+7/24/2003  0:00:00, 1:00:00-2:30:00, 3:30:00, 4:00:00, 5:00:00, 5:30:00, 
+8:00:00, 9:00:00, 10:00:00, 11:00:00, 11:30:00, 13:00:00, 14:00:00, 14:30:00-
+16:30:00, 
+18:00:00, 19:00:00, 21:00:00, 21:30:00, 22:30:00, 23:30:00
+7/25/2003	0:00:00-1:00:00, 2:00:00, 4:30:00-5:30:00, 6:30:00-10:30:00, 
+21:30:00, 22:00:00, 23:30:00
+7/26/2003	0:00:00, 0:30:00, 2:00:00-4:00:00, 15:30:00, 16:00:00, 17:00:00-
+19:30:00, 20:30:00, 21:00:00, 22:00:00, 23:00:00, 23:30:00
+7/27/2003  0:00:00, 0:30:00, 1:30:00-2:30:00, 4:00:00-5:00:00, 6:00:00, 6:30:00, 
+7:30:00-8:30:00, 13:30:00, 15:30:00, 16:30:00-17:30:00, 18:30:00, 19:00:00, 
+21:00:00, 22:30:00-23:30:00
+7/28/2003	0:00:00, 0:30:00, 1:30:00, 2:30:00-6:30:00, 7:30:00, 8:30:00-
+10:00:00
+7/29/2003	0:30:00, 1:00:00, 9:30:00, 10:30:00, 11:30:00, 12:30:00-13:30:00, 
+14:30:00-15:30:00, 16:30:00-18:00:00, 23:00:00
+7/30/2003	0:00:00-1:00:00, 5:30:00, 8:30:00-11:30:00, 12:30:00-13:30:00, 
+16:30:00-19:30:00, 20:30:00, 21:00:00
+7/31/2003	3:00:00, 4:00:00, 5:30:00, 6:30:00-9:30:00, 10:30:00, 20:00:00, 
+21:30:00, 22:00:00
+
+Dangerously low dissolved oxygen levels (< 28%) were recorded on the following 
+dates and times:
+Note:  Includes some instances of negative DO values.  Refer to notes (Section 
+14).
+7/02/2003	22:00:00
+7/04/2003	22:00:00-23:30:00
+7/05/2003	0:00:00-2:00:00, 3:00:00-7:00:00, 8:30:00, 23:30:00
+7/06/2003	13:30:00, 14:00:00
+7/07/2003	2:00:00, 3:00:00-4:00:00, 5:30:00, 6:30:00, 10:30:00, 14:00:00-
+15:00:00, 17:00:00-18:30:00, 22:00:00, 23:00:00
+7/08/2003	2:00:00-6:30:00
+7/23/2003	11:00:00-13:30:00
+7/24/2003	0:30:00, 8:30:00, 22:00:00, 23:00:00
+7/25/2003	1:30:00, 2:30:00, 6:00:00
+7/26/2003	20:00:00, 22:30:00
+7/27/2003	1:00:00, 3:00:00, 3:30:00, 5:30:00, 7:00:00, 21:30:00, 22:00:00
+7/28/2003	7:00:00
+7/29/2003	18:30:00-23:30:00
+7/30/2003	1:30:00-5:00:00, 6:00:00-8:00:00, 12:00:00, 20:00:00, 21:30:00-
+23:30:00
+7/31/2003	0:00:00-3:30:00, 4:30:00, 5:00:00, 6:00:00
+
+Specific conductivity and salinity drop off abruptly for a brief period on 
+7/26/03 (from 7:00:00 to 14:30:00).  This may be due to a heavy rainfall (19.3 
+mm) occurring on 7/24/03.
+
+Low salinity (< 25 ppt) occurred on the following dates and times:
+7/01/2003	6:30:00-16:00:00
+7/06/2003	23:00:00, 23:30:00
+7/07/2003	0:00:00, 1:00:00, 1:30:00, 6:00:00
+7/26/2003	7:00:00-14:30:00
+7/29/2003	3:30:00-14:00:00
+
+NC
+Data are missing from 7/08/03 8:30:00 through 7/23/03 9:00:00.  Sonde was not 
+put into logging mode, no data collected.
+
+Turbidity reported several negative and/or zero values during the month.  (Refer 
+to notes in Section 14 regarding turbidity measurements).
+
+Supersaturation measurements for dissolved oxygen (> 120%) were noted for the 
+following dates and times:
+7/01/2003	9:00:00-19:30:00, 21:30:00
+7/02/2003	9:30:00-12:00:00, 14:00:00, 15:00:00-20:00:00
+7/03/2003	11:30:00, 12:30:00
+7/04/2003	12:00:00-17:00:00
+7/05/2003	12:00:00-15:30:00
+7/06/2003	15:30:00
+7/07/2003	12:30:00, 13:00:00
+7/23/2003	14:00:00-17:30:00
+7/25/2003	13:00:00-17:30:00
+7/26/2003	14:30:00-17:00:00
+7/27/2003	13:30:00-17:00:00
+7/28/2003	13:00:00-17:30:00
+7/29/2003	14:30:00, 15:00:00, 16:00:00-18:00:00
+7/30/2003	9:30:00-10:30:00, 15:30:00-19:00:00
+7/31/2003	10:00:00, 10:30:00, 12:30:00-19:30:00
+
+Low levels of dissolved oxygen (< 4 mg/L, =/> 28%) were recorded on the 
+following dates and times:
+7/01/2003	0:00:00-2:00:00, 6:00:00, 6:30:00, 7:30:00, 8:00:00
+7/02/2003	0:30:00-2:00:00, 7:00:00-8:30:00
+7/03/2003	1:00:00, 1:30:00, 9:00:00, 17:00:00-20:00:00
+7/04/2003	1:30:00, 2:00:00, 8:00:00, 9:00:00, 22:00:00
+7/05/2003	1:30:00, 2:00:00, 10:00:00, 20:00:00-22:00:00, 23:00:00
+7/06/2003	0:00:00, 1:30:00, 2:00:00, 9:00:00, 10:30:00, 11:00:00, 16:30:00, 
+17:00:00, 18:00:00
+7/07/2003	1:00:00, 2:30:00, 3:00:00, 8:00:00-9:00:00, 17:30:00
+7/08/2003	1:30:00, 3:30:00, 4:00:00
+7/23/2003	11:00:00, 11:30:00, 19:30:00-20:30:00, 21:30:00
+7/24/2003	1:30:00, 11:30:00, 14:30:00, 19:30:00-21:00:00, 22:00:00, 22:30:00
+7/25/2003	21:00:00, 22:00:00
+7/26/2003	8:00:00, 9:00:00, 11:30:00, 19:00:00, 20:00:00, 21:00:00, 21:30:00, 
+23:30:00
+7/27/2003	0:30:00-4:00:00, 5:00:00, 5:30:00, 8:00:00, 11:00:00, 19:30:00-
+22:30:00
+7/28/2003	6:30:00, 9:30:00, 10:00:00, 11:00:00, 11:30:00, 22:00:00, 22:30:00
+7/29/2003	7:00:00, 11:00:00, 13:30:00, 23:00:00
+7/30/2003	23:30:00
+7/31/2003	0:00:00, 0:30:00, 23:30:00
+
+Dangerously low dissolved oxygen levels (< 28%) were recorded on the following 
+dates and times:
+Note:  Includes some instances of negative DO values.  Refer to notes (Section 
+14).
+7/01/2003	2:30:00-5:30:00, 7:00:00
+7/02/2003	2:30:00-6:30:00
+7/03/2003	2:00:00-8:30:00
+7/04/2003	2:30:00-7:30:00, 8:30:00, 9:30:00
+7/05/2003	2:30:00-9:30:00, 10:30:00, 22:30:00, 23:30:00
+7/06/2003	2:30:00-8:30:00, 9:30:00, 10:00:00, 17:30:00, 18:30:00-23:30:00
+7/07/2003	0:00:00, 0:30:00, 3:30:00-7:30:00, 18:00:00-23:30:00
+7/08/2003	0:00:00-1:00:00, 4:30:00-8:00:00
+7/23/2003	9:30:00-10:30:00, 21:00:00, 22:00:00-23:30:00
+7/24/2003	0:00:00-1:00:00, 2:00:00-11:00:00, 23:00:00, 23:30:00
+7/25/2003	0:00:00-12:00:00, 22:30:00-23:30:00
+7/26/2003	0:00:00-7:30:00, 8:30:00, 13:00:00, 13:30:00, 22:00:00-23:00:00
+7/27/2003	0:00:00, 4:30:00, 6:00:00, 8:30:00-9:30:00, 23:00:00, 23:30:00
+7/28/2003	0:00:00-6:00:00, 23:00:00, 23:30:00
+7/29/2003	0:00:00-6:30:00, 23:30:00
+7/30/2003	0:00:00-7:00:00
+7/31/2003	1:00:00-8:00:00
+
+Low salinity (< 25 ppt) occurred on the following dates and times:
+Note:  Data appear to be valid.  Low salinity levels correspond to periods of 
+heavy rainfall.
+7/01/2003	0:00:00-4:00:00, 5:00:00-8:00:00, 14:00:00-20:00:00, 21:00:00
+7/02/2003	0:00:00, 1:30:00, 8:30:00, 14:00:00-15:00:00, 16:00:00-20:30:00
+7/03/2003	1:00:00-9:30:00, 18:00:00, 20:00:00
+7/04/2003	10:00:00, 16:30:00-22:00:00
+7/05/2003	6:00:00-11:00:00, 15:30:00-23:30:00
+7/06/2003	11:30:00, 17:30:00-23:30:00
+7/07/2003	0:00:00, 0:30:00, 12:30:00, 17:30:00-23:30:00
+7/08/2003	0:00:00-1:30:00, 6:00:00-8:00:00
+7/23/2003	9:30:00-14:00:00
+7/24/2003	0:00:00-15:30:00, 20:00:00-23:30:00
+7/25/2003	0:00:00-6:00:00, 10:30:00, 12:00:00-16:30:00
+7/26/2003	5:30:00, 6:00:00, 13:30:00-16:00:00, 22:00:00-23:30:00
+7/27/2003	0:00:00-6:00:00, 10:30:00-16:30:00, 22:30:00-23:30:00
+7/28/2003	0:00:00-6:00:00, 16:00:00, 16:30:00
+7/30/2003	16:30:00, 17:00:00
+7/31/2003	8:00:00, 18:30:00-20:00:00
+
+TS
+Time stamp for the 7/15/03 deployment was off by 00:01:00, corrected to read on 
+the hour and half hour.  
+
+Time stamp for the 7/29/03 deployment was off by 00:00:14, corrected to read on 
+the hour and half hour.
+
+Turbidity reported several negative and/or zero values during the month.  (Refer 
+to notes in Section 14 regarding turbidity measurements).
+
+Discontinuities in depth occur at the start of the 7/1/03 and 7/29/03 
+deployments.  Also, slight depth anomalies occur throughout the month.  Refer to 
+notes (Section 14).
+
+Supersaturation measurements for dissolved oxygen (> 120%) were noted for the 
+following dates and times:
+7/01/2003	9:00:00-12:00:00, 13:00:00-23:30:00
+7/02/2003	0:00:00-1:00:00, 3:00:00, 5:00:00, 6:00:00-23:30:00
+7/03/2003	0:00:00, 0:30:00, 1:30:00, 3:00:00, 4:30:00, 7:30:00-12:00:00, 
+13:00:00, 14:00:00, 16:00:00, 16:30:00, 18:00:00-19:00:00, 20:30:00
+7/04/2003	16:30:00-17:30:00, 19:00:00
+7/25/2003	14:00:00-18:00:00
+7/26/2003	11:30:00-18:30:00, 19:30:00, 20:30:00
+7/27/2003	11:30:00-18:00:00
+7/30/2003	15:00:00, 15:30:00
+
+TB
+Data are missing from 7/29/03 at 7:00:00 to 8/12/03 at 7:30:00.  Water entered 
+the battery chamber of the sonde and the data were removed for the whole 
+deployment.
+
+Time stamp for the 7/15/03 deployment was off by 00:00:13, corrected to read on 
+the hour and half hour.
+
+Turbidity reported several negative and/or zero values during the month.  (Refer 
+to notes in Section 14 regarding turbidity measurements).
+
+Anomalous turbidity values (> 1000 NTU) were deleted on the following date and 
+time:
+7/28/2003	23:00:00
+
+Supersaturation measurements for dissolved oxygen (> 120%) were noted for the 
+following dates and times:
+7/01/2003	14:30:00
+7/25/2003	15:30:00
+7/26/2003	14:30:00, 15:30:00, 16:00:00
+7/27/2003	13:30:00, 16:30:00, 18:00:00
+
+Low levels of dissolved oxygen (< 4 mg/L, =/> 28%) were recorded on the 
+following dates and times:
+7/02/2003	22:00:00
+7/04/2003	7:00:00
+7/05/2003	6:00:00, 7:00:00
+7/06/2003	0:30:00, 1:00:00
+7/20/2003	23:00:00
+7/24/2003	2:00:00
+7/28/2003	1:30:00, 22:30:00, 23:30:00
+
+August 1 - 31, Sampling period
+PC
+Time stamp for the 8/05/03 deployment was off by 00:00:13, corrected to read on 
+the hour and half hour.
+
+Turbidity reported several negative and/or zero values during the month.  (Refer 
+to notes in Section 14 regarding turbidity measurements).
+
+Supersaturation measurements for dissolved oxygen (> 120%) were noted for the 
+following dates and times:
+8/08/2003	1:30:00
+8/11/2003	14:00:00-16:30:00, 17:30:00
+8/12/2003	12:30:00-14:00:00, 15:00:00, 15:30:00, 16:30:00
+8/13/2003	15:00:00-16:30:00
+8/14/2003	12:30:00-21:30:00
+8/15/2003	1:00:00-5:30:00, 7:00:00, 7:30:00, 14:00:00, 15:00:00
+8/16/2003	10:00:00, 10:30:00, 14:30:00
+8/17/2003	6:30:00, 7:30:00-11:30:00, 13:30:00-19:00:00
+8/18/2003	2:00:00, 8:30:00, 9:00:00, 14:30:00-15:30:00, 18:00:00-19:30:00
+8/20/2003	15:30:00-16:30:00, 17:30:00, 18:00:00, 20:00:00, 20:30:00
+8/29/2003	15:00:00
+
+Low levels of dissolved oxygen (< 4 mg/L, =/> 28%) were recorded on the 
+following dates and times:
+8/01/2003	2:00:00, 2:30:00, 3:30:00, 5:30:00, 10:00:00, 10:30:00, 11:30:00, 
+13:00:00, 15:30:00, 16:30:00-19:30:00, 22:00:00, 23:30:00
+8/02/2003	0:00:00-3:30:00, 5:30:00, 7:30:00-9:00:00, 11:00:00, 11:30:00, 
+14:00:00-15:00:00, 19:00:00, 22:00:00
+8/03/2003	0:30:00, 7:30:00, 9:00:00, 10:00:00, 11:30:00, 12:30:00, 13:00:00, 
+14:00:00, 19:00:00, 20:30:00, 21:00:00
+8/04/2003	8:00:00, 9:00:00, 12:30:00-14:00:00, 15:00:00
+8/05/2003	0:30:00, 1:30:00, 2:30:00-4:30:00, 5:30:00, 6:30:00-7:30:00, 
+14:30:00, 15:00:00, 18:00:00-19:00:00
+8/06/2003	1:30:00, 7:00:00-8:30:00, 15:00:00, 17:00:00, 17:30:00, 18:30:00, 
+20:30:00, 21:00:00
+8/07/2003	1:30:00
+8/08/2003	5:30:00-7:00:00, 10:30:00-11:30:00, 19:00:00, 19:30:00, 21:00:00, 
+21:30:00, 22:30:00, 23:30:00
+8/09/2003	3:00:00-4:00:00, 9:30:00, 22:30:00, 23:30:00
+8/10/2003	0:00:00, 1:30:00, 3:30:00, 5:00:00-12:00:00, 13:00:00
+8/11/2003	0:00:00, 1:00:00, 1:30:00, 2:30:00, 3:30:00, 5:30:00, 20:30:00, 
+23:30:00
+8/12/2003	0:00:00-2:30:00, 6:00:00-7:00:00, 19:30:00, 20:00:00, 21:00:00-
+22:00:00
+8/13/2003	4:30:00
+8/21/2003	2:00:00, 3:30:00-7:30:00, 12:30:00, 13:00:00, 14:30:00, 16:30:00, 
+18:00:00-19:30:00, 23:00:00
+8/22/2003	0:30:00-1:30:00, 4:30:00-5:30:00, 7:00:00-10:30:00, 12:00:00, 
+16:30:00, 19:30:00, 21:00:00
+8/23/2003	6:00:00-10:30:00
+8/24/2003	1:30:00-6:30:00, 23:30:00
+8/25/2003	0:30:00-1:30:00, 2:30:00-3:30:00, 5:00:00-9:30:00, 16:00:00, 
+17:30:00-23:30:00
+8/26/2003	0:30:00, 1:30:00-9:30:00, 17:30:00-18:30:00, 19:30:00
+8/27/2003	12:00:00, 13:00:00, 14:00:00-17:30:00, 23:30:00
+8/28/2003	0:00:00-1:30:00, 4:00:00, 6:00:00, 7:00:00, 7:30:00
+8/29/2003	7:00:00-8:30:00, 9:30:00, 10:00:00, 11:00:00, 18:30:00-20:30:00, 
+22:30:00
+8/30/2003	0:30:00-2:00:00, 3:30:00-4:30:00, 5:30:00, 6:30:00, 7:00:00, 
+8:00:00, 9:00:00-11:00:00, 13:00:00, 19:30:00-21:00:00, 22:00:00
+8/31/2003	20:30:00, 22:30:00-23:30:00
+
+Dangerously low dissolved oxygen levels (< 28%) were recorded on the following 
+dates and times:
+Note:  Includes some instances of negative DO values.  Refer to notes (Section 
+14).
+8/01/2003	20:00:00-21:30:00, 22:30:00, 23:00:00
+8/02/2003	4:00:00-5:00:00, 6:00:00-7:00:00, 9:30:00-10:30:00, 12:00:00-
+13:30:00, 22:30:00-23:30:00
+8/03/2003	0:00:00, 1:00:00-7:00:00, 8:00:00, 8:30:00, 9:30:00, 12:00:00, 
+21:30:00-23:30:00
+8/04/2003	0:00:00-7:30:00, 16:00:00-23:30:00
+8/05/2003	0:00:00, 6:00:00, 8:00:00
+8/06/2003	10:00:00
+8/08/2003	8:30:00-10:00:00
+8/09/2003	1:30:00
+8/21/2003	20:00:00-22:30:00, 23:30:00
+8/22/2003	0:00:00, 2:00:00-4:00:00, 6:00:00, 6:30:00, 21:30:00-23:30:00
+8/23/2003	0:00:00-5:30:00
+8/25/2003	2:00:00
+8/26/2003	0:00:00, 1:00:00, 19:00:00, 20:00:00-23:30:00
+8/27/2003	0:00:00-11:30:00, 12:30:00, 13:30:00
+8/29/2003	21:00:00-22:00:00, 23:00:00, 23:30:00
+8/30/2003	0:00:00, 2:30:00, 3:00:00, 5:00:00, 6:00:00, 7:30:00, 8:30:00
+
+Low salinity (< 25 ppt) occurred on the following dates and times:
+Note:  This dip in salinity corresponds to a rainfall event (22.4 mm) on 
+8/13/03.  However, heavier rainfall occurred on 8/1/03, 8/7/03, and 8/8/03 which 
+did not result in 
+similar low salinity levels.
+8/14/2003	6:00:00-7:00:00, 11:00:00-23:30:00
+8/15/2003	0:30:00-11:00:00, 13:30:00-15:30:00
+
+NC
+Time stamp for the 8/20/03 deployment was off by 00:00:15, corrected to read on 
+the hour and half hour.
+
+High turbidity values (> 250 NTU, </= 1000) occurred on the following date and 
+time:
+8/21/2003	20:00:00
+
+Supersaturation measurements for dissolved oxygen (> 120%) were noted for the 
+following dates and times:
+8/02/2003	11:00:00-13:00:00
+8/03/2003	11:00:00-14:00:00
+8/04/2003	12:00:00-14:30:00
+8/05/2003	14:00:00-15:30:00
+8/06/2003	13:30:00-16:30:00
+8/07/2003	15:00:00-16:00:00
+8/08/2003	16:00:00-18:30:00
+8/09/2003	17:30:00, 18:00:00
+8/10/2003	15:00:00-16:30:00
+8/11/2003	15:00:00-17:30:00, 19:00:00, 19:30:00
+8/12/2003	14:30:00, 15:30:00-18:00:00, 20:30:00
+8/13/2003	16:30:00
+8/14/2003	10:30:00, 15:30:00-18:00:00
+8/15/2003	11:00:00-17:30:00
+8/16/2003	10:00:00-16:30:00
+8/18/2003	11:30:00, 12:00:00, 13:30:00-14:30:00, 15:30:00
+8/19/2003	12:30:00-16:30:00
+8/20/2003	12:00:00-18:00:00
+8/21/2003	11:00:00-18:30:00
+8/22/2003	11:30:00-16:00:00
+8/23/2003	14:30:00-16:00:00, 17:00:00
+8/24/2003	14:00:00-17:00:00
+8/25/2003	12:30:00, 13:30:00-17:30:00
+8/26/2003	13:30:00-17:00:00
+8/27/2003	14:00:00-17:30:00
+8/28/2003	14:30:00-18:00:00
+8/29/2003	10:00:00-17:00:00
+8/30/2003	9:30:00-12:30:00, 13:30:00-14:30:00
+8/31/2003	11:00:00-16:30:00
+
+Low levels of dissolved oxygen (< 4 mg/L, =/> 28%) were recorded on the 
+following dates and times:
+8/01/2003	0:00:00, 13:00:00, 14:00:00-15:00:00, 16:00:00, 16:30:00
+8/02/2003	9:30:00, 19:30:00-20:30:00
+8/03/2003	1:30:00, 19:00:00-20:30:00
+8/04/2003	2:00:00, 9:00:00, 17:30:00-18:30:00
+8/05/2003	2:00:00-3:00:00, 10:00:00, 11:30:00, 18:00:00-20:00:00
+8/06/2003	4:30:00, 10:30:00, 11:00:00, 18:30:00-20:00:00
+8/07/2003	4:30:00, 5:00:00, 19:00:00, 19:30:00
+8/08/2003	6:00:00, 12:30:00-14:30:00, 20:30:00
+8/09/2003	4:30:00, 6:30:00, 7:00:00, 13:00:00, 13:30:00, 14:30:00, 15:00:00, 
+21:00:00
+8/10/2003	8:30:00-10:00:00, 11:00:00, 21:30:00-22:30:00
+8/11/2003	9:30:00-13:00:00, 22:30:00, 23:00:00
+8/12/2003	10:30:00-11:30:00, 12:30:00, 13:00:00, 23:30:00
+8/13/2003	11:30:00-12:30:00, 14:00:00, 14:30:00, 19:00:00, 19:30:00, 23:30:00
+8/14/2003	20:30:00
+8/15/2003	0:00:00, 19:30:00-20:30:00
+8/16/2003	0:30:00, 1:00:00, 8:00:00-9:00:00, 18:00:00-19:00:00
+8/17/2003	1:00:00, 14:30:00-16:00:00, 17:00:00-18:00:00
+8/18/2003	0:00:00-1:00:00, 8:30:00, 9:30:00, 18:00:00, 18:30:00
+8/19/2003	1:00:00-2:00:00, 8:30:00, 19:00:00, 20:00:00, 20:30:00
+8/20/2003	8:30:00-9:30:00, 21:00:00-23:30:00
+8/21/2003	3:30:00, 9:30:00, 10:30:00, 20:30:00, 21:00:00, 22:00:00-23:30:00
+8/22/2003	0:00:00, 0:30:00, 9:00:00-10:00:00, 20:00:00-22:00:00
+8/23/2003	4:30:00, 10:00:00, 11:00:00, 11:30:00, 20:00:00, 20:30:00, 21:30:00-
+23:00:00
+8/24/2003	6:00:00, 7:00:00, 10:30:00, 11:00:00, 21:00:00-22:30:00
+8/25/2003	5:30:00, 9:30:00, 22:00:00-23:30:00
+8/26/2003	11:30:00, 22:30:00, 23:00:00
+8/27/2003	22:30:00-23:30:00
+8/30/2003	0:30:00, 1:00:00, 18:00:00-19:00:00, 23:30:00
+8/31/2003	0:00:00, 7:30:00-8:30:00, 19:00:00-21:30:00
+
+Dangerously low dissolved oxygen levels (< 28%) were recorded on the following 
+dates and times:
+Note:  Includes some instances of negative DO values.  Refer to notes (Section 
+14).
+8/01/2003	0:30:00-8:30:00, 15:30:00, 17:00:00-21:00:00
+8/02/2003	1:00:00-9:00:00, 21:00:00, 22:00:00
+8/03/2003	2:00:00-10:00:00, 21:00:00-23:00:00
+8/04/2003	2:30:00-8:30:00, 19:00:00-23:30:00
+8/05/2003	0:00:00, 3:30:00-9:30:00, 10:30:00, 11:00:00, 20:30:00-23:30:00
+8/06/2003	0:00:00-1:00:00, 5:00:00-10:00:00, 20:30:00-23:30:00
+8/07/2003	0:00:00-2:30:00, 5:30:00-13:30:00, 20:00:00-23:30:00
+8/08/2003	0:00:00-3:30:00, 6:30:00-12:00:00, 21:00:00-23:30:00
+8/09/2003	0:00:00-4:00:00, 7:30:00-12:30:00, 21:30:00-23:30:00
+8/10/2003	0:00:00-5:00:00, 10:30:00, 23:00:00, 23:30:00
+8/11/2003	0:00:00-6:00:00, 23:30:00
+8/12/2003	0:00:00-6:30:00
+8/13/2003	0:00:00-7:30:00
+8/14/2003	0:00:00-8:00:00
+8/15/2003	0:30:00-8:30:00, 21:00:00
+8/16/2003	1:30:00-7:30:00, 19:30:00-22:00:00
+8/17/2003	1:30:00-10:00:00, 18:30:00-23:30:00
+8/18/2003	1:30:00-8:00:00, 19:00:00-23:30:00
+8/19/2003	0:00:00, 0:30:00, 2:30:00-8:00:00, 19:30:00, 21:00:00-23:30:00
+8/20/2003	0:00:00-8:00:00
+8/21/2003	0:00:00-3:00:00, 4:00:00-9:00:00, 10:00:00, 21:30:00
+8/22/2003	1:00:00-8:30:00, 22:30:00-23:30:00
+8/23/2003	0:00:00-4:00:00, 5:00:00-9:30:00, 10:30:00, 21:00:00, 23:30:00
+8/24/2003	0:00:00-4:30:00, 6:30:00, 7:30:00-10:00:00, 23:00:00, 23:30:00
+8/25/2003	0:00:00-5:00:00
+8/26/2003	0:00:00-5:30:00, 23:30:00
+8/27/2003	0:00:00-5:30:00
+8/28/2003	0:00:00-6:30:00
+8/29/2003	0:00:00-7:00:00
+8/30/2003	1:30:00-7:30:00, 19:30:00-20:30:00
+8/31/2003	0:30:00-7:00:00
+
+Low salinity (< 25 ppt) occurred on the following dates and times:
+Note: The dip in salinity occurring on 8/8/03 corresponds to a period of heavy 
+rainfall.
+8/01/2003	8:30:00, 21:00:00
+8/02/2003	4:30:00, 5:00:00, 6:30:00-8:30:00, 9:30:00, 16:00:00, 17:00:00-
+22:00:00
+8/03/2003	20:00:00-23:00:00
+8/04/2003	8:00:00-11:00:00
+8/05/2003	10:30:00-11:30:00
+8/06/2003	10:30:00-12:30:00
+8/07/2003	22:00:00-23:00:00
+8/08/2003	0:00:00-3:30:00, 9:00:00-11:00:00, 12:00:00-15:00:00, 20:30:00-
+23:30:00
+8/09/2003	0:00:00-4:30:00, 15:30:00, 16:00:00, 22:00:00-23:30:00
+8/10/2003	0:00:00-5:00:00, 10:00:00-17:00:00
+8/11/2003	2:00:00-5:30:00, 12:00:00-17:30:00
+8/12/2003	14:30:00-18:30:00
+8/13/2003	16:30:00-20:00:00
+8/14/2003	0:00:00-8:30:00, 17:00:00-20:30:00
+8/15/2003	18:30:00-20:30:00
+8/16/2003	7:30:00-8:30:00
+8/17/2003	9:30:00, 10:00:00
+8/19/2003	6:00:00-11:30:00, 17:30:00-23:30:00
+8/20/2003	0:00:00-1:30:00, 5:00:00-13:00:00, 19:30:00-23:30:00
+8/21/2003	0:00:00-2:30:00, 7:30:00-12:30:00, 21:30:00-23:30:00
+8/22/2003	0:00:00-2:30:00, 6:00:00-14:00:00
+8/23/2003	0:30:00-2:00:00
+
+TS
+Time stamp for the 8/26/03 deployment was off by 00:00:13, corrected to read on 
+the hour and half hour.
+
+Turbidity reported several negative and/or zero values during the month.  (Refer 
+to notes in Section 14 regarding turbidity measurements).
+
+High turbidity values (> 250 NTU, </= 1000) occurred on the following date and 
+time:
+8/22/2003	1:30:00
+
+There was a discontinuity in turbidity values at the start of the 8/26/03 
+deployment.  This is likely a result of biofouling at the end of the 8/12/03 
+deployment, data should be considered suspect.
+
+Slight depth anomalies occur throughout the month.  Refer to notes (Section 14).
+
+Supersaturation measurements for dissolved oxygen (> 120%) were noted for the 
+following dates and times:
+8/02/2003	16:30:00-18:00:00
+8/03/2003	10:00:00, 13:30:00, 15:00:00-19:00:00
+8/05/2003	10:30:00-13:30:00, 18:00:00-19:30:00
+8/06/2003	13:00:00, 15:00:00, 16:30:00, 17:00:00, 18:30:00
+8/07/2003	12:00:00, 16:30:00, 19:30:00, 21:30:00, 22:00:00
+8/08/2003	3:00:00, 11:00:00-17:30:00
+8/09/2003	12:00:00-18:30:00, 19:30:00
+8/10/2003	0:00:00, 0:30:00
+8/11/2003	13:00:00-18:00:00, 19:00:00, 19:30:00
+8/12/2003	13:00:00, 14:00:00-17:00:00, 18:00:00
+8/13/2003	13:30:00-18:00:00
+8/14/2003	17:00:00-18:30:00, 19:30:00-20:30:00, 22:00:00-23:00:00
+8/15/2003	0:00:00, 10:00:00, 11:00:00, 12:30:00-23:30:00
+8/16/2003	0:00:00, 0:30:00, 7:30:00-20:00:00, 21:00:00-23:30:00
+8/18/2003	13:30:00
+8/19/2003	13:00:00-18:00:00
+8/21/2003	15:00:00-16:00:00
+8/29/2003	17:00:00
+
+Low salinity (< 25 ppt) occurred on the following dates and times:
+8/14/2003	17:30:00, 18:00:00
+8/15/2003	0:00:00, 5:00:00-7:30:00
+
+TB
+Data are missing from the beginning of the month through 8/12/03 at 7:30:00.  
+Water entered the battery chamber and the data were removed.
+
+Data are missing from 8/26/03 at 8:30:00 to 9/10/03 at 8:00:00.  There was a 
+communications error with the sonde.  The circuit board failed and required 
+replacement.
+
+Turbidity levels rise at the end of the 8/12/03 deployment.  The wiper on the 
+probe was very dirty at sonde retrieval.  These data should be considered 
+suspect due to biofouling.
+
+Supersaturation measurements for dissolved oxygen (> 120%) were noted for the 
+following dates and times:
+8/12/2003	12:00:00-13:00:00, 14:00:00
+8/14/2003	14:30:00
+8/15/2003	13:00:00
+
+Low levels of dissolved oxygen (< 4 mg/L, =/> 28%) were recorded on the 
+following dates and times:
+8/15/2003	20:30:00
+8/16/2003	17:30:00
+8/18/2003	21:30:00, 23:30:00
+8/19/2003	0:00:00, 7:00:00, 10:00:00, 13:00:00-14:30:00, 16:30:00-18:00:00, 
+19:00:00-20:00:00, 23:30:00
+8/20/2003	1:00:00, 1:30:00, 3:00:00-4:30:00, 7:00:00, 11:00:00, 13:30:00-
+14:30:00, 17:00:00, 18:30:00, 20:30:00, 22:30:00
+8/21/2003	1:00:00-2:30:00, 4:00:00, 4:30:00, 5:30:00, 7:30:00, 8:00:00, 
+13:00:00-15:30:00, 19:00:00-20:00:00, 21:30:00, 22:30:00, 23:30:00
+8/22/2003	0:30:00, 1:00:00, 2:00:00-8:00:00, 9:00:00, 10:30:00, 12:00:00, 
+13:30:00-14:30:00, 15:30:00-16:30:00, 17:30:00
+8/23/2003	6:00:00, 14:00:00, 16:30:00, 18:00:00, 21:00:00-22:00:00, 23:00:00
+8/24/2003	5:00:00, 16:00:00, 17:30:00, 20:00:00, 21:30:00, 23:30:00
+
+Dangerously low dissolved oxygen levels (< 28%) were recorded on the following 
+date and time Note:  Includes some instances of negative DO values.  Refer to 
+notes (Section 14).
+8/21/2003	23:00:00
+
+September 1 - 30, Sampling period
+PC
+Anomalous turbidity values (> 1000 NTU) were deleted on the following dates and 
+times:
+9/27/2003	20:00:00
+9/28/2003	1:00:00, 11:30:00
+9/30/2003	6:00:00, 22:30:00
+
+High turbidity values (> 250 NTU, </= 1000) occurred on the following dates and 
+times:
+Note:  The data suggest that these values are a result of biofouling and should 
+be considered suspect.  Biofouling is also the likely cause of a similar rise in 
+turbidity values at the end of the 8/20/03 deployment.  Although the turbidity 
+values are not excessively high, these data may also be considered suspect.
+9/28/2003	21:30:00
+9/28/2003	22:00:00
+9/29/2003	1:00:00
+
+Supersaturation measurements for dissolved oxygen (> 120%) were noted for the 
+following dates and times:
+9/05/2003	15:00:00-17:00:00, 18:00:00-21:30:00, 23:00:00
+9/06/2003	0:30:00, 1:00:00, 2:00:00, 3:00:00-5:00:00, 8:00:00-15:00:00
+9/07/2003	13:30:00-23:30:00
+9/08/2003	0:00:00, 0:30:00, 1:30:00, 3:00:00-4:00:00, 12:00:00-23:30:00
+9/09/2003	0:00:00, 11:00:00-16:00:00, 17:30:00-19:00:00
+9/12/2003	14:30:00, 15:30:00, 16:00:00
+9/17/2003	16:00:00
+9/21/2003	13:30:00-16:30:00, 18:00:00-19:00:00, 20:00:00
+9/22/2003	20:30:00-22:00:00, 23:00:00
+
+Low levels of dissolved oxygen (< 4 mg/L, =/> 28%) were recorded on the 
+following dates and times:
+9/01/2003	3:00:00, 3:30:00, 5:00:00-7:00:00, 9:00:00-13:30:00, 17:00:00-
+18:30:00, 19:30:00-22:30:00, 23:30:00
+9/02/2003	0:00:00-2:00:00, 10:00:00, 10:30:00, 22:00:00-23:00:00
+9/03/2003	0:00:00-3:30:00, 4:30:00, 5:00:00, 7:00:00, 7:30:00, 11:00:00, 
+11:30:00
+9/04/2003	4:30:00, 7:00:00-8:00:00, 18:30:00-20:30:00
+9/10/2003	5:30:00-7:00:00, 8:00:00, 20:00:00, 20:30:00
+9/11/2003	2:00:00, 3:30:00-4:30:00, 5:30:00-7:30:00, 8:30:00, 9:00:00, 
+21:00:00
+9/12/2003	3:00:00, 3:30:00, 5:00:00-9:00:00, 22:00:00
+9/13/2003	20:30:00, 21:00:00, 22:00:00-23:00:00
+9/14/2003	0:00:00, 0:30:00, 2:00:00-3:00:00, 4:00:00-5:30:00, 6:30:00, 
+7:00:00, 8:00:00-11:30:00, 23:00:00, 23:30:00
+9/15/2003	0:00:00, 4:00:00-8:00:00, 9:30:00
+9/16/2003	7:30:00, 8:00:00, 10:00:00-12:30:00, 18:00:00
+9/20/2003	3:30:00, 8:00:00, 9:30:00
+9/23/2003	23:00:00, 23:30:00
+9/24/2003	0:00:00, 2:00:00, 3:00:00-5:00:00
+9/25/2003	0:00:00-5:30:00, 7:30:00, 8:00:00, 14:30:00
+9/26/2003	2:00:00, 4:00:00-5:00:00, 6:30:00
+9/29/2003	3:30:00, 4:30:00, 6:30:00
+
+Dangerously low dissolved oxygen levels (< 28%) were recorded on the following 
+dates and times:
+Note:  Includes some instances of negative DO values.  Refer to notes (Section 
+14).
+9/01/2003	23:00:00
+9/02/2003	23:30:00
+9/11/2003	2:30:00, 3:00:00, 5:00:00
+9/13/2003	23:30:00
+9/14/2003	3:30:00, 6:00:00, 7:30:00
+
+NC
+Time stamp for the 9/17/03 deployment was off by 00:00:13, corrected to read on 
+the hour and half hour.
+
+Turbidity reported several negative and/or zero values during the month.  (Refer 
+to notes in Section 14 regarding turbidity measurements).
+
+Anomalous turbidity values (> 1000 NTU) were deleted on the following dates and 
+times:
+9/18/2003	10:30:00, 18:00:00
+9/21/2003	12:00:00
+9/22/2003	12:00:00
+9/27/2003	16:30:00
+9/28/2003	16:00:00, 19:30:00
+
+High turbidity values (> 250 NTU, </= 1000) occurred on the following dates and 
+times:
+Note:  These data do appear to be valid.
+9/05/2003	6:00:00
+9/06/2003	14:00:00
+9/11/2003	4:30:00, 23:30:00
+9/13/2003	6:00:00
+9/14/2003	3:00:00
+9/15/2003	17:00:00
+9/16/2003	18:00:00
+9/18/2003	20:30:00
+9/19/2003	6:30:00, 8:00:00
+9/22/2003	9:00:00
+9/28/2003	7:00:00
+
+Supersaturation measurements for dissolved oxygen (> 120%) were noted for the 
+following dates and times:
+9/01/2003	11:30:00, 12:30:00, 13:00:00
+9/03/2003	12:00:00-16:00:00
+9/05/2003	14:00:00-17:00:00
+9/07/2003	16:00:00-19:30:00
+9/08/2003	17:00:00, 17:30:00
+9/12/2003	15:30:00
+9/14/2003	11:30:00, 12:00:00
+9/15/2003	10:00:00-13:30:00
+9/16/2003	10:30:00-13:30:00
+9/17/2003	12:00:00-19:00:00
+9/18/2003	12:00:00-17:00:00
+9/19/2003	12:30:00-16:00:00, 17:30:00
+9/20/2003	13:30:00-19:00:00
+9/21/2003	14:30:00-21:00:00
+9/22/2003	13:30:00, 15:00:00-19:30:00
+9/24/2003	14:00:00, 16:30:00
+9/26/2003	19:00:00
+
+Low levels of dissolved oxygen (< 4 mg/L, =/> 28%) were recorded on the 
+following dates and times:
+9/01/2003	1:30:00, 9:00:00, 9:30:00, 16:30:00-17:30:00
+9/02/2003	2:00:00, 15:30:00, 16:00:00, 17:00:00, 17:30:00
+9/03/2003	3:00:00-4:00:00, 7:30:00-9:00:00, 19:00:00-21:30:00
+9/04/2003	4:00:00, 4:30:00, 17:30:00-19:30:00
+9/05/2003	5:00:00, 5:30:00, 9:30:00, 10:30:00-11:30:00, 19:30:00, 20:00:00, 
+21:30:00
+9/06/2003	5:30:00-7:00:00, 12:00:00, 12:30:00, 20:00:00-21:30:00
+9/07/2003	7:30:00, 9:30:00, 11:00:00-13:00:00, 22:00:00-23:30:00
+9/08/2003	9:00:00, 10:00:00, 22:00:00-23:00:00
+9/09/2003	23:00:00, 23:30:00
+9/10/2003	0:00:00, 23:00:00, 23:30:00
+9/11/2003	0:00:00
+9/12/2003	0:00:00-1:00:00
+9/13/2003	0:00:00-1:00:00, 20:00:00
+9/14/2003	0:30:00-2:30:00, 8:30:00
+9/15/2003	0:30:00, 1:00:00, 9:00:00, 18:30:00-21:30:00
+9/16/2003	1:30:00-2:30:00, 9:30:00, 19:00:00-20:30:00, 21:30:00-22:30:00
+9/17/2003	1:00:00-2:00:00, 10:00:00-11:00:00
+9/18/2003	0:00:00-4:30:00, 8:00:00-9:30:00
+9/19/2003	1:00:00, 4:00:00, 4:30:00, 5:30:00, 6:30:00-10:00:00
+9/19/2003	21:00:00-23:30:00
+9/20/2003	0:00:00, 0:30:00, 1:30:00, 2:30:00, 3:30:00, 4:00:00, 9:00:00-
+12:00:00, 21:00:00-23:00:00
+9/21/2003	4:00:00-5:30:00, 9:30:00-12:00:00
+9/22/2003	2:00:00, 3:00:00, 6:30:00, 7:00:00, 8:00:00-10:00:00, 22:30:00-
+23:30:00
+9/23/2003	9:00:00, 9:30:00, 21:00:00-22:00:00
+9/24/2003	9:00:00-10:30:00, 13:00:00, 22:30:00-23:30:00
+9/25/2003	22:30:00-23:30:00
+9/26/2003	0:00:00, 6:00:00
+9/27/2003	0:00:00-1:30:00, 6:30:00, 19:00:00
+9/28/2003	0:30:00, 1:00:00, 17:30:00-18:30:00
+9/29/2003	1:00:00, 1:30:00, 20:30:00-21:30:00
+9/30/2003	0:30:00-1:30:00, 3:00:00, 22:30:00
+
+Dangerously low dissolved oxygen levels (< 28%) were recorded on the following 
+dates and times:
+Note:  Includes some instances of negative DO values.  Refer to notes (Section 
+14).
+9/01/2003	2:00:00-8:30:00, 18:00:00-22:30:00
+9/02/2003	2:30:00-10:30:00, 18:00:00-23:30:00
+9/03/2003	4:30:00-7:00:00, 22:00:00-23:30:00
+9/04/2003	0:00:00, 0:30:00, 5:00:00-12:00:00, 20:00:00-23:30:00
+9/05/2003	0:00:00-1:30:00, 6:00:00-9:00:00, 10:00:00, 20:30:00, 21:00:00, 
+22:00:00-23:30:00
+9/06/2003	0:00:00-3:00:00, 7:30:00-11:30:00, 22:00:00-23:30:00
+9/07/2003	0:00:00-3:30:00, 8:00:00-9:00:00, 10:00:00, 10:30:00
+9/08/2003	0:00:00-4:30:00, 23:30:00
+9/09/2003	0:00:00-5:00:00
+9/10/2003	0:30:00-6:00:00
+9/11/2003	0:30:00-6:30:00
+9/12/2003	1:30:00-7:00:00
+9/13/2003	1:30:00-7:30:00, 20:30:00
+9/14/2003	3:00:00-8:00:00, 21:30:00
+9/15/2003	1:30:00-8:30:00, 22:00:00
+9/16/2003	3:00:00-9:00:00, 21:00:00, 23:00:00, 23:30:00
+9/17/2003	0:00:00, 2:30:00-9:30:00
+9/18/2003	5:00:00-7:30:00
+9/19/2003	5:00:00, 6:00:00
+9/20/2003	1:00:00, 2:00:00, 4:30:00-8:30:00, 23:30:00
+9/21/2003	0:00:00-3:30:00, 6:00:00-9:00:00
+9/22/2003	3:30:00, 7:30:00
+9/23/2003	0:00:00-3:30:00, 22:30:00-23:30:00
+9/24/2003	0:00:00-5:00:00
+9/25/2003	0:00:00-5:00:00
+9/26/2003	0:30:00-5:30:00
+9/27/2003	2:00:00-6:00:00
+9/28/2003	1:30:00-7:00:00, 19:00:00, 19:30:00
+9/29/2003	2:00:00-7:30:00
+9/30/2003	2:00:00, 2:30:00, 3:30:00-9:00:00
+
+Low salinity (< 25 ppt) occurred on the following dates and times:
+Note:  The dip in salinity occurring early in the month corresponds to a period 
+of heavy rainfall.
+9/02/2003	9:30:00-10:30:00, 23:30:00
+9/04/2003	8:00:00-12:00:00, 22:00:00
+9/05/2003	1:30:00, 13:30:00
+9/17/2003	11:30:00
+9/18/2003	0:30:00
+
+TS
+Time stamp for the 9/24/03 deployment was off by 00:01:00, corrected to read on 
+the hour and half hour.
+
+Turbidity reported several negative and/or zero values during the month.  (Refer 
+to notes in Section 14 regarding turbidity measurements).
+
+Discontinuity in depth occurs at the start of the 9/24/03 deployment.  Also, 
+slight depth anomalies occur throughout the month.  Refer to notes (Section 14).
+
+Supersaturation measurements for dissolved oxygen (> 120%) were noted for the 
+following dates and times:
+9/06/2003	13:00:00, 17:30:00
+9/07/2003	13:00:00, 14:00:00-19:00:00
+9/08/2003	0:00:00-1:00:00, 3:00:00, 13:30:00-15:30:00
+
+TB
+Data are missing from the beginning of the month through 9/10/03 at 8:00:00.  
+There was a communications error with the sonde.  The circuit board failed and 
+required 
+replacement.
+
+The time stamp for the 9/10/03 deployment was off by 00:00:14, corrected to read 
+on the hour and half hour.
+
+Turbidity reported negative and/or zero values during the month.  (Refer to 
+notes in Section 14 regarding turbidity measurements).
+
+October 1 - 31, Sampling period
+PC
+Time stamp for the 10/01/03 deployment was off by 00:00:13, corrected to read on 
+the hour and half hour.
+
+Turbidity reported several negative and/or zero values during the month.  (Refer 
+to notes in Section 14 regarding turbidity measurements).
+
+Anomalous turbidity value (> 1000 NTU) was deleted on the following date and 
+time:
+10/1/2003	2:00:00
+
+Supersaturation measurements for dissolved oxygen (> 120%) were noted for the 
+following dates and times:
+10/05/2003	12:30:00
+10/09/2003	19:30:00-21:30:00
+10/11/2003	13:00:00-16:30:00, 17:30:00
+10/18/2003	14:00:00-15:00:00
+
+Low levels of dissolved oxygen (< 4 mg/L, =/> 28%) were recorded on the 
+following dates and times:
+10/02/2003	22:00:00
+10/08/2003	1:30:00
+10/09/2003	0:30:00-3:30:00, 5:30:00, 6:00:00
+
+
+NC
+Turbidity reported several negative and/or zero values during the month.  (Refer 
+to notes in Section 14 regarding turbidity measurements).
+
+Anomalous turbidity value (> 1000 NTU) was deleted on the following date and 
+time:
+10/30/2003	11:30:00
+
+High turbidity values (> 250 NTU, </= 1000) occurred on the following dates and 
+times:
+Note:  These data do appear to be valid.
+10/06/2003	6:30:00, 9:00:00
+10/07/2003	21:30:00
+10/08/2003	3:00:00
+10/11/2003	15:00:00
+10/12/2003	7:00:00
+10/20/2003	13:30:00
+10/23/2003	6:30:00, 22:30:00
+
+Supersaturation measurements for dissolved oxygen (> 120%) were noted for the 
+following dates and times:
+10/02/2003	12:00:00, 12:30:00, 14:30:00
+10/03/2003	13:00:00
+10/05/2003	15:00:00, 15:30:00
+10/06/2003	16:00:00-18:30:00
+10/07/2003	15:00:00, 16:00:00-18:30:00
+10/08/2003	17:30:00
+10/09/2003	16:00:00, 17:00:00-18:00:00, 19:00:00-21:00:00
+10/11/2003	13:30:00, 15:00:00-18:30:00
+10/16/2003	12:30:00, 13:00:00
+10/17/2003	14:00:00, 15:00:00-16:00:00
+10/18/2003	13:00:00-20:30:00
+10/20/2003	14:00:00-15:00:00, 16:30:00-18:00:00
+10/21/2003	14:30:00, 15:00:00
+10/24/2003	17:30:00
+10/25/2003	15:30:00, 16:00:00
+10/31/2003	14:30:00
+
+Low levels of dissolved oxygen (< 4 mg/L, =/> 28%) were recorded on the 
+following dates and times:
+10/01/2003	2:30:00-3:30:00, 21:30:00-23:30:00
+10/02/2003	3:00:00-4:30:00, 9:00:00-10:30:00
+10/03/2003	8:00:00
+10/04/2003	5:00:00-11:00:00, 12:00:00
+10/05/2003	1:00:00-3:00:00, 6:00:00-8:00:00
+10/06/2003	2:30:00-4:00:00, 7:30:00-9:30:00
+10/07/2003	3:00:00-4:30:00
+10/08/2003	23:00:00, 23:30:00
+10/09/2003	0:00:00-4:30:00
+10/10/2003	1:00:00-5:00:00, 6:00:00, 11:30:00
+10/11/2003	2:00:00-6:30:00
+10/12/2003	3:00:00-6:00:00, 19:00:00, 20:00:00
+10/13/2003	0:30:00, 1:00:00, 2:00:00-4:30:00, 8:00:00
+10/14/2003	3:30:00-6:00:00, 7:30:00-8:30:00
+10/15/2003	5:00:00
+10/17/2003	7:00:00-8:00:00, 9:00:00, 9:30:00
+10/18/2003	2:00:00, 3:00:00-4:30:00, 9:30:00-12:00:00
+10/20/2003	0:00:00-1:00:00
+10/22/2003	0:30:00, 3:30:00
+10/27/2003	5:30:00-6:30:00
+10/28/2003	4:00:00-7:30:00
+10/29/2003	5:30:00-6:30:00, 7:30:00, 8:00:00
+10/31/2003	9:00:00-11:00:00
+
+Dangerously low dissolved oxygen levels (< 28%) were recorded on the following 
+dates and times:
+Note:  Includes some instances of negative DO values.  Refer to notes (Section 
+14).
+10/01/2003	4:00:00-8:00:00, 9:00:00-10:00:00
+10/02/2003	5:00:00-8:30:00
+10/09/2003	5:00:00-6:00:00
+10/10/2003	5:30:00, 6:30:00
+10/13/2003	5:00:00-7:30:00
+10/14/2003	6:30:00, 7:00:00
+10/18/2003	5:00:00-9:00:00
+
+Low salinity (< 25 ppt) occurred on the following dates and times:
+Note:  Abrupt changes in salinity correspond to periods of heavy rainfall.
+10/15/2003	7:00:00-8:30:00, 14:00:00-23:30:00
+10/16/2003	0:00:00-11:30:00, 14:00:00-23:30:00
+10/17/2003	0:00:00-11:30:00, 21:00:00
+10/28/2003	3:00:00, 7:00:00-8:00:00
+10/29/2003	17:00:00-22:00:00
+10/30/2003	2:00:00-10:30:00
+
+TS
+Slight depth anomalies occur throughout the month.  Refer to notes (Section 14).
+
+Turbidity reported several negative and/or zero values during the month.  (Refer 
+to notes in Section 14 regarding turbidity measurements).
+
+Time stamp for the 10/21/03 deployment was off by 00:00:13, corrected to read on 
+the hour and half hour.
+
+TB
+Data are missing for 10/7/03 at 9:00:00 and 10/21/03 at 8:00:00 during sonde 
+changeovers.
+
+Discontinuities in depth occur at the start of the 10/7/03 and 10/21/03 
+deployments.  It would appear that the sonde was caught up in the deployment 
+tether for a short time before extending to its full length in both instances.  
+All data were removed for these time periods (10/7/03 at 9:30:00 and 10:00:00; 
+10/21/03 at 8:30:00).
+
+November 1 - 31, Sampling period
+PC
+Turbidity reported several negative and/or zero values during the month.  (Refer 
+to notes in Section 14 regarding turbidity measurements).
+
+Data for dissolved oxygen parameters were removed for the 11/11/03 deployment 
+(from 11/11/03 at 13:30:00 through 11/25/03 at 11:30:00).  The DO charge was out 
+of range at the start of this deployment which suggests probe failure.
+
+Supersaturation measurements for dissolved oxygen (> 120%) were noted for the 
+following dates and times:
+11/08/2003	16:00:00, 16:30:00
+11/09/2003	13:30:00-18:00:00
+
+NC
+Depth was recorded as negative (69 instances) throughout the month.  Refer to 
+notes section regarding depth at this deployment location.
+
+Periods of negative depth correspond to anomalies in all other parameters.  
+These occur during low pressure storm events.  Although the data are considered 
+to be valid they should be used with caution.
+
+Turbidity reported several negative and/or zero values during the month.  (Refer 
+to notes in Section 14 regarding turbidity measurements).
+
+Anomalous turbidity value (> 1000 NTU) was deleted on the following date and 
+time:
+11/11/2003	12:00:00
+
+High turbidity values (> 250 NTU, </= 1000) occurred on the following dates and 
+times:
+Note:  These data do appear to be valid.
+11/04/2003	9:00:00, 12:30:00
+11/22/2003	0:30:00
+11/27/2003	17:30:00, 23:00:00
+
+Supersaturation measurements for dissolved oxygen (> 120%) were noted for the 
+following dates and times:
+11/01/2003	13:00:00-16:00:00
+11/02/2003	14:00:00-15:30:00
+11/03/2003	14:00:00, 15:00:00-18:00:00
+11/07/2003	14:30:00, 15:00:00, 16:00:00-17:00:00
+11/09/2003	11:30:00, 12:00:00, 17:00:00-19:30:00
+11/10/2003	13:00:00
+11/16/2003	12:00:00
+11/18/2003	14:00:00
+11/21/2003	16:00:00
+11/22/2003	15:30:00, 16:00:00
+11/23/2003	14:30:00-17:30:00
+11/24/2003	15:00:00-17:00:00
+
+Low levels of dissolved oxygen (< 4 mg/L, =/> 28%) were recorded on the 
+following dates and times:
+11/01/2003	5:00:00-7:00:00, 9:00:00-10:00:00
+11/03/2003	2:30:00, 7:00:00, 7:30:00, 9:30:00-10:30:00
+11/04/2003	2:00:00, 3:00:00
+11/05/2003	23:30:00
+11/06/2003	0:00:00-2:00:00, 4:00:00
+11/07/2003	5:00:00
+
+Dangerously low dissolved oxygen levels (< 28%) were recorded on the following 
+dates and times Note:  Includes some instances of negative DO values.  Refer to 
+notes (Section 14).
+11/03/2003	8:00:00-9:00:00
+11/06/2003	2:30:00-3:30:00
+
+Low salinity (< 25 ppt) occurred on the following dates and time:
+11/14/2003	18:30:00-23:30:00
+11/15/2003	0:00:00-12:30:00, 14:00:00-23:30:00
+11/16/2003	0:00:00-12:00:00
+11/21/2003	16:00:00
+11/30/2003	0:30:00, 2:00:00, 3:00:00, 7:00:-9:30:00, 12:30:00-23:30:00
+
+TS
+Slight depth anomalies occur throughout the month.  Refer to notes (Section 14).
+
+Data are missing from 11/30/03 at 1:00:00 through the end of the month.  The 
+batteries began to fail at the end of this deployment.
+
+Turbidity reported several negative and/or zero values during the month.  (Refer 
+to notes in Section 14 regarding turbidity measurements).
+
+TB
+A depth anomaly occurred at the start of the 11/18/03 deployment.  Depth values 
+are very low from 8:00:00 through 17:30:00 and then the data appear correct for 
+this deployment location.  It is possible that the sonde became entangled in the 
+deployment tether for a period of time before dropping to the correct depth.  
+Alternatively, the depth sensor may have been partially blocked at this time.  
+All data were removed for this time period.
+
+December 1 - 31, Sampling period
+PC
+Data for dissolved oxygen parameters were removed for the 12/24/03 deployment.  
+The membrane was compromised shortly before deployment.  Although the DO 
+membrane was replaced, it was not allowed sufficient time to stretch prior to 
+deployment.
+
+Low salinity (< 25 ppt) occurred on the following dates and times:
+12/19/2003	15:00:00
+12/20/2003	0:30:00, 1:30:00, 2:00:00, 3:00:00, 8:30:00-13:00:00, 21:30:00-
+23:30:00
+12/21/2003	0:00:00-11:30:00
+12/27/2003	1:30:00-23:30:00
+12/28/2003	0:00:00-18:00:00, 19:00:00-21:00:00
+12/31/2003	16:00:00-21:30:00
+
+NC
+Turbidity reported several negative and/or zero values during the month.  (Refer 
+to notes in Section 14 regarding turbidity measurements).
+
+Depth was recorded as negative (87 instances) throughout the month.  Refer to 
+notes section regarding depth at this deployment location.
+
+High turbidity values (> 250 NTU, </= 1000) occurred on the following dates and 
+times:
+12/03/2003	9:30:00
+12/18/2003	4:30:00
+
+Supersaturation measurements for dissolved oxygen (> 120%) were noted for the 
+following dates and times:
+12/01/2003	15:00:00
+12/03/2003	9:00:00-16:00:00
+12/04/2003	9:00:00-10:00:00
+12/16/2003	13:30:00, 14:00:00
+12/19/2003	12:30:00-14:30:00
+12/20/2003	12:30:00, 14:30:00
+12/23/2003	12:30:00-14:00:00
+12/26/2003	12:30:00, 13:00:00
+12/27/2003	13:00:00-16:30:00
+12/28/2003	12:30:00-14:00:00, 15:00:00
+12/29/2003	12:00:00-14:00:00
+12/30/2003	13:30:00-15:00:00
+12/31/2003	13:30:00, 14:00:00
+
+There was a discontinuity in specific conductivity and salinity values at the 
+start of the 12/9/03 deployment.  Variation throughout the month suggests that 
+the data are 
+valid.
+
+Several salinity anomalies occur throughout the month (12/12/03, 12/15/03, 
+12/18/03, and 12/27/03) and these correlate with slight anomalies in both pH and 
+depth.  The mid-month anomalies correspond well with storm events (both low 
+pressure and rainfall) and are considered to be valid.  The unexplained anomaly 
+at the end of the month also appears to be valid.  It is considered likely that 
+this may be a result of the sonde remaining in the lower saline surface layers 
+during periods of low mixing.
+
+Low salinity (< 25 ppt) occurred on the following dates and times:
+12/01/2003	0:00:00, 0:30:00, 5:30:00-23:30:00
+12/02/2003	0:00:00-2:30:00, 4:30:00-23:30:00
+12/03/2003	0:00:00-23:30:00
+12/04/2003	0:00:00-4:00:00, 5:30:00-23:30:00
+12/05/2003	0:00:00-4:30:00
+12/06/2003	22:00:00-23:30:00
+12/07/2003	0:00:00-4:30:00, 11:30:00-17:30:00, 23:00:00, 23:30:00
+12/08/2003	0:00:00-5:00:00
+12/09/2003	12:00:00-23:30:00
+12/10/2003	0:00:00-23:30:00
+12/11/2003	0:00:00-23:30:00
+12/12/2003	0:00:00-23:30:00
+12/13/2003	0:00:00-23:30:00
+12/14/2003	0:00:00-11:30:00, 13:30:00-22:00:00
+12/15/2003	3:30:00-23:30:00
+12/16/2003	0:00:00-23:30:00
+12/17/2003	0:00:00-1:00:00, 4:00:00-12:00:00, 18:00:00-23:30:00
+12/18/2003	0:00:00-23:30:00
+12/19/2003	0:00:00-3:00:00, 6:00:00-15:00:00, 19:30:00-23:30:00
+12/20/2003	0:00:00-2:30:00, 10:30:00-16:00:00, 20:30:00-23:30:00
+12/21/2003	0:00:00-3:30:00, 11:00:00-16:30:00, 20:30:00-23:30:00
+12/22/2003	0:00:00-5:00:00, 11:00:00-17:30:00, 22:00:00-23:30:00
+12/23/2003	0:00:00-5:30:00, 14:00:00-18:00:00
+12/24/2003	0:00:00-6:00:00, 13:00:00-19:00:00
+12/25/2003	0:00:00-7:00:00, 13:00:00-20:30:00, 23:30:00
+12/26/2003	0:00:00-9:00:00, 12:30:00-22:30:00
+12/27/2003	0:00:00-9:30:00, 14:00:00-22:30:00
+12/28/2003	4:30:00-10:30:00, 17:30:00-23:00:00
+12/29/2003	3:00:00-12:00:00, 13:00:00-23:30:00
+12/30/2003	0:00:00, 3:30:00-13:00:00, 15:00:00-23:30:00
+12/31/2003	0:00:00-2:30:00, 3:30:00-23:30:00
+
+TS
+Data are missing from the beginning of the month through 12/2/03 at 07:00:00.  A 
+battery failure occurred at the end of the 11/18/03 deployment.
+
+Time stamp for the 12/30/03 deployment was off by 00:01:00, corrected to read on 
+the hour and half hour.
+
+Discontinuity in depth occurs at the start of the 12/30/03 deployment.  Also, 
+slight depth anomalies occur throughout the month.  Refer to notes (Section 14).
+
+Turbidity reported several negative and/or zero values during the month.  (Refer 
+to notes in Section 14 regarding turbidity measurements).
+
+Low salinity (< 25 ppt) occurred on the following dates and times:
+12/20/2003	6:00:00-7:00:00, 8:30:00, 11:00:00-15:00:00, 17:30:00, 20:00:00-
+21:00:00
+12/27/2003	17:30:00-20:30:00
+12/28/2003	2:30:00, 3:00:00, 4:00:00, 8:00:00-9:30:00, 10:30:00, 12:30:00, 
+19:30:00, 20:30:00-22:30:00
+
+TB
+ There is some discontinuity in pH at the start and end of the 12/16/03 
+deployment.  Data for the entire deployment appear to be reading slightly high 
+for pH and should be corrected.
+
+12. Missing data:
+Missing data are denoted by a period in the data set. Periods were later removed 
+for dissemination purposes and left blank. Data are missing due to 
+equipment failure where no probes deployed, maintenance/calibration of 
+equipment, elimination of obvious outliers, or elimination of data due to 
+calibration problems (both pre and post).  For more details on deleted data, see 
+the Anomalous Data Section (11.).  To find out more details about missing data, 
+contact the Research Coordinator at the site submitting the data.
+
+13. Post deployment information
+End of Deployment Post-calibration Readings in Standard Solutions:
+
+Potter's Cove
+Instrument:	Date Retrieved	DO% (100%)	pH (7.0)	Depth (0.0m) Turbidity
+	SpCond	Batt
+00E0937AD	01/08/03	96.5	7.18	-0.251	0.4	49.72	11.6
+01E0566AD	01/22/03	95.0	7.12	0.034	0.4	51.23	11.7
+00E0937AB	02/05/03	99.7	7.15	-0.026	-0.1	49.95	11.6
+00E0937AD	02/19/03	101.2	7.14	0.248	0.5	50.17	11.1
+01E0566AD	03/04/03	---	7.13	-0.029	0.0	59.27	11.6
+02A0229AC	03/19/03	101.6	7.07	0.134	0.1	49.95	11.6
+02K0977AA	04/02/03	100.8	7.03	0.227	0.1	48.55	12.0
+01E0876AB	04/16/03	99.5	7.11	-0.143	0.0	49.14	11.8
+00E0937AD	05/14/03	96.7	7.13	-0.122	0.0	49.72	11.4
+01E0876AB	05/28/03	102.0	7.11	0.084	0.2	49.25	11.4
+00E0937AB	06/10/03	98.0	7.07	-0.005	0.2	49.0	11.1
+01E0566AA	06/24/03	104.5	7.07	0.035	0.0	49.91	11.6
+01E0876AB	07/08/03	92.4	7.13	0.037	0.2	49.69	11.1
+02K0977AA	07/23/03	--	--	--	--	--	--
+00E0937AB	08/05/03	89.6	7.10	0.046	0.1	48.92	12.3
+01E0876AB	08/20/03	109.2	7.14	0.000	0.1	49.66	10.7
+02A0229AA	09/04/03	95.2	7.18	-0.112	0.0	46.34	12.4
+00E0937AD	09/17/03	99.7	7.30	0.031	0.0	49.12	11.7
+01E0566AA	10/01/03	102.1	7.08	0.050	0.2	49.94	10.8
+02K0977AA	10/15/03	100.0	7.17	-0.331	0.2	50.00	11.0
+00E0937AB	10/28/03	102.0	7.12	0.022	0.0	49.80	10.3
+01E0876AB	11/11/03	100.5	7.14	0.076	0.4	49.99	12.2
+02K0977AA	11/25/03	59.9	7.06	-0.130	0.4	49.97	10.7
+00E0937AB	12/09/03	103.2	7.19	0.070	0.0	50.48	11.7
+01E0566AA	12/24/03	102.0	7.11	-0.044	0.3	49.60	11.9
+01E0566AD	01/06/04	103.3	7.25	-0.799	0.0	49.28	11.1
+
+Nag Creek
+Instrument:	Date Retrieved	DO% (100%)	pH (7.0)	Depth (0.0m) Turbidity
+	SpCond	Batt
+02A0229AC	01/08/03	98.5	7.06	-0.223	0.0	50.01	11.4
+02A0229AA	01/29/03	---	---	---	---	---	---
+02A0229AA	02/11/03	102.2	7.05	0.187	0.4	49.25	12.4
+01E0876AB	03/26/03	100.0	7.21	-0.146	-0.1	49.72	12.0
+00E0937AD	04/09/03	95.7	7.23	0.006	0.6	49.83	11.9
+02A0229AA	04/23/03	100.2	7.10	-0.255	0.1	49.50	12.4
+01E0566AD	05/07/03	103.1	7.08	0.052	-0.1	56.26	11.7
+02K0977AA	05/21/03	105.9	7.05	0.070	0.0	49.98	11.5
+00E0937AD	06/10/03	81.9	7.15	-0.089	0.8	49.69	11.2
+02A0229AC	06/24/03	89.6	7.10	0.036	0.0	49.48	10.9
+01E0566AD	07/08/03	97.2	7.18	0.026	0.1	48.23	11.3
+02A0229AA	07/23/03	--	--	--	--	--	--
+00E0937AD	08/05/03	96.5	7.14	0.050	0.0	50.12	12.3
+01E0566AD	08/20/03	85.8	7.21	0.014	0.6	49.82	12.2
+02K0977AA	09/04/03	101.5	7.11	-0.103	0.0	50.01	11.5
+00E0937AB	09/17/03	103.3	7.17	0.031	0.0	48.61	11.6
+01E0876AB	10/01/03	105.0	7.08	0.036	-1.6	49.86	12.3
+02A0229AA	10/16/03	102.2	7.21	-0.092	0.3	50.11	11.7
+00E0937AD	10/28/03	101.8	7.29	0.010	0.3	51.36	8.0
+01E0566AA	11/11/03	96.5	7.06	0.082	-0.3	49.88	12.6
+02A0229AA	11/25/03	103.0	7.17	-0.140	0.6	49.74	12.8
+00E0937AD	12/09/03	102.7	7.14	0.039	0.2	50.03	11.8
+01E0876AB	12/24/03	100.1	7.06	-0.052	-0.1	49.36	10.9
+02K0977AA	01/06/04	108.4	7.04	-0.135	0.2	49.47	11.1
+
+T-Wharf Surface
+Instrument:	Date Retrieved	DO% (100%)	pH (7.0)	Depth (0.0m) Turbidity
+	SpCond	Batt
+02K0977AA	01/16/03	103.0	7.15	-0.261	-0.5	50.26	11.9
+02A0229AC	01/28/03	102.0	7.14	0.047	0.7	49.83	11.9
+02K0977AA	02/12/03	99.3	7.09	-0.227	-0.5	49.24	11.0
+00E0937AB	02/26/03	104.5	7.13	0.234	0.2	50.74	12.1
+02K0977AA	03/12/03	101.1	7.06	-0.116	0.2	49.78	11.0
+00E0937AB	03/26/03	97.0	7.13	-0.152	0.4	49.35	12.2
+01E0566AA	04/09/03	106.8	7.15	0.018	0.1	50.85	12.1
+02K0977AA	04/23/03	98.5	7.04	-0.246	-1.3	49.92	11.6	
+01E0876AB	05/08/03	101.2	7.10	0.065	0.0	49.40	11.5
+00E0937AB	05/21/03	101.4	7.09	0.073	0.2	50.20	11.3
+01E0566AA	06/04/03	104.5	7.11	-0.098	0.1	50.36	11.6
+01E0566AD	06/18/03	*40.3	7.10	0.016	1.3	49.63	11.1
+02A0229AA	07/01/03	85.5	7.04	-0.071	0.0	49.53	11.9
+00E0937AD	07/15/03	77.1	7.38	0.016	0.1	48.49	10.8
+01E0566AD	07/29/03	76.3	7.05	-0.015	0.4	48.53	10.9
+02K0977AA	08/12/03	98.8	7.12	0.113	0.0	49.12	12.0
+00E0937AB	08/26/03	99.2	7.15	-0.023	0.2	46.71	11.9
+01E0876AB	09/10/03	97.3	7.23	0.085	0.1	48.94	11.9
+02A0229AA	09/24/03	98.8	7.05	-0.072	0.4	49.76	12.1
+00E0937AD	10/07/03	91.1	7.30	0.143	0.7	50.80	10.8
+01E0876AB	10/21/03	99.3	7.23	-0.190	0.2	49.74	11.9
+02K0977AA	11/05/03	95.0	7.15	-0.055	0.4	49.50	9.9
+00E0937AD	11/18/03	98.1	7.38	0.027	0.2	49.72	11.6
+01E0876AB	12/02/03	99.9	7.12	-0.103	0.3	49.85	7.1
+02K0977AA	12/16/03	103.6	7.11	0.181	0.4	49.88	10.8
+00E0937AB	12/30/03	98.9	7.15	0.131	0.2	49.48	11.5
+01E0876AB	01/13/04	103.1	7.12	-0.130	-0.2	49.86	10.2
+
+*This sample is not valid.  The rubber gasket on the DO probe was dislodged 
+prior to the post deployment calibration check.
+
+T-Wharf Bottom
+Instrument:	Date Retrieved	DO% (100%)	pH (7.0)	Depth (0.0m) Turbidity
+	SpCond	Batt
+00E0937AB	01/16/03	100.7	7.18	-0.087	0.7	50.33	11.4
+00E0937AD	01/28/03	102.3	7.15	0.037	0.7	50.13	12.2
+01E0566AD	02/12/03	136.6	7.12	-0.222	0.4	43.85	11.0
+02A0229AC	02/26/03	104.3	7.03	0.205	0.2	50.52	11.3
+02A0229AA	03/12/03	100.5	7.12	-0.114	0.5	49.39	12.6
+01E0566AD	03/26/03	79.8	7.10	-0.139	0.1	49.58	12.2
+02A0229AC	04/09/03	101.6	7.05	0.019	0.0	49.83	11.4
+00E0937AB	04/23/03	101.9	7.07	-0.211	-0.1	48.46	11.6
+98H0211AB	05/08/03	97.6	6.94	0.084	0.0	49.57	10.9
+02A0229AA	05/21/03	100.0	6.96	0.072	0.0	50.09	12.0
+02A0229AC	06/04/03	100.1	7.10	-0.101	0.0	49.90	11.0
+01E0876AB	06/18/03	103.5	7.10	0.011	0.2	49.32	11.5
+02K0977AA	07/01/03	99.0	7.07	-0.247	-0.1	50.60	10.7
+00E0937AB	07/15/03	94.9	7.14	0.014	0.1	47.89	10.2
+01E0876AB	07/29/03	99.1	7.09	-0.108	0.0	49.00	10.8
+02A0229AA	08/12/03	--	--	--	--	--	--
+00E0937AD	08/26/03	99.5	7.24	-0.023	15.8	48.80	11.7
+01E0566AD	09/10/03	--	--	--	--	--	--
+02K0977AA	09/24/03	99.3	7.05	-0.073	0.1	49.80	11.1
+00E0937AB	10/07/03	100.1	7.04	0.010	0.1	50.49	10.8
+01E0566AA	10/21/03	102.4	7.07	-0.182	0.0	50.00	12.1
+02A0229AA	11/05/03	98.5	7.24	-0.057	0.3	49.68	10.7
+00E0937AB	11/18/03	103.0	7.13	0.048	0.2	49.67	11.4
+01E0566AA	12/02/03	100.6	7.04	-0.094	0.5	49.38	12.3
+02A0229AA	12/16/03	100.8	7.08	0.183	0.2	50.00	12.5
+00E0937AD	12/30/03	98.9	7.5	0.107	0.1	49.23	11.5
+01E0566AA	01/13/04	101.4	7.05	-0.115	0.0	50.25	12.0
+
+
+14. Other Remarks/Notes
+
+On 01/24/2022 this dataset was updated to include embedded QAQC flags for 
+anomalous/suspect data.  System-wide monitoring data beginning in 2007 were 
+processed to allow for QAQC flags and codes to be embedded in the data files 
+rather than detailed in the metadata alone (as in the anomalous/suspect, 
+deleted, and missing data sections above).  Prior to 2006, rejected data were 
+deleted from the dataset so they are unavailable to be used at all, but 
+suspect data were only noted in the metadata document.  Suspect data flags 
+<1> were embedded retroactively in order to allow suspect data to be easily 
+identified and filtered from the dataset if desired for analysis and reporting 
+purposes.  No other flags or codes were embedded in the dataset and users 
+should still refer to the detailed explanations above for more information.
+
+a) Any time a reference is made to turbidity data being negative and/or zero, it 
+was recorded as a negative in the raw data file and a zero and/or negative value 
+in the edited data file due to the formatting of Excel. The technician edited 
+none of these data points by hand nor did he/she delete any of them. 
+
+b.) Slight depth anomalies frequently occur at the Nag Creek deployment 
+location.  A new deployment structure was installed at this location on 
+12/31/02. The structure consists of a post with stabilizers embedded in the 
+creek substrate with a horizontal hinged arm to which the sonde is attached by 
+cable ties.  Some modifications were made to this structure throughout the next 
+few months, resulting in slight depth anomalies. Depth at this site was also 
+influenced to some extent by changes in atmospheric pressure because the sonde 
+was situated in very shallow waters.  On occasion, the combination of low 
+atmospheric pressure and shallow water resulted in negative depth values.  
+Weather station data appear to support this theory.
+
+c.) There were a greater number of discontinuities in DO at all sites during the 
+summer months and throughout the year at Nag Creek.  Discontinuities are implied 
+by a > 10 % change in recorded data values between the last sample of a 
+deployment and the first sample of the subsequent deployment.  Due to a greater 
+natural variation in DO levels during the summer, a > 10 % change is more likely 
+to occur.  Discontinuities were not noted in instances when these appeared to be 
+a result of variation in DO levels, following the same general pattern over 
+time, rather than due to possible drift.  
+
+d.) On some occasions, dissolved oxygen is recorded as negative values at the 
+Nag Creek deployment location.  DO frequently ranges between supersaturation and 
+complete anoxic conditions (DO = 0 % saturation) at this site during the summer 
+months.  The negative values are considered to occur as a result of calibration 
+error and should be corrected to zero. 
+
+e.) Slight depth anomalies occurred at the T-Wharf surface monitoring station.  
+The datalogger at this station was suspended from the bottom of a buoy attached 
+by rope to the adjacent wharf.  On occasion it became apparent that the sonde 
+and/or buoy had become caught up in the rope, but never to such an extent that 
+the sonde came out of the water.  Wave action during periods of high winds may 
+be responsible for some of the depth variation.  The sonde is attached to a 
+float and is readily impacted.  Deployment near the surface also allows for 
+depth measurements to be altered by changes in atmospheric pressure.  At no time 
+were the variations in depth considered sufficient to alter the validity of the 
+data.
+
+f.) Throughout the year, and at different monitoring stations, entire 
+deployments measured pH levels which were consistently higher and/or lower than 
+adjacent deployments. Although not discontinuities per se because the 
+differences are not significant, they become obvious when the data set is viewed 
+over a long time period.  It should be noted that the pH probes responsible all 
+calibrated properly and checked out well at post deployment.  It may be 
+necessary to make corrections to the data to reflect more credible pH levels.  

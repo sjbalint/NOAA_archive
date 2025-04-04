@@ -1,0 +1,949 @@
+Apalachicola (APA) NERR Water Quality Metadata 
+January - December 2000 
+Latest Update:  June 30, 2021
+
+	I. Data Set & Research Descriptors
+
+1. Principal Investigator(s) & contact persons:
+H. Lee Edmiston, Research Coordinator
+E-mail:  lee.edmiston@dep.state.fl.us; (850) 670-4783 ext. 107       
+Lauren Wright, Research Assistant				            
+E-mail: lauren.wright@dep.state.fl.us; (850) 670-4783 ext. 114	
+George O. Bailey, Research Assistant				
+Christine Klassen, Research Assistant
+
+Apalachicola NERR
+350 Carroll Street
+Eastpoint FL 32328
+Fax: (850) 670-4324
+				
+
+2. Entry verification:
+YSI data are downloaded directly from the YSI 6000 into the PC6000 software, 
+plotted, and initially analyzed for major anomalies and missing data.  Hydrolab 
+data are downloaded from the Hydrolab Datasonde 3 to PCPLUS software.  Both YSI 
+and Hydrolab raw data files are then downloaded as a comma delimited file (.cdf) 
+and imported into Microsoft Excel as a comma-space delimited file (.csv).  These 
+raw data files are then organized into standardized monthly data sets using the 
+import.xls macros.   The import.xls macros generate a monthly spreadsheet, 
+import the raw data, fill all empty cells with periods, change feet to meters 
+for depth readings if necessary, and save the monthly files as either a .csv or 
+.xls file.  Once in monthly format, these files are then run through the 
+cdmomac(ro)3.xls macros which identify outliers, insure correct number of 
+data points for each Date/Hour count, and format the columns in the correct 
+order and size.  The monthly files are then carefully edited by staff for data 
+anomalies which are identified in Section 10 (Data Anomalies) of this document.  
+Any data that are deleted by staff are replaced with periods and identified in 
+Section 11 (Missing Data) of this document.   Monthly edited files are then 
+FTP'd to CDMO in text format, along with an updated metadata form. Lee Edmiston, 
+Chip Bailey, Lauren Wright, and Christine Klassen are responsible for these 
+tasks.
+
+3. Research objectives:
+The East Bay station collects water quality data associated with runoff from the 
+Tates Hell Swamp area. This area was ditched, diked, and altered back in the 
+late 1960's and early 1970's by timber companies.  It shortened the drainage 
+period and allowed increased runoff with a concommittant increase in pH which 
+had a drastic affect on the biological communities in East Bay.  Because of this 
+some plugs were put in to slow drainage, but little restoration work was done.  
+A large section, approximately 36,000 acres, was purchased in 1994 by the 
+Northwest Florida Water Management District.  An EPA grant allowed them to begin 
+restoration of the site in 1995 to reduce non-point source runoff.  Positioning 
+the dataloggers at the surface and bottom in East Bay will allow the Reserve to 
+monitor changes in water quality during this restoration effort. 
+
+
+
+
+4. Research methods:
+The YSI monitoring program was started in April 1995 in association with the 
+NERRS national monitoring effort.  Prior to this, ANERR has been and continues 
+to monitor three stations in the Apalachicola Bay system beginning in May 1992, 
+using Hydrolab Datasonde 3's.  East Bay (bottom) is one of these stations and 
+will be used in this monitoring program in addition to the YSI datalogger placed 
+near the surface at this site. Both Hydrolab and YSI dataloggers are used at 
+this station interchangeably as required.  
+
+Prior to deployment, both the YSI 6000 and the Datasonde 3 are calibrated for 
+conductivity, dissolved oxygen, depth, and pH following the procedures outlined 
+in the YSI Operating and Service Manual (with addendum 7/94) and the Hydrolab 
+Operating Manual, respectively.  Lab grade conductivity standards (Fisher Brand) 
+are initially used to calibrate the YSI's, which are then used to check working 
+standards made up and used for ongoing salinity calibration.  Lab grade 
+standards are also used periodically to check the accuracy of the working 
+salinity standards.  The only variation from the manual is the use of only one 
+pH standard for one-point calibration of pH rather than three-point calibration.  
+The membranes for the dissolved oxygen probe are installed at least 12 hours 
+prior to calibration.  Depth is set to 0.0 meters in the lab.  A turbidity probe 
+was added to the YSI 6000's in December 1996 and is calibrated using a lab grade 
+(Fisher Brand) 40 NTU standard and deionized water (0 NTU).
+
+Both YSI and Hydrolab dataloggers are deployed on the same piling within a five 
+inch diameter stainless-steel tube with a locking cap.  In order to maintain 
+constant depth, the dataloggers are clamped to a pvc pipe and lowered into the 
+tube, relinquishing the need for diving.  Large holes were cut in the tube where 
+the probes are located to insure adequate circulation.  Every two weeks the 
+dataloggers are retrieved, downloaded, cleaned, and inspected.  Freshly 
+calibrated units are deployed at the same time, resulting in little or no data 
+gaps in the 30 minute collection intervals.
+
+5. Site location and character:
+The Apalachicola National Estuarine Research Reserve is located in the 
+northwestern part of Florida, generally called the panhandle.  It is located 
+adjacent to the City of Apalachicola, and encompasses most of the Apalachicola 
+Bay system, including 52 miles of the lower Apalachicola River.  Passes, both 
+natural and manmade, connect Apalachicola Bay to the northeastern Gulf of 
+Mexico.  East Bay is separated from Apalachicola Bay by two bridges and a 
+causeway and is located to the north of the bay proper.  The bay is 8.2 km long, 
+has an average depth of approximately 1.0 m MHW, and an average width of 1.8 km. 
+The tides in East Bay are mixed and range from 0.3 m to 1.0 m (average 0.5 m). 
+The sampling site is located in the upper reaches of East Bay.  The piling 
+location is latitude 29 47.15' N and longitude 84 52.52' W. At the sampling 
+site, the depth is 2.2 m MHW and the width of the bay is 1 km.  The tides in the 
+system are mixed, meaning the number of tides can range from one to five tides 
+during a 24 hour period and are not evenly distributed throughout the day.  At 
+the East Bay bottom site the meter probes are 0.3 m above the bottom sediment. 
+Salinity ranges from 0 to 30 ppt and the long term average salinity is 
+approximately 8 ppt.  At the East Bay surface site the meter probes are 1.7 m 
+above the bottom sediment and salinity ranges from 0 ppt to 30 ppt with a long 
+term average salinity of 6.3 ppt.  The freshwater input is very tanic and 
+usually dark colored.  Flows vary with local rainfall and are not quantified due 
+to the diverse sources of the runoff. The bottom habitat at this bay site is 
+soft sediment, primarily silt and clay, with no vegetation present. The dominant 
+marsh vegetation near the sampling site is Juncus roemerianus and Cladium 
+jamaicense.  The dominant upland vegetation is primarily pineland forests which 
+includes slash pine, saw palmetto, and sand pine.  Upland land use near the 
+sampling site includes conservation and silviculture uses with some single 
+family residential in the lower East Bay area.  The sampling site is influenced 
+by local runoff from Tates Hell Swamp, the East Bay marshes, and distributary 
+flow, some of which comes from the Apalachicola River via the East River.  
+Tates Hell Swamp was ditched, diked, and altered back in the late 1960's and 
+early 1970's by timber companies.  These changes shortened the drainage period 
+and allowed increased runoff with a concomitant decrease in pH and increase in 
+color, which had a drastic affect on the biological communities in East Bay.  
+Restoration of Tates Hell Swamp began in 1995 to reduce non-point source runoff. 
+
+6. Data collection period:
+East Bay surface sampling with the YSI began on April 17, 1995.  East Bay bottom 
+sampling began on May 1, 1995. Both continue through December 31 of this year.
+A Hydrolab Datasonde 3 datalogger is occasionally deployed at times when an YSI 
+datalogger is unavailable for deployment. During the year 2000, a Hydrolab was 
+deployed at the East Bay Bottom station for the following dates/times:
+01/01/00 00:00:00 through 02/10/00 12:00:00
+All other East Bay Bottom and East Bay Surface deployments in 2000 utilized YSI 
+dataloggers. 
+	
+
+7. Associated researchers and projects:
+APA NERR has been using Hydrolab Datasonde 3's to monitor water quality at three 
+stations in Apalachicola Bay since May of 1992.  One of these stations was moved 
+from the mid-bay area near the Intracoastal Waterway to the East Bay bottom site 
+in January of 1993.  The other two are located on two of the largest 
+commercially important oyster bars in the bay.  These stations, like East Bay, 
+are intended to be long-term. Other associated researchers and projects which 
+have or continue to utilize this water quality data are:
+
+Northwest Florida Water Management District
+Tate's Hell Restoration Project
+Apalachicola Bay Freshwater Needs Study
+
+Tamplin, M. L., et.al./ Univ. of Florida, Institute of Food and Agricultural 
+Sciences Association of Multiple-Antibiotic-Resistance Profiles with Point and 
+Nonpoint Sources of Escherichia coli in Apalachicola Bay
+
+Iverson, R./ Florida State University, Department of Oceanography
+c-14 Primary Productivity Nutrient Enrichment
+
+Chanton, J./ Florida State University, Department of Oceanography
+Food Web Relationships Utilizing Stable Isotope Ratios
+
+Niu, X./ Florida State University, Department of Statistics
+Edmiston, H.L., Bailey, G.O./ APA NERR Time Series Models for Salinity and Other 
+Environmental Factors in the Apalachicola Estuarine System
+
+Edmiston,HL., Lewis, G., Bailey, GO., Klassen, C., Wright, L./Apalachicola 
+National Estuarine Research Reserve. Distribution and density of fishes and 
+benthic invertebrates in Apalachicola Bay.
+
+Childs, C./Florida State University, Dept. of Oceanography.
+A spatial and temporal assessment of factors affecting denitrification in 
+Apalachicola Bay.
+
+Wilber, P., et.al./NOAA Coastal Services Center & Edmiston, L., et 
+al./Apalachicola National Estuarine Research Reserve Benthic habitat mapping in 
+Apalachicola Bay
+
+
+II.  Physical Structure Descriptors
+
+8. Sensor specifications, range of measurements, units, resolution, and 
+accuracy:
+
+YSI 6000 datalogger
+
+
+Variable      Range of Measurements          Resolution           Accuracy
+Date          1-12, 1-31, 00-99 (Mo,Day,Yr)  1 mo, 1 day, 1 yr    NA
+Time          0-24, 0-60, 0-60 (Hr,Min,Sec)  1 hr, 1 min, 1 s     NA
+Temp               -5 to 45 (c)              0.01  C              +/-0.15C
+Sp COND            0-100(mS/cm)              0.01mS/cm            +/-0.5% Of 
+reading + 0.001mS/Cm
+Salinity      0-70 Parts per thousand (ppt)  0.01 ppt             +/- 1% of 
+Reading or 0.1 ppt, (whichever is greater)
+DO            0-200 (% air saturation)       0.1% @air sat        +/-2% @air 
+Saturation
+DO            200-500 (% air saturation      0.1% @ air sat       +/- 6% @ 
+Saturation
+DO                 0-20 (mg/l)               0.01 mg/l            +/- 0.2mg/l
+DO                 20-50 (mg/l)              0.01 mg/l            +/- 0.6mg/l
+Depth (shallow)    0-9.1 (m)                 0.001m               +/- 0.018m
+PH                 2-14 units                0.01 units           +/- 0.2units
+Turb               0-1000 NTU                0.1 NTU              +/- 5% of 
+Reading or 2 NTU (whichever is greater)
+
+Data columns are separated by tabs.  Each file contains a two line
+column header at the top of the page which identifies measurements and 
+units for each column.
+
+
+
+Hydrolab Datasonde 3
+
+Variable Name 	Range of Measurements (Units)    	Resolution		Accuracy
+
+Date			1-12, 1-31, 00-99 (Mo, Day, Yr)	1 month, 1 day, 1 year	NA
+Time			0-24, 0-60, 0-60 (Hr, Min, Sec)	1 hr, 1 min, 1 s		NA
+Temp			-5 to 50 (C) 				0.01 C		+/-0.15C
+SpCOND		0-100 (mS/cm)				0.01mS/cm		+/-0.5%
+SAL			0-70 Parts per thousand(ppt)		0.1ppt	     +/-0.2ppt
+DO			0-200 (% air Saturation)		0.1% @air sat.   +/-2% air 
+saturation 
+DO			0-20 (mg/l)					0.01mg/l	    +/-0.2mg/l
+Level			0-10 (m)					0.01m		    +/-0.09m
+pH			2-14 units					0.01units	   +/-0.2units
+	
+	
+
+
+
+9. Coded variable code definitions:
+Site definitions: ES = East Bay surface station, EB = East Bay bottom station.
+
+
+10. Data anomalies (suspect data):
+
+
+January, 2000, East Bay (ES)
+A) Negative turbidity values were considered suspect and deleted for the 
+following date/times:
+01/08/00 11:30:00
+01/08/00 15:00:00
+01/12/00 04:00:00
+01/12/00 07:30:00
+01/12/00 09:30:00
+01/12/00 11:30:00 through 01/12/00 12:00:00
+01/12/00 13:00:00
+01/12/00 15:00:00 through 01/12/00 15:30:00
+01/13/00 01:30:00
+01/13/00 05:30:00 through 01/13/00 07:30:00
+01/13/00 08:30:00 through 01/13/00 09:00:00
+01/13/00 10:30:00
+01/18/00 05:30:00 through 01/18/00 06:00:00  
+01/18/00 07:30:00
+01/18/00 09:00:00 through 01/18/00 11:00:00
+
+B) All values except depth were considered suspect and deleted due 
+to probes coming out of the water at low tide for the following 
+date/times:
+01/05/00 10:00:00 through 01/05/00 13:00:00
+01/14/00 05:30:00 through 01/14/00 16:30:00
+01/21/00 11:30:00 through 01/21/00 13:30:00
+
+C) Abnormally high pH values for the following date/times were 
+considered suspect:
+01/26/00 13:00:00 through 01/31/00 23:30:00
+
+East Bay Bottom (EB)
+A) High D.O. values (%sat and mg/l) for the following date/times were 
+considered suspect:
+01/01/00 00:00:00 through 01/07/00 14:00:00
+01/26/00 10:30:00 through 01/31/00 23:30:00
+
+B) Salinity values for the following dates/times were considered suspect
+due to post calibration drift:
+01/01/00 00:00:00 through 01/07/00 14:00:00	
+
+February, 2000, East Bay Surface (ES)
+A) All values except depth were considered suspect and deleted due 
+to probes coming out of the water at low tide for the following 
+date/times:
+02/05/00 11:00:00 through 02/05/00 13:00:00
+
+B) Low pH values for the following date/times were considered suspect 
+and deleted due to redeployment:
+02/10/00 14:30:00 through 02/10/00 15:00:00
+
+C) Turbidity values for the following date/times were considered suspect 
+due to probe out of range at pre and post calibration:
+02/25/00 15:00:00 through 02/29/00 23:30:00
+
+D) Negative turbidity values for the following date/times were considered 
+suspect and deleted:
+02/26/00 15:00:00 through 02/26/00 18:00:00
+02/26/00 21:00:00 through 02/26/00 21:30:00
+02/26/00 23:00:00 through 02/26/00 23:30:00
+02/27/00 05:00:00
+02/27/00 07:00:00
+02/27/00 09:30:00 through 02/27/00 10:00:00
+02/27/00 11:00:00
+02/29/00 14:30:00 through 02/29/00 16:00:00
+02/29/00 17:30:00 through 02/29/00 23:30:00
+
+E) Negative D.O. values (%sat and mg/l) for the following date/times 
+were considered suspect and deleted:
+02/27/00 01:00:00 through 02/27/00 05:30:00
+02/27/00 06:30:00 
+02/27/00 07:30:00 through 07/27/00 08:00:00
+02/27/00 10:30:00
+
+
+F) Abnormally high pH values for the following dates/times were 
+considered suspect:
+02/01/00 00:00:00 through 02/10/00 13:30:00
+
+East Bay Bottom (EB)
+A) High D.O. values (%sat and mg/l) for the following date/times were 
+considered suspect:
+02/01/00 00:00:00 through 02/10/00 12:00:00
+
+
+
+March, 2000, East Bay Surface (ES)
+A) Negative D.O. values (%sat and mg/l) for the following date/times 
+were considered suspect and deleted:
+03/01/00 08:30:00 
+03/01/00 10:00:00 
+
+B) Turbidity values for the following date/times were considered suspect 
+due to probe being out of range at pre and post-calibration:
+03/01/00 00:00:00 through 03/09/00 14:00:00
+
+C) Negative turbidity values for the following date/times were considered 
+suspect and deleted:
+03/01/00 05:00:00
+03/01/00 06:00:00
+03/01/00 08:00:00
+03/01/00 12:00:00 through 03/01/00 15:30:00
+
+D) Turbidity values for the following date/times were considered suspect 
+due to probe being out of range at post-calibration:
+03/22/00 13:00:00 through 03/31/00 23:30:00
+
+E) All values except depth were considered suspect and deleted due 
+to probes coming out of the water at low tide for the following 
+date/times:
+03/13/00 04:30:00 through 03/13/00 07:30:00
+03/14/00 05:30:00 through 03/14/00 08:30:00
+
+
+
+East Bay Bottom (EB)
+A) Negative D.O. (%sat and mg/l) outliers were considered suspect and 
+deleted for the following date/time:
+03/03/00 02:30:00		
+
+B) High turbidity values for the following dates/times were considered 
+suspect possibly due to biological interference:
+03/27/00 12:00:00
+03/27/00 13:30:00 through 03/27/00 14:00:00
+03/27/00 15:30:00 through 03/27/00 19:30:00
+03/27/00 23:00:00
+03/28/00 11:30:00
+03/28/00 15:00:00 through 03/28/00 17:00:00
+03/30/00 15:00:00 through 03/30/00 15:30:00	
+
+April, 2000, East Bay Surface (ES)
+A) All values except depth were considered suspect and deleted due 
+to probes coming out of the water at low tide for the following 
+date/times:
+04/09/00 02:00:00 through 04/09/00 08:30:00
+
+B) High turbidity values for the following date/times were considered 
+suspect due to high probe offset at post calibration:
+04/20/00 11:30:00 through 04/22/00 06:30:00
+
+C) Turbidity values for the following dates/times were considered suspect 
+due to probe being out of range at post-calibration:
+04/01/00 00:00:00 through 04/06/00 12:00:00
+	
+East Bay Bottom (EB)
+A) High D.O. values (%sat and mg/l) for the following date/times were 
+considered suspect and deleted due to probe malfunction:
+04/06/00 13:30:00 through 04/06/00 18:30:00
+
+B) All variables for the following date/time were considered suspect and 
+deleted due to redeployment of surface datalogger:
+04/06/00 12:30:00
+04/24/00 09:30:00
+
+May, 2000, East Bay Surface (ES)
+A) D.O. values (%sat and mg/l) for the following date/times were 
+considered suspect and deleted:
+05/26/00 13:30:00 through 05/31/00 23:30:00
+
+East Bay Bottom (EB)
+No suspect data.
+
+June, 2000, East Bay Surface (ES)
+A) D.O. values (%sat and mg/l) for the following date/times were 
+considered suspect and deleted:
+06/01/00 00:00:00 through 06/13/00 11:00:00
+
+B) A shift in pH values for the following date/times were considered 
+suspect due to meter redeployment:
+06/28/00 09:00:00 through 06/28/00 09:30:00
+
+East Bay Bottom (EB)
+A) Low and negative D.O values (%sat and mg/l) for the following 
+date/times were considered suspect and deleted:
+06/13/00 15:00:00 through 06/13/00 16:30:00
+
+B) High turbidity values for the following date/time were considered 
+suspect:
+06/22/00 16:30:00
+
+C) Low D.O. values (%sat and mg/l) for the following date/times were 
+considered suspect due to biological fouling:
+06/08/00 11:00:00 through 06/13/00 14:30:00
+
+July, 2000, East Bay Surface (ES)
+A) Turbidity values throughout the following date/times were considered 
+suspect due to probe being out of range at post calibration:
+07/11/00 11:00:00 through 07/24/00 08:30:00
+
+East Bay Bottom (EB)
+A) Turbidity values for the following date/times were considered suspect 
+and deleted due to probe malfunction:
+07/11/00 11:00:00 through 07/24/00 08:30:00
+
+August, 2000, East Bay Surface (ES)
+A) Low and decreasing D.O. values (%sat and mg/l) throughout the 
+following date/time were considered suspect due to fouling:
+08/22/00 00:00:00 through 08/25/00 08:00:00
+
+B) D.O. values (%sat and mg/l) for the following date/times were 
+considered suspect due to probe being out of range at download:
+08/25/00 09:00:00 through 08/31/00 23:30:00
+
+C) Negative D.O. values (%sat and mg/l) for the following date/times 
+were considered suspect and deleted:
+08/26/00 07:00:00 through 08/26/00 11:00:00
+08/28/00 06:00:00 through 08/28/00 06:30:00
+08/31/00 08:00:00
+08/31/00 12:30:00
+08/31/00 14:00:00 through 08/31/00 15:00:00
+
+D) Negative turbidity values for the following date/times were considered 
+suspect and deleted:
+08/26/00 06:00:00 through 08/26/00 10:30:00
+08/26/00 14:30:00
+08/27/00 11:00:00
+
+East Bay Bottom (EB)
+A) Turbidity values for the following date/times were considered suspect 
+due to probe out of range at post calibration:
+08/11/00 10:00:00 through 08/25/00 08:00:00
+
+B)  D.O. values (%sat and mg/l) for the following date/times were 
+considered suspect due to probe being out of range at post calibration:
+08/08/00 03:30:00 through 08/25/00 08:00:00
+
+September, 2000 East Bay Surface (ES)
+A) Negative turbidity values for the following dates/times were considered 
+suspect and deleted:
+09/01/00 05:00:00
+09/04/00 09:00:00
+09/05/00 02:30:00
+09/05/00 07:30:00 through 09/05/00 08:00:00
+09/06/00 07:00:00 through 09/06/00 11:00:00
+09/06/00 14:30:00
+09/07/00 11:00:00
+09/07/00 12:00:00 through 09/07/00 13:30:00
+09/07/00 17:00:00
+09/07/00 18:00:00 through 09/07/00 19:00:00
+09/07/00 20:00:00
+09/08/00 00:00:00	
+
+B) Turbidity values for the following dates/times were considered suspect 
+due to probe out of range at post calibration:
+09/08/00 09:00:00 through 09/21/00 08:00:00
+
+C) D.O. values (%sat and mg/l) for the following dates/times were considered 
+suspect due to probe being out of range at post-calibration:
+09/01/00 00:00:00 through 09/08/00 08:00:00
+09/21/00 09:30:00 through 09/30/00 23:30:00
+
+D) Negative D.O. values (%sat and mg/l) for the following dates/times were 
+considered suspect and deleted:
+09/05/00 07:30:00 through 09/05/00 08:00:00
+09/05/00 09:00:00 through 09/05/00 10:00:00
+09/05/00 11:00:00 
+09/05/00 22:00:00
+09/30/00 20:30:00 through 09/30/00 22:30:00
+
+East Bay Bottom (EB)
+A) Turbidity values for the following dates/times were considered suspect due to 
+hi probe offset at post-calibration:
+09/08/00 09:00:00 through 09/21/00 08:00:00
+
+October, 2000, East Bay Surface (ES)
+A) All D.O. values (%sat and mg/l), including negative values, for the following 
+date/times were considered suspect and deleted due to probe being out of range 
+at post calibration:
+10/01/00 00:00:00 through 10/10/00 02:30:00
+
+C) Turbidity values for the following dates/times were considered suspect due to 
+high probe offset at pre-calibration:
+10/10/00 13:30:00 through 10/31/00 23:30:00
+
+East Bay Bottom (EB)
+A) Turbidity values for the following dates/times were considered suspect due to 
+high probe offset at pre-calibration:
+10/10/00 13:30:00 through 10/31/00 23:30:00
+
+B) Negative D.O. values (%sat and mg/l) for the following dates/times were 
+considered suspect and deleted: 
+10/22/00 11:30:00
+10/22/00 12:30:00
+10/23/00 02:30:00
+10/23/00 09:00:00
+10/25/00 04:00:00 through 10/25/00 11:30:00
+10/25/00 16:30:00 through 10/25/00 22:00:00
+10/26/00 03:30:00 through 10/26/00 12:30:00
+10/26/00 20:30:00 through 10/26/00 21:00:00
+10/27/00 04:30:00
+10/28/00 23:30:00
+10/29/00 23:30:00
+
+C) Periodic low D.O. values (%sat and mg/l) for the following dates/times were 
+considered suspect:
+10/20/00 00:00:00 through 10/31/00 23:30:00
+
+November, 2000, East Bay Surface (ES)
+A) D.O. values (%sat and mg/l) for the following dates/times were considered 
+suspect due to probe being out of calibration at post-deployment: 
+11/01/00 10:00:00 through 11/27/00 09:00:00
+
+B) Turbidity values for the following dates/times were considered suspect due to 
+high probe offset at post-calibration:
+11/01/00 10:00:00 through 11/27/00 09:00:00
+
+East Bay Bottom (EB)
+A) D.O. values (%sat and mg/l) for the following dates/times were considered 
+suspect and deleted due to probe out of range at post-calibration:
+11/27/00 10:00:00 through 11/30/00 23:30:00
+
+B) D.O. values (%sat and mg/l) for the following dates/times were considered 
+suspect:
+11/01/00 00:00:00 through 11/01/00 09:00:00
+
+
+December, 2000, East Bay Surface (ES)
+A) All variables except depth were considered suspect and deleted due to probes 
+coming out of the water at low tide for the following dates/times:
+12/20/00 05:30:00 through 12/20/00 10:00:00
+12/22/00 10:30:00 through 12/22/00 12:30:00
+12/23/00 09:30:00 through 12/23/00 12:00:00
+12/25/00 10:00:00 through 12/25/00 13:00:00
+12/30/00 14:30:00 through 12/30/00 15:00:00
+
+East Bay Bottom (EB)
+A) D.O. values (%sat and mg/l) for the following dates/times were considered 
+suspect and deleted due to probe being out of range at post-calibration:
+12/01/00 00:00:00 through 12/11/00 13:00:00
+ 
+
+
+11. Missing data:
+
+January, 2000, East Bay (ES)
+A) All variables are missing for the following date/times due to meter 
+redeployment:
+01/07/00 14:00:00 through 01/07/00 14:30:00
+01/26/00 12:00:00 through 01/26/00 12:30:00
+
+B) All pH values are missing for the following date/times due to the absence of 
+a pH probe:
+01/07/00 15:00:00 through 01/26/00 11:30:00
+  
+C) Negative turbidity values were considered suspect and deleted for the 
+following date/times:
+01/08/00 11:30:00
+01/08/00 15:00:00
+01/12/00 04:00:00
+01/12/00 07:30:00
+01/12/00 09:30:00
+01/12/00 11:30:00 through 01/12/00 12:00:00
+01/12/00 13:00:00
+01/12/00 15:00:00 through 01/12/00 15:30:00
+01/13/00 01:30:00
+01/13/00 05:30:00 through 01/13/00 07:30:00
+01/13/00 08:30:00 through 01/13/00 09:00:00
+01/13/00 10:30:00
+01/18/00 05:30:00 through 01/18/00 06:00:00
+01/18/00 07:30:00
+01/18/00 09:00:00 through 01/18/00 11:00:00
+
+D) All values except depth were considered suspect and deleted due to probes 
+coming out of the water at low tide for the following date/times:
+01/05/00 10:00:00 through 01/05/00 13:00:00
+01/14/00 05:30:00 through 01/14/00 16:30:00
+01/21/00 11:30:00 through 01/21/00 13:30:00
+
+East Bay Bottom (EB)
+A) All turbidity values for the following dates/times are missing due to 
+the absence of a turbidity probe:
+01/01/00 00:00:00 through 01/31/00 23:30:00
+
+B) All variables missing for the following date/times due to data loss:
+01/07/00 14:30:00 through 01/26/00 10:00:00
+
+February, 2000, East Bay Surface (ES)
+A) All values except depth were considered suspect and deleted due to probes 
+coming out of the water at low tide for the following date/times:
+02/05/00 11:00:00 through 02/05/00 13:00:00
+
+B) All variables are missing for the following date/times due to meter 
+redeployment:
+02/10/00 14:00:00
+02/25/00 14:30:00
+
+C) Low pH values for the following date/times were considered suspect and 
+deleted due to redeployment:
+02/10/00 14:30:00 through 02/10/00 15:00:00
+
+D) Negative turbidity values for the following date/times were considered 
+suspect and deleted:
+02/26/00 15:00:00 through 02/26/00 18:00:00
+02/26/00 21:00:00 through 02/26/00 21:30:00
+02/26/00 23:00:00 through 02/26/00 23:30:00
+02/27/00 05:00:00
+02/27/00 07:00:00
+02/27/00 09:30:00 through 02/27/00 10:00:00
+02/27/00 11:00:00
+02/29/00 14:30:00 through 02/29/00 16:00:00
+02/29/00 17:30:00 through 02/29/00 23:30:00
+
+E) Negative D.O. values (%sat and mg/l) for the following date/times were 
+considered suspect and deleted:
+02/27/00 01:00:00 through 02/27/00 05:30:00
+02/27/00 06:30:00 
+02/27/00 07:30:00 through 07/27/00 08:00:00
+02/27/00 10:30:00
+
+East Bay Bottom (EB)
+A) All variables are missing for the following date/times due to meter 
+redeployment:
+02/10/00 12:30:00 through 02/10/00 14:00:00
+
+B) All turbidity values for the following date/times are missing due to the 
+absence of a turbidity probe:
+02/01/00 00:00:00 through 02/25/00 14:30:00
+
+C) All pH values for the following date/times are missing due to the 
+absence of a pH probe:
+02/10/00 14:30:00 through 02/25/00 14:30:00
+
+March, 2000, East Bay Surface (ES)
+A) All pH values are missing for the following date/times due to absence of pH 
+probe:
+03/09/00 14:30:00 through 03/22/00 12:00:00
+
+B) All values are missing for the following date/time due to meter redeployment:
+03/22/00 12:30:00
+
+C) Negative D.O. values (%sat and mg/l) for the following date/times were 
+considered suspect and deleted:
+03/01/00 08:30:00 
+03/01/00 10:00:00 
+
+D) Negative turbidity values for the following date/times were considered 
+suspect and deleted:
+03/01/00 05:00:00
+03/01/00 06:00:00
+03/01/00 08:00:00
+03/01/00 12:00:00 through 03/01/00 15:30:00
+
+E) All values except depth were considered suspect and deleted due to probes 
+coming out of the water at low tide for the following date/times:
+03/13/00 04:30:00 through 03/13/00 07:30:00
+03/14/00 05:30:00 through 03/14/00 08:30:00
+
+East Bay Bottom (EB)
+A) All pH values are missing for the following date/times due to absence of pH 
+probe:
+03/09/00 14:30:00 through 03/22/00 12:00:00
+
+B) All turbidity values for the following date/times are missing due to the 
+absence of a turbidity probe:
+03/09/00 14:30:00 through 03/22/00 12:00:00
+
+C) All values are missing for the following date/time due to meter redeployment:
+03/22/00 12:30:00
+
+D) Negative D.O. (%sat and mg/l) outliers were considered suspect and deleted 
+for the following date/time:
+03/03/00 02:30:00
+
+April, 2000, East Bay Surface (ES)
+A) All values are missing for the following date/time due to meter redeployment:
+04/06/00 12:30:00
+04/24/00 09:30:00
+
+B) All values except depth were considered suspect and deleted due to probes 
+coming out of the water at low tide for the following date/times:
+04/09/00 02:00:00 through 04/09/00 08:30:00
+	
+East Bay Bottom (EB)
+A) All pH values are missing for the following date/times due to absence 
+of pH probe:
+04/07/00 11:00:00 through 04/24/00 09:00:00
+
+B) All variables for the following date/time were deleted due to meter 
+redeployment:
+04/06/00 12:30:00
+04/24/00 09:30:00
+			
+C) All turbidity values for the following date/times are missing due to the 
+absence of a turbidity probe:
+04/24/00 10:00:00 through 04/30/00 23:30:00
+
+D)High D.O. values (%sat and mg/l) for the following date/times were considered 
+suspect and deleted due to probe malfunction:
+04/06/00 13:30:00 through 04/06/00 18:30:00
+
+
+
+May, 2000, East Bay Surface (ES)
+A) D.O. values (%sat and mg/l) for the following date/times were considered 
+suspect and deleted:
+05/26/00 13:30:00 through 05/31/00 23:30:00
+
+East Bay Bottom (EB)
+A) All turbidity values for the following date/times are missing due to the 
+absence of a turbidity probe:
+05/01/00 00:00:00 through 05/11/00 11:00:00
+05/26/00 13:30:00 through 05/31/00 23:30:00
+
+June, 2000, East Bay Surface (ES)
+A) D.O. values (%sat and mg/l) for the following date/times were considered 
+suspect and deleted:
+06/01/00 00:00:00 through 06/13/00 11:00:00
+
+East Bay Bottom (EB)
+A) All turbidity values for the following date/times are missing due to the 
+absence of a turbidity probe:
+06/01/00 00:00:00 through 06/13/00 11:30:00
+06/28/00 09:30:00 through 06/30/00 23:30:00
+
+B) Negative D.O values (%sat and mg/l) for the following date/times were 
+considered suspect and deleted:
+06/13/00 15:00:00 through 06/13/00 16:30:00
+
+
+July, 2000, East Bay Surface (ES)
+A) All values are missing for the following date/time due to meter redeployment:
+07/11/00 10:30:00
+07/24/00 09:00:00
+
+East Bay Bottom (EB)
+A) All values are missing for the following date/time due to meter redeployment:
+07/11/00 10:30:00 
+07/24/00 09:00:00
+
+B) All turbidity values for the following date/times are missing due to the 
+absence of a turbidity probe:
+07/01/00 00:00:00 through 07/11/00 10:00:00
+07/24/00 09:30:00 through 07/31/00 23:30:00
+
+C) Turbidity values for the following date/times were considered suspect and 
+deleted due to probe malfunction:
+07/11/00 11:00:00 through 07/24/00 08:30:00
+
+August, 2000, East Bay Surface (ES)
+A) All values are missing for the following date/time due to meter redeployment:
+08/25/00 08:30:00
+
+B) Negative D.O. values (%sat and mg/l) for the following date/times were 
+considered suspect and deleted:
+08/26/00 07:00:00 through 08/26/00 11:00:00
+08/28/00 06:00:00 through 08/28/00 06:30:00
+08/31/00 08:00:00
+08/31/00 12:30:00
+08/31/00 14:00:00 through 08/31/00 15:00:00
+
+C) Negative turbidity values for the following date/times were considered 
+suspect and deleted:
+08/26/00 06:00:00 through 08/26/00 10:30:00
+08/26/00 14:30:00
+08/27/00 11:00:00
+
+East Bay Bottom (EB)
+A) All turbidity values for the following date/times are missing due to the 
+absence of a turbidity probe:
+08/01/00 00:00:00 through 08/11/00 09:30:00
+08/25/00 09:00:00 through 08/31/00 23:30:00
+
+B) All values are missing for the following date/times due to meter 
+redeployment:
+08/25/00 08:30:00
+
+September, 2000, East Bay Surface (ES)
+A) All values for the following dates were missing due to meter 
+redeployment:
+09/08/00 08:30:00
+09/21/00 08:30:00 through 09/21/00 09:00:00
+
+B) Negative turbidity values for the following dates/times were considered 
+suspect and deleted:
+09/01/00 05:00:00
+09/04/00 09:00:00
+09/05/00 02:30:00
+09/05/00 07:30:00 through 09/05/00 08:00:00
+09/06/00 07:00:00 through 09/06/00 11:00:00
+09/06/00 14:30:00
+09/07/00 11:00:00
+09/07/00 12:00:00 through 09/07/00 13:30:00
+09/07/00 17:00:00
+09/07/00 18:00:00 through 09/07/00 19:00:00
+09/07/00 20:00:00
+09/08/00 00:00:00
+
+C) Negative D.O. values (%sat and mg/l) for the following dates/times were 
+considered suspect and deleted:
+09/05/00 07:30:00 through 09/05/00 08:00:00
+09/05/00 09:00:00 through 09/05/00 10:00:00
+09/05/00 11:00:00 
+09/05/00 22:00:00
+09/30/00 20:30:00 through 09/30/00 22:30:00
+
+East Bay Bottom (EB)
+A) Turbidity values for the following dates/times are missing due to absence of 
+turbidity probe:
+09/01/00 00:00:00 through 09/08/00 08:00:00
+09/21/00 09:30:00 through 09/30/00 23:30:00
+
+B) All values for the following dates/times are missing due to redeployment:
+09/08/00 08:30:00 
+09/21/00 08:30:00 through 09/21/00 09:00:00
+
+October, 2000, East Bay Surface (ES)
+A) All values for the following dates/times missing due to instrument stopped 
+collecting data:
+10/10/00 03:00:00 through 10/10/00 13:00:00
+
+B) Negative D.O. values (%sat and mg/l) for the following dates/times were 
+considered suspect and deleted:
+10/01/00 00:00:00 through 10/01/00 01:30:00
+10/01/00 07:00:00 
+10/02/00 12:00:00 through 10/10/00 02:30:00
+
+East Bay Bottom (EB)
+A) Turbidity values for the following dates/times are missing due to absence of 
+turbidity probe:
+10/01/00 00:00:00 through 10/10/00 02:30:00
+
+B) All values are missing for the following dates/times times due to instrument 
+failure:
+10/17/00 17:30:00 through 10/17/00 18:00:00
+10/19/00 14:30:00
+	
+C) All values for the following dates/times are missing due to instrument 
+stopped collecting data:
+10/10/00 03:00:00 through 10/10/00 13:00:00
+
+D) Negative D.O. values (%sat and mg/l) for the following dates/times were 
+considered suspect and deleted: 
+10/22/00 11:30:00
+10/22/00 12:30:00
+10/23/00 02:30:00
+10/23/00 09:00:00
+10/25/00 04:00:00 through 10/25/00 11:30:00
+10/25/00 16:30:00 through 10/25/00 22:00:00
+10/26/00 03:30:00 through 10/26/00 12:30:00
+10/26/00 20:30:00 through 10/26/00 21:00:00
+10/27/00 04:30:00
+10/28/00 23:30:00
+10/29/00 23:30:00
+
+	
+November, 2000, East Bay Surface (ES)
+A) All values for the following dates/times missing due to redeployment:
+11/27/00 09:30:00 
+
+East Bay Bottom (EB)	
+A) All values for the following dates/times are missing due to instrument 
+failure:
+11/28/00 19:00:00 through 11/28/00 20:00:00
+
+B) Turbidity values for the following dates/times are missing due to absence of 
+probe:
+11/01/00 09:30:00 through 11/27/00 09:00:00
+
+C) All values for the following dates/times are missing due to redeployment:
+11/27/0 09:30:00
+
+D) D.O. values (%sat and mg/l) for the following dates/times were considered 
+suspect and deleted due to probe out of range at post-calibration:
+11/27/00 10:00:00 through 11/30/00 23:30:00
+
+
+December, 2000, East Bay Surface (ES)
+A) All variables except depth were considered suspect and deleted due to probes 
+coming out of the water at low tide for the following dates/times:
+12/20/00 05:30:00 through 12/20/00 10:00:00
+12/22/00 10:30:00 through 12/22/00 12:30:00
+12/23/00 09:30:00 through 12/23/00 12:00:00
+12/25/00 10:00:00 through 12/25/00 13:00:00
+12/30/00 14:30:00 through 12/30/00 15:00:00
+
+B) Turbidity values missing for the following dates/times due to absence of 
+turbidity probe:
+12/11/00 13:30:00 through 12/31/00 23:30:00
+
+East Bay Bottom (EB)
+A) D.O. values (%sat and mg/l) for the following dates/times were considered 
+suspect and deleted due to probe out of range at post-calibration:
+12/01/00 00:00:00 through 12/11/00 13:00:00
+
+		
+12. Other remarks/notes:
+
+On 06/30/2021 this dataset was updated to include embedded QAQC flags for 
+anomalous/suspect data.  System-wide monitoring data beginning in 2007 were 
+processed to allow for QAQC flags and codes to be embedded in the data files 
+rather than detailed in the metadata alone (as in the anomalous/suspect, 
+deleted, and missing data sections above).  Prior to 2006, rejected data were 
+deleted from the dataset so they are unavailable to be used at all, but 
+suspect data were only noted in the metadata document.  Suspect data flags 
+<1> were embedded retroactively in order to allow suspect data to be easily 
+identified and filtered from the dataset if desired for analysis and 
+reporting purposes.  No other flags or codes were embedded in the dataset 
+and users should still refer to the detailed explanations above for more 
+information.
+
+Tropical Storm Helene passed over the research area on September 22, 2000. No 
+data were deleted for this time.   
+
+East Bay Bottom (EB)
+All parameters between 09/22/00 and 09/30/00 were affected by Tropical Storm 
+Helene which passed over the area on September 22, 2000. These data were not 
+deleted. 
+
+East Bay Surface (ES)
+
+All parameters between 09/22/00 and 09/30/00 were affected by Tropical Storm 
+Helene which passed over the area on September 22, 2000. These data were not 
+deleted. 
+
+

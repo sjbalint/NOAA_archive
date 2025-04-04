@@ -1,0 +1,502 @@
+Narragansett Bay (NAR) NERR Water Quality Metadata Form
+(Jan - Dec 1999)
+Latest update: March 14, 2001
+
+I.  Data set and Research Descriptors
+
+1.  Principal investigators and contact persons.
+
+Chris Deacutis, Research Coordinator	Susan C. Adamowicz, Research Associate
+Narragansett Bay NERR				University of Rhode Island
+55 South Reserve Dr.				Graduate School of Oceanography
+Prudence Island, RI 02872			South Ferry Road
+							Narragansett, RI  02882
+Tel: (401) 683-6780				Tel: (401) 874-6617
+Fax: (401) 682-1936				Fax: (401) 874-6613
+Email:  deacutis@etal.uri.edu			Email:  scadam@gsosun1.gso.uri.edu
+
+2.  Entry verification.
+
+Other water quality measurements are made by standard field methods at the time 
+of datalogger deployment and weekly thereafter.  Results are compared with YSI 
+6000 data records.  Data may be corrected based on the comparative analyses and 
+is then so noted in the data anomaly section of the metadata form. 
+
+Temperature is measured by mercury thermometer calibrated with a NBS certified 
+thermometer.  Dissolved oxygen is determined by a modified Winkler titration.  
+Salinity is measured with a Hydrolab Surveyor 3 equipped with a salinity/ 
+conductivity sensor.  A Corning benchtop pH meter determines the pH.  Turbidity 
+is presently measured with a Secchi disk.  (This method does not provide data 
+that is comparable to the YSI data.  An appropriate method recommended by the 
+manufacturer and accepted by the scientific community will be used in the 
+future.)  Allan Beck is responsible for these water quality measurements.
+
+Data is uploaded to a PC from the YSI datalogger using the PC6000 software in 
+both the PC6000 format and in comma-delimited format.  The comma-delimited data 
+is opened in Excel 5.0 and edited to remove headers and extra spaces.  Each file 
+contains a month's data and missing days are denoted by periods.  Quality 
+control of the database was accomplished using CDMO macros and by always 
+graphing out data, looking for outliers, missing data, and other anomalies.  
+Susan C. Adamowicz performed all quality control on the data.
+
+3.  Research objectives.
+
+YSI6000 dataloggers are being deployed off Prudence Island in Narragansett Bay 
+as part of the National Estuarine Research Reserve's (NERR) Water Quality 
+Monitoring Program. The goal is to develop long-term data sets for 
+representative estuarine systems in order to track changes in water quality over 
+time. The instruments are deployed for two to four weeks at a time, depending on 
+season, and measurements are taken every 30 minutes.  Currently two stations on 
+Prudence Island, Potters Cove in the north and the T-Wharf on the southern tip 
+of the island have been established.   The Potters Cove site, which was 
+established in December 1995 receives waste from boaters and is considered an 
+impacted site.  All Rhode Island State waters, however, were declared a federal 
+no-discharge zone (for marine sewage) in late spring 1998.  It is now illegal 
+for boaters to discharge treated or untreated sewage into waters of the state, 
+including Potters Cove.  The T-Wharf site is in open water on Narragansett Bay.
+
+4.  Research Methods.
+
+Before each deployment, routine maintenance and calibration of the YSI 
+instrument are carried out.  The instrument is cleaned to remove any fouling and 
+the probes are checked for cracks or other visible signs of damage.  O-rings are 
+cleaned and greased, and batteries installed.  Calibrations are performed for 
+salinity, pH, dissolved oxygen, depth, and turbidity.  For the salinity 
+calibration, filtered seawater from Narragansett Bay is collected and its 
+salinity determined using an autosal.  This seawater is then used as a salinity 
+standard. A two-point pH calibration is performed using pre-made buffer 
+solutions of pH 7 and 10 obtained from Fisher Scientific. Old pH solutions are 
+used for rinsing the probes.  The dissolved oxygen membrane is replaced 24 hours 
+prior to calibration.  The DO probe is calibrated by placing a wet sponge in the 
+calibration cup and allowing the instrument to equilibrate, as per the 
+manufacturer's instructions, for a 100% air saturation calibration.  The depth 
+sensor is calibrated to sea level with the sonde lying horizontal on a 
+countertop, calibration cup and nearby objects removed.  As of December 28, 
+1998, a three-point (0, 10, 100 NTU) turbidity calibration was instituted using 
+distilled, deionized water, a diluted turbidity standard solution, and a full-
+strength standard (standard obtained from YSI Inc.)
+
+The sondes are deployed in PVC tubes with sections cut out to allow water flow.  
+The PVC tube is attached to a dock.   The sondes are programmed to collect data 
+every 30 minutes during deployment.  Deployments generally last two weeks to 
+four weeks, data collection is continuous unless some mishap occurs.  At the end 
+of each deployment, the data is uploaded, put in Excel format, and QA/QC'd using 
+the Excel Macros provided by the CDMO.  
+
+5. Site Location and Character.
+
+The NARNERR consists of 2200 acres of diverse estuarine and terrestrial habitats 
+ranging from deep water to salt marshes to forested uplands.  The land holdings 
+include 60% of Prudence Island, most of nearby Patience Island and all of Hope 
+Island off the west shore of Prudence.  The Reserve is located close to the 
+geographical center of Narragansett Bay in Rhode Island.
+	Tidal range:  -0.2 to 1.7 meters MLW
+	Salinity:  15 to 32 ppt
+	Temperature:  -1.0 to 26 C
+	Province:  North temperate, Virginian bioregion
+	Lat. 41 38'30" N, 71 20'30" W
+
+Specific characteristics of the Potters Cove site are:
+	Depth:  2.2 to 3.8 meters
+	Bottom habitat: Sand, silt, some organic mud
+	Pollutants:  Boaters' wastes
+	Watershed:  Narragansett Bay, North Prudence (4801 square km) 
+	Location (degrees, decimal minutes):  41 deg 38.433', 71 deg 20.454' 
+
+Specific characteristics of the T-wharf site are:
+	Depth:  4 meters
+	Bottom habitat: sand and silt
+	Watershed:  Narragansett Bay
+	Location (degrees, decimal minutes):  41 deg 34.742', 71 deg 19.272'
+
+6.  Data Collection Period
+
+Potters Cove data collection began December 3, 1995 and is ongoing.  T-wharf 
+data collection began September 1996 and terminated in January 1998 when the 
+sonde and its mounting were lost at sea.  T-Wharf data collection resumed in 
+March 1999 and continues to date.
+
+Sonde Data files/ Deployment Dates:
+
+January, 1999:
+	PC:  Sonde files:  66PC1298 1/1 --> 1/13 8:30:00 hr.  67PC0199 1/13 
+9:00:00 hr --> end of month.  
+
+	TW:  Sonde was lost at sea on 12/30/97 and not recovered until late Fall 
+1998.  Station not re-established until March 1999.
+
+February, 1999: 
+	PC:  Sonde files:  67PC0199 2/1 --> 2/3 8:30:00 hr.  66PC0299 2/3 9:00:00 
+hr --> end of month.
+	TW:  Not deployed.
+	 
+March, 1999:
+	PC: Sonde files:  66PC0299 3/1 --> 3/10 8:30:00 hr.  67PC0399 3/10 9:00:00 
+hr --> 3/31 8:30:00 hr.  11PC0399 3/31 9:00:00 --> end of month.
+	TW: Sonde files:  06TW0399 3/19 10:00:00 hr --> 3/31 9:00:00 hr.  66TW0399 
+3/31 9:30:00 hr --> end of month.
+
+April, 1999:
+	PC:  11PC0399 4/1 --> 4/21 8:00:00 hr. 67PC0499 4/21 8:30:00 hr --> end of 
+month.
+	TW:  66TW0399 4/1 --> 4/2 00:00:00 hr.  06TW0499 4/21 9:00:00 hr --> end 
+of month.
+	 
+May, 1999:
+	PC:  67PC0499 5/1 --> 5/19 8:00:00 hr.  ABPC0599 5/19 8:30:00 hr --> end 
+of month.
+	TW:  06TW0499 5/1 --> end of month.  Unit broke from tether during this 
+period, fell to bottom but continued to record data through June 16 when it was 
+retrieved.
+
+June, 1999:
+	PC:  ABPC0599 6/1 --> 6/16 8:30:00 hr.  ABPC0699 6/28 9:00:00 hr --> end 
+of month.
+	TW:  06TW0499 6/1 --> 6/17 8:30:00 hr. (Unit 06 had been lost at sea.  See 
+note for May.) 67TW0699 6/18 8:30:00 hr --> 6/28 13:00:00.  06TW0699 6/28 
+14:00:00 --> end of month.
+
+
+July, 1999
+	PC: ABPC0699 7/1 --> 7/15 8:30:00 hr.  66PC0799 7/15 7:00:00 --> 7/28 
+6:30:00 hr.  AAPC0799 7/28 8:00:00 hr --> end of month.
+	TW:  06TW0699 7/1 --> 7/15 8:30:00 hr.  67TW0799 7/15 8:30:00 --> 7/28 
+8:00:00 hr.  ABTW0799 7/28 9:00:00 hr --> end of month.
+
+August, 1999:
+	PC: AAPC0799 8/1 --> 8/13 8:30:00.  06PC0899 8/13 8:00:00 hr --> 8/25 
+9:30:00 hr. AAPC0899 8/25 11:00:00 hr --> end of month.
+	TW:  ABTW0799 8/1 --> 8/13 8:00:00 hr.  67TW0899 8/13 8:30:00 -->  8/25 
+7:00:00 hr.  ABTW0899 8/25 7:30:00 hr. --> end of month.
+
+September, 1999:
+	PC:  AAPC0899 9/1 --> 9/13 8:00:00 hr.  66PC0999 9/13 8:30 --> 9/29 7:30.  
+APC0999 9/29 8:30 --> end of month.
+	TW:  ABTWo899 9/1 --> 9/13 8:30:00 hr.  67TW0999 9/13 9:30:00 hr. --> 9?29 
+8:30:00 hr.  ABTW0999 9/29 10:00:00 hr --> end of month (but no data collected.)
+
+October, 1999:
+	PC:  AAPC0999 10/1 --> 10/26 7:30:00 hr.  66PC1099 10/27 8:00:00 --> end 
+of month.
+	TW: ABTW0999 10/1 --> 10/27 8:30:00 hr. (But no data collected.)  67TW1099 
+10/27 9:30:00 hr --> end of month.
+
+November, 1999:
+	PC:  66PC1099 11/1 --> 11/10 9:00:00 hr.  AAPC1199 11/10 9:30:00 hr --> 
+end of month.
+	TW:  67TW1099 11/1 --> 11/10 8:30:00 hr.  ABTW1199 11/10 9:00:00 hr --> 
+end of month.
+
+December, 1999:
+	PC:  AAPC1199 12/1 --> 12/2 13:00:00 hr.  66PC1299 12/2 13:30:00hr --> 
+12/22 9:00:00 hr.  AAPC1299 12/22 9:30:00 hr --> end of month.
+	TW:   ABTW1199 12/1 --> 12/2 9:30:00 hr. 67TW1299 12/2 10:00:00 hr. --> 
+12/22 8:30:00 hr.  ABTW1299 12/22 9:00:00 --> end of month.
+
+
+ 7.  Associated Researchers and Projects.
+
+There is a research grade meteorological station located approximately 200 yards 
+from the Potters Cove station.  Chris Turner, R. I. Department of Environmental 
+Management, Water Resources Division, is currently collecting data.  Parameters 
+measured include wind speed and direction, air temperature, humidity, 
+precipitation, and barometric pressure.
+
+
+II.  Physical Structure Descriptors
+
+8.  Sensor specifications, range of measurements, units, resolution, and 
+accuracy:
+
+YSI 6000 datalogger
+Variable Name
+Range of Measurement (Units)
+Resolution	
+Accuracy
+Date
+1-12, 1-31, 00-99 (Mo,Day,Yr)
+1 month, 1 day, 1 year
+NA
+
+Time
+0-24, 0-60, 0-60 (Hr, Min, Sec)
+1 hr, 1 min, 1 s
+NA
+
+Temp
+-5 to 45 (C)
+0.01 C
++/-0.15C
+
+SpCOND
+0-100 (mS/cm)
+0.01mS/cm
++/-0.5% of reading +0.001 mS/cm
+Salinity
+0-70 Parts per thousand (ppt)
+0.01ppt
++/-1.0% of reading or 0.1ppt, (whichever is greater)
+
+DO
+0-200 (%air saturation)
+0.1% @air saturation
++/-2% @air saturation
+DO
+200-500 (% air saturation)
+0.1% @air saturation
++/-6% @air saturation
+
+DO
+0-20 (mg/l)
+0.01 mg/l
++/-0.2 mg/l
+DO
+20-50 (mg/l)
+0.01 mg/l
++/-0.6 mg/l
+
+Depth(shallow)
+0-9.1 (m)
+0.001 m
++/-0.018 m
+
+pH
+2-14 units
+0.01 units
++/-0.2 units
+
+Turb
+0-1000 (NTU)
+0.1 NTU
++/-5% of reading or 2 NTU (whichever is >)
+
+
+9.  Coded variable indicator and variable code definitions:
+
+Site definitions: PC = Potters Cove; TW = T-wharf.
+File definitions: YSI deployment site/month/year (ex: PC0196 = Potters Cove data 
+from January of 1996)
+
+
+10.  Anomalous Data
+GENERAL NOTES:  Data files & deployment times are given above since it was noted 
+that occasionally there are abrupt shifts in some variables at time of 
+changeover.  Individual instances of negative turbidity are not noted.  They 
+should be interpreted as zero values except where noted.  
+
+January, 1999:
+	PC: DO spike at changeover 1/13 @ 9:00:00 hr.  For the month of January, 
+there were 249 negative turbidity values throughout the month due calibration 
+errors.
+
+	TW:  Sonde not deployed until March 1999.
+
+February, 1999: 
+	PC:  DO values on 2/3 9:00:00 hr show anomalous readings; DO settled down 
+within 48 hours.  Not sure what accounted for these results, may have been 
+associated with increased temperatures?  Data left in to display trends.  DO 
+spike at changeover 2/3 @ 9:00:00 hr.  For the month of February, there were 118 
+negative turbidity values throughout the month due calibration errors.
+	TW:  Sonde not deployed until March 1999.
+	 
+March, 1999:
+	PC: DO spike at changeover 3/10 9:00:00 hr.  Changed turbidity reading on 
+3/31 9:00:00 hr from 104.8 to "." due to reading occurring almost immediately at 
+changeover.  For the month of March, there were 70 negative turbidity values 
+throughout the month due calibration errors.
+
+	TW:  DO deleted from 3/24 0:30:00 hr --> 3/31 5:30:00 hr due to membrane 
+puncture.  Turbidity high on 3/22 0:30:00 hr (521.7 ntu).
+
+April, 1999:
+	PC: Salinity of 29.26 on 4/11 at 18:30:00 hr looks like spike on graph, 
+but is a real reading.  For the month of April, there were 647 negative 
+turbidity values throughout the month due calibration errors.
+	TW: Missing data:  DO  4/28 20:30:00 hr --> end of month due to membrane 
+puncture.  Anomalous data:  Turbidity 4/1 18:30:00 hr (-620.2 ntu); 22:30:00 hr 
+(565.4 ntu); 23:30:00 hr (466.9 ntu); 4/22 22:00:00 hr (1501.5 ntu).  Sonde 
+deployed on 4/21 broke off from tether and fell to bottom sediments at an 
+unknown date and time, though suspect possibly on 5/11/99 due to increased 
+turbidity readings.  For the month of April, there were 108 additional negative 
+turbidity values throughout the month due calibration errors.
+
+	 
+May, 1999:
+	PC:  Data deleted on 5/19 at 8:00:00 --> 8:30:00 hr due to change-over/ 
+time set on ABPC05 possibly off by 1 hr.	Negative turbidity value on 5/1 
+10:30:00 (-0.1 ntu).
+TW:  Sonde deployed on 4/21 was lost from tether and fell to bottom sediments at 
+an unknown data and time, though suspect possibly on 5/11/99 due to increased 
+turbidity readings.  Deleted DO data from 5/1 --> end of month due to membrane 
+puncture. 
+
+June, 1999:
+	PC:	DO problematic 6/28 @ 9:00:00 --> end of month.  Missing data:  6/16 
+9:00:00 hr --> 6/28 8:30:00 hr.  Sonde AAPC0699 was deployed, but no data were 
+captured.  Not sure why unit failed - it had calibrated correctly prior to 
+deployment.  Turbidity of 397.3 ntu on 6/1 @ 0:00:00 hr appears anomalous but 
+left in data set.  For the month of June, there were 60 negative turbidity 
+values throughout the month due calibration errors.
+TW:  This unit was "lost at sea" but was located near station, on bay bottom on 
+6/17.  Deployments on 6/18 and 6/28 both resulted in "jumps" in data values.   
+Anomalous turbidity values from 6/1 --> 6/17 possibly due to position on bay 
+bottom.
+
+July, 1999
+	PC: Salinity of 25.18 on 7/2 @ 7:00:00 is low, but seems correct.  
+Turbidity from 7/15 8:00:00 hr --> 7/28 6:30:00 not recorded, probe was broken 
+so not deployed.  For the month of July, there were 229 negative turbidity 
+values throughout the month due calibration errors.
+	TW:  Missing turbidity data on 7/28 9:00:00 hr --> end of month due to 
+broken probe.  Anomalous turbidity data on 7/15 20:00:00 hr (1220.5 ntu).  
+Anomalous salinity on following dates and times:  7/7 10:00:00 hr (20.1); 7/8 
+2:00:00 hr (23.7) 7/27 5:00:00 hr (28.4)--> 14:00:00 hr.  These salinity values 
+are relatively low, may be a patch of water intruding into the area?  
+Redeployment on 7/28 also resulted in "jump" in data values.
+
+August, 1999:
+	PC:  DO data removed from 8/22 17:30:00 --> 8/25 9:30:00 hr due to 
+membrane puncture.  Turbidity on 8/13 at 1:30:00 and 2:00:00 hr anomalous (1318, 
+503.6 ntu, respectively).  For the month of August, there were 43 negative 
+turbidity values throughout the month due calibration errors.
+	TW:  DO data from 8/8 1:00:00 --> 8/13 8:00:00 hr deleted due to membrane 
+puncture.  Missing turbidity data from 8/1 0:00:00 hr --> 8/13 8:00:00 hr and 
+8/25 7:30:00 hr --> to end of month due to broken probe.  Anomalous DO data on 
+8/20 1:00:00 hr, 1:30:00 hr (2.8 and 0.2 mg/l; -38.7 and -2.9%, respectively).  
+These DO data deleted, replaced with "."  Redeployment on 8/13 also resulted in 
+"jump" in data values.  For the month of August, there were 357 negative 
+turbidity values throughout the month due calibration errors.
+	
+September, 1999:
+	PC: DO from 9/5 6:30:00 hr --> 9/13 8:00:00 hr looks like small puncture 
+or other problem.  However data left in record for what it's worth.  Turbidity 
+readings anomalous on following dates/times:  9/2 11:30:00, 15:30:00, 19:00:00 
+hr (1363.4, 1363.9, 1365 ntu, respectively); 9/13 12:00:00 hr (-1077 ntu); 9/19 
+13:30:00 hr (-397 ntu).  For the month of September, there were 403 additional 
+negative turbidity values throughout the month due calibration errors.
+	TW:  Missing turbidity data 9/1 0:00:00 hr --> 9/13 8:30:00 hr due to 
+broken probe.  No data collected 9/13 9:00:00 hr; 9/29 9:00:00 --> end of month 
+due to malfunction/batteries (?).  High, anomalous turbidity data on 9/24 --> 
+end of the month.  Salinity drop on 9/9 --> 9/13; not sure of cause, possibly 
+related to hurricane.  For the month of September, there were 596 negative 
+turbidity values throughout the month due calibration errors.
+
+October, 1999:
+	PC:  Missing data:  10/26 8:00:00 hr --> 10/27 7:30:00 hr due to gap in 
+deployment.  Anomalous turbidity readings 10/2 17:00:00 hr (661.9 ntu), 10/13 
+18:00:00 hr (837.5 ntu); 10/14 6:00:00 hr (260.9 ntu).  For the month of 
+October, there were 118 negative turbidity values throughout the month due 
+calibration errors.
+
+	TW:  Missing data on 10/1 00:00:00 hr --> 10/27 8:00:00 hr due to sonde 
+malfunction/sonde batteries?  Anomalous turbidity data on 10/30 1:30:00 hr 
+(1296.6 ntu).  
+
+
+
+November, 1999
+	PC: DO data are probably not reliable from 11/1 --> 11/10 9:00:00 hr, but 
+was left in record. Anomalous turbidity readings on 11/11 3:00:00 hr, 5:00:00 hr 
+(285.1 and 1465.6 ntu, respectively).  High turbidity reading also on 11/13 
+00:00:00 hr (423.6 ntu).  For the month of November, there were 213 negative 
+turbidity values throughout the month due calibration errors.
+	TW:  DO data deleted 11/2 6:30:00 hr --> 11/10 8:30:00 hr due to punctured 
+membrane.  Anomalous turbidity spikes on 11/3 0:30:00 (1225.2); 11/11 4:00:00 
+and 4:30:00 hr (1155.4 ntu); 11/14 19:00:00 hr (739.5 ntu); 11/24 0:00:00 hr 
+(819.6 ntu); 11/25 22:00:00 , 23:30:00 hr ( 646.1 and 1001.2 ntu, respectively); 
+11/30 14:30:00 hr (1059 ntu).  Negative turbidity reading on 11/19 10:00:00 (-
+0.1 ntu).  DO also anomalous 11/23 19:30:00 and 20:00:00 hr (6.06 and 5.76 mg/l, 
+respectively).  Low DO may be water cell passing or animal in sonde cap.  
+
+December, 1999
+	PC: DO membrane fouled (?) from 12/2 13:30 hr --> 12/22 9:00:00 hr.  Sonde 
+had been outside (but with protector cap on and moist sponge inside) for several 
+hours before put in water and then deployed on 12/2.  See *.CSV file for 
+details.  Spike in DO at change-over on 12/22 9:00:00 - 9:30:00 hr.  For the 
+month of December, there were 176 negative turbidity values throughout the month 
+due calibration errors.
+	TW:  No data collected 12/30 20:00:00 hr --> 21:00:00 hr possibly due to 
+low batteries.  Anomalous turbidity readings on the following dates and times:  
+12/1 3:30:00 (1148.6 ntu); 12/3 3:30:00, 5:00:00, 6:00:00 (1272.4, 1369.2, 642.4 
+ntu, respectively); 12/4 5:30:00 hr (489.9 ntu); 12/11 17:00:00 hr (493.2 ntu); 
+12/22 3:00:00, 4:30:00, 5:30:00 hr (1185.7, 1365.1, 572.9 ntu, respectively).  
+
+11. Missing Data
+
+January, 1999:
+	PC: No missing data.
+
+	TW:  Sonde not deployed until March 1999.
+
+February, 1999: 
+	PC:  No missing data.  
+	TW:  Sonde not deployed until March 1999.
+	 
+March, 1999:
+	PC: Changed turbidity reading on 3/31 9:00:00 hr from 104.8 to "." due to 
+reading occurring almost immediately at changeover.
+	TW:  Sonde not deployed until 3/19 10:00:00 hr.  DO deleted from 3/24 
+0:30:00 hr --> 3/31 5:30:00 hr due to membrane puncture.  Sonde not deployed, 
+data missing 3/31 6:00:00 --> 9:00:00 hr.	 
+
+April, 1999:
+	PC: No missing data.
+	TW: Missing DO data on 4/28 20:30:00 hr --> end of month due to membrane 
+puncture.  No data collected from 4/2 0:30:00 hr --> 4/21 8:30:00 hr at 
+changeover.  Not sure why sonde ceased data collection.  	 
+
+May, 1999:
+	PC:  Data deleted on 5/19 at 8:00:00 --> 8:30:00 hr due to change-over/ 
+time set on ABPC05 possibly off by 1 hr.	
+TW: Deleted DO data from 5/1 --> end of month due to membrane puncture. 
+
+June, 1999:
+	PC:	Missing data: 6/16 9:00:00 hr --> 6/28 8:30:00 hr.  Sonde AAPC0699 
+was deployed, but no data were captured.  Not sure why unit failed - it had 
+calibrated correctly prior to deployment.  
+TW: No data collected between deployments on 6/17 8:30:00 --> 6/18 8:00:00; 6/28 
+13:30:00.  No data collected between 6/1 0:00:00 --> 6/17 8:00:00.
+
+July, 1999:
+	PC: Missing data from 7/28 7:00:00 - 7:30:00 hr due to changeover.  
+Turbidity from 7/15 8:00:00 hr --> 7/28 6:30:00 not recorded, probe was broken 
+so not deployed.  
+	TW:  Missing turbidity data on 7/28 9:00:00 hr --> end of month due to 
+broken probe.  No data collected between deployments on 7/28 8:30:00 hr.
+
+August, 1999:
+	PC: Data missing 8/25 10:00:00 --> 10:30:00 hr due to changeover.  DO data 
+removed from 8/22 17:30:00 --> 8/25 9:30:00 hr due to membrane puncture.  
+	TW:  DO data from 8/8 1:00:00 hr --> 8/13 8:00:00 hr deleted due to 
+membrane puncture.  Missing turbidity data from 8/1 0:00:00 hr --> 8/13 8:00:00 
+hr and 8/25 7:30:00 hr --> to end of month due to broken probe.  Anomalous DO 
+data on 8/20 1:00:00 hr, 1:30:00 hr (2.8 and 0.2 mg/l; -38.7 and -2.9%, 
+respectively).  These DO data deleted, replaced with "."
+	
+September, 1999:
+	PC: No missing data.
+	TW:  Missing turbidity data 9/1 0:00:00 hr --> 9/13 8:30:00 hr due to 
+broken probe.  No data collected 9/13 9:00:00 hr; 9/29 9:00:00 --> end of month 
+due to malfunction/batteries (?).
+
+October, 1999:
+	PC:  Missing data: 10/26 8:00:00 hr --> 10/27 7:30:00 hr due to gap in 
+deployment.  Missing data on 10/31 23:30:00.
+	TW:  Missing data on 10/1 00:00:00 hr --> 10/27 8:00:00 hr due to sonde 
+malfunction/sonde batteries.
+
+November, 1998
+	PC: No missing data.
+	TW:  DO data deleted 11/2 6:30:00 hr --> 11/10 8:30:00 hr due to punctured 
+membrane.  
+
+December, 1998
+	PC: No missing data.
+	TW:  No data collected 12/30 20:00:00 hr --> 21:00:00 hr possibly due to 
+low batteries.
+	
+
+12.  Other Remarks/Notes
+	 
+
+

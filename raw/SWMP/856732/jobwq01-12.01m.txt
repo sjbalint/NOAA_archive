@@ -1,0 +1,2619 @@
+Jobos Bay (JOB) NERR Water Quality Metadata
+January to December 2001
+Latest Update: June 30, 2021
+ 
+I. Data Set & Research Descriptors
+  
+1. Principal investigator(s) and contact persons
+Principal Investigator:
+ 	
+      Dr. Pedro Robles
+	Research Coordinator
+	
+	Carmen M. Gonzalez
+	Manager 
+	carmen.gonzalez@noaa.gov
+
+Contact persons:
+	Lic. Enid Malavé
+	Chemist I, JBNERR
+	
+	Luis A. Encarnación
+	Biologist II, JBNERR
+	luisenca@coqui.net
+
+
+Mailing Address:
+	Call Box B
+	Aguirre, Puerto Rico 00704
+	Phone: (787) 853-4617
+	Fax: (787) 853-4618
+
+ 
+2. Entry verification:
+ 	After retrieving and carefully cleaning the dataloggers, they are examined 
+to detect any structural damage to the body or to the probes. The DO membrane is 
+checked for ruptures and then replaced if needed. The turbidity probe is 
+examined to assure that no obstruction affects the wiper and that the sensor is 
+clean. Manipulation and observations are registered in the field log for each 
+deployment respectively.
+	The YSI is connected to a Pentium II 400 MHz IBM compatible computer and 
+the data is reviewed using the YSI computer program Ecowatch for Windows that 
+accompanies the YSI 6000 datalogger. The file is uploaded in two formats, one in 
+YSI PC6000 format and the other in Comma and "Delimited format then the file is 
+renamed to have a ".txt" extension. The YSI Ecowatch for Windows program is used 
+to plot the data and delete the pre- and post deployment data that are not in 
+range of the other readings. The program is used to perform basic statistical 
+analysis (i.e., min., max., mean, std. dev.). Data is initially reviewed using 
+the Ecowatch graphing tool. Data for a month is compiled into one single 
+Excel 2000 data sheet for further examination to detect gross outliers, and data 
+recorded during instrument retrieval or caused by instrument failure. 
+	Missing dates and times are checked before submitting the data to the 
+Central Data Management Office. CDMO Excel macros are provided to assist in data 
+reviewing and data editing. Data is opened with this program and empty or 
+unrecorded data spaces are filled with periods. Columns are corrected for 
+Specific format (correct data size and number of decimal place holders are 
+specified by the NERR CDMO). Data and time readings are also checked. This 
+program also identifies outliers. Outliers file is saved and printed for 
+revision of each file. Missing data and explanatory reasons are recorded in the 
+Anomalous data section. 
+	Data that is found to be out of the instrument range or normal parameters 
+for each sampling station is removed from the file and a period is inserted into 
+the cell(s). Explanations for changes in data are also included in the metadata. 
+Data that is outside the "normal" range of water quality for a particular site 
+is investigated for validity based on field observation, QC check, Ecowatch for 
+Windows printouts, and the instrument diagnostics. The metadata form is 
+submitted with the data to the CDMO. Data is stored in zip disks. Dr. Pedro 
+Robles and Luis Encarnación were responsible for data management during this 
+period. 
+ 
+3. Research Objectives:
+  	Two dataloggers are deployed at Mar Negro area, a major component of Jobos 
+Bay National Estuarine Research Reserve. The instruments are suspended from a 
+pole at a distance of 0.3 meter from the bottom at each selected site. Data from 
+stations 9 and 10 is being submitted to the Central Data Management Office as 
+part of the System-Wide Monitoring Program. Measurements are taken at thirty-
+minute intervals for approximately two-week periods. The sites are identified as 
+representative of areas within the reserve and comparable to the sites that may 
+be receiving impact from human activities from surroundings areas.
+	Station number nine (9), the impacted site, collects water quality data in 
+a site associated with runoff from littoral and basin mangrove areas. This 
+sampling station is closer to the Thermoelectric Power Plant it is subjected to 
+runoff and potential oil spill contamination from this industrial facility. 
+Information compiled from historical environmental documents, indicate that 
+station nine (9) was used as a disposal site for residues of the previously 
+operating sugar mill operation, and therefore might have high organic input into 
+the sediments.
+	Station number ten (10), located in the mangrove lagoon area is the 
+reference or non-impacted site.
+
+4.	Research methods:
+ 	The National Estuarine Research Reserve Water Quality Monitoring Program 
+began sampling at Station nine (9) on December 20, 1995 and Station ten (10) on 
+February 1, 1996. Long term water quality monitoring is being performmed at 
+these stations.
+         Before each YSI 6000 datalogger is deployed, calibration and 
+maintenance is performed following the manufacturer's instruction (YSI Manual 
+addendum 7/94, sections 3, 4 and 7). Calibration standards are only required for 
+pH, salinity, and turbidity, all other parameters are done as described in the 
+manual. Buffer solutions for two-point calibration (pH 7 and pH 10) are 
+purchased from a scientific supply company. Salinity is calibrated with a 
+specific conductance standard 100 mS/cm and is purchased from a scientific 
+supply company.
+         The two-point turbidity calibration is performed using a 0 NTU (DI 
+water) and 100 NTU standard purchased from a scientific company. The dissolved 
+oxygen membranes are replaced before deployment and are allowed to Sit at least 
+24 hours prior to deployment. Weather conditions and tide stage are recorded in 
+the field observation log during deployment. Measurements of DO, pH, salinity, 
+specific conductance, and temperature, are taken with other calibrated field 
+instruments to check the accuracy of the instrumentation.
+	Each YSI datalogger is tied with steel cable to a wrought iron galvanized 
+pole, which is plunged into the sediments at each sampling area.  Dataloggers 
+are suspended from a pole at 0.3 meter from the bottom of the selected site. 
+Every 30 minutes during the sampling period the following measurements are 
+recorded: date, time, temperature, specific conductance, salinity, dissolved 
+oxygen saturation, dissolved oxygen concentration, depth, pH, and turbidity. 
+Every two weeks the dataloggers are retrieved, uploaded, cleaned, inspected, and 
+calibrated as noted previously. The datalogger is then ready to be deployed 
+again.
+
+5. Site location and character:
+ 	The Jobos Bay National Estuarine Research Reserve (JOBNERR) is located on 
+the southern coastal plain of the island of Puerto Rico, a reserve within the 
+West Indies geographical area. JOBNERR is composed of two major areas: (1) Mar 
+Negro, located on the western margin of the Bay, and (2) Cayos Caribe, a chain 
+of 15 tear-shaped islets located to the southeast. The Mar Negro area comprises 
+the bulk of the Reserve, and consists of mangrove forests and a complex system 
+of lagoons and channels interspersed with salt and mud flats.  Coral reefs and 
+seagrass beds, with small beach deposits and upland areas fringe Cayos Caribe 
+mangrove islands.
+ 	Station 9 is an impacted site and is located on the northeastern section 
+of the Mar Negro component. This sampling station is associated with mangrove 
+lagoon areas and receives runoff from mudflats, the Thermoelectric Power Plant, 
+and adjacent areas. The tidal range varies from 12 to 14 inches in the vicinity 
+of the monitoring station. The salinity at the vicinity of the monitoring 
+station varies from 0.0 ppt to 41.1 ppt. The average depth at station 09 is 1 
+meter. The bottom is covered by a thick layer of thin sediments with a high 
+content of organic material. Brown and green algae are also present at this 
+site, but a better assessment is needed. The station pole is located at 17° 56' 
+36.8" N and 66° 14' 18.5" W.
+ 	Station 10 is located in a mangrove lagoon not impacted directly by any 
+upland or marine activities. It provides a reference for comparison of data 
+obtained in other stations, especially to the station in Mar Negro lagoon.  The 
+tidal range varies from 12 to 14 inches. The salinity at the vicinity of the 
+monitoring station varies from 0.0 ppt to 41.7 ppt. The average depth at station 
+10 is 1 meter. The bottom is covered with a layer of fine sediments with organic 
+material, followed by a layer of calcareous material mainly from shells and 
+oysters. At this site we can find seagrass ( Thalassia), calcareous algae 
+( Halimeda sp.), green algae (Caulerpa sp.) and brown algae( Dictyota sp.) among 
+others. The pole is located at 17° 56' 20.3" N and 66° 45' 26.7" W.
+  	Data from stations 9 and 10 is being submitted to the CDMO. Four sondes 
+are permanently devoted to taking readings from these two sites, to assure 
+continuous readings while sondes are taken out of the water for data upload and 
+maintenance. This will avoid data gaps for station 9 and 10 between sonde 
+maintenance procedures. All monitoring is considered long term.
+ 
+6. Data collection period: 
+ 	Station nine (9) sampling with the YSI began on December 20, 1995.
+	Station ten (10) sampling with the YSI began on February 1, 1996.
+
+Began				Ended
+Station nine (9)
+12/27/00, 09:30		01/16/01, 09:00
+01/16/01, 09:30		01/17/01, 04:00
+01/17/01, 10:30		02/06/01, 14:00
+02/06/01, 14:30		02/11/01, 10:00
+02/11/01, 10:30		02/26/01, 09:00
+02/26/01, 09:30		03/18/01, 10:00
+03/18/01, 10:30		03/27/01, 09:00
+03/27/01, 09:30		04/08/01, 10:00
+04/08/01, 10:30		04/11/01, 13:30
+04/11/01, 14:00		04/25/01, 08:30
+04/25/01, 09:00		05/15/01, 08:00
+05/15/01, 09:30	 	05/16/01, 09:30
+05/16/01, 10:00		06/03/01, 08:30
+06/03/01, 09:00		06/06/01, 08:30
+06/06/01, 09:00		06/25/01, 09:30
+06/25/01, 10:00		06/27/01, 08:00
+06/27/01, 08:30		07/23/01, 12:00
+07/23/01, 12:30		08/14/01, 08:30
+08/14/01, 09:00		08/16/01, 09:00
+08/16/01, 09:30		09/01/01, 10:30
+09/01/01, 11:00		09/05/01, 09:00
+09/05/01, 09:30		09/24/01, 09:00
+09/24/01, 10:00		09/26/01, 09:30
+09/26/01, 10:30		10/16/01, 08:30
+10/16/01, 09:00		10/18/01, 08:30
+10/18/01, 09:00		11/05/01, 09:00
+11/05/01, 09:30		11/07/01, 11:30
+11/07/01, 12:00		11/26/01, 09:00
+11/26/01, 10:00		11/28/01, 08:30
+11/28/01, 09:00		12/17/01, 10:00
+12/17/01, 10:30		12/19/01, 10:00
+12/19/01, 10:30		01/08/02, 09:00
+
+Station ten (10)
+12/27/00, 09:00		01/16/01, 09:30
+01/16/01, 10:00		01/17/01, 09:30
+01/17/01, 10:00		02/06/01, 13:30
+02/06/01, 14:00		02/11/01, 11:00
+02/11/01, 11:30		02/26/01, 10:00
+02/26/01, 10:30		02/28/01, 09:30
+02/28/01, 10:00		03/18/01, 09:30
+03/18/01, 10:30		03/27/01, 09:00
+03/27/01, 09:30		04/08/01, 09:30
+04/08/01, 10:00		04/11/01, 14:30
+04/11/01, 15:00		04/23/01, 09:30
+04/25/01, 10:00		04/25/01, 08:30
+04/25/01, 09:00		05/15/01, 09:00
+05/15/01, 09:30		05/16/01, 09:00
+05/16/01, 09:30		06/03/01, 09:00
+06/03/01, 09:30		06/06/01, 08:00
+06/06/01, 09:00		06/25/01, 09:30
+06/25/01, 10:00		06/27/01, 08:30
+06/27/01, 09:00		07/23/01, 12:00
+07/23/01, 12:30		08/14/01, 08:00
+08/14/01, 08:30		08/16/01, 09:30
+08/16/01, 10:00		09/01/01, 10:00
+09/01/01, 10:30		09/05/01, 08:30
+09/05/01, 09:00		09/24/01, 09:00
+09/24/01, 10:00		09/26/01, 10:00
+10/16/01, 09:30		11/05/01, 09:30
+11/07/01, 12:30		11/26/01, 10:00
+11/28/01, 09:30		12/17/01, 09:30
+12/19/01, 11:00		01/08/02, 09:30
+
+7. Distribution
+According to the Ocean and Coastal Resource Management Data Dissemination Policy 
+for the NERRS System-wide Monitoring Program:
+NOAA/ERD retains the right to analyze, synthesize and publish summaries of the 
+NERRS System-wide Monitoring Program data. The PI retains the right to be fully 
+credited for having collected and processed the data. Following academic 
+courtesy standards, the PI and the NERR site were the data is collected will be 
+contacted and fully acknowledge in any subsequent publication in which any part 
+of the data are used. Manuscripts resulting from the NOAA/OCRM supported 
+research that are produced for publication in open literature, including 
+referenced scientific journals, will acknowledge that the research was conducted 
+under an award from the Estuarine Reserves Division, Office of Ocean and Coastal 
+Resources Management, National Ocean Service, National Oceanic and Atmospheric 
+Administration. The data set enclosed within this package transmission is only 
+as good as the quality assurance and quality control procedures outlined by the 
+enclose metadata reporting statement. The user bears all responsibility for its 
+subsequent use/misuse in any further analysis or comparisons. The Federal 
+government does not assumes liability to the Recipient or third persons, nor 
+will the Federal government reimburse or indemnify the Recipient for its 
+liability due to any losses resulting in any way from the use of this data.
+NERR water quality data and metadata can be obtained from the Research 
+Coordinator at the individual NERR site (please see section 1. Principal 
+Investigator and contact persons), from the Data Manager at the Central Data 
+Management Office, (please see personnel directory under general information 
+link on CDMO homepage (http://cdmo.baruch.sc.edu). Data are available in text 
+tab-delimited format. Microsoft Excel spreadsheet format and comma-delimited 
+format.
+
+8. Associated researchers and projects:
+	Monthly sampling for Vibrio species identification was conducted by Mr. 
+Félix Badillo, from Interamerican University, San Germán Campus, Puerto Rico.  
+	A water quality and plankton monitoring characterization was conducted 
+from March 1995-March 1997, monitoring 12 stations in the Jobos Bay system, by 
+the Department of Natural and Environmental Resources Laboratory. Monthly 
+samples for nutrients, plankton and chlorophyll were conducted from March to 
+October 1996.
+ 
+9. Variable sequence, range of measurements, units, resolution and accuracy:
+YSI 6000/6600 datalogger
+
+Variable      Range of Measurements          Resolution           Accuracy
+Date          1-12, 1-31, 00-99 (Mo,Day,Yr)  1 mo, 1 day, 1 yr    NA
+Time          0-24, 0-60, 0-60 (Hr,Min,Sec)  1 hr, 1 min, 1 s     NA
+Temp               -5 to 45 (c)              0.01  C              +/-0.15C
+Sp COND            0-100(mS/cm)              0.01mS/cm            +/-0.5% Of 
+reading + 0.001mS/Cm
+Salinity      0-70 Parts per thousand (ppt)  0.01 ppt             +/- 1% of 
+Reading or 0.1 ppt, (whichever is greater)
+DO            0-200 (% air saturation)       0.1% @air sat        +/-2% @air 
+Saturation
+DO            200-500 (% air saturation      0.1% @ air sat       +/- 6% @ 
+Saturation
+DO                 0-20 (mg/l)               0.01 mg/l            +/- 0.2mg/l
+DO                 20-50 (mg/l)              0.01 mg/l            +/- 0.6mg/l
+Depth (shallow)    0-9.1 (m)                 0.001m               +/- 0.018m
+PH                 2-14 units                0.01 units           +/- 0.2units
+Turb               0-1000 NTU                0.1 NTU              +/- 5% of 
+Reading or 2 NTU (whichever is greater)
+
+Data columns are separated by tabs.  Each file contains a two line
+Column header at the top of the page which identifies measurements and 
+Units.
+
+ 10. Coded variable indicator and variable code definitions:	
+Site definitions: S09 = Station 9
+Site definitions: S10 = Station 10
+File definitions: site/month/year (ex: 100801 = Station 10 data from August of 
+2001).
+
+11. Data anomalies:
+January 2001
+Station 09
+Turbidity values were deleted for the following dates/times due to negative 
+and/or zero values: 
+Negative values
+01/01/01	00:00:00 through 01/16/01 09:00:00
+01/16/01    20:00:00 through 21:00:00
+01/16/01 	22:30:00
+01/17/01    22:00:00 through 23:00:00
+01/18/01	00:00:00
+01/18/01	01:00:00 through 02:00:00
+01/18/01 	03:00:00 through 06:30:00   
+01/18/01	19:00:00 through 19:30:00
+01/18/01    20:30:00
+01/18/01 	22:00:00 through 22:30:00
+01/18/01 	23:30:00
+01/19/01	02:00:00
+01/19/01	03:00:00 through 03:30:00
+01/19/01	04:30:00 through 06:30:00
+01/19/01	20:00:00
+01/19/01	21:00:00
+01/19/01 	22:00:00 through 22:30:00
+01/19/01	23:30:00
+01/20/01	04:00:00
+01/20/01    05:00:00 through 05:30:00
+01/21/01 	06:00:00
+01/21/01	19:30:00
+01/22/01	20:30:00 through 21:30:00
+01/22/01	22:30:00
+01/23/01 	07:30:00
+01/24/01	09:30:00
+01/24/01    12:30:00
+01/24/01	14:30:00 through 15:00:00
+01/24/01 	21:00:00 through 22:00:00
+01/25/01	00:30:00
+01/25/01    08:00:00
+01/25/01	11:00:00
+01/25/01	13:00:00 through 14:00:00
+01/25/01    16:00:00
+01/25/01    22:00:00 through 22:30:00
+01/26/01 	00:00:00 through 00:30:00
+01/26/01 	01:30:00 through 02:00:00
+01/26/01	11:00:00
+01/26/01	12:00:00 through 12:30:00
+01/26/01 	21:30:00
+01/26/01 	23:00:00
+01/27/01	12:30:00
+01/27/01	13:30:00
+01/27/01	22:00:00
+01/29/01    23:30:00
+01/30/01    00:00:00
+01/30/01    01:30:00 through 02:00:00
+01/30/01	06:30:00 
+High turbidity values due to algal debris were deleted:
+01/26/01    13:00:00
+Sonde out for maintenance, no data:
+01/17/2001 04:30:00 through 10:00:00
+No pH data because of probe was broken
+01/16/2001 09:30:00 throughout 01/17/2001 04:00:00
+
+
+Station 10
+Suspicious pH data, data were deleted due to a possible calibration error:
+01/16/2001 10:00:00 throughout 01/17/2001 09:30:00
+Turbidity values were deleted for the following dates/times due to negative 
+and/or zero values: 
+01/01/2001 00:00:00 through 00:30:00
+01/01/2001 01:30:00 through 15:00:00
+01/01/2001 16:00:00
+01/01/2001 18:00:00 through 21:00:00
+01/01/2001 22:00:00 through 01/02/2001 02:30:00
+01/02/2001 03:30:00 through 12:00:00
+01/02/2001 13:00:00 through 13:30:00
+01/02/2001 15:00:00 through 15:30:00
+01/02/2001 17:00:00 through 17:30:00
+01/02/2001 18:30:00 through 01/03/2001 08:30:00
+01/03/2001 09:30:00 through 16:00:00
+01/03/2001 17:30:00 through 01/04/2001 00:00:00
+01/04/2001 01:00:00 through 16:30:00
+01/04/2001 17:30:00 through 21:00:00
+01/04/2001 22:30:00 through 01/05/2001 15:30:00
+01/05/2001 16:30:00 through 18:00:00
+01/05/2001 20:00:00 through 22:30:00
+01/05/2001 23:30:00
+01/06/2001 00:30:00 through 04:00:00
+01/06/2001 05:00:00
+01/06/2001 06:00:00 through 07:00:00
+01/06/2001 08:00:00 through 11:30:00
+01/06/2001 12:30:00 through 15:00:00 
+01/06/2001 17:30:00 
+01/06/2001 19:00:00 through 23:00:00
+01/07/2001 00:00:00 through 03:00:00
+01/07/2001 04:00:00 through 05:00:00
+01/07/2001 06:00:00 through 12:00:00
+01/07/2001 13:00:00 through 14:30:00
+01/07/2001 15:30:00 through 16:00:00
+01/07/2001 18:30:00 throughout 01/08/2001 05:30:00
+01/08/2001 06:30:00 through 09:30:00
+01/08/2001 11:00:00
+01/08/2001 12:00:00
+01/08/2001 20:00:00
+01/09/2001 01:00:00
+01/09/2001 03:30:00
+01/09/2001 05:00:00
+01/09/2001 07:00:00
+01/09/2001 08:00:00 through 09:00:00
+01/10/2001 11:30:00
+01/12/2001 05:30:00
+01/12/2001 10:00:00
+01/12/2001 11:00:00 through 11:30:00
+01/12/2001 12:30:00 through 13:30:00
+01/12/2001 15:30:00
+01/12/2001 19:00:00
+01/12/2001 20:30:00
+01/12/2001 23:00:00
+01/13/2001 01:00:00
+01/13/2001 07:00:00
+01/13/2001 10:00:00
+01/13/2001 12:30:00
+01/13/2001 13:30:00
+01/13/2001 14:30:00 through 15:00:00
+01/13/2001 16:00:00
+01/14/2001 11:30:00
+01/14/2001 13:00:00 through 14:00:00
+01/15/2001 00:00:00
+01/15/2001 01:00:00
+01/15/2001 03:30:00
+01/15/2001 04:30:00
+01/15/2001 06:00:00
+01/15/2001 08:00:00
+01/15/2001 09:00:00 through 09:30:00
+01/15/2001 11:00:00 through 12:30:00
+01/15/2001 13:30:00
+01/15/2001 14:00:00
+01/15/2001 15:30:00
+01/15/2001 16:30:00 through 17:00:00
+01/15/2001 21:30:00 through 23:30:00
+01/16/2001 00:00:00 through 01:30:00
+01/16/2001 02:30:00 through 04:30:00
+01/16/2001 05:30:00 through 09:30:00
+01/16/2001 14:30:00
+01/16/2001 15:30:00
+01/16/2001 16:30:00
+01/16/2001 19:00:00
+01/16/2001 21:00:00
+01/16/2001 22:30:00
+01/17/2001 00:00:00
+01/17/2001 05:00:00
+01/17/2001 10:30:00 through 14:00:00
+01/17/2001 18:00:00
+01/17/2001 19:00:00 through 21:30:00
+01/17/2001 22:30:00 through 01/18/2001 01:00:00
+01/18/2001 02:00:00 through 07:00:00
+01/18/2001 08:00:00 through 13:30:00
+01/18/2001 14:30:00 through 15:00:00
+01/18/2001 18:30:00 through 19:30:00
+01/18/2001 20:30:00 through 21:30:00
+01/18/2001 22:30:00 through 01/19/2001 04:30:00
+01/19/2001 05:30:00 through 07:30:00
+01/19/2001 08:30:00 through 10:30:00
+01/19/2001 12:00:00 through 13:00:00
+01/19/2001 14:00:00 through 14:30:00
+01/19/2001 16:00:00
+01/19/2001 19:30:00 
+01/19/2001 20:30:00 through 22:00:00
+01/19/2001 23:00:00 through 23:30:00
+01/20/2001 00:30:00 through 04:30:00
+01/20/2001 05:30:00 through 10:00:00
+01/20/2001 11:00:00
+01/20/2001 15:00:00
+01/20/2001 19:30:00
+01/20/2001 21:00:00 
+01/20/2001 22:00:00 through 23:30:00
+01/21/2001 00:30:00
+01/21/2001 01:30:00 through 02:00:00
+01/21/2001 03:30:00 through 10:30:00
+01/21/2001 11:30:00 through 13:00:00
+01/21/2001 17:30:00
+01/21/2001 19:00:00
+01/21/2001 20:00:00 through 20:30:00
+01/21/2001 21:30:00 through 01/22/2001 12:30:00
+01/22/2001 13:30:00 through 14:00:00
+01/22/2001 15:30:00 through 16:30:00
+01/22/2001 17:30:00
+01/22/2001 18:30:00 through 19:00:00
+01/22/2001 20:00:00 through 22:00:00
+01/22/2001 23:00:00 through 01/23/201 04:00:00
+01/23/2001 05:00:00 through 06:00:00
+01/23/2001 07:00:00 through 12:00:00
+01/23/2001 13:00:00 through 13:30:00
+01/23/2001 19:30:00
+01/25/2001 20:00:00
+01/23/2001 20:30:00 through 21:00:00
+01/23/2001 23:00:00
+01/24/2001 02:30:00 through 03:30:00
+01/24/2001 04:30:00 through 06:00:00
+01/24/2001 07:30:00 through 08:00:00
+01/24/2001 09:30:00
+01/24/2001 11:00:00
+01/24/2001 15:30:00
+01/24/2001 23:00:00 through 01/25/2001 11:00:00
+01/25/2001 14:00:00
+01/25/2001 19:30:00 through 21:00:00
+01/25/2001 22:00:00 through 01/26/2001 00:00:00
+01/26/2001 01:00:00 through 02:30:00
+01/26/2001 03:30:00 through 05:00:00
+01/26/2001 06:00:00 through 07:30:00
+01/26/2001 08:30:00 through 15:30:00
+01/26/2001 19:00:00 through 01/27/2001 02:00:00
+01/27/2001 03:00:00 through 06:00:00
+01/27/2001 07:00:00 through 13:30:00
+01/28/2001 01:00:00 
+01/28/2001 02:00:00 through 06:30:00
+01/28/2001 07:30:00 through 09:00:00
+01/28/2001 10:00:00
+01/28/2001 11:30:00
+01/29/2001 01:30:00
+01/29/2001 09:00:00
+01/29/2001 21:00:00
+01/30/2001 01:30:00
+01/30/2001 02:30:00 through 03:00:00
+01/30/2001 04:00:00 through 07:30:00
+01/30/2001 08:30:00 through 11:00:00
+01/30/2001 12:00:00 through 13:30:00
+01/30/2001 16:00:00
+01/30/2001 20:00:00 through 20:30:00
+01/30/2001 21:30:00
+01/30/2001 23:30:00 throughout 01/31/2001 00:30:00
+01/31/2001 01:30:00
+01/31/2001 04:30:00 through 06:00:00
+01/31/2001 08:00:00 through 11:30:00
+High turbidity values deleted:
+01/16/2001 10:30:00 through 11:00:00
+01/16/2001 12:00:00 through 12:30:00
+01/16/2001 14:00:00
+01/16/2001 16:30:00
+01/16/2001 18:00:00 through 18:30:00
+01/16/2001 22:00:00
+01/16/2001 23:30:00
+01/17/2001 03:30:00 through 04:00:00
+01/17/2001 05:30:00 through 07:00:00
+01/17/2001 08:30:00
+01/17/2201 16:00:00
+
+February 2001
+Station 09
+
+Turbidity values were deleted for the following dates/times due to negative 
+and/or zero values:
+02/11/2001 10:30 through 11:00:00
+02/11/2001 13:30:00
+02/11/2001 21:00:00
+02/11/2001 22:00:00 through 22:30:00
+02/11/2001 23:30:00
+02/12/2001 00:00:00 through 02:00:00
+02/12/2001 02:30:00 through 03:30:00
+02/12/2001 04:00:00 through 04:30:00
+02/12/2001 05:30:00 through 07:00:00
+02/13/2001 00:00:00 through 01:00:00
+02/13/2001 02:00:00 through 05:00:00
+02/13/2001 06:00:00
+02/13/2001 15:30:00 through 16:30:00
+02/13/2001 19:00:00 through 23:30:00
+02/14/2001 00:00:00 through 04:00:00
+02/14/2001 06:00:00
+02/14/2001 19:00:00 through 23:30:00
+02/15/2001 00:00:00 through 04:30:00
+02/15/2001 05:30:00 through 06:30:00
+02/15/2001 08:30:00
+02/15/2001 10:00:00 through 10:30:00
+02/15/2001 11:30:00
+02/15/2001 20:00:00 through 23:30:00
+02/16/2001 00:00:00 through 05:00:00
+02/17/2001 00:00:00
+02/17/2001 01:30:00
+02/17/2001 03:00:00 through 04:30:00
+02/17/2001 11:00:00 through 12:00:00
+02/17/2001 13:00:00
+02/17/2001 15:00:00 through 18:30:00
+02/17/2001 19:30:00 through 02/18/2001 06:30:00
+02/18/2001 08:00:00 through 12:00:00
+02/18/2001 13:00:00 through 13:30:00
+02/18/2001 14:30:00 through 15:00:00
+02/18/2001 16:00:00 through 02/19/2001 06:00:00
+02/19/2001 08:30:00 through 12:30:00
+02/19/2001 13:30:00 
+02/19/2001 17:00:00 through 02/20/2001 06:30:00
+02/20/2001 07:30:00 through 10:00:00
+02/20/2001 11:00:00 through 15:00:00
+02/20/2001 18:30:00 through 02/21/2001 01:00:00
+02/21/2001 02:00:00 through 06:00:00
+02/21/2001 08:00:00 through 13:00:00
+02/21/2001 14:00:00 through 16:00:00
+02/21/2001 17:00:00
+02/21/2001 19:30:00 throughout 02/22/2001 06:30:00
+02/22/2001 08:00:00 through 08:30:00
+02/22/2001 09:30:00 through 10:00:00
+02/22/2001 11:30:00 through 14:00:00
+02/22/2001 15:00:00
+02/22/2001 16:00:00 through 16:30:00
+02/22/2001 19:00:00 through 02/23/2001 12:00:00
+02/23/2001 13:00:00 through 02/24/2001 16:30:00
+02/24/2001 18:30:00
+02/24/2001 19:30:00 through 20:30:00
+02/24/2001 21:30:00 through 02/25/2001 08:00:00
+02/25/2001 09:00:00 through 11:00:00
+02/25/2001 22:30:00
+02/25/2001 23:30:00 
+02/26/2001 00:30:00 through 08:30:00
+02/26/2001 09:30:00 through 10:30:00
+02/26/2001 11:30:00
+02/26/2001 23:00:00 through 23:30:00
+02/27/2001 01:30:00
+02/27/2001 00:30:00
+02/27/2001 03:00:00 through 04:00:00
+02/27/2001 05:00:00
+02/27/2001 06:30:00
+02/27/2001 07:30:00 through 10:30:00
+02/27/2001 20:00:00 through 20:30:00
+02/27/2001 21:30:00 through 02/28/2001 04:30:00
+02/28/2001 08:00:00
+02/28/2001 09:00:00 through 15:30:00
+02/28/2001 17:00:00 through 23:30:00
+pH values: no data because probe was broken 
+02/06/2001 14:30:00 throughout 02/11/2001 10:00:00
+02/26/2001 09:30:00 throughout 02/28/2001 23:30:00
+Depth values: deleted data due to negative values caused by sensor malfunction
+02/26/2001 09:30:00 throughout 02/28/2001 09:30:00
+
+
+Station 10
+Turbidity values were deleted for the following dates/times due to negative 
+and/or zero values:
+02/05/2001 09:00:00 
+02/06/2001 14:30:00
+02/06/2001 19:30:00
+02/06/2001 21:00:00
+02/06/2001 22:00:00
+02/07/2001 00:30:00
+02/07/2001 03:00:00
+02/07/2001 04:30:00
+02/07/2001 05:30:00, 07:30:00
+02/27/2001 11:00:00, 12:30:00, 13:30:00, 14:30:00, 20:00:00
+02/08/2001 03:00:00
+02/10/2001 08:30:00
+02/11/2001 11:30:00 through 12:30:00
+02/11/2001 18:30:00 through 19:30:00
+02/11/2001 21:00:00 through 22:30:00
+02/11/2001 23:30:00
+02/12/2001 00:30:00
+02/12/2001 02:30:00 through 09:30:00
+02/12/2001 11:30:00
+02/12/2001 12:30:00 through 13:00:00
+02/12/2001 14:00 through 14:30, and 19:30 through 20:00:00
+02/12/2001 22:00:00 through 21:30:00
+02/12/2001 23:00:00 through 02/13/2001 04:00:00
+02/13/2001 05:00:00 through 09:00:00
+02/12/2001 11:00
+02/13/2001 12:30:00 through 13:30:00
+02/13/2001 14:30:00
+02/13/2001 19:00:00 through 19:30:00
+02/13/2001 20:30:00 through 00:30:00
+02/14/2001 01:30:00 through 09:30:00
+02/14/2001 10:30:00 through 12:30:00
+02/14/2001 13:30:00 through 14:00:00
+02/14/2001 16:00:00
+02/14/2001 20:30:00
+02/14/2001 21:30:00 through 02/15/2001 03:30:00
+02/15/2001 04:30:00
+02/15/2001 05:30:00 through 11:30:00
+02/15/2001 13:00:00
+02/15/2001 14:00:00
+02/15/2001 20:00:00 through 22:00:00
+02/15/2001 23:00:00 through 02/16/2001 09:30:00
+02/16/2001 10:30:00 through 13:30:00
+02/16/2001 14:30:00
+02/16/2001 18:30:00
+02/16/2001 19:30:00 through 23:30:00
+02/17/2001 00:30:00 through 01:30:00
+02/17/2001 02:30:00 through 05:30:00
+02/17/2001 06:30:00 through 14:30:00
+02/17/2001 17:00:00
+02/17/2001 19:00:00 through 19:30:00
+02/17/2001 20:30:00 through 22:00:00
+02/17/2001 23:00:00 through 02/18/2001 14:30:00
+02/18/2001 19:00:00 through 20:00:00
+02/18/2001 21:00:00 through 23:30:00
+02/19/2001 00:30:00 through 03:30:00
+02/19/2001 04:30:00 through 11:00:00
+02/19/2001 12:00:00 through 14:00:00
+02/19/2001 15:00:00 through 15:30:00
+02/19/2001 17:00:00
+02/19/2001 18:00:00 through 18:30:00
+02/19/2001 19:30:00 through 02/20/2001 09:30:00
+02/20/2001 10:30:00 through 11:30:00
+02/20/2001 12:30:00 through 14:30:00
+02/20/2001 19:00:00 through 20:30:00
+02/20/2001 21:30:00 through 23:30:00
+02/21/2001 00:30:00 through 06:30:00
+02/21/2001 07:30:00 through 12:30:00
+02/21/2001 13:30:00 through 16:00:00
+02/21/2001 21:00:00
+02/21/2001 22:00:00 through 23:00:00
+02/22/2001 01:00:00 through 01:30:00
+02/22/2001 02:30:00
+02/22/2001 06:30:00 through 07:00:00
+02/22/2001 08:00:00
+02/22/2001 09:00:00 
+02/22/2001 13:00:00 through 13:30:00
+02/24/2001 07:30:00
+02/24/2001 13:00:00
+02/24/2001 21:00:00
+02/26/2001 05:00:00
+02/26/2001 12:30:00
+02/26/2001 16:30:00
+02/26/2001 17:30:00
+02/26/2001 20:00:00
+02/26/2001 22:30:00 through 23:00:00
+02/27/2001 00:30:00
+02/27/2001 03:00:00
+02/27/2001 05:30:00 through 06:00:00
+02/27/2001 09:30:00
+02/27/2001 11:00:00 through 11:30:00
+02/27/2001 14:00:00
+02/27/2001 15:00:00
+02/27/2001 16:30:00
+02/27/2001 19:00:00
+02/27/2001 23:00:00 through 23:30:00
+02/28/2001 00:30:00
+02/28/2001 02:00:00
+02/28/2001 03:00:00
+02/28/2001 05:30:00
+02/28/2001 08:30:00
+02/28/2001 10:00:00 through 13:30:00
+02/28/2001 14:30:00 through 18:30:00
+02/28/2001 19:30:00 through 23:30:00
+High turbidity values deleted:
+02/05/2001 17:30:00
+02/06/2001 14:00:00
+02/06/2001 15:00:00
+02/06/2001 18:30:00
+02/06/2001 23:30:00
+02/07/2001 02:00:00 through 02:30:00
+02/07/2001 04:00:00
+02/07/2001 06:30:00 through 07:00:00
+02/07/2001 08:30:00 through 09:00:00
+02/07/2001 11:30:00 through 12:00:00
+02/07/2001 18:30:00 through 19:00:00
+02/07/2001 20:30:00
+02/08/2001 04:00:00
+02/08/2001 07:30:00
+02/08/2001 10:30:00
+02/08/2001 15:00:00
+02/08/2001 18:00:00
+02/08/2001 19:00:00
+02/08/2001 22:30:00
+02/09/2001 04:00:00 through 04:30:00
+02/09/2001 06:30:00
+02/09/2001 08:00:00
+02/09/2001 10:00:00
+02/09/2001 13:00:00
+02/09/2001 14:30:00
+02/09/2001 21:00:00
+02/09/2001 23:30:00 through 00:30:00
+02/10/2001 02:30:00 through 03:00:00
+02/10/2001 06:00:00
+02/10/2001 07:00:00 through 07:30:00
+02/10/2001 10:30:00 through 11:00:00
+02/10/2001 14:00:00 through 15:00:00
+02/10/2001 17:30:00
+02/10/2001 19:00:00
+02/11/2001 01:00:00 through 01:30:00
+02/11/2001 04:00:00 through 04:30:00
+02/11/2001 06:30:00 through 07:00:00
+02/11/2001 09:00:00 through 10:00:00
+02/26/2001 11:30:00 through 12:00:00
+02/26/2001 17:00:00
+02/26/2001 18:30:00 through 19:00:00
+02/26/2001 21:30:00 through 22:00:00
+02/26/2001 23:30:00
+02/27/2001 04:00:00 through 04:30:00
+02/27/2001 07:00:00 through 07:30:00
+02/27/2001 10:30:00
+02/27/2001 17:30:00 through 18:00:00
+02/27/2001 20:30:00
+02/27/2001 22:30:00
+02/28/2001 01:30:00
+02/28/2001 06:00:00
+02/28/2001 07:00:00
+02/28/2001 08:00:00
+Deleted depth on 02/06/01 14:00:00 due to datalogger out of water during 
+deployment. 
+
+March
+Station 09
+Negative DO mg/l and DO% values deleted:
+03/08/2001 00:30:00 through 01:30:00
+03/08/2001 02:30:00 through 09:00:00
+03/27/2001 07:00:00 through 08:30:00
+Deleted data, bad DO mg/l and DO% values Calibration Problems: 
+03/27/2001 09:30:00 throughout 03/31/01 23:30:00
+Negative depth values deleted:
+03/18/2001 10:30:00 throughout 03/27/2001 09:00:00
+Turbidity values for the following dates/times were deleted due to negative 
+and/or zero values:
+03/01/2001 00:00:00 through 05:30:00
+03/01/2001 08:00:00
+03/01/2001 09:30:00 through 13:30:00
+03/01/2001 15:00:00 through 15:30:00
+03/01/2001 17:00:00
+03/01/2001 18:00:00 through 03/02/2001 06:00:00
+03/02/2001 10:00:00
+03/02/2001 11:00:00 through 12:00:00
+03/02/2001 13:00:00
+03/02/2001 15:30:00 through 17:00:00
+03/02/2001 18:00:00 through 18:30:00
+03/02/2001 19:30:00 through 03/03/2001 01:30:00
+03/03/2001 02:30:00 through 03/03/2001 03:30:00
+03/03/2001 04:30:00
+03/03/2001 05:00:00
+03/03/2001 17:30:00
+03/03/2001 18:30:00 through 19:00:00
+03/03/2001 20:00:00 through 03/04/2001 03:00:00
+03/04/2001 04:00:00
+03/04/2001 06:00:00
+03/04/2001 09:30:00
+03/04/2001 16:00:00 through 16:30:00
+03/04/2001 17:30:00 through 03/05/2001 05:00:00
+03/05/2001 06:30:00
+03/05/2001 10:30:00
+03/05/2001 11:00:00 through 11:30:00
+03/05/2001 12:00:00
+03/05/2001 14:30:00 through 18:00:00
+03/05/2001 19:00:00 through 03/06/2001 06:30:00
+03/06/2001 09:00:00
+03/06/2001 10:00:00 through 12:00:00
+03/06/2001 16:00:00
+03/06/2001 17:00:00 through 19:00:00
+03/06/2001 20:00:00 through 03/07/2001 12:00:00
+03/07/2001 13:30:00
+03/07/2001 15:00:00 through 03/08/2001 06:30:00
+03/08/2001 08:00:00 through 14:00:00
+03/08/2001 15:00:00 through 17:30:00
+03/08/2001 18:30:00 through 03/09/2001 07:30:00
+03/09/2001 08:30:00 through 14:00:00
+03/09/2001 15:00:00 through 15:30:00
+03/09/2001 19:00:00 through 03/10/2001 17:30:00
+03/10/2001 18:30:00 through 03/11/2001 08:00:00
+03/11/2001 09:00:00 through 09:30:00
+03/11/2001 11:30:00
+03/11/2001 12:30:00 through 17:30:00
+03/11/2001 18:30:00 through 03/12/2001 06:00:00
+03/12/2001 07:00:00 through 10:00:00
+03/12/2001 12:00:00
+03/12/2001 15:00:00 through 15:30:00
+03/12/2001 17:00:00
+03/12/2001 18:00:00 through 03/13/2001 04:00:00
+03/13/2001 06:00:00
+03/13/2001 07:00:00, 09:00:00, 12:30:00
+03/13/2001 13:30:00
+03/13/2001 14:30:00 through 15:30:00
+03/13/2001 17:30:00 through 03/14/2001 04:30:00
+03/14/2001 06:00:00 through 06:30:00
+03/14/2001 08:00:00
+03/14/2001 09:00:00
+03/14/2001 13:30:00
+03/14/2001 15:30:00 through 16:30:00
+03/14/2001 17:30:00 through 03/15/2001 03:30:00
+03/15/2001 04:30:00 through 06:00:00
+03/15/2001 08:30:00
+03/15/2001 10:30:00, 12:00:00 through 12:30:00
+03/15/2001 16:00:00 through 03/16/2001 06:30:00
+03/16/2001 13:30:00 through 03/17/2001 04:00:00
+03/17/2001 05:00:00 through 07:00:00
+03/17/2001 08:30:00 through 14:00:00
+03/17/2001 15:00:00 through 15:30:00
+03/17/2001 17:00:00 through 03/18/2001 06:00:00
+03/18/2001 08:00:00 through 10:00:00
+03/23/2001 04:00
+03/28/2001 15:00:00
+03/28/2001 23:30:00
+03/29/2001 00:00:00
+03/29/2001 02:30:00
+03/29/2001 04:30:00
+03/30/2001 04:30:00, 10:00:00, 11:00:00, 23:30:00
+03/31/2001 08:30:00, 22:30:00, 23:00:00
+Turbidity values for the following dates/times were deleted due to high (>1000 
+NTU) values: 
+03/23/2001 03:30:00
+No pH data due to lack of probe for deployment 03/18/2001 10:30:00 through 
+03/27/2001 09:00:00.
+Drop in DO% and mg/L 03/07/01 17:30:00 through 03/09/01 11:00:00 possibly due to 
+increase in water temperatures on 03/06 13:30 (33.2( C) causing more consumption 
+of oxygen by organisms and algae in the water. These data were not deleted. 
+
+Station 10
+Turbidity values for the following dates/times were deleted due to negative 
+and/or zero values:
+03/01/2001 00:00:00 through 03/02/2001 17:00:00 
+03/02/2001 18:00:00
+03/02/2001 19:00:00 through 03/03/2001 13:30:00
+03/03/2001 15:00:00
+03/03/2001 16:00:00 through 16:30:00
+03/03/2001 18:00:00 through 03/04/2001 11:30:00
+03/04/2001 13:00:00 through 16:30:00
+03/04/2001 17:30:00 through 20:30:00
+03/04/2001 21:30:00 through 03/05/2001 00:00:00
+03/05/2001 01:00:00
+03/05/2001 02:00:00 through 03/07/2001 10:00:00
+03/07/2001 11:00:00 through 03/09/2001 11:30:00
+03/09/2001 13:00:00 through 17:00:00
+03/09/2001 18:30:00 through 21:30:00
+03/09/2001 22:30:00 through 03/12/2001 13:30:00
+03/12/2001 15:00:00
+03/12/2001 16:30:00 through 03/14/2001 00:00:00
+03/14/2001 01:00:00 through 13:00:00
+03/14/2001 15:00:00 through 16:00:00
+03/14/2001 17:00:00 through 17:30:00 
+03/14/2001 18:30:00 through 19:30:00
+03/14/2001 20:30:00 through 03/16/2001 10:30:00
+03/16/2001 11:30:00 through 13:00:00
+03/16/2001 14:00:00 through 18:30:00
+03/16/2001 19:30:00 through 03/17/2001 11:00:00
+03/17/2001 12:00:00 through 13:00:00 
+03/17/2001 14:00:00 through 15:30:00
+03/17/2001 17:00:00 through 03/18/2001 09:00:00
+03/18/2001 12:00:00
+03/18/2001 13:00:00
+03/18/2001 16:00:00
+03/19/2001 01:30:00
+03/19/2001 04:30:00
+03/19/2001 18:00:00 through 19:00:00
+03/19/2001 23:00:00
+03/20/2001 02:00:00
+03/20/2001 08:30:00
+03/20/2001 16:00:00
+03/20/2001 19:00:00
+03/20/2001 21:00:00
+03/20/2001 23:30:00
+03/21/2001 02:30:00
+03/21/2001 03:30:00
+03/21/2001 06:00:00
+03/21/2001 21:30:00
+03/21/2001 23:00:00
+03/22/2001 00:30:00
+02/22/2001 03:00:00
+03/22/2001 05:30:00
+03/22/2001 10:30:00 through 11:00:00
+03/22/2001 13:30:00 through 14:00:00
+03/22/2001 16:30:00
+03/22/2001 19:00:00
+03/22/2001 21:00:00 
+03/22/2001 22:00:00
+03/23/2001 00:30:00
+03/23/2001 04:00:00
+03/23/2001 06:30:00
+03/23/2001 08:00:00
+03/23/2001 10:30:00
+03/23/2001 12:30:00
+03/23/2001 13:30:00
+03/23/2001 14:30:00
+03/23/2001 16:00:00 
+03/23/2001 17:00:00
+03/23/2001 18:30:00
+03/23/2001 21:00:00
+03/23/2001 23:30:00 through 03/24/2001 00:00:00
+03/24/2001 02:30:00
+03/24/2001 05:00:00
+03/24/2001 07:00:00
+03/24/2001 08:00:00
+03/24/2001 10:30:00
+03/24/2001 13:00:00
+03/24/2001 17:00:00
+03/24/2001 18:00:00
+03/24/2001 19:30:00
+03/24/2001 20:30:00
+03/24/2001 22:00:00
+03/25/2001 00:30:00
+03/25/2001 03:00:00
+03/25/2001 05:30:00
+03/25/2001 08:00:00
+03/25/2001 10:30:00
+03/25/2001 15:30:00
+03/25/2001 18:00:00
+03/25/2001 19:00:00
+03/25/2001 19:30:00
+03/25/2001 21:00:00
+03/25/2001 22:30:00
+03/26/2001 02:00:00
+03/26/2001 03:30:00
+03/26/2001 04:30:00
+03/26/2001 06:00:00
+03/26/2001 08:30:00
+03/26/2001 09:30:00
+03/26/2001 11:00:00
+03/26/2001 13:30:00
+03/26/2001 18:30:00
+03/26/2001 22:30:00
+03/26/2001 23:30:00
+03/27/2001 02:30:00
+03/27/2001 06:30:00
+03/27/2001 09:00:00 through 03/28/2001 00:30:00
+03/28/2001 01:30:00 through 23:00:00
+03/29/2001 00:00:00 through 11:00:00
+03/29/2001 12:00:00 through 13:00:00
+03/29/2001 14:00:00 through 15:00:00
+03/29/2001 16:00:00 through 03/30/2001 17:30:00
+03/30/2001 18:30:00 through 03/31/2001 02:00:00
+03/31/2001 03:00:00 through 11:30:00
+03/31/2001 12:30:00 through 13:30:00
+03/31/2001 14:30:00 through 15:00:00
+03/31/2001 16:00:00
+03/31/2001 17:30:00
+03/31/2001 18:30:00:00 through 22:30:00
+
+High turbidity values deleted:
+03/12/2001 16:00:00	 
+03/18/2001 10:30:00	 
+03/18/2001 14:30:00 through 15:30:00	 
+03/18/2001 17:30:00 through 19:00:00	 
+03/18/2001 20:00:00 through 21:30:00	 
+03/18/2001 23:00:00	 
+03/19/2001 00:00:00 through 00:30:00	 
+03/19/2001 02:30:00 through 03:30:00	 
+03/19/2001 05:30:00 through 08:30:00
+03/19/2001 10:00:00	 
+03/19/2001 12:00:00 
+03/19/2001 13:00:00 through 14:00:00
+03/19/2001 15:30:00
+03/19/2001 17:30:00	 
+03/19/2001 21:30:00	 
+03/19/2001 23:30:00
+03/20/2001 01:30:00, 02:30:00
+03/20/2001 04:30:00 through 05:00:00
+03/20/2001 07:00:00 through 08:00:00
+03/20/2001 09:00:00
+03/20/2001 10:00:00, 12:30:00, 14:00:00, 15:00:00 through 15:30:00
+03/20/2001 17:00:00, 18:00:00 through 18:30:00, 22:30:00 through 23:30:00
+03/21/2001 00:00:00	 
+03/21/2001 01:30:00 through 02:00:00
+03/21/2001 03:00:00
+03/21/2001 05:00:00 through 05:30:00
+03/21/2001 07:30:00 through 08:30:00
+03/21/2001 10:30:00 through 11:30:00
+03/21/2001 13:30:00 through 14:00:00
+03/21/2001 16:30:00
+03/21/2001 17:30:00
+03/21/2001 19:00:00 through 20:30:00
+03/21/2001 22:30:00
+03/22/2001 09:00:00 through 10:00:00
+03/22/2001 12:00:00 through 13:00:00
+03/22/2001 18:00:00
+03/22/2001 20:30:00
+03/22/2001 23:30:00
+03/23/2001 02:00:00
+03/23/2001 03:00:00 through 03:30:00
+03/23/2001 05:00:00 through 06:00:00
+03/23/2001 09:30:00
+03/23/2001 12:00:00
+03/23/2001 22:30:00 through 23:00:00
+03/24/2001 06:30:00 
+03/24/2001 09:30:00
+03/24/2001 14:30:00
+03/24/2001 23:00:00
+03/25/2001 06:30:00 through 07:00:00
+03/25/2001 12:30:00 through 13:30:00
+03/25/2001 14:30:00 through 15:00:00
+03/25/2001 17:00:00
+03/25/2001 18:30:00 
+03/25/2001 22:00:00
+03/26/2001 01:00:00 through 01:30:00
+03/26/2001 12:30:00
+03/26/2001 15:00:00 through 15:30:00
+03/26/2001 18:00:00
+03/26/2001 19:00:00
+03/26/2001 20:30:00
+03/27/2001 01:00:00 through 02:00:00
+03/27/2001 04:00:00
+Values not registered by sonde:
+03/31/2001 23:00:00 through 23:30:00
+Suspicious pH values were deleted:
+03/18/2001 10:30:00 throughout 03/27/2001 09:00:00
+Deleted bad data due to sonde maintenance. Sonde was clearly still out of water 
+when the sonde took reading:
+03/18/01 10:00:00
+Suspicious DO% and DO mg/l values retained:
+03/15/01 00:00:00 through 22:00:00
+It's a possibility this could be due to algae activity or other organism 
+activity example (Cassiopeia) in the bottom of the sonde.
+
+
+April 2001
+Station 09
+Deleted bad DO mg/l and DO% values due to calibration problems: 
+04/01/01 00:00:00 throughout 04/08/01 09:30:00
+Negative turbidity values deleted:
+04/01/2001 07:30:00, 08:30:00
+04/01/2001 09:00:00
+04/01/2001 10:00:00
+04/01/2001 22:00:00
+04/02/2001 00:00:00, 01:00:00
+04/28/2001 03:30:00
+04/28/2001 04:00:00
+04/29/2001 04:30:00
+04/30/2001 03:30:00
+04/30/2001 04:00:00
+04/30/2001 04:30:00
+High turbidity values deleted:
+04/08/2001 18:00:00
+Deleted data, bad values for all parameters. 
+04/11/2001 12:00:00 throughout 04/25/2001 08:30:00
+Deleted bad depth data due to calibration error:
+04/08/01 10:00:00 through 04/11/01 11:30:00
+
+Station 10
+Negative and/or zero turbidity values deleted:
+04/01/01        00:00:00 through 01:30:00
+04/01/01        02:30:00 through 12:30:00
+04/01/01        14:00:00 through 04/02/01 19:00:00
+04/02/01        20:00:00 through 04/03/01 03:00:00
+04/03/01        04:00:00 through 04/04/01 16:00:00
+04/04/01        17:00:00 through 04/05/01 04:30:00
+04/05/01        05:30:00 through 20:30:00
+04/05/01        21:30:00 through 04/06/01 15:00:00
+04/06/01        16:00:00 through 04/07/01 09:30:00
+04/07/01        10:30:00 through 11:30:00
+04/07/01        12:30:00 through 17:00:00
+04/07/01        18:00:00 through 23:30:00
+04/08/01        00:00:00
+04/08/01        01:00:00
+04/08/01        02:30:00 through 11:00:00
+04/08/01 	    12:00:00
+04/08/01	    13:00:00
+04/08/01        14:00:00 through 15:30:00
+04/08/01        18:00:00 through 23:00:00
+04/09/01	    15:00:00
+04/09/01	    23:00:00 through 04/10/01 00:30:00
+04/10/01	    02:00:00 through 03:30:00
+04/10/01	    04:30:00 through 05:30:00
+04/11/01	    18:30:00
+04/11/01	    18:30:00
+04/11/01	    20:00:00 through 20:30:00
+04/11/01	    23:00:00 through 04/12/01 01:30:00
+04/12/01 	    03:00:00 through 04:00:00
+04/12/01 	    05:30:00
+04/12/01        07:00:00
+04/12/01        13:30:00
+04/12/01	    19:00:00 through 20:30:00
+04/12/01	    22:30:00 through 23:30:00
+04/13/01	    00:30:00 through 01:30:00
+04/13/01        03:00:00 through 07:00:00
+04/13/01	    08:00:00
+04/13/01	    10:00:00
+04/13/01	    19:30:00 through 20:00:00
+04/13/01        21:00:00 through 22:00:00
+04/13/01	    23:00:00 through 04/14/01 01:00:00
+04/14/01        02:00:00 through 05:00:00
+04/14/01	    06:00:00 through 08:00:00
+04/14/01	    09:00:00 through 09:30:00
+04/14/01 	    12:30:00 through 13:30:00
+04/14/01	    15:00:00
+04/14/01	    18:30:00
+04/14/01	    19:30:00
+04/14/01	    20:30:00 through 21:30:00
+04/14/01	    22:30:00
+04/14/01        23:30:00
+04/15/01	    00:30:00 through 02:30:00
+04/15/01        03:30:00 through 05:00:00
+04/15/01	    06:00:00 through 09:00:00
+04/15/01	    10:30:00 through 11:30:00
+04/15/01	    13:30:00
+04/15/01	    16:00:00
+04/15/01	    17:30:00
+04/15/01	    19:00:00
+04/15/01	    20:00:00
+04/15/01	    21:30:00
+04/15/01	    22:30:00 through 23:00:00
+04/16/01	    00:00:00 through 00:30:00
+04/16/01	    01:30:00
+04/16/01	    02:30:00
+04/16/01	    03:30:00 through 06:00:00
+04/16/01	    07:00:00 through 07:30:00
+04/16/01	    08:30:00 through 10:30:00
+04/16/01	    12:00:00 through 15:00:00
+04/16/01	    16:30:00
+04/16/01	    20:00:00 through 04/17/01 00:00:00
+04/17/01        01:00:00 through 04:00:00
+04/17/01        05:00:00 through 07:00:00
+04/17/01	    09:30:00
+04/17/01	    10:30:00
+04/17/01	    12:00:00
+04/17/01	    14:30:00
+04/17/01	    17:30:00
+04/17/01	    19:30:00
+04/17/01	    20:30:00
+04/17/01	    22:30:00 through 23:00:00
+04/18/01	    00:00:00 through 02:00:00
+04/18/01	    03:00:00 through 05:30:00
+04/18/01	    07:00:00
+04/18/01	    10:30:00 through 11:00:00
+04/18/01	    14:00:00
+04/18/01	    19:00:00
+04/18/01	    20:00:00 through 20:30:00
+04/18/01	    22:00:00
+04/18/01	    23:00:00
+04/19/01	    00:00:00 through 00:30:00
+04/19/01	    01:30:00
+04/19/01	    02:30:00 through 07:30:00
+04/19/01	    10:00:00 through 10:30:00
+04/19/01	    11:30:00
+04/19/01	    14:30:00
+04/19/01	    19:00:00 through 04/20/01 00:30:00	
+04/20/01	    01:30:00 through 02:00:00
+04/20/01	    03:30:00 through 05:30:00
+04/20/01	    06:30:00 through 07:00:00
+04/20/01	    08:30:00 through 09:00:00
+04/20/01	    10:30:00 through 11:00:00
+04/20/01	    18:00:00
+04/20/01	    21:00:00 through 22:00:00
+04/20/01	    23:00:00 through 23:30:00
+04/21/01	    01:00:00
+04/21/01	    02:00:00
+04/21/01	    04:00:00
+04/21/01	    05:00:00 through 05:30:00
+04/21/01	    06:30:00 through 08:30:00
+04/21/01	    16:00:00 through 16:30:00
+04/21/01	    19:30:00
+04/21/01	    21:00:00
+04/21/01	    22:30:00
+04/21/01	    23:30:00 through 04/22/01 00:30:00
+04/22/01	    01:30:00 through 03:00:00
+04/22/01	    04:00:00 through 06:30:00
+04/22/01	    08:00:00
+04/22/01	    19:00:00 through 19:30:00
+04/22/01	    22:30:00 through 223:00:00
+04/23/01	    00:30:00
+04/23/01	    02:00:00 through 03:00:00
+04/23/01	    04:00:00 through 04:30:00
+04/23/01	    05:30:00 through 07:00:00
+04/23/01        10:00:00 through 04/24/01 00:00:00
+04/24/01        08:30:00 through 11:30:00
+04/24/01        14:30:00
+04/24/01        15:00:00
+04/24/01	    17:30:00
+04/24/01        18:30:00
+04/24/01        21:00:00
+04/25/01        04:30:00 through 05:00:00
+04/25/01	    08:30:00
+04/25/01        13:00:00
+04/25/01	    22:30:00
+04/26/01	    04:00:00
+04/26/01	    05:30:00 through 06:00:00
+04/27/01	    01:00:00 through 02:00:00
+04/27/01	    03:00:00
+04/27/01	    04:30:00 through 05:00:00
+04/27/01	    06:30:00
+04/27/01	    07:30:00
+04/27/01	    12:30:00
+04/28/01	    02:30:00
+04/28/01	    05:00:00 through 05:30:00
+04/28/01	    06:30:00 through 07:30:00
+04/28/01	    10:30:00
+04/28/01	    22:30:00
+04/29/01	    02:30:00
+04/29/01	    04:00:00 through 05:00:00
+04/29/01	    06:00:00
+04/29/01	    07:30:00
+04/29/01	    10:00:00
+04/30/01	    01:00:00 through 01:30:00
+04/30/01	    02:30:00
+04/30/01	    03:30:00
+04/30/01	    05:00:00 through 07:30:00
+04/30/01	    10:00:00
+04/30/01	    11:30:00
+High turbidity values were deleted:
+04/08/01        13:30:00
+04/24/01        17:00:00
+04/24/01        19:00:00
+04/25/01        03:00:00
+04/25/01        03:30:00
+04/25/01        02:30:00
+04/25/01        01:00:00
+04/25/01        00:30:00
+No data recorded by sonde:
+04/23/2001 09:00:00 through 09:30:00
+04/25/2001 09:00:00 through 10:00:00
+04/25/2001 11:30:00 through 12:30:00
+DO (% and mg/L) suspect due to low readings during new deployment. 
+04/08/2001 10:00:00 through 04/09/2001 04:30:00
+Low pH value suspect and deleted due to new deployment reading.
+04/05/2001 10:00:00
+
+May 2001
+Station 09
+Negative DO mg/l and DO% values deleted for deployment due to calibration error:
+05/15/01 09:30:00 through 05/16/01 09:30:00
+Negative DO mg/l and DO% values deleted:
+05/27/01 05:30:00 through 06:00:00
+05/27/01 07:30:00 through 08:30:00
+Negative turbidity values deleted:
+05/17/2001 04:00:00
+05/17/2001 06:00:00
+05/17/2001 22:30:00
+05/18/2001 01:00:00
+05/18/2001 02:00:00
+05/18/2001 03:30:00
+05/18/2001 04:00:00
+05/18/2001 06:30:00
+05/19/2001 22:30:00
+05/20/2001 01:00:00
+05/20/2001 22:30:00
+05/21/2001 00:00:00
+05/22/2001 00:00:00
+05/27/2001 16:00:00
+05/29/2001 23:00:00
+05/30/2001 21:00:00
+05/31/2001 05:00:00
+05/31/2001 22:30:00
+High turbidity values deleted:
+05/04/2001 13:30:00
+05/04/2001 23:30:00
+05/05/2001 09:00:00
+05/05/2001 12:30:00
+05/06/2001 01:30:00
+05/06/2001 04:30:00
+05/06/2001 08:30:00
+05/06/2001 18:30:00
+05/06/2001 20:00:00
+05/24/2001 10:30:00
+Deleted depth values because were considered bad data:
+05/13/2001 18:30:00 throughout 05/31/2001 23:30:00
+No data because sonde maintenance: 05/15/2001 08:30:00 through 09:00:00
+
+Station 10
+Turbidity values for the following dates/times were deleted due to negative 
+and/or zero values:
+05/01/2001 01:00:00
+05/01/2001 02:30:00 through 03:30:00
+05/01/2001 04:30:00
+05/01/2001 05:30:00
+05/01/2001 06:30:00 through 07:00:00
+05/01/2001 10:30:00
+05/01/2001 16:30:00
+05/01/2001 18:30:00
+05/02/2001 02:30:00 through 04:00:00
+05/02/2001 05:00:00
+05/02/2001 06:00:00 through 08:30:00
+05/02/2001 09:30:00
+05/02/2001 11:00:00 through 12:00:00
+05/02/2001 13:00:00
+05/02/2001 14:00:00 through 14:30:00
+05/02/2001 16:30:00 through 17:30:00
+05/02/2001 19:00:00
+05/02/2001 23:00:00
+05/03/2001 01:30:00
+05/03/2001 02:30:00
+05/03/2001 03:30:00
+05/03/2001 05:00:00
+05/03/2001 06:30 through 09:00:00
+05/03/2001 10:00:00 through 11:00:00
+05/03/2001 16:00:00
+05/04/2001 00:00:00
+05/04/2001 03:00:00
+05/04/2001 04:30:00 through 05:00:00
+05/04/2001 06:00:00 through 07:30:00
+05/04/2001 08:30:00
+05/04/2001 09:30:00
+05/04/2001 10:30:00 through 11:00:00
+05/04/2001 12:00:00
+05/04/2001 13:30:00
+05/04/2001 14:30:00 
+05/04/2001 18:30:00
+05/05/2001 00:00:00 through 02:30:00
+05/05/2001 03:30:00
+05/05/2001 04:30:00 through 05:00:00
+05/05/2001 06:30:00 through 07:00:00
+05/05/2001 08:00:00 through 10:00:00
+05/05/2001 13:30:00
+05/05/2001 22:00:00
+05/06/2001 01:30:00
+05/06/2001 02:30:00 through 03:00:00
+05/06/2001 04:00:00
+05/06/2001 05:30:00
+05/06/2001 06:30:00
+05/06/2001 09:00:00
+05/06/2001 17:30:00
+05/06/2001 23:30:00
+05/10/2001 03:00:00
+05/15/2001 10:00:00 through 11:00:00	
+05/15/2001 12:30:00 through 14:00:00	
+05/15/2001 15:00:00 through 16:30:00	
+05/15/2001 17:30:00 through 18:30:00	
+05/15/2001 20:00:00	
+05/15/2001 21:00:00 through 21:30:00	
+05/15/2001 22:30:00 throughout 05/16/2001 00:00:00
+05/16/2001 01:00:00	
+05/16/2001 02:00:00 through 02:30:00	
+05/16/2001 03:30:00
+05/16/2001 06:00:00 through 06:30:00
+05/16/2001 09:00:00	
+05/17/2001 04:00:00
+05/17/2001 06:00:00
+05/17/2001 22:30:00
+05/18/2001 01:00:00
+05/18/2001 02:00:00
+05/18/2001 03:30:00 through 04:00:00
+05/18/2001 06:30:00
+05/19/2001 22:30:00
+05/20/2001 01:00:00
+05/20/2001 22:30:00
+05/21/2001 00:00:00
+05/22/2001 00:00:00
+High turbidity values were deleted:
+05/15/2001 19:00:00
+05/16/2001 04:00:00
+05/24/2001 10:30:00
+Deleted bad data due to sonde maintenance, datalogger was out of water:
+05/16/2001 09:30:00
+Deleted data for depth due to sensor failure:
+05/16/2001 10:00:00 throughout 05/24/2001 15:30:00
+Deleted data, bad oxygen values due to calibration error: 
+05/15/2001 09:30:00 throughout 05/16/2001 09:00:00
+Missing data due to battery problems:
+05/24/2001 16:00:00 throughout 05/31/2001 23:30:00
+
+June 2001
+Station 09
+DO (% and mg/L) are suspect due to low battery. Data retained. 
+06/14/2001 08:00:00 through 06/25/2001 09:30:00
+Deleted data, bad values for all parameters. 
+06/25/01 10:00:00 throughout 06/27/01 08:30:00
+Turbidity values were deleted for the following dates/times due to negative 
+and/or zero values:
+06/01/2001 01:00:00 through 01:30:00
+06/01/2001 04:00:00
+06/01/2001 21:00:00 through 21:30:00
+06/01/2001 23:00:00
+Deleted depth, bad data drift in values, sensor malfunction
+06/01/2001 00:00:00 throughout 06/25/2001 09:30:00 
+
+
+Station 10
+Turbidity values were deleted for the following date/times due to negative 
+and/or zero values:
+06/06/2001 19:00:00, 22:00:00
+06/07/2001 00:30:00, 02:30:00
+06/07/2001 04:30:00 through 05:30:00
+06/07/2001 06:30:00 through 07:00:00
+06/07/2001 08:00:00
+06/07/2001 19:00:00 through 19:30:00
+06/07/2001 21:00:00 through 22:30:00
+06/07/2001 23:30:00 through 06/08/2001 02:30:00
+06/08/2001 03:30:00 through 04:00:00
+06/08/2001 05:3:00 through 07:00:00
+06/08/2001 08:30:00, 17:00:00
+06/08/2001 19:00:00 through 20:00:00 
+06/08/2001 21:00:00 through 06/09/2001 03:30:00
+06/09/2001 04:30:00 through 09:00:00
+06/09/2001 10:00:00, 14:00:00, 15:00:00, 17:00:00
+06/09/2001 18:00:00 through 19:00:00
+06/09/2001 12:00:00 through 13:00:00
+06/09/2001 20:00:00 through 06/10/2001 05:30:00
+06/10/2001 06:30:00 through 08:30:00
+06/10/2001 10:00:00 through 11:00:00
+06/10/2001 12:00:00 through 13:00:00
+06/10/2001 18:30:00 through 23:00:00
+06/11/2001 00:00:00 through 07:00:00
+06/11/2001 08:00:00 through 11:00:00
+06/11/2001 12:00:00, 13:00:00, 14:30:00
+06/11/2001 16:00:00 through 16:30:00
+06/11/2001 17:30:00 through 22:30:00
+06/11/2001 23:30:00 through 06/12/2001 04:30:00
+06/12/2001 05:30:00 through 11:30:00
+06/15/2001 12:30:00 through 16:00:00
+06/12/2001 17:00:00 through 17:30:00
+06/12/2001 18:30:00 through 06/13/2001 03:00:00
+06/13/2001 04:00:00 through 04:30:00
+06/13/2001 05:30:00 through 14:00:00
+06/13/2001 15:30:00 through 17:30:00
+06/13/2001 18:30:00 through 19:30:00
+06/13/2001 20:30:00 through 06/14/2001 12:30:00
+06/14/2001 13:30:00 through 19:30:00
+06/14/2001 20:30:00 through 06/15/2001 07:00:00
+06/15/2001 08:30:00 through 19:00:00
+06/15/2001 20:00:00 through 20:30:00
+06/15/2001 21:30:00
+06/15/2001 22:30:00 through 06/16/2001 03:00:00
+06/16/2001 04:00:00 through 05:30:00
+06/16/2001 07:00:00
+06/16/2001 08:00:00, 13:00:00, 14:00:00 through 16:00:00
+06/16/2001 17:00:00 through 17:30:00
+06/16/2001 23:30:00
+06/16/2001 09:30:00 through 12:00:00
+06/16/2001 18:30:00
+06/16/2001 19:30:00 through 22:30:00
+06/17/2001 00:30:00 
+06/17/2001 01:30:00 through 09:00:00
+06/17/2001 10:00:00
+06/17/2001 11:00:00 through 16:00:00
+06/17/2001 17:00:00 through 19:00:00
+06/17/2001 20:00:00 through 06/18/2001 04:00:00
+06/18/2001 06:30:00 through 05:00:00
+06/18/2001 08:30:00 through 09:00:00
+06/18/2001 10:00:00 through 11:30:00
+06/18/2001 15:00:00 through 15:30:00
+06/18/2001 18:00:00 through 22:30:00
+06/18/2001 23:30:00
+06/19/2001 00:30:00
+06/19/2001 01:30:00 through 03:00:00
+06/19/2001 04:30:00 through 06:30:00
+06/19/2001 07:30:00
+06/19/2001 08:30:00 through 10:30:00
+06/19/2001 13:30:00 through 14:00:00
+06/19/2001 15:30:00
+06/19/2001 16:30:00 through 19:00:00
+06/19/2001 21:00:00 through 21:30:00
+06/19/2001 22:30:00 through 23:00:00
+06/20/2001 00:00:00 through 00:30:00
+06/20/2001 02:00:00 through 04:30:00
+06/20/2001 05:30:00 through 06:00:00
+06/20/2001 07:00:00 through 08:30:00
+06/20/2001 10:30:00, 11:30:00, 14:30:00, 15:30:00
+06/20/2001 17:00:00 through 18:00:00
+06/20/2001 19:00:00 through 20:00:00
+06/20/2001 21:30:00 through 23:00:00
+06/21/2001 00:00:00 through 06:00:00
+06/21/2001 07:00:00 through 09:00:00
+06/21/2001 10:00:00, 11:30:00
+06/21/2001 13:30:00 through 14:00:00
+06/21/2001 17:00:00 through 17:30:00
+06/21/2001 18:30:00
+06/21/2001 23:30:00 through 06/22/2001 01:00:00
+06/22/2001 02:00:00 through 05:30:00
+06/22/2001 06:30:00 through 07:30:00
+06/22/2001 09:00:00 through 10:00:00
+06/22/2001 13:00:00 through 16:00:00
+06/22/2001 17:30:00 through 20:00:00
+06/22/2001 22:00:00 through 06/23/2001 00:00:00
+06/23/2001 01:00:00 through 02:30:00
+06/23/2001 03:30:00 through 07:00:00
+06/23/2001 08:30:00 through 11:30:00
+06/23/2001 13:30:00 through 15:30:00
+06/23/2001 17:30:00 through 18:30:00
+06/23/2001 19:30:00, 20:30:00
+06/23/2001 21:30:00 through 23:30:00
+06/24/2001 00:00:00
+06/24/2001 03:00:00 through 09:00:00
+06/24/2001 11:00:00 through 11:30:00
+06/24/2001 19:00:00
+06/24/2001 20:30:00
+06/24/2001 22:00:00 through 23:30:00
+06/25/2001 01:00:00 through 01:30:00
+06/25/2001 02:30:00 through 03:00:00
+06/25/2001 04:30:00 through 06:00:00
+06/25/2001 07:00:00 through 08:00:00
+06/25/2001 09:00:00 through 10:00:00
+06/25/2001 12:30:00, 14:00:00, 15:00:00, 16:30:00
+06/25/2001 18:00:00
+06/25/2001 19:30:00
+06/25/2001 23:00:00
+06/26/2001 00:30:00
+06/26/2001 03:00:00
+06/26/2001 05:30:00
+06/26/2001 18:00:00, 20:30:00
+06/26/2001 22:00:00
+06/27/2001 01:30:00
+06/27/2001 05:30:00
+06/27/2001 07:30:00
+06/27/2001 09:00:00 through 09:30:00
+06/27/2001 11:00:00 through 12:00:00
+06/27/2001 13:00:00 through 16:00:00
+06/27/2001 17:30:00, 18:30:00 through 19:00:00
+06/27/2001 20:00:00 through 06/28/2001 14:00:00
+06/28/2001 15:00:00 through 21:00:00
+06/28/2001 22:00:00 through 23:30:00
+06/29/2001 00:30:00 through 05:30:00
+06/29/2001 06:30:00 through 10:00:00
+06/29/2001 11:30:00 through 06/30/2001 03:30:00
+06/30/2001 04:30:00 through 05:30:00
+06/30/2001 07:00:00 through 07:30:00
+06/30/2001 08:30:00 through 15:30:00
+06/30/2001 16:30:00 through 23:30:00
+High turbidity values deleted:
+06/19/2001 00:00:00
+06/23/2001 21:00:00
+06/24/2001 21:30:00
+06/25/2001 00:30:00
+06/25/2001 17:30:00
+06/25/2001 21:00:00
+06/26/2001 01:30:00
+06/26/2001 04:00:00
+06/26/2001 09:00:00
+06/26/2001 17:00:00
+06/27/2001 05:00:00
+06/27/2001 07:00:00
+No data, values where suspicious:
+06/01/2001 00:00:00 throughout 06/06/2001 08:00:00
+No data due to maintenance.
+06/06/2001 08:30:00
+Deleted data, DO% and DO mg/l bad values, calibration problem.
+06/25/01 10:00:00 throughout 06/27/01 08:30:00 
+
+
+
+July 2001
+Station 09
+DO% and DO mg/l negative values, data deleted:
+07/23/2001 18:00:00 throughout 07/24/2001 23:30:00
+07/25/2001 01:30:00
+High turbidity values deleted:
+07/11/2001 18:30:00
+07/16/2001 09:00:00
+07/16/2001 12:30:00
+07/16/2001 14:30:00
+07/16/2001 17:00:00 through 17:30:00
+07/17/2001 12:30:00
+07/17/2001 17:30:00
+07/17/2001 22:00:00
+07/18/2001 01:00:00
+07/18/2001 02:00:00
+07/18/2001 08:30:00
+07/20/2001 00:30:00
+07/20/2001 01:00:00
+07/20/2001 02:00:00
+07/20/2001 04:00:00 through 04:30:00
+07/20/2001 07:00:00
+07/20/2001 13:30:00
+07/20/2001 19:30:00
+07/20/2001 21:00:00
+07/21/2001 03:00:00
+07/21/2001 04:00:00
+07/21/2001 05:30:00
+07/21/2001 07:30:00
+07/21/2001 11:30:00
+07/22/2001 12:30:00
+07/26/2001 21:00:00
+07/31/2001 04:00:00
+07/31/2001 07:00:00 through 08:00:00
+07/31/2001 09:00:00 through 09:30:00
+Bad depth readings deleted due to calibration error for deployment 07/23/2001 
+13:00:00 through 08/14/2001 08:30:00
+
+Station 10
+Turbidity values for the following dates/times were deleted due to negative 
+and/or zero values:
+07/01/2001 00:00:00
+07/01/2001 01:30:00 through 05:00:00
+07/01/2001 06:00:00 through 13:00:00
+07/01/2001 14:30:00 through 21:30:00
+07/01/2001 22:30:00 through 07/02/01 09:30:00
+07/02/2001 11:00:00
+07/02/2001 12:00:00 through 15:00:00
+07/02/2001 16:00:00 through 17:00:00
+07/02/2001 19:00:00 through 19:30:00
+07/02/2001 21:00:00 through 21:30:00
+07/02/2001 23:30:00 through 07/03/2001 02:00:00
+07/03/2001 03:00:00 through 04:30:00
+07/03/2001 05:30:00
+07/03/2001 07:00:00
+07/03/2001 08:00:00 through 08:30:00
+07/03/2001 15:30:00
+07/04/2001 07:00:00
+07/04/2001 11:00:00
+07/05/2001 06:00:00
+07/05/2001 18:30:00 through 19:00:00
+07/05/2001 22:30:00
+07/06/2001 06:00:00 through 07:00:00
+07/06/2001 17:00:00
+07/06/2001 18:30:00
+07/06/2001 19:30:00
+07/06/2001 21:00:00 through 22:30:00
+07/06/2001 23:30:00 through 07/07/2001 00:00:00
+07/07/2001 01:30:00 through 05:30:00
+07/07/2001 06:30:00 through 09:00:00
+07/07/2001 16:30:00
+07/07/2001 17:30:00
+07/07/2001 18:30:00
+07/07/2001 20:00:00
+07/07/2001 21:00:00 through 07/08/01 00:30:00
+07/08/2001 01:30:00 through 03:00:00
+07/08/2001 04:00:00 through 08:30:00
+07/08/2001 09:30:00 through 13:30:00
+07/08/2001 14:30:00 through 19:00:00
+07/08/2001 20:00:00 through 07/09/01 08:30:00
+07/09/2001 09:30:00 through 11:30:00
+07/09/2001 12:30:00
+07/09/2001 13:30:00 through 16:00:00
+07/09/2001 17:00:00 through 19:00:00
+07/09/2001 20:00:00 through 22:30:00
+07/10/2001 00:30:00 through 03:00:00
+07/10/2001 04:00:00 through 04:30:00
+07/10/2001 11:30:00
+07/10/2001 12:30:00 through 14:30:00
+07/10/2001 15:30:00 through 16:30:00
+07/10/2001 18:00:00
+07/10/2001 19:00:00 through 20:00:00
+07/10/2001 23:00:00 through 07/11/01 00:30:00
+07/11/2001 01:30:00
+07/11/2001 02:30:00
+07/11/2001 04:00:00 through 06:00:00
+07/11/2001 07:30:00 through 09:30:00
+07/11/2001 10:30:00 through 13:00:00
+07/11/2001 14:30:00 through 15:00:00
+07/11/2001 16:00:00 through 18:00:00
+07/11/2001 19:30:00
+07/11/2001 21:00:00 through 22:30:00
+07/11/2001 23:30:00 through 07/12/01 09:30:00
+07/12/2001 10:30:00
+07/12/2001 11:30:00 through 18:00:00
+07/12/2001 19:00:00 through 19:30:00
+07/12/2001 21:00:00 through 21:30:00
+07/12/2001 22:30:00 through 23:00:00
+07/13/2001 00:30:00 through 06:00:00
+07/13/2001 07:00:00 through 09:30:00
+07/13/2001 10:30:00 through 12:00:00
+07/13/2001 13:00:00 through 13:30:00
+07/13/2001 14:30:00 through 21:30:00
+07/14/2001 00:00:00
+07/14/2001 01:00:00 through 02:30:00
+07/14/2001 03:30:00
+07/14/2001 04:30:00 through 15:00:00
+07/14/2001 16:00:00 through 17:00:00
+07/14/2001 18:00:00 through 19:00:00
+07/14/2001 20:00:00
+07/14/2001 23:00:00
+07/15/2001 00:00:00
+07/15/2001 01:30:00 through 05:00:00
+07/15/2001 06:00:00 through 08:00:00
+07/15/2001 09:00:00 through 11:30:00
+07/15/2001 13:00:00 through 14:00:00
+07/15/2001 15:00:00 through 18:30:00
+07/15/2001 20:30:00
+07/15/2001 22:30:00
+07/16/2001 03:30:00 through 04:00:00
+07/16/2001 05:00:00 through 05:30:00
+07/16/2001 07:00:00 through 08:00:00
+07/16/2001 10:00:00
+07/16/2001 13:00:00
+07/16/2001 14:00:00 through 16:30:00
+07/16/2001 17:30:00
+07/16/2001 19:30:00
+07/16/2001 21:30:00
+07/16/2001 22:30:00 through 07/17/2001 02:00:00
+07/17/2001 03:00:00
+07/17/2001 04:00:00 through 07:00:00
+07/17/2001 08:00:00
+07/17/2001 09:00:00
+07/17/2001 10:00:00
+07/17/2001 11:00:00
+07/17/2001 12:00:00 through 12:30:00
+07/17/2001 15:00:00
+07/17/2001 16:30:00 through 17:00:00
+07/17/2001 19:30:00
+07/17/2001 21:00:00 through 21:30:00
+07/18/2001 01:00:00 through 02:00:00
+07/18/2001 03:00:00 through 03:30:00
+07/18/2001 04:30:00
+07/18/2001 06:00:00
+07/18/2001 08:30:00 through 09:00:00
+07/18/2001 11:00:00
+07/18/2001 23:30:00
+07/19/2001 13:00:00
+07/20/2001 01:30:00
+07/21/2001 03:00:00
+High turbidity values deleted:
+07/15/2001 21:30:00
+07/15/2001 23:30:00 through 07/16/2001 00:00:00
+07/21/2001 02:00:00 through 02:30:00
+07/21/2001 05:30:00
+07/22/2001 03:00:00
+07/22/2001 20:00:00
+Bad turbidity readings were deleted cause the wiper was found covering the 
+sensor:
+07/23/01 12:30:00 through 07/31/01 23:30:00	
+
+August 2001
+Station 09
+High turbidity values deleted:
+08/01/2001 03:30:00
+08/01/2001 08:00:00
+08/01/2001 09:30:00 through 10:00:00
+08/01/2001 11:00:00 through 11:30:00
+08/01/2001 18:00:00
+08/02/2001 13:30:00
+08/02/2001 15:30:00
+08/02/2001 22:00:00
+08/05/2001 07:30:00
+08/05/2001 19:00:00
+08/06/2001 07:00:00
+08/06/2001 09:00:00
+08/06/2001 18:00:00
+08/09/2001 00:30:00
+Bad depth readings deleted due to calibration error for deployment 07/23/2001 
+13:00:00 through 08/14/2001 08:30:00
+
+Station 10
+Bad turbidity readings were deleted cause the wiper was found covering the 
+sensor:
+08/01/01 00:00:00 through 08/14/01 08:00:00
+Negative turbidity values were deleted:
+08/14/2001 08:30:00 through 08/15/2001 03:30:00
+08/15/2001 04:30:00 through 06:00:00	
+08/15/2001 07:00:00 through 12:30:00	
+08/15/2001 13:30:00 through 16:30:00	
+08/15/2001 17:30:00 through 08/16/2001 09:30:00
+08/17/2001 01:30:00
+08/17/2001 05:30:00
+08/18/2001 01:30:00
+08/18/2001 06:30:00 through 07:00:00	
+08/19/2001 03:00:00
+08/19/2001 19:30:00
+08/20/2001 03:00:00
+08/21/2001 04:00:00
+08/21/2001 10:00:00
+08/21/2001 22:30:00
+08/22/2001 00:00:00
+08/22/2001 02:30:00
+08/22/2001 04:30:00 through 05:00:00	
+08/22/2001 06:00:00
+08/22/2001 10:00:00
+08/22/2001 15:00:00
+Zero turbidity values deleted:
+08/15/2001 06:00:00		
+08/15/2001 13:00:00		
+08/16/2001 10:00:00 through 12:30:00
+08/16/2001 12:30:00 through 16:30:00
+08/16/2001 16:30:00		
+08/16/2001 17:30:00 through 19:00:00
+08/16/2001 19:00:00		
+08/16/2001 20:30:00		
+08/16/2001 22:30:00		
+08/17/2001 04:30:00 through 06:30:00
+08/17/2001 06:30:00		
+08/17/2001 08:00:00		
+08/17/2001 09:00:00		
+08/17/2001 15:00:00 through 19:00:00
+08/17/2001 19:00:00		
+08/17/2001 20:30:00		
+08/17/2001 21:30:00		
+08/18/2001 03:30:00		
+08/18/2001 04:30:00		
+08/18/2001 06:00:00		
+08/18/2001 08:00:00		
+08/18/2001 11:30:00		
+08/18/2001 13:00:00		
+08/18/2001 14:30:00		
+08/18/2001 15:30:00 through 18:30:00
+08/18/2001 18:30:00		
+08/18/2001 19:30:00		
+08/18/2001 22:00:00 through 01:30:00
+08/19/2001 01:30:00 through 04:00:00
+08/19/2001 04:00:00 through 05:30:00
+08/19/2001 05:30:00 through 08:00:00
+08/19/2001 08:00:00 through 18:30:00
+08/19/2001 17:00:00		
+08/19/2001 18:30:00		
+08/19/2001 22:00:00		
+08/20/2001 03:30:00		
+08/20/2001 12:30:00		
+08/20/2001 15:00:00		
+08/20/2001 19:00:00 through 20:30:00
+08/20/2001 20:30:00		
+08/21/2001 03:00:00		
+08/21/2001 06:30:00		
+08/21/2001 09:00:00		
+08/21/2001 17:30:00		
+08/21/2001 20:30:00		
+08/21/2001 21:30:00 through 23:00:00
+08/21/2001 23:00:00		
+08/22/2001 00:30:00		
+08/22/2001 03:00:00		
+08/22/2001 04:00:00		
+08/22/2001 05:30:00		
+08/22/2001 06:30:00 through 08:00:00
+08/22/2001 08:00:00 through 11:00:00
+08/22/2001 11:00:00		
+08/22/2001 14:00:00		
+08/22/2001 15:30:00		
+08/22/2001 17:00:00		
+08/22/2001 18:00:00		
+08/22/2001 19:00:00 through 20:30:00
+08/22/2001 20:30:00		
+08/22/2001 21:00:00
+High turbidity values were deleted:
+08/17/2001 02:30:00
+08/17/2001 10:00:00 through 10:30:00
+08/18/2001 02:30:00 through 03:00:00
+08/19/2001 06:30:00
+08/19/2001 23:30:00
+08/20/2001 02:00:00
+08/20/2001 04:00:00 through 05:00:00
+08/20/2001 13:30:00
+08/20/2001 18:30:00
+08/20/2001 22:30:00
+08/21/2001 16:30:00
+08/23/2001 05:00:00
+08/23/2001 08:00:00
+08/23/2001 11:00:00
+08/26/2001 03:30:00
+08/26/2001 16:00:00
+08/27/2001 20:00:00
+08/28/2001 18:30:00
+08/30/2001 20:00:00
+08/30/2001 23:30:00
+No pH data, no sensor available because it was broken.
+08/14/2001 08:30:00 throughout 08/16/2001 09:30:00
+
+September 2001
+Station 09
+Bad depth readings were deleted, due to bad sensor performance:
+09/06/2001 16:00:00 throughout 09/30/2001 23:30:00
+Missing data, no data recorded at this time:
+09/01/2001 10:30:00
+Zero turbidity data deleted:
+09/28/2001 16:00:00
+No data due to maintenance.
+09/24/01 09:30:00
+09/26/01 10:00:00
+
+Station 10
+Negative and/or zero turbidity values deleted:
+09/01/2001 10:30:00 through13:00:00	
+09/01/2001 14:00:00 through 17:30:00
+09/01/2001 18:30:00
+09/01/2001 19:00:00 through 21:00:00	
+09/01/2001 22:00:00 through 23:30:00	
+09/02/2001 01:00:00	
+09/02/2001 02:30:00	
+09/02/2001 03:30:00, 04:00:00	
+09/02/2001 06:00:00	
+09/02/2001 07:00:00 through 09/03/2001 12:30:00	
+09/03/2001 13:30:00 through 15:00:00	
+09/03/2001 16:00:00 through 09/04/2001 03:30:00
+09/04/2001 04:30:00 through 14:30:00	
+09/04/2001 15:30:00 through 09/05/2001 01:00:00
+09/05/2001 02:00:00	
+09/05/2001 03:00:00 through 08:30:00
+09/06/2001 23:30:00
+09/07/2001 00:30:00, 02:30:00
+09/07/2001 03:30:00, 04:00:00
+09/07/2001 07:00:00
+09/08/2001 18:30:00, 19:30:00
+09/09/2001 05:00:00, 06:30:00, 11:30:00, 14:00:00
+09/09/2001 21:00:00, 21:30:00
+09/09/2001 23:00:00 through 23:30:00
+09/10/2001 00:30:00 through 03:00:00
+09/10/2001 04:00:00 through 10:00:00
+09/10/2001 12:00:00, 13:00:00, 16:30:00
+09/10/2001 19:00:00 through 20:00:00
+09/10/2001 22:00:00 through 22:30:00
+09/11/2001 00:30:00
+09/11/2001 01:30:00
+09/11/2001 02:30:00
+09/11/2001 03:00:00 through 03:30:00
+09/11/2001 04:00:00
+09/11/2001 05:00:00 through 07:30:00
+09/11/2001 08:30:00 through 09:30:00
+09/11/2001 10:30:00 through 11:00:00
+09/11/2001 12:00:00 through 13:30:00
+09/11/2001 14:30:00	
+09/11/2001 17:00:00
+09/11/2001 20:00:00
+09/11/2001 23:00:00
+09/12/2001 00:00:00 through 01:30:00
+09/12/2001 02:30:00
+09/12/2001 03:30:00 through 04:00:00
+09/12/2001 05:00:00 through 05:30:00
+09/12/2001 08:00:00 through 08:30:00
+09/12/2001 10:30:00, 14:30:00, 15:30:00, 17:00:00
+09/12/2001 18:00:00 through 19:30:00 
+09/12/2001 20:30:00	
+09/12/2001 22:00:00	
+09/12/2001 23:00:00 through 23:30:00
+09/13/2001 00:30:00 through 02:00:00
+09/13/2001 04:00:00 through 04:30:00
+09/13/2001 05:30:00	
+09/13/2001 06:30:00 through 07:00:00
+09/13/2001 08:00:00
+09/13/2001 09:00:00 through 09:30:00
+09/13/2001 10:30:00
+09/13/2001 11:30:00 through 12:00:00
+09/13/2001 14:00:00 through 14:30:00
+09/13/2001 17:00:00
+09/13/2001 19:30:00, 20:30:00, 22:00:00, 23:00:00
+09/14/2001 00:00:00 through 00:30:00
+09/14/2001 01:30:00
+09/14/2001 03:00:00
+09/14/2001 04:00:00
+09/14/2001 05:30:00	
+09/14/2001 06:30:00	
+09/14/2001 08:00:00
+09/14/2001 09:00:00, 10:30:00, 12:00:00, 13:00:00, 14:30:00, 15:30:00 
+09/14/2001 17:00:00, 18:00:00, 19:30:00, 20:30:00, 23:00:00
+09/14/2001 22:00:00
+09/15/2001 00:30:00	
+09/15/2001 04:00:00	
+09/15/2001 05:30:00
+09/15/2001 06:30:00
+09/15/2001 08:00:00
+09/15/2001 09:30:00, 10:30:00
+09/15/2001 13:00:00 through 14:30:00
+09/15/2001 15:30:00
+09/15/2001 16:30:00
+09/15/2001 18:00:00 through 18:30:00	
+09/15/2001 19:30:00	
+09/15/2001 20:30:00 through 23:00:00
+09/16/2001 00:00:00
+09/16/2001 01:30:00 through 02:00:00
+09/16/2001 04:00:00 through 07:00:00
+09/16/2001 08:00:00 through 09:00:00
+09/16/2001 10:00:00 through 10:30:00
+09/16/2001 11:30:00 through 13:00:00
+09/16/2001 14:00:00 through 15:30:00
+09/16/2001 17:00:00, 19:00:00
+09/16/2001 21:30:00 through 22:00:00 
+09/17/2001 00:00:00 through 00:30:00
+09/17/2001 02:30:00
+09/17/2001 03:30:00
+09/17/2001 04:30:00
+09/17/2001 05:30:00 through 6:00:00
+09/17/2001 07:00:00
+09/24/2001 10:30:00 through 11:00:00
+09/24/2001 12:00:00 through 17:30:00
+09/24/2001 18:30:00 through 19:00:00
+09/24/2001 20:00:00 through 20:30:00
+09/24/2001 21:30:00
+09/24/2001 22:30:00
+09/24/2001 23:30:00 through 09/25/2001 00:00:00
+09/25/2001 01:00:00 through 06:30:00
+09/25/2001 07:30:00 through 12:30:00
+09/25/2001 13:30:00 through 15:00:00
+09/25/2001 16:00:00
+09/25/2001 17:30:00 through 21:30:00
+09/25/2001 22:30:00 through 09/26/2001 03:30:00
+09/26/2001 04:30:00 through 07:30:00
+09/26/2001 08:30:00 through 10:00:00
+High turbidity values were deleted:
+09/10/2001 18:00:00
+09/11/2001 02:00:00
+09/11/2001 18:30:00
+09/12/2001 06:30:00
+09/13/2001 15:30:00
+09/13/2001 18:00:00
+09/16/2001 18:00:00
+09/16/2001 20:30:00
+09/16/2001 23:00:00
+09/17/2001 02:00:00
+No data due to maintenance.
+09/24/2001 09:30:00
+No data, sonde was not available because trade-in for a YSI 6600 model.
+09/26/2001 10:30:00 throughout 09/30/2001 23:30:00
+No pH data, no sensor available because it was broken.
+09/01/2001 10:30:00 throughout 09/05/2001 08:30:00
+09/24/2001 10:00:00 throughout 09/26/2001 10:00:00
+Deleted data, DO% and DO mg/l bad values, tear in membrane:
+09/13/01 02:30:00 throughout 09/24/01 09:00:00
+
+
+October 2001
+Station 09
+Turbidity values for the following dates/times were deleted due to negative 
+and/or zero values:
+10/10/2001 14:30:00
+10/10/2001 17:00:00
+10/11/2001 14:00:00 through 15:00:00
+10/11/2001 17:30:00
+10/11/2001 19:00:00
+10/12/2001 14:00:00 through 15:00:00
+10/12/2001 16:00:00
+10/12/2001 16:30:00
+10/13/2001 07:30:00
+10/16/2001 09:00:00
+10/17/2001 06:30:00, 07:00:00
+10/17/2001 08:30:00
+10/17/2001 09:30:00
+10/18/2001 07:30:00
+10/23/2001 14:30:00
+10/23/2001 15:00:00
+High turbidity values were deleted:
+10/30/2001 09:00:00
+10/31/2001 23:00:00 
+Missing data. It seems that due to water leakage in batteries compartment some 
+readings were not conducted by sonde. However, data recorded between those 
+events seems to be good.
+10/20/2001 03:00:00, 07:00:00
+10/22/2001 23:00:00
+10/24/2001 06:30:00, 07:00:00
+10/24/2001 12:30:00
+10/24/2001 13:30:00
+10/24/2001 15:30:00
+10/24/2001 17:00:00
+10/24/2001 18:00:00
+10/24/2001 19:00:00
+10/24/2001 20:30:00 through 10/25/2001 05:30:00
+10/25/2001 06:30:00 through 12:00:00
+10/25/2001 13:00:00 through 10/26/2001 00:00:00
+10/26/2001 01:00:00
+10/26/2001 04:00:00
+10/26/2001 05:30:00
+10/26/2001 06:30:00 through 07:30:00
+10/26/2001 11:30:00
+10/26/2001 12:30 through 13:30
+10/27/2001 08:30:00, 09:30:00
+10/30/2001 15:30:00 through 16:00:00
+10/31/2001 07:00:00, 11:00:00, 12:30:00, 13:30:00
+10/31/2001 16:30:00, 21:00:00, 22:30:00
+Deleted files, sonde was deployed in the wrong station:
+10/18/2001 09:00:00 through 21:00:00
+Bad depth data (drift in sensor readings):
+10/05/01 02:30:00 through 10/16/01 08:30:00
+
+Station 10
+Negative turbidity values were deleted:
+10/17/2001 03:00:00
+10/17/2001 08:00:00 through 09:30:00
+10/18/2001 00:30:00
+10/18/2001 03:00:00
+10/18/2001 05:30:00
+10/19/2001 06:30:00
+No data, sonde was not available because trade-in for a YSI 6600 model.
+10/01/2001 00:00:00 throughout 10/16/2001 09:00:00
+No pH data, no sensor available because it was broken.
+10/16/2001 09:30:00 throughout 10/18/2001 09:00:00
+10/18/2001 14:30:00 throughout 10/31/2001 23:30:00
+Deleted data: Sonde out of the water:
+10/18/2001 09:30:00 through 10/18/2001 14:00:00
+Deleted data due to negative oxygen readings, both DO%, DO mg/l:
+10/18/2001 14:30:00 throughout 10/31/2001 23:30:00
+
+
+November 2001
+Station 09
+Turbidity values were deleted for the following dates/times due to negative 
+and/or zero values:
+11/08/2001 12:30:00
+11/08/2001 14:30:00
+11/17/2001 09:00:00 through 09:30:00
+Negative depth deleted:
+11/26/2001 09:30:00 throughout 11/28/2001 08:30:00
+High turbidity values were deleted:
+11/16/2001 18:30:00
+11/16/2001 20:00:00
+11/17/2001 23:30:00
+11/18/2001 03:00:00
+11/23/2001 04:00:00
+Intermittent readings due to water leakage in battery compartment, data seem to 
+be good:
+11/01/2001 01:00:00
+11/01/2001 02:00:00
+11/01/2001 06:00:00 through 06:30:00
+11/01/2001 08:00:00 through 09:30:00
+11/01/2001 10:30:00
+11/01/2001 12:00:00
+11/01/2001 13:00:00 through 11/02 07:30:00
+11/02/2001 08:30:00 through 14:00:00
+11/02/2001 15:00:00 through 11/03/2001 00:30:00
+11/03/2001 01:30:00 through 11/03/2001 12:30:00
+11/03/2001 13:30:00 through 17:30:00
+11/03/2001 18:30:00 through 19:30:00
+11/03/2001 20:30:00 through 11/05/2001 04:30:00
+11/05/2001 06:00:00
+11/05/2001 07:00:00 
+11/05/2001 08:30:00
+11/13/2001 05:00:00
+11/13/2001 07:30:00
+11/13/2001 08:30:00 through 09:00:00
+11/13/2001 10:00:00
+11/13/2001 11:00:00 through 11:30:00
+11/13/2001 12:30:00
+11/16/2001 22:30:00
+11/17/2001 00:00:00
+11/17/2001 18:00:00
+11/17/2001 19:00:00
+11/17/2001 20:00:00 through 21:00:00
+11/17/2001 22:00:00
+11/17/2001 23:00:00
+11/18/2001 00:00:00 through 00:30:00
+
+
+Station 10
+All DO data were deleted 11/01/2001 00:00:00 through 11/05/2001 09:30:00 due to 
+negative values.
+Turbidity values for the following date/times were deleted due to negative 
+and/or zero values:
+11/01/2001 03:30:00
+11/08/2001 14:00:00
+11/09/2001 05:00:00
+11/10/2001 01:00:00 through 01:30:00
+11/10/2001 03:00:00 through 03:30:00
+11/10/2001 06:00:00 through 06:30:00
+11/10/2001 07:30:00 through 08:00:00
+11/10/2001 20:30:00 through 21:00:00
+11/10/2001 23:00:00 through 11/11/2001 00:00:00
+11/11/2001 01:00:00 through 01:30:00
+11/11/2001 02:30:00
+11/11/2001 05:00:00 through 06:30:00
+11/11/2001 08:30:00
+11/11/2001 12:00:00 through 12:30:00
+11/11/2001 20:00:00
+11/11/2001 22:30:00 through 23:30:00
+11/12/2001 00:30:00
+11/12/2001 03:00:00
+11/12/2001 04:00:00 through 04:30:00
+11/12/2001 05:30:00 through 06:00:00
+11/12/2001 08:30:00 through 09:00:00
+11/12/2001 10:30:00
+11/12/2001 13:30:00
+11/12/2001 21:00:00 through 22:00:00
+11/13/2001 00:00:00 through 02:00:00
+11/13/2001 03:00:00 through 03:30:00
+11/13/2001 06:30:00 through 07:30:00
+11/13/2001 10:00:00
+11/13/2001 11:30:00
+11/13/2001 19:30:00 through 20:00:00
+11/13/2001 22:00:00
+11/14/2001 00:30:00 through 01:30:00
+11/14/2001 02:30:00
+11/14/2001 05:00:00
+11/14/2001 06:00:00
+11/14/2001 07:00:00 through 09:00:00
+11/14/2001 20:00:00
+11/15/2001 04:00:00
+11/15/2001 05:00:00
+11/15/2001 07:30:00
+11/15/2001 08:30:00
+11/15/2001 10:30:00
+11/15/2001 12:00:00
+11/15/2001 19:30:00
+11/15/2001 21:00:00
+11/16/2001 22:00:00 through 22:30:00
+11/18/2001 15:30:00
+11/18/2001 23:00:00
+11/19/2001 10:30:00
+11/19/2001 13:00:00
+11/19/2001 23:00:00 through 23:30:00
+11/20/2001 20:30:00
+11/21/2001 20:30:00
+11/21/2001 23:30:00
+11/22/2001 01:00:00
+11/22/2001 02:30:00
+11/22/2001 20:00:00
+11/22/2001 21:00:00
+11/22/2001 22:00:00
+11/22/2001 23:00:00
+11/23/2001 06:30:00
+11/23/2001 09:30:00
+11/24/2001 00:00:00
+11/24/2001 01:00:00 through 01:30:00
+11/24/2001 03:00:00
+11/24/2001 16:00:00 through 16:30:00
+11/24/2001 17:30:00 through 19:00:00
+11/24/2001 20:00:00 through 22:30:00
+11/25/2001 01:00:00 through 02:00:00
+11/25/2001 05:30:00
+11/25/2001 23:30:00
+11/26/2001 05:30:00
+No data, sonde was not available because trade-in for a YSI 6600 model.
+11/05/2001 10:00:00 throughout 11/07/2001 12:00:00
+11/26/2001 10:30:00 throughout 11/28/2001 09:00:00
+No pH data, no sensor available because it was broken.
+11/01/2001 00:00:00 throughout 11/05/2001 09:30:00
+11/07/2001 12:30:00 throughout 11/26/2001 10:00:00
+11/28/2001 09:30:00 throughout 11/30/2001 23:30:00
+
+
+December 2001
+Station 09
+DO mg/l and DO % outliers were deleted due to negative and zero values:
+12/19/2001 15:00:00 through 15:30:00
+12/20/2001 00:00:00
+12/20/2001 21:30:00
+12/21/2001 11:00:00
+12/21/2001 14:00:00
+12/21/2001 19:30:00
+12/23/2001 06:00:00
+12/23/2001 20:30:00
+12/24/2001 13:00:00
+12/24/2001 14:30:00 through 15:00:00
+12/24/2001 20:30:00
+12/24/2001 22:00:00 through 23:30:00
+12/27/2001 20:00:00 through 20:30:00
+12/28/2001 10:00:00
+12/28/2001 11:30:00
+12/28/2001 13:00:00
+12/28/2001 16:00:00
+12/28/2001 21:00:00
+12/29/2001 09:00:00
+12/29/2001 11:30:00 through 12:00:00
+12/29/2001 13:30:00
+12/29/2001 20:00:00
+12/30/2001 12:00:00
+12/30/2001 19:00:00
+12/31/2001 17:30:00
+12/31/2001 19:00:00
+High turbidity values were deleted:
+12/25/2001 19:30:00
+12/26/2001 00:00:00
+12/26/2001 01:00:00 through 01:30:00
+12/26/2001 04:30:00
+12/26/2001 10:30:00
+12/26/2001 13:30:00
+12/26/2001 19:30:00
+12/26/2001 22:30:00 through 23:00:00
+12/272001 08:30:00
+12/272001 20:00:00
+12/27/2001 23:00:00
+12/28/2001 03:00:00
+Bad depth data
+12/17/01 10:30:00 throughout 12/19/01 11:00:00
+
+Station 10
+Zero turbidity values deleted:
+12/19/2001 22:30:00 through 23:30:00
+12/20/2001 00:30:00 through 01:00:00
+12/20/2001 02:00:00 through 02:30:00
+12/20/2001 03:30:00
+12/20/2001 06:00:00 through 06:30:00
+12/20/2001 11:30:00
+12/20/2001 13:30:00
+12/20/2001 21:00:00
+12/20/2001 22:00:00 through 12/21/2001 00:00:00
+12/21/2001 01:30:00
+12/21/2001 03:00:00 through 04:30:00
+12/21/2001 06:00:00
+12/21/2001 07:00:00
+12/21/2001 12:00:00 through 12:30:00
+12/21/2001 20:30:00
+12/21/2001 23:00:00
+12/22/2001 00:30:00 through 01:30:00
+12/22/2001 02:30:00 through 03:30:00
+12/22/2001 04:30:00 through 05:00:00
+12/22/2001 06:00:00
+12/22/2001 07:00:00
+12/22/2001 10:30:00
+12/22/2001 12:00:00
+12/22/2001 13:00:00
+12/22/2001 14:00:00
+12/22/2001 16:00:00
+12/22/2001 20:30:00
+12/22/2001 22:00:00
+12/23/2001 02:00:00
+12/23/2001 23:00:00 through 12/24/2001 01:00:00
+12/24/2001 03:30:00
+12/24/2001 04:30:00 through 05:00:00
+12/24/2001 08:00:00 through 08:30:00
+12/25/2001 08:00:00
+High turbidity values deleted:
+12/13/2001 02:30:00
+12/14/2001 21:30:00
+12/15/2001 21:00:00
+12/16/2001 03:30:00
+12/16/2001 04:30:00
+12/16/2001 05:30:00
+No data, sonde was not available because trade-in for an YSI 6600 model.
+12/17/2001 10:00:00 throughout 12/19/2001 10:30:00
+No pH data, no sensor available because it was broken.
+12/01/2001 00:00:00 throughout 12/17/2001 09:30:00
+12/19/2001 11:00:00 throughout 12/31/2001 23:30:00
+
+
+
+12. Missing data:
+Missing data are denoted by any period in the data set. Data are missing due to 
+equipment failure where no probes deployed, maintenance/calibration of 
+equipment, elimination of obvious outliers, or elimination of data due to 
+calibration (both pre and post) problems. For more details on deleted data, see 
+Anomalous Data Section (11.) To find out more details about missing data, 
+contact the Research Coordinator at the site submitting the data.
+
+
+13. Post deployment information:
+End of deployment Post-calibration Readings in Standard Solution:
+Site	Date		DO (Air Sat.) pH		Conductivity Turbidity
+ID	mm/dd/yy	std: 100%			(mS/cm)	  (NTU)
+					(std: 7.0)	(std: 46.2)	(std: 100)
+09	01/16/2001	52.8		8.27		39.72		30.2
+09	01/17/2001	101.8		no sensor	47.32		111
+09	02/06/2001	67.9		6.81		46.06		92.3
+09	02/11/2001	135.7		no sensor	45.31		110.1
+09	02/26/2001	57.0		7.13		44.77		104.4
+09	02/28/2001	94.5		no sensor	46.53		98
+09	03/18/2001	86.8		6.79		46.59		61.4
+							(std: 42.6)
+09	03/27/2001	92.6		no sensor	45.6		106.1
+09	04/08/2001	84.4		5.67		43.19		94.9
+09	04/11/2001	90.2		6.74		44.5		91.1
+09	04/23/2001	no data were register, error in programming
+							(std: 100)
+09 	04/25/2001	104.3		7.34		102.4		92.9
+09	05/15/2001	23.1		7.12		91.84		100.2
+09	05/16/2001	103.5		7.02		103.5		105.5
+09	06/03/2001	48.6		7.08		93.68		92.2
+09	06/06/2001	100.5		7.02		104.2		109.9
+09	06/25/2001	83.5		6.87		100.0		89.7
+09	06/27/2001	98.6		6.93		102.4		102.5
+09	07/24/2001	82.1		7.12		100.0		100.7
+09	08/14/2001	101.4		6.92		93.32		120.0
+09	08/16/2001	119.4		7.04		99.96		104.5
+09	09/01/2001	65.9		7.07		98.8		84.0
+09	09/05/2001	92.8		7.25		99.9		117.8
+09	09/24/2001	89.6		7.09		94.07		118.0
+09	09/26/2001	106.4		7.03		101.7		92.2
+09	10/16/2001	98.6		7.18		99.19		79.6
+09	11/05/2001	88.9		7.08		99.94		101.9
+09	11/07/2001	98.9		7.00		98.98		95.0
+09	11/26/2001	86.7		7.20		99.39		133.7
+09	11/28/2001	84.2		6.88		100.3		80.8
+09	12/17/2001	91.3		7.06		99.88		98.9
+09	12/19/2001	101.2		6.99		101.6		103.7
+
+
+Site	Date		DO (Air Sat.) pH		Conductivity Turbidity
+ID	mm/dd/yy	std: 100%			(mS/cm)	 (NTU)
+					(std: 7)	(std: 46.2)	(std: 100)
+10	01/16/2001	96.4		7.06		45.52		109.1
+10	01/17/2001	99.5		8.1		47.05		112.3
+10	02/06/2001	81.9		6.94		46.85		105.8
+
+10	02/11/2001	100.4		7.25		46.91		123.5
+10	02/26/2001	31.0		6.95		45.68		99.4
+10	02/28/2001	20.6		7.17		46.33		116.6
+10	03/18/2001	66.4		6.94		46.23		59.0
+							(std: 42.6)
+10	03/27/2001	94.4		6.52		45.73		102.6
+10	04/08/2001	80.3		7.15		42.89		73.8
+10	04/11/2001	110.7		6.90		42.0		100.0
+10	04/23/2001	84.2		6.67		100.0		97.2
+							(std: 100)
+10 	04/25/2001	102.0		6.67		99.74		99.80
+10	05/15/2001	2.3		6.77		98.2		82.5
+10	05/16/2001	120.2		7.28		98.46		99.8
+10	05/24/2001	85.1		6.95		95.39		90.7
+10	06/06/2001	128.1		7.54		103.79		96.2
+10	06/25/2001	99.5		6.79		100.1		88.5
+10	06/27/2001	86.0		6.98		104.4		119.5
+10	07/24/2001	76.0		no sensor	98.78		88.9
+10	08/14/2001	68.4		6.92		92.61		105.3
+10	08/16/2001	143.4		no sensor	98.83		103.2
+10	09/01/2001	95.3		6.73		98.83		92.7
+10	09/05/2001	164.0		no sensor	99.76		106.8
+10	09/24/2001	25.7		6.67		95.7		261.4
+10	09/26/2001	119.2		no sensor	103.2		107.5
+10	11/05/2001	12.6		no sensor	98.88		100.9
+10	11/26/2001	115.2		no sensor	94.2		94.2
+10	12/17/2001	96.8		no sensor	97.99		112.5
+
+14. Other remarks:
+
+On 06/30/2021 this dataset was updated to include embedded QAQC flags for 
+anomalous/suspect data.  System-wide monitoring data beginning in 2007 were 
+processed to allow for QAQC flags and codes to be embedded in the data 
+files rather than detailed in the metadata alone (as in the anomalous/suspect, 
+deleted, and missing data sections above).  Prior to 2006, rejected data 
+were deleted from the dataset so they are unavailable to be used at all, 
+but suspect data were only noted in the metadata document.  Suspect data 
+flags <1> were embedded retroactively in order to allow suspect data to be 
+easily identified and filtered from the dataset if desired for analysis and 
+reporting purposes.  No other flags or codes were embedded in the dataset and 
+users should still refer to the detailed explanations above for more information.
+
+A) Rain events:
+January 2001:
+Date	Precip (mm)
+8	2.54
+9	0.25
+18	1.02
+19	1.52
+23	3.81
+24	0.25
+26	0.25
+29	1.27
+
+February 2001:
+Day	Precip (mm)
+1	0.51
+2	2.03
+3	0.25
+4	0.51
+5	0.51
+9	1.02
+11	6.86
+12 	1.02
+23	0.76
+24	0.25
+
+March 2001:
+Day	Precip (mm)
+5	0.25
+14	1.27
+20	2.54
+21	29.46
+22	61.47
+24	0.25
+30	1.27
+31	1.02
+
+April 2001:
+Day	Precip (mm)
+7	0.51
+9	0.25
+11	6.10
+12	2.03
+19	0.51
+21	0.25
+30	0.51
+
+May 2001:
+Day	Precip (mm)
+6	0.25
+7	1.78
+8	5.84
+9	6.86
+
+June 2001:
+Day	Precip (mm)
+23	0.25
+25	0.25
+28	0.25
+29	0.25
+30	0.25
+
+July 2001:
+Day	Precip (mm)
+4	1.02
+5	1.78
+19	1.27
+23	0.25
+24	1.27
+26	2.29
+27	0.25
+30	0.25
+
+August 2001:
+Day	Precip (mm)
+2	4.57
+9	0.51
+10	0.25
+14	0.25
+15	8.89
+16	0.76
+17	7.62
+18	5.08
+19	0.25
+21	6.86
+22	142.49
+22	55.63
+26	3.05
+27	0.51
+28	64.26
+
+September 2001:
+Day	Precip (mm)
+1	7.87
+13	1.27
+14	5.84
+18	7.11
+25	0.51
+
+October 2001:
+Day	Precip (mm)
+3	1.02
+5	7.87
+8	18.80
+9	0.76
+10	0.25
+11	0.51
+14	1.27
+15	13.46
+16	10.67
+17	2.54
+19	11.18
+20	0.76
+28	5.84
+29	0.76
+30	6.86
+
+November 2001:
+Day	Precip (mm)
+2	1.27
+6	1.78
+8	10.16
+11	1.02
+12	0.25
+15	1.02
+16	0.25
+18	0.25
+29	0.25
+
+December 2001:
+Day	Precip (mm)
+3	0.51
+4	16.76
+5	0.25
+9	3.56
+10	10.54
+11	15.75
+12	4.57
+14	1.52
+15	6.35
+16	11.43
+17	2.54
+18	25.65
+19	2.03
+20	2.29
+21	10.16
+22	8.38
+23	2.79
+
+
+B) Any time a reference is made to turbidity data being negative and/or zero, it 
+was recorded as a negative in the raw data file and a zero in the edited data 
+file due to the formatting of Excel. The technician edited none of these data 
+points by hand nor did he/she delete any of them. 
+
+C) Both stations 9 and 10 are in shallow water, with an average depth of one 
+meter. The sensor is about six inches off the bottom. This can cause high and 
+low turbidity data due to organisms entering inside of the sensor area. 
+
+D) Station 09: Data reflecting rain effect on water quality parameters from 
+08/22/2001 02:00:00 throughout 08/31/2001 23:30.
+
+E) Station 10: Data reflecting rain effect on water quality parameters from 
+08/22/2001 02:00:00 throughout 08/31/2001 23:30.
+

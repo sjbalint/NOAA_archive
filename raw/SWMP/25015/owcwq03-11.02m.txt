@@ -1,0 +1,1010 @@
+Old Woman Creek (OWC) NERR Water Quality Metadata 
+March through December 2002
+Latest Update:  July 1, 2021
+
+
+1.  Principal Investigator & contact person:
+
+Dr. David Klarer, Research Coordinator
+E-mail: david.klarer@ noaa.gov
+Old Woman Creek SNP and NERR
+2514 Cleveland Road East
+Huron, Ohio 44839
+Phone: (419) 433-4601
+
+
+2.  Entry verification:
+
+The data were directly downloaded from the YSI PC6600 data loggers into the YSI 
+Ecowatch for Windows program in the PC. The data were graphed and visually 
+checked for any obvious outliers. Notes are made of any unusual data or faulty 
+probes. The data is then exported as a .csv file into an Excel spreadsheet.  The 
+data files were edited to remove headers, footers, and spaces. The CDMO 
+cdmomac3.xls macro was used to QA/QC the data. The macro automatically formatted 
+the column widths to the correct number of decimal places based on YSI sensor 
+specifications. It QA/QC's the data file for missing data points and filled all 
+cells without data with periods. It also compiled a list of all data that fell 
+outside the stated range of the different data logger probes. In addition, in November 1999 a graphing capability was added to this macro allowing users to produce single parameter and missing data point graphs on a monthly basis.   An explanation for the missing and the deleted data is included in this metadata sheet.  The files were then transferred along with the associated metadata by disk to the CDMO.  The files are archived at OWC. Dr. David Klarer is responsible for both data logger deployment and data management.
+
+
+3.  Research Objectives:
+
+Measurements are taken every 15 minutes over approximately two-week periods at 
+four sites within the Old Woman Creek- three in the estuary proper- one in the 
+upper reaches at State Route 2 (SU), one near the mouth just south of State 
+Route 6 (WM), and the third site is upstream from the WM site (OL). The final 
+site (BR) is just upstream of the first riffle zone above the estuary in Old 
+Woman Creek proper. The purpose of this monitoring program is to document the 
+role of this Great Lakes estuary in the Lake Erie ecosystem, particularly the 
+estuary's role in mitigating storm flow that passes through it.  The role of the 
+OL site is to document the degree of intrusion by lake water during northerly 
+winds and subsequent seiche events.
+
+4.  Research methods:
+
+The YSI monitoring program began on 12 March 2002 at the Berlin Road (BR), State Route 2 (SU), and the State Route 6 (WM) sites.  Sampling at the OL site did not begin until 23 April, 2002.  The sampling at all 
+sites ended for the year on 2 December, 2002, except site OL, which ended on 18 
+November,2002.  Prior to deployment of the data loggers, a 4-inch diameter PVC 
+pipe was bolted to a metal 8-foot long metal post that had been driven into the 
+sediment.  Each pipe had 4 rows of holes or 4 vertical slits 3/4" wide drilled 
+into it spanning the area of the probe guard on the data logger so that the 
+probes would have direct contact with the surrounding waters.  Dissolved oxygen, 
+pH, temperature, turbidity, and specific conductance readings are taken when the 
+instrument is pulled at each site. The data loggers are replaced in the field 
+after a one, two, or three-week deployment, depending on temperature and degree 
+of fouling of the data loggers.  The data was retrieved from each data 
+logger and each data logger was recalibrated (according to the directions in the 
+YSI Operations Manual) before being returned to the field.  Conductivity, pH (2 
+point calibration), and turbidity (2 point calibration) are calibrated using 
+commercial standards. Formazin (Hach, 4000 NTU) was diluted to prepare the 
+standards for turbidity.  These standards were prepared prior to each 
+deployment. The data loggers at sites WM and SU have water level sensors while 
+the loggers at sites BR and OL have non-vented depth sensors.
+ 
+5.  Site Location and Character:
+Old Woman Creek National Estuarine Research Reserve is located on the southern shore of Lake Erie, slightly east of the city of Huron, Ohio (Latitude 41( 23'N; Longitude 82( 33'W). Land use in the Old Woman Creek (OWC) watershed is primarily row crop agriculture. Other than the non-point source pollutants coming into the estuary from these agricultural practices and from the town of Berlin Heights, there are no other major pollution sources in the estuary. Salinity in Old Woman Creek is normally 1 ppt. or less, although it will rise, on occasion, to nearly 2 ppt. The tidal range in Lake Erie (and therefore in the estuary) is on the order of 4 cm or less. Water levels in the estuary and in the creek are extremely variable, with changes occurring daily, seasonally and annually.
+ 	The data logger at the State Route 6 (WM) site (Latitude 41( 22' 57" N, Longitude 82( 30'54" W) is very close to the mouth of Old Woman Creek.  In this portion of the Reserve, the creek is very shallow but extends over a large surface area.  This site frequently experiences influx of Lake Erie waters.  The bottom sediments at this site are silty clay.  At the beginning of the deployment for 2002, there was no rooted aquatic vegetation directly adjacent to the site, although there was both emergent and submerged vegetation within 10 meters of the site. By mid September, Phragmites australis had grown up around the data logger trap.  The data logger is about .24 meters above the bottom sediments. On August 26 at 09:15:00 the old guard on the sonde was changed to the new guard, so this effectively raised the logger 5 cm within the trap.
+	The data logger at the State Route 2 (SU) site (Latitude 41( 22' 2" N, Longitude 82( 30'26" W) is very near the southern boundary of the Reserve.  This site is in the upper reaches of the estuary.  The data logger is sited near a concrete piling of the eastbound Ohio State Route 2 bridge.  At this site, the creek is relatively deep and narrow.  Although water direction and flow is 
+influenced at this site by changes in Lake Erie water levels, this site doesn't have direct contact with Lake Erie waters.  The bottom sediments at this site are silty clay.  There is no rooted aquatic vegetation near or upstream from this site.  The data logger is about .25 meters above the bottom at this site.  On June 24, sediment buildup (due to storm runoff activity) under the trap 
+was removed.	
+The data logger at site OL (Latitude 41( 22' 55" N, Longitude 82( 30'51" W ) is in the lower reaches of the estuary. This site is not in direct sight of the mouth, so northerly winds and resulting seiche activities should be less noticeable at this site.  The bottom sediments are silty clay. This site is located at the northern tip of a Nelumbo lutea bed, so plants are immediately 
+adjacent to the data logger. The base of data logger is about 11 cm above the sediment. 
+	The data logger at site BR (Latitude 41( 20'54" N, Longitude 82( 30'30"W) is located in the lower portion of the creek proper. Just upstream from the data logger, Berlin Road crosses Old Woman Creek.  The site is just upstream of the first riffle area above the estuary.  Unlike the other three sites, Lake Erie water levels have no impact on this site. The bottom of the creek at this site is a combination of rocks interspersed with some clay-silt that has been washed in from upstream.  There are no aquatic macrophytes at or near this site.  The sonde is 24 cm above the bottom.  On 24 June, 2002 at 14:10 the trap was lowered 8 cm due to low water levels. On July 15 at 11:05 the logger was lowered another 5 cm within the trap by using the old guard instead of the new guard. 
+	
+ 
+6.  Data collection periods:
+
+Sampling at WM began on March 12, 2002 at 09:15:00.  Sampling for 2002 ceased at 
+WM site on December 2, 2002 at 09:30:00.  Sampling at SU began on March 12, 2002 
+at 10:00:00.  Sampling ceased at SU site on December 2, 2002 at 11:45:00. 
+Sampling at OL began on April 23, 2002 at 09:45:00, and ceased on November 18, 
+2002 at 11:30:00.  Sampling at BR began on March 12, 2002 at 10:00:00 and ceased 
+on December 2, 2002 at 11:45:00. Specific deployment dates are listed below.
+
+Site		Deployed				Pulled
+WM		3/12/2002 (09:10)                      4/02/2002 (08:40)	
+		4/02/2002 (08:40)                      4/23/2002 (10:05)	
+		4/23/2002 (10:05)                      5/07/2002 (09:10)
+		5/07/2002 (09:10)                      5/20/2002 (14:20)	
+		5/20/2002 (14:20)                      6/3/2002  (12:40)
+		6/03/2002 (12:40)                      6/18/2002 (09:40)
+		6/18/2002 (09:40)                      6/24/2002 (15:05)
+		6/24/2002 (15:05)                      7/8/2002  (12:40)
+		7/08/2002 (12:50)                      7/15/2002 (13:50)
+		7/15/2002 (13:50)                      7/22/2002 (08:05)	
+		7/22/2002 (08:05)                      7/30/2002 (08:35)
+		7/30/2002 (08:35)                      8/05/2002 (14:20)
+		8/05/2002 (14:20)                      8/12/2002 (13:20)
+		8/12/2002 (13:20)                      8/19/2002 (13:05)
+		8/19/2002 (13:05)                      8/26/2002 (08:50)
+		8/26/2002 (09:05)                      9/03/2002 (12:50)
+		9/03/2002 (12:50)                      9/09/2002 (09:35)
+		9/09/2002 (10:55)                      9/23/2002 (09:10)
+		9/23/2002 (09:10)                      9/30/2002 (09:05)
+		9/30/2002 (09:05)                     10/14/2002 (09:40)
+		10/14/2002 (09:50)                    10/28/2002 (10:35)
+		10/28/2002 (10:35)                    11/18/2002 (11:10)
+		11/18/2002 (11:20)                    12/02/2002 (09:35)
+			
+SU		3/12/2002 (09:50)                      4/02/2002 (09:40)
+		4/02/2002 (09:40)                      4/23/2002 (07:50)
+		4/23/2002 (08:10)                      5/07/2002 (08:20)
+		5/07/2002 (08:10)                      5/20/2002 (13:10)
+		5/20/2002 (13:20)                      6/03/2002 (13:55)
+		6/03/2002 (13:55)                      6/18/2002 (08:20)
+		6/18/2002 (08:20)                      6/24/2002 (13:50)
+		6/24/2002 (13:50)                      7/08/2002 (9:10)
+		7/08/2002 (9:20)                       7/15/2002 (11:05)
+		7/15/2002 (11:05)                      7/22/2002 (07:05)
+		7/22/2002 (07:20)                      7/30/2002 (07:40)
+		7/30/2002 (07:40)                      8/05/2002 (10:20)
+		8/05/2002 (10:20)                      8/12/2002 (10:50)
+		8/12/2002 (10:50)                      8/19/2002 (08:10)
+		8/19/2002 (08:20)                      8/26/2002 (07:55)
+		8/26/2002 (07:550                      9/03/2002 (08:40)
+		9/03/2002 (08:50)                      9/09/2002 (09:35)
+		9/09/2002 (09:35)                      9/23/2002 (08:05)
+		9/23/2002 (08:05)                      9/30/2002 (08:05)
+		9/30/2002 (08:05)                     10/14/2002 (08:35)
+		10/14/2002 (08:50)                    10/28/2002 (09:20)
+		10/28/2002 (09:20) 		        11/18/2002 (09:35)
+		11/18/2002 (09:50)                    12/02/2002 (11:50)
+		
+OL		4/23/2002 (09:40)                      5/07/2002 (09:15)
+		5/07/2002 (09:15)                      5/20/2002 (13:50)
+		5/20/2002 (13:50)                      6/3/2002  (12:10)
+		6/03/2002 (12:10)                      6/18/2002 (9:20)
+		6/18/2002 (09:20)                      6/24/2002 (14:50)
+		6/24/2002 (14:50)                      7/08/2002 (12:10)
+		7/08/2002 (12:10)                      7/15/2002 (13:35)
+		7/15/2002 (13:35)                      7/22/2002 (07:50)
+		7/22/2002 (07:50)                      7/30/2002 (08:10)
+		7/30/2002 (08:10)                      8/5/2002  (14:10)
+		8/05/2002 (14:10)                      8/12/2002 (12:50)
+		8/12/2002 (12:50)                      8/19/2002 (12:50)
+		8/19/2002 (12:50)                      8/26/2002 (08:40)
+		8/26/2002 (08:40)                      9/03/2002 (12:20)
+		9/03/2002 (12:20)                      9/09/2002 (10:35)
+		9/09/2002 (10:35)                      9/23/2002 (08:50)
+		9/23/2002 (08:50)                      9/30/2002 (09:10)
+		9/30/2002 (09:10)                     10/14/2002 (09:40)
+		10/14/2002 (09:40)                    10/28/2002 (10:20)
+		10/28/2002 (10:20)                    11/18/2002 (11:35)
+		
+
+BR	     	 3/12/2002 (09:50)                      4/02/2002 (09:20)
+		4/02/2002 (09:40)	               4/23/2002 (08:10)
+            	4/23/2002 (08:30)                      5/07/2002 (08:10)
+		5/07/2002 (08:10)                      5/20/2002 (13:10)
+		5/20/2002 (13:10)                      6/03/2002 (13:50)
+		6/03/2002 (13:50)                      6/18/2002 (08:25)
+		6/18/2002 (08:25)                      6/24/2002 (14:10)
+		6/24/2002 (14:10)                      7/08/2002 (09:20)
+		7/08/2002 (09:20)                      7/15/2002 (11:05)
+		7/15/2002 (11:05)                      7/22/2002 (07:05)
+		7/22/2002 (07:05)                      7/30/2002 (07:40)
+		7/30/2002 (07:40)                      8/05/2002 (10:25)
+		8/05/2002 (10:25)                      8/12/2002 (10:50)
+		8/12/2002 (10:50)                      8/19/2002 (08:10)
+		8/19/2002 (08:10)                      8/26/2002 (07:50)
+		8/26/2002 (07:50)                      9/03/2002 (08:55)
+		9/03/2002 (08:55)                      9/09/2002 (09:35)
+		9/09/2003 (09:35)                      9/23/2002 (08:10)
+		9/23/2002 (08:10)                      9/30/2002 (08:10)
+		9/30/2002 (08:10)                     10/14/2002 (08:40)
+	     10/14/2002 (08:40)                     10/28/2002 (09:25)
+	     10/28/2002 (09:25)                     11/18/2002 (09:40)
+	     11/18/2002 (09:50)                     12/02/2002 (11:55)                     
+			
+			 
+
+7.  Distribution
+
+NOAA/ERD retains the right to analyze, synthesize, and publish summaries of the 
+NERRS System-wide Monitoring Program data.  The OWC Research Coordinator (RC) 
+retains the right to be fully credited for having collected and processed the 
+data.  Following academic courtesy standard, the RC and the NERR site where the 
+data were collected will be contacted and fully acknowledged in any subsequent 
+publications in which any part of the data are used. The data set enclosed 
+within this package/transmission is only as good as the quality assurance and 
+quality control procedures outlined in the enclosed metadata reporting 
+statement.  The user bears all responsibility for its subsequent use/misuse in 
+any further analyses or comparisons. The Federal government and the State of 
+Ohio do not assume liability to the Recipient or third persons, nor will the 
+Federal government or the State of Ohio reimburse or indemnify the Recipient for 
+its liability due to any losses resulting in any way from the use of this data.
+
+NERR water quality data and metadata can be obtained from the Research 
+Coordinator at the individual NERR site (please see section 1. Principal 
+investigators and contact persons), from the Data Manager at the Centralized 
+Data Management Office (please see personnel directory under general information 
+link on CDMO homepage) an online at the CDMO homepage http://cdmo.baruch.sc.edu.  
+Data are available in text tab-delimited format, Microsoft Excel spreadsheet 
+format and comma-delimited format from the CDMO.
+
+8.  Associated projects: Replicate samples for chemical analysis of the water 
+are collected at each site every time the data loggers are changed. Samples for 
+phytoplankton determination are collected at the same time at sites near the 
+data logger deployment sites.  Additionally, a 26 hour sampling regime (samples 
+are collected at 2 hour intervals over the 26 hours) is conducted at the 
+WM site once during each month. 
+
+ 
+II. Physical Structure and Descriptors:
+
+9) Variable Sequence, range of measurements, units, resolution, and 
+accuracy: 
+
+YSI 6000/6600 datalogger
+
+Variable      Range of Measurements          Resolution           Accuracy
+Date          1-12, 1-31, 00-99 (Mo,Day,Yr)  1 mo, 1 day, 1 yr    NA
+Time          0-24, 0-60, 0-60 (Hr,Min,Sec)  1 hr, 1 min, 1 s     NA
+Temp               -5 to 45 (c)              0.01  C              +/-0.15C
+Sp COND            0-100(mS/cm)              0.01mS/cm            +/-0.5% Of 
+reading + 0.001mS/Cm
+Salinity      0-70 Parts per thousand (ppt)  0.01 ppt             +/- 1% of 
+Reading or 0.1 ppt, (whichever is greater)
+DO            0-200 (% air saturation)       0.1% @air sat        +/-2% @air 
+Saturation
+DO            200-500 (% air saturation      0.1% @ air sat       +/- 6% @ 
+Saturation
+DO                 0-20 (mg/l)               0.01 mg/l            +/- 0.2mg/l
+DO                 20-50 (mg/l)              0.01 mg/l            +/- 0.6mg/l
+Depth (shallow)    0-9.1 (m)                 0.001m               +/- 0.018m
+PH                 2-14 units                0.01 units           +/- 0.2units
+Turb               0-1000 NTU                0.1 NTU              +/- 5% of 
+Reading or 2 NTU (whichever is greater)
+
+Data columns are separated by tabs.  Each file contains a two line
+column header at the top of the page which identifies measurements and 
+units for each column.
+
+
+10.  Coded variable indicator and variable code definitions:
+
+SU- State Route 2 
+WM- State Route 6 
+OL- site in lower estuary above site WM  
+BR- Berlin Road site
+File definitions: YSI deployment site/wq/month/year (e.g. suwq0802 (State Route 2, August, 2002) ("wq" identifies the file as a water quality data sets.) 
+
+
+11.  Data anomalies
+
+March 2002
+
+WM:
+All data deleted 03/23/2002 (07:45:00 - 16:45:00) due to specific conductivity probe being partially or completely out of the water.
+Sampling for this site began on March 12, 2002 at 09:15:00.
+Depth values were at or slightly below zero (probably because depth sensor was 
+at or slightly above water surface):
+	03/23/2002: (04:00:00-04:45:00); (10:15:00-18:45:00) 
+Specific conductivity and depth readings were 3X higher than normal from 3/23 615-730 possibly
+due to ice formation. 
+
+SU:
+Sampling for this site began on March 12, 2002 at 10:00:00.
+Turbidity values were above 1000 NTU probably due to storm activity
+	03/30/2002 (03:30:00); (04:00:00)
+
+BR: 
+There was no data collected 3/15/2002 (14:30:00- 20:45:00) cause unknown.
+All data deleted 03/23/2002 (04:45:00 - 09:45:00) due to specific conductivity probe being partially or completely out of the water.
+Turbidity values were above 1000 NTU due to storm on dates:
+      3/30/2002 (00:00:00); (1:15:00 - 2:30:00); (3:45:00)
+Depth sensor was at or above water surface:
+	3/12/2002 (13:15:000 through 3/15/2002 (14:15:00)
+	3/15/2002 (21:00:000) through 3/16/2002 (4:30:00)
+	3/17/2002 (14:00:00) through 3/18/2002 (6:30:00)
+	3/19/2002 (20:45:00) through 3/20/2002 (17:45:00)
+	3/21/2002 (2:00:00 - 14:45:00)
+	3/22/2002 (22:00:00) through 3/24/2002 (18:45:00)
+	3/26/2002 (4:15:00 - 17:00:00); (17:30:00 - 18:00:00)
+ 
+April 2002
+
+
+WM:
+Turbidity values were at or above 1000 NTU due to either storm or biological 
+activity:
+	04/03/2002 (11:00:00); (20:45:00)
+	04/10/2002 (00:00:00)
+	04/11/2002 (17:15:00); (17:45:00)
+	04/12/2002 (09:15:00)
+	04/13/2002 (05:00:00); (06:00:00); (10:00:00)
+	04/14/2002 (15:15:00-15:30:00); (21:30:00-21:45:00); (23:15:00)
+	04/15/2002 (00:30:00); (18:45:00)
+	04/16/2002 (08:45:00); (11:00:00)
+	04/19/2002 (04:45:00)
+	04/20/2002 (09:00:00)
+	04/21/2002 (04:15:00); (11:15:00-11:30:00)
+	04/24/2002 (10:45:00)
+	04/25/2002 (00:30:00); (14:15:00)
+	04/26/2002 (17:15:00)
+
+SU:
+All data is missing 4/23/2002 (08:00:00) due to changing dataloggers.
+Turbidity levels were above 1000 NTU due to storm or biological activity:
+	04/3/2002 (06:15:00)
+	04/13/2002 (13:15:00)
+	04/14/2002 (17:15:00-18:30:00); (19:00:00); (19:45:00)
+	04/15/2002 (11:00:00-11:15:00); (15:15:00); (18:15:00)
+	04/18/2002 (11:00:00)
+	04/20/2002 (22:30:00-23:15:00); (23:45:00)
+	04/21/2002 (00:00:00-00:15:00); (06:30:00-09:15:00); (09:45:00-10:15:00); 
+(11:30:00- 12:15:00); ( 23:30:00) through 04/22/2002 (00:15:00); 
+04/22/2002 (08:30:00-09:15:00); (09:45:00-10:15:00); (10:45:00-11:15:00); 
+(18:30:00-21:15:00)
+	04/23/2002 (00:30:00-01:15:00)
+	04/25/2002 (17:00:00); (21:45:00)
+	04/26/2002 (06:45:00); (17:30:00); (18:30:00); (19:00:00-19:15:00); 
+(20:15:00); (21:15:00); (23:00:00); (23:45:00)
+	04/27/2002 (00:15:00); (01:00:00); (03:15:00); (04:15:00); (05:15:00); 
+(06:15:00); (06:45:00-07:15:00); (09:00:00); (09:30:00); (10:15:00); (10:30:00); 
+(12:30:00); (13:00:00); (13:30:00); (17:00:00); (18:00:00); (19:15:00); 
+(23:30:00)
+	04/28/2002 (00:15:00); (01:15:00); (04:45:00-05:00:00); (05:45:00); 
+(06:30:00); (08:00:00); (09:45:00); (11:00:00); (11:45:00); (12:15:00); 
+(13:45:00); (14:45:00); (18:15:00-19:00:00); (22:30:00); (23:15:00)
+	04/29/2002 (02:15:00-02:30:00); (03:45:00); (05:45:00); (07:00:00); 
+(09:30:00-10:00:00); (11:00:00-11:15:00); (11:45:00); (12:15:00-12:30:00); 
+(13:15:00- 13:30:00); (14:45:00); (17:15:00); (19:00:00); (19:30:00-20:00:00); 
+(21:00:00); (21:30:00)
+	04/30/2002 (00:15:00); (01:45:00); (03:15:00-04:00:00); (04:30:00-
+04:45:00); (07:45:00); (08:45:00-09:00:00); (09:30:00-10:00:00); (10:45:00); 
+(14:45:00-15:30:00); (16:45:00); (17:15:00-17:30;00); (18:00:00)     
+
+OL:
+Sampling began for 2002 on 23 April, 2002 at 09:40
+Water levels were at or below zero at the following times (due to atmospheric 
+pressure changes as well as the water level sensor being at or above water 
+surface):
+	04/28/2002 (10:45:00-12:15:00); (14:45:00-16:00:00); (17:30:00-22:15:00)
+	
+
+BR:
+All data missing 4/02/2002 at 09:30:00 due to changing dataloggers
+All data missing 4/23/2002 at 08:15:00 due to changing dataloggers 
+Depth: depth sensor out of water
+ 04/02/2002  (08:15:00-09:15:00)
+ 04/18/2002 (22:30:00) to 04/19/2002 (07:15:00)
+ 04/19/2002 (12:15:00) to (16:15:00)
+ 04/21/2002 (17:15:00) to 4/22/2002 (10:45:00)
+ 4/24/2002 (16:00:00) to 4/25/2002 (03:40:00)
+ 4/27/2002 (19:00:00) to 4/30/2002 (23:45:00)
+Turbidity: following dates and times were above 1500 NTU due to storms
+ 4/13/2002 (18:15:00)
+ 4/14/2002 (14:45:00 to 15:00:00); (16:15:00)
+ 4/15/2002 (00:15:00)
+Turbidity: following dates and times were above 1000 NTU due to storms
+  4/03/2002 (02:00:00); (03:45:00); (04:30:00)
+  4/12/2002 (23:15:00) to 4/13/2002 (00:45:00)
+  4/13/2002 (02:00:00 to 02:15:00); (07:15:00); (11:00:00); (14:00:00)
+  4/14/2002 (14:30:00); (15:15:00-17:45:00)
+  4/22/2002 (18:45:00-19:15:00)
+
+
+May 2002
+
+
+WM:
+Turbidity values were at or above 1000 NTU due to either storm or biological 
+activity:
+	5/05/2002 (09:30:00)
+	5/06/2002 (05:15:00); (15:00:00); (19:45:00); (20:45:00)
+	5/11/2002 (15:30:00-15:45:00)
+	5/12/2002 (16:15:00)
+	5/30/2002 (09:30:00)
+No salinity data from 5/20/2002 (14:30:00) through 5/31/2002 (23:45:00) due to  
+programming error.
+	
+
+SU:
+All data missing on 05/20/2002 (13:15:00) changing datalogger
+All turbidity values were deleted from 05/08/2002 (13:30:00) through 05/20/2002                
+(13:00:00). The negative values interspersed with very high values suggest that 
+the sensor is not working properly or that there is a problem at the site with 
+siltation. 
+The following dates had turbidity values greater than 1000 NTU due to either 
+storms or biological activities;
+	05/01/2002 (00:00:00); (02:00:00-02:15:00); (02:45:00); (05:30:00); 
+(06:45:00); (07:15:00-08:30:00); (09:00:00-10:30:00); (13:00:00-13:15:00); 
+(13:45:00-14:00:00);(15:00:00-15:45:00); (19:15:00); (22:15:00); (23:00:00-
+23:15:00)
+	05/02/2002 (00:00:00-01:15:00); (03:45:00); (06:30:00); (13:00:00); 
+(20:15:00-20:30:00)
+	05/03/2002 (00:15:00-00:30:00); (13:45:00); (15:15:00); (18:15:00); 
+(19:15:00-19:30:00)
+	05/04/2002 (22:45:00-23:00:00)
+	05/05/2002 (01:00:00-01:15:00); (02:45:00); (06:30:00); (08:45:00-
+09:15:00); (14:30:00-16:15:00)
+      05/06/2002 (03:45:00-04:00:00)
+      05/07/2002 (02:30:00-02:45:00)
+	05/20/2002 (17:30:00); (19:15:00)
+      05/21/2002 (01:45:00); (02:15:00); (05:15:00-06:00:00); (18:15:00-
+18:30:00); (19:45:00)
+	05/30/2002 (14:30:00-15:15:00); (21:30:00)
+	05/31/2002 (13:00:00-13:15:00)
+	
+	 
+
+OL:
+Water level data was zero or negative due to changing barometric pressure and 
+the sensor was at or above the water surface:
+	05/02/2002 (08:45:00-09:30:00); (10:30:00-12:15:00); (13:00:00-14:00:00)
+	05/03/2002 (01:15:00-03:00:00)
+	05/09/2002 (15:15:00-18:15:00); (18:45:00-19:00:00)
+Turbidity values were above 1000 NTU due to storm or biological activity:
+	05/02/2002 (09:15:00)
+	05/03/2002 (09:00:00)
+	05/05/2002 (14:45:00)
+
+BR:
+Turbidity values were at or slightly  below 0 for the following dates 
+(calibration error?)
+	5/5/2002 (8:45:00-20:00:00); (20:30:00-21:00:00); (21:30:00-21:45:00); 
+(22:15:00); (23:00:00) through 5/6/2002 (00:15:00)
+      5/6/2002  (2:30:00); (8:00:00-14:45:00)
+	5/7/2002  (6:45:00- 8:00:00)
+Turbidity values were above 1000 NTU due to storm or biological activity
+	5/2/2002 (17:00:00)
+	5/13/2002 (10:15:00 -17:15:00); (17:45:00) through 5/14/2002 (2:45:00)
+	5/28/2002 (14:30:00)
+	5/30/2002 (13:30:00) 
+Depth sensor was at or above the water surface on:
+	 5/1/2002 (00:00:00) through 5/2/2002 (6:45:00)
+	 5/6/2002 (8:00:00-8:30:00); (9:15:00) through 5/7/2002 (9:15:00)
+	 5/8/2002 (15:15:00) through 5/9/2002 (2:45:00)
+	 5/9/2002 (8:15:00-20:15:00)
+	 5/12/2002 (10:15:00-20:00:00)
+	 5/16/2002 (12:15:00-19:30:00)
+	 5/22/2002 (14:30:00) through 5/30/2002 (2:00:00)
+	 5/30/2002 (11:00:00- 20:00:00)
+	 5/31/2002 (7:30:00-23:45:00)
+
+June 2002
+
+
+WM:
+Turbidity values were above 1000 NTU due to storm or biological activities:
+6/04/2002 (17:45:00-18:00:00); (18:30:00); (19:45:00); (20:45:00); (21:15:00);                
+(21:45:00); (22:15:00)
+6/05/2002 (00:45:00)
+6/12/2002 (18:00:00-21:45:00); (23:30:00) through 6/13/2002 (03:00:00)
+All salinity data is missing from 6/01/2002 (00:00:00) through 6/18/2002 
+(09:30:00) due to programming error   
+DO concentration was deleted for the following dates and times due to programming error. DO charge was recorded by error.
+	06/03/2002 12:45:00 - 06/18/2002 09:30:00 
+
+SU:
+Turbidity data deleted from 6/03/2002 (14:15:00) through 6/24/2002 (13:45:00) 
+and from 6/26/2002 (11:00:00) through  6/30/2002 (23:45:00) due to negative 
+numbers and concern on the validity of the other data. The cause of this problem 
+is unknown.  
+The following dates had turbidity values of greater than 1500 NTU (storms or 
+biological activity?):
+	 06/01/2002: (03:30:00); (17:45:00- 18:15:00); (20:15:00)
+	 06/02/2002: (03:15:00); (16:30:00)
+	 06/03/2002: (08:00:00-09:00:00)
+Dissolved oxygen values questionable due to possible sediment buildup in the trap: 6/14/2002 (22:00:00) to 6/18/2002 (08:30:00) 
+      6/21/2002 (21:15:00) to 6/24/2002 (13:45:00)
+Dissolved oxygen values questionable due to cleaning out sediment under the trap on 6/24/2002 (14:00:00-14:30:00)
+
+OL:
+No missing or anomalous data
+
+BR:
+All the data was deleted on the following days because the datalogger 
+was completely or partially out of water, evident from Sp. conductivity readings:
+	6/20/2002 (17:30:00) through 6/30/2002 (23:45:00)
+All dissolved oxygen (mg/l) was deleted due to programming error from 6/24/2002               
+(14:15:00) through 6/30/2002 (23:45:00)
+The following dates had turbidity values greater than 1000 NTU (probably due to 
+storm runoff):
+	6/4/2002 (08:00:00 -12:30:00); (17:45:00)
+6/12/2002 (08:45:00 -11:30:00); (12:15:00 - 16:45:00); (17:15:00 - 19:30:00);
+(20:45:00 - 23:00:00)
+6/13/2002 (1:45:00); (3:15:00); (6:15:00-6:30:00); (8:00:00)
+The water level sensor was at or above the water surface on the following dates:
+	6/1/2002 (00:00:00) through 6/4/2002 (00:30:00)
+	6/9/2002 (16:45:00 - 21:00:00)
+	6/10/2002 (02:30:00 - 03:45:00); (11:30:00) through 6/12/2002 (08:00:00)
+	6/14/2002 (05:15:00 - 19:00:00)
+	6/15/2002 (00:15:00) through 6/18/2002 (4:30:00)
+	6/24/2002 (16:15:00 - 20:45:00)
+	6/25/202 (1:45:00 - 2:45:00); (3:15:00-4:15:00); (4:45:00 - 5:15:00); 
+(12:00:00) through 6/28/2002 (22:45:00)
+	6/30/2002 (16:15:00-20:00:00); (20:30:00)
+
+
+July 2002
+
+WM:
+All data is missing 07/08/2002  (12:45:00); changing data logger
+Turbidity- The following dates had turbidity values of greater than 1000 NTU 
+(Probably due to biological or storm runoff activities):
+	7/04/2002 (15:45:00); (20:15:00)
+	7/06/2002  (02:45:00)
+	7/08/2002 (14:45:00)
+	7/09/2002 (02:15:00)
+	7/10/2002 (04:30:00)
+	7/11/2002 (02:45:00)
+	7/12/2002 (15:15:00); (22:00:00-22:30:00); (23:15:00-23:45:00)
+	7/13/2002 (00:15:00-00:30:00); (02:00:00); (03:15:00); (04:00:00); 
+(04:45:00-05:15:00);(05:45:00-06:00:00); (06:45:00); (07:30:00-07:45:00); 
+(12:00:00); (13:45:00); (14:15:00); (16:00:00-16:15:00); (16:45:00); (18:30:00); 
+(19:30:00); (20:45:00); (21:45:00); (22:15:00); (23:00:00)
+	7/14/2002 (11:45:00); (12:15:00); (15:00:00)
+	7/15/2002 (17:15:00-17:30:00)
+	7/19/2002 (21:00:00)
+	7/25/2002 (00:45:00)
+	7/27/2002 (21:45:00)
+
+SU:
+All data missing 7/08/2002 (09:15:00) changing datalogger
+All data missing 7/22/2002 (07:15:00) changing datalogger
+Turbidity data deleted due to probe malfunction and/or siltation at the site
+	7/01/2002 (00:00:00) through 7/02/2002 (17:45:00) siltation?
+      7/08/2002 (09:30:00) through 7/15/2002 (11:00:00) probe failure?
+The following negative turbidity values were deleted :
+	7/03/2002 (00:15:00-00:30:00); (02:45:00-03:00:00); (07:30:00); (08:45:00)
+Turbidity values from 7/02/2002 (18:00:00) through 7/03/2002 (09:00:00) questionable due to above negative values that were deleted.
+Dissolved oxygen values from 7/10/2002 (01:30:00) through 7/15/2002 (11:00:00)questionable due to siltation of sensor.
+The high turbidity value on 7/15/2002 (11:15:00) was probably an artifact of 
+changing datalogger.
+Depth- On 7/15/2002 (11:15:00) datalogger deployed had the longer sonde guard, 
+so was 5 cm higher in  trap- this is recorded in changing depth at this time 
+from earlier.
+
+OL:
+No missing or anomalous data
+
+BR:
+All the data was deleted on the following days because the datalogger was completely or partially out of water, evident from Sp. conductivity readings:
+	7/01/2002 (00:00:00) through 7/8/2002 (09:15:00)
+	7/8/2002 (16:15:00) through 7/9/2002 (14:00:00)
+	7/10/2002 (19:00:00) through 7/15/2002 (11:00:00)
+The water level sensor was at or above the water surface on the following dates:
+	7/08/2002 (10:30:00) through (16:00:00)
+	7/09/2002 (14:15:00) through 7/16/2002 (00:45:00)
+	7/16/2002 (01:30:00-01:45:00); (02:30:00-03:15:00)
+	7/17/2002 (13:15:00) through 7/20/2002 (06:45:00)
+	7/20/2002 (18:00:00-18:30:00); (19:00:00)
+	7/21/2002 (05:15:00-05:30:00); (12:30:00-15:00:00); (15:00:00); (15:45:00) 
+through 7/22/2002 (07:00:00); 7/28/2002 (03:00:00- 06:15:00); (13:45:00- 
+20:15:00)
+Turbidity levels were above 1500 NTU:
+	7/25/2002 (00:15:00); (21:30:00); (22:30:00)
+	7/29/2002 (01:00:00-01:15:00)
+Turbidity levels were above 1000 NTU:
+	07/22/2002 (20:15:00)
+Turbidity levels were at or just below 0 (this could be a problem of 
+calibration):
+	07/26/2002 (11:45:00-12:15:00);  (13:00:00)
+DO spiked around 7/20-7/22 and should be considered suspect.  
+
+
+August 2002
+
+
+WM:
+All data missing 8/26/2002 (09:00:00) changing datalogger
+Turbidity:  The following turbidity values were above 1000 NTU due probably to 
+biological and/or storm activity  (However, the highly erratic nature of the 
+data from 16 August (12:30:00) through 26 August (06:15:00) suggests that much 
+of this may be due to probe problems):
+	8/03/2002 (16:00:00); (22:15:00-22:45:00)
+	8/05/2002 (13:45:00)
+	8/10/2002 (16:15:00);
+	8/11/2002 (21:00:00)
+	8/12/2002 (00:30:00); (13:30:00); (14:15:00)
+	8/13/2002 (03:45:00); (04:30:00);  (05:15:00); (05:45:00); (06:45:00); 
+(07:30:00- 07:45:00); (12:30:00-12:45:00) (13:15:00-13:30:00)
+	8/14/2002  (06:45:00-07:00:00); (10:30:00); (12:30:00); (13:30:00); 
+(14:00:00);  (15:00:00-15:15:00); (15:45:00); (17:15:00); (18:45:00)
+	8/15/2002 (05:45:00); (06:15:00)
+	8/16/2002 (09:00:00); (12:30:00-12:45:00); (13:15:00); (14:00:00); 
+(18:00:00-18:30:00); (19:00:00-19:30:00); (20:30:00); (21:00:00); (22:00:00-
+22:30:00); (23:00:00- 23:15:00); (23:45:00) 
+	8/17/2002 (00:45:00-01:00:00); (02:45:00-03:00:00); (06:45:00); 
+(07:15:00); (10:45:00); (11:30:00-12:30:00); (13:30:00); (14:45:00-16:30:00); 
+(17:00:00-19:45:00);(20:15:00) through 8/18/2002 (00:00:00)
+	8/18/2002 (00:30:00-01:15:00); (01:45:00-02:00:00); (02:45:00-03:45:00); 
+(04:15:00-  04:30:00); (05:00:00-05:45:00); (06:15:00); (06:45:00); (09:15:00-
+11:15:00); (12:15:00-12:30:00); (13:00:00-16:00:00); (16:45:00-17:00:00); 
+(21:45:00-22:15:00)
+	8/19/2002 (00:45:00); (01:30:00);  (05:15:00); (11:15:00-11:30:00); 
+(13:15:00-13:30:00); (14:15:00-14:30:00); (15:00:00) through 8/20/2002 
+(02:00:00)
+	8/20/2002  (03:15:00-03:30:00); (04:00:00); (05:00:00); (09:15:00); 
+(13:30:00); (14:00:00-14:15:00); (14:45:00-15:00:00); (15:30:00); (16:15:00); 
+(17:00:00);(20:15:00-20:30:00); (21:30:00-21:45:00); (23:30:00)
+	8/21/2002 (00:15:00-01:45:00); (02:15:00-05:30:00); (06:15:00-12:45:00); 
+(19:15:00); (19:45:00)
+	8/22/2002 (02:30:00-03:45:00); (04:15:00-04:30:00); (05:00:00); (06:00:00-
+07:00:00); (08:30:00); (09:00:00); (09:45:00); (11:30:00); (12:00:00); 
+(12:45:00-13:15:00);(13:45:00-16:45:00); (17:30:00-21:45:00); (23:30:00)
+	8/23/2002 (01:00:00-01:15:00); (02:45:00); (03:45:00); (05:00:00-
+05:15:00); (05:45:00- 11:15:00); (11:45:00-14:45:00); (15:45:00); (17:15:00); 
+(17:45:00); (18:30:00); (19:30:00); (21:15:00); (22:00:00-22:15:00); (22:45:00); 
+(23:30:00)
+	8/24/2002 (00:30:00); (04:00:00); (04:45:00-05:00:00); (05:30:00); 
+(06:15:00-06:45:00); (07:15:00); (07:45:00-08:45:00); (09:15:00); (16:15:00); 
+(20:45:00)
+	8/25/2002 (00:30:00); (05:30:00-05:45:00); (06:15:00-06:30:00); (21:30:00)
+	8/26/2002 (03:45:00)
+The following turbidity values were at or below zero suggesting either a 
+calibration error or probe problems:
+  	8/16/2002 (23:45:00) through 8/17/2002 (00:30:00)
+	8/17/2002 (13:45:00-14:00:00); (14:30:00)
+	8/18/2002 (07:15:00-07:30:00); (08:00:00-09:00:00); (11:15:00); (17:15:00-
+17:30:00); (18:00:00-21:30:00)
+	8/19/2002 (06:45:00-11:00:00);  (11:45:00-13:00:00)
+	8/24/2002 (03:30:00); (13:30:00); (14:15:00); (14:45:00); (15:15:00); 
+(16:00:00);(19:30:00)
+	8/25/2002 (13:30:00); (14:45:00-15:00:00); (18:00:00)
+	8/26/2002 (06:15:00)
+
+	
+
+SU:
+All data 08/05/2002 (10:30:00) is missing due to changing data logger. 
+All the data 08/19/2002 (08:15:00) is missing due to changing data logger.
+Water depth on 8/05/2002 (10:30:00) was below zero, cause unknown.
+Specific conductivity dropped in middle of deployment at 08/24/2002 (07:15:00-08:30:00) and remained low for remainder of month- the cause for this is unknown because the post deployment calibration of the conductivity probe was good.
+Turbidity readings were above 1000 NTU at the following times (due to storms or 
+biological activity:
+	8/01/2002 (19:15:00)
+	8/11/2002 (08:45:00)
+	8/12/2002 (08:30:00)
+	8/16/2002 (11:15:00)
+	8/17/2002 (20:30:00)
+	8/28/2002 (15:00:00-15:45:00); (16:15:00-17:45:00)
+	8/29/2002 (17:00:00-18:45:00); (19:15:00-21:45:00)
+	8/30/2002 (02:00:00-04:45:00); (08:00:00-08:45:00); (13:00:00) through 
+8/31/2002 (00:45:00)
+	8/31/2002 (01:00:00-01:15:00); (08:00:00); (10:00:00-10:45:00); (18:00:00-
+18:45:00); (20:00:00); (21:00:00-21:45:00); (23:00:00-23:45:00)
+        Turbidity readings were at or slightly below zero on the following dates 
+(calibration error?)
+	8/30/2002 (10:00:00-10:30:00); (11:00:00-11:45:00)
+	8/31/2002 (03:00:00-03:45:00); (12:00:00-15:45:00)
+    The wide variations in the turbidity readings during August 30 and 31 
+suggest that there may be a probe or a deployment problem and that the readings 
+are suspect.
+	
+
+OL:
+The following dates had turbidity values above 1000 NTU due to biological 
+activity:
+	8/25/2002 (19:00:00)
+
+BR: 
+The following Dissolved oxygen was deleted due to puncture in sensor membrane:
+8/19/2002 (08:15:00) through 8/26/2002 (07:45:00)
+The following dates had turbidity values above 1500 NTU due to unknown 
+causes
+	08/03/2002 (10:00:00)
+	08/09/2002 (12:00:00)
+	08/24/2002 (10:00:00)
+The following dates the water level sensor was at or above the water surface:
+	08/10/2002: (17:00:00) through (20:30:00)
+	08/11/2002 (01:30:00) through (02:15:00); (15:15:00) through (23:45:00)
+	08/12/2002 (00:15:00) through (03:45:00); (16:00:00) through (20:15:00)
+	08/13/2002 (11:15:00) through 08/15/2002 (05:45:00)
+	08/15/2002 (13:45:00) through (21:00:00)
+	08/16/2002 (14:30:00-14:45:00); (15:15:00) through (17:30:00)
+	08/17/2002 (06:45:00-07:30:00) (08:00:00-08:15:00); (11:00:00) through
+	08/19/2002 (20:30:00)
+	08/23/2002 (18:00:00-18:30:00)
+
+September 2002 
+
+
+WM:
+From 09/03/2002 (13:00:00) through 09/09/2002 (10:45:00) data was only collected 
+at an 11-hour interval due to a programming error.
+Dissolved Oxygen values from 09/09/2002 (13:00:00) through 09/09/2002 (10:45) 
+deleted due to a probe failure.
+Dissolved Oxygen deleted 09/23/2002 (09:15:00) through 09/30/2002 (09:00:00) due to puncture in membrane on sensor.
+Turbidity values exceeded 1000 NTU on the following dates due probably to 
+biological activity:
+	9/13/2002 (01:00:00)
+	9/21/2002 (14:30:00)
+	9/23/2002 (07:30:00)
+
+SU:
+All data is missing from 09/03/2002 (08:45:00) due to servicing the data logger
+All data from 9/23/2002 (08:00:00) deleted due to changing data logger. 
+The turbidity values are at or below zero (cause error in calibration?):
+	9/01/2002 (03:00:00-04:45:00)
+	9/02/2002 (11:00:00-11:45:00)
+The following turbidity values were above 1000 NTU (cause biological activity or 
+storms or deployment problems, particularly from September 27-30):	
+	9/01/2002 (05:15:00-23:45:00)
+	9/02/2002 (00:30:00-00:45:00); (01:15:00-01:45:00); (03:00:00-03:45:00); 
+(06:00:00- 07:45:00); (12:00:00-12:45:00); (17:00:00-17:45:00); (23:00:00-
+23:45:00)
+	9/03/2002 (05:15:00-05:45:00); (06:45:00); (07:15:00-07:45:00); (09:00:00) 
+through 9/07/2002 (01:15:00)
+	9/07/2002 (16:45:00-21:15:00)
+	9/08/2002 (12:00:00)
+	9/09/2002 (05:15:00)
+	9/23/2002 (08:15:00) through 9/24/2002 (07:45:00)
+	9/26/2002 (17:45:00)
+	9/27/2002 (15:45:00); (16:15:00) through 9/28/2002 (02:15:00)
+	9/28/2002 (02:45:00-06:45:00); (07:30:00-09:15:00); (09:45:00-10:30:00); 
+(11:00:00- 15:30:00); (16:15:00-19:15:00); (19:30:00) through 9/29/2002 
+(14:15:00)
+	9/29/2002 (14:45:00); (15:15:00-17:00:00); (17:30:00-18:15:00); 
+(18:45:00); (19:15:00- 22:45:00); (23:15:00) through 9/30/2002 (03:15:00)
+	9/30/2002 (03:45:00); (04:15:00); (04:45:00); (05:15:00-05:45:00); 
+(06:15:00-08:00:00) 
+
+OL:
+The following dates had turbidity values above 1000 NTU due to biological 
+activity:
+	9/01/2002 (04:15:00)
+
+BR:
+Depth: Depth sensor was at or above the water surface:
+	9/2/2002 (13:30:00-14:45:00);  (15:30:00) through 9/5/2002 (2:00:00)
+	9/5/2002 (18:45:00-19:30:00); (23:15:00) through 9/6/2002 (00:30:00)
+	9/6/2002 (3:45:00); (13:00:00) through 9/7/2002 (5:30:00)
+	9/7/2002 (15:30:00-16:30:00)
+	9/8/2002 (16:30:00-17:30:00); (18:15:00-19:00:00)
+	9/9/2002 (1:45:00-5:30:00); (11:45:00) through 9/20/2002 (21:00:00)
+	9/21/2002 (00:00:00- 4:45:00)
+	9/22/2002 (8:00:00-19:15:00)
+	9/26/2002 (18:30:00) through 9/27/2002 (8:30:00)
+Turbidity values above 1000 NTU (storms and/or biological activity)
+	9/4/2002 (20:00:00)
+	9/27/2002 (15:00:00-16:30:00); (17:15:00-17:30:00)
+	9/28/2002 (3:45:00) 
+
+
+October 2002
+
+
+WM:
+All data missing 10/14/2002 (09:45:00) due to changing dataloggers
+Oxygen -both percent saturation and mg/l deleted due to a puncture of the oxygen             
+membrane 10/16/2002 (12:00:00) through 10/28/2002 (10:30:00).  Since the exact     
+time of the puncture is unknown, the data from 10/15/2002 (12:00:00) through           
+10/16/2002 (11:45:00) must be considered questionable
+DO data prior to membrane puncture should also be considered suspect.  
+Turbidity values were over 1000 NTU due to biological activity on
+	10/11/2002 (07:30:00)
+
+SU:
+All data deleted 10/14/2002 (08:45:00) due to changing data logger.
+All turbidity data from 10/14/2002 (09:00:00) through 10/28/2002 (09:15:00) was 
+deleted due to either a malfunction of the probe or some other unknown cause.
+Turbidity values were above 1000 NTU due to biological or physical factors:
+	10/05/2002 (17:30:00); (19:00:00)
+	10/28/2002 (09:30:00-09:45:00)
+
+OL:
+No missing or anomalous data
+
+BR:
+Depth: Depth sensor was at or above water surface:
+	10/4/2002 (4:00:00) through 10/5/2002 (4:30:00)
+	10/6/2002 (14:30:00) through 10/7/2002 (00:30:00)
+	10/14/2002 (23:00:00) through 10/21/2002 (00:15:00)
+	10/21/2002 (13:30:00-21:45:00); (22:30:00) through 10/22/2002 (6:30:00)
+	10/22/2002 (12:00:00-16:30:00)
+	10/25/2002 (11:45:00-19:15:00)
+	10/29/2002 (12:30:00) through 10/30/2002 (17:45:00)
+Turbidity values were at or just below 0 (calibration problem)
+	10/14/2002 (9:00:00) through 10/15/2002 (17:30:00)
+	10/15/2002 (18:00:00-18:45:00); (19:15:00-20:15:00); (20:45:00); 
+(21:15:00); (23:15:00)
+	10/16/2002 (00:00:00); (00:30:00); (1:45:00-3:30:00); (3:45:00-5:00:00); 
+(6:15:00- 12:45:00); (13:45:00); (14:15:00); (14:45:00); (15:15:00); (16:00:00); 
+(16:30:00- 18:30:00); (19:00:00); (19:30:00-19:45:00); (20:15:00); (21:00:00-
+22:00:00); (22:30:00); (23:00:00); (23:30:00-23:45:00)
+	10/17/2002 (00:30:00); (2:30:00); (3:15:00); (3:45:00-4:00:00); (4:30:00-
+11:15:00); (11:30:00-12:15:00); (12:45:00); (13:15:00-13:30:00); (14:00:00-
+15:15:00); (16:30:00); (17:00:00); (17:30:00-17:45:00); (18:30:00); (19:00:00); 
+(20:15:00- 20:30:00); (22:15:00); (23:00:00)
+	10/18/2002 (00:15:00)
+	10/26/2002 (4:45:00); (5:30:00-6:00:00); (6:30:00-8:00:00); (10:00:00); 
+(11:00:00- 12:45:00); (14:45:00); (15:15:00) through 10/27/2002 (21:45:00)
+
+November 2002
+
+
+WM:
+All data missing on 11/18/2002 (11:15:00) due to changing data loggers  
+All data was deleted for the following periods because the conductivity probe was partially or completely exposed to the atmosphere due to low water levels
+      11/11/2002 (23:45:00) through 11/12/2002 (01:00:00)
+	11/13/2002 (00:00:00-09:45:00); (14:45:00) through 11/14/2002 (00:00:00
+	11/14/2002 (04:15:00- 16:45:00); (17:30:00); (18:00:00); (18:45:00-19:30:00);  (20:30:00) through 11/15/2002 (03:45:00); 11/18/2002 (11:15:00).
+All the data was deleted on the following days because the datalogger was completely or partially exposed to the atmosphere due to low water levels, evident from Sp. conductivity readings:
+	11/23/2002 (17:30:00) through 11/24/20002 (04:00:00)
+	11/24/2002 (11:15:00-16:30:00)
+	11/27/2002 (22:45:00) through 11/29/2002 (07:30:00)
+	11/29/2002 (08:45:00) through 11/30/2002 (12:15:00)
+	11/30/2002 (20:15:00) through 11/30/2002 (23:45:00)
+Depth sensor was at or above water surface on the following dates and times: 
+	11/18/2002 (11:30:00) through 11/19/2002 (07:45:00)
+	11/19/2002 (08:30:00); (11:00:00); (11:30:00); (13:00:00-13:30:00); 
+(14:00:00); (19:00:00-19:15:00); (19:45:00); (20:15:00-20:45:00); (21:30:00-
+22:15:00); (22:45:00- 23:45:00)
+	11/20/2002 (00:30:00-09:30:00); (13:15:00); (14:15:00); (15:15:00-
+15:30:00)); (18:45:00-23:45:0)
+	11/21/2002 (00:30:00-01:15:00); (01:45:00-02:15:00); (02:45:00-03:00:00); 
+(03:30:00- 10:15:00)
+	11/23/2002 (07:45:00-09:15:00); (10:15:00-10:30:00); (14:45:00-15:15:00); 
+(16:15:00- 16:45:00); (17:15:00)
+	11/24/2002 (04:15:00-05:15:00); (07:30:00-10:00:00); (17:45:00-21:15:00)
+	11/25/2002 (07:45:00-09:45:00); (16:15:00-22:30:00)
+	11/26/2002 (00:45:00-01:45:00); (02:15:00-03:15:00); (04:15:00); 
+(04:45:00-07:45:00)
+	11/27/2002 (18:15:00-21:00:00)
+Turbidity values were above 1000 NTU because of biological activity;
+	11/11/2002 (22:45:00)
+	11/22/2002 (06:00:00)
+
+SU:
+All data missing 11/18/2002 (09:45:00) due to changing datalogger
+All turbidity data was deleted from 11/18/2002 (10:00:00) through 11/30/2002 
+(23:45:00) (siltation problems during deployment?)
+Turbidity values were greater than 1000 NTU due to storms, biological or 
+physical causes:	11/12/2002 (08:00:00-08:45:00); (10:00:00); (10:30:00-
+10:45:00)
+	11/13/2002 (09:00:00-09:30:00)
+	11/14/2002 (09:00:00-09:45:00)
+Water level values were at or slightly below zero because the depth sensor was 
+at or above the water surface
+	11/14/2002 (15:00:00-15:15:00); (15:45:00) through  11/15/2002 (08:00:00)
+DO spike around 11/7-11/8 should be considered suspect. 
+
+OL:
+The data logger was pulled on 11/18/2002 (11:30:00) to finish deployment at this 
+site for 2002.
+All the data was deleted on the following days because the datalogger was completely or partially out of the water, evident from Sp. conductivity readings:
+	11/12/2002 (00:15:00 - 02:15:00)
+	11/12/2002 (10:30:00 - 18:15:00)
+	11/12/2002 (20:15:00) through 11/15/2002 (05:45:00)
+	11/18/2002 (00:15:00) through end of deployment (11/18/2002 at 11:30:00) 
+Water levels were zero or negative values because the water level sensor was out 
+of water: 
+	11/15/2002 (06:00:00-07:00:00)
+	11/17/2002 (10:45:00-22:15:00)    	
+
+BR:
+No data collected 11/18/2002 (09:45:00) due to changing data loggers
+Depth:  Depth  sensor at or above water surface:
+	11/2/2002 (12:30:00); (13:00-15:45:00)
+	11/3/2002 (17:45:00-18:45:00); (19:30:00) through 11/6/2002 (22:30)
+	11/7/2002 (17:30:00) through 11/14/2002 (15:15:00)
+	11/14/2002 (16:00:00-16:15:00); (16:45:00) through 11/15/2002 (6:45:00)
+Turbidity values were above 1000 NTU due to storms and/or biological activity:
+	11/11/2002 (4:00:00); (5:00:00-6:30:00); (7:00:00-9:00:00); (9:45:00); 
+(10:45:00- 11:45:00); (12:15:00-12:30:00); (13:30:00); (14:30-15:00:00); 
+(16:30:00); (17:00:00); (17:30:00); (18:30:00)
+	11/22/2002 (9:15:00); (9:45:00-10:00:00); (11:15:00); (11:45:00-12:15:00); 
+(14:45:00); (23:15:00)
+	11/23/2002 (4:45:00); (6:15:00); (8:00:00); (18:30:00)
+	11/24/2002  (13:45:00)
+	
+
+
+12.  Missing data:
+
+Missing data are denoted by a period in the data set.  Data are missing due to 
+equipment failure when no probes deployed, maintenance/calibration of equipment, 
+elimination of obvious outliers, or elimination of data due to calibration (both 
+pre- and post-) problems.  For more details on deleted data, see Anomalous Data 
+Section (11).  To find out more details about missing data, contact the Research 
+Coordinator at the site submitting the data.
+
+13.  Post deployment information
+
+End of Deployment Post-calibration Readings in Standard Solutions: Dissolved 
+oxygen standard is 100%, unless noted. Depth is always 0.0 meters. The specific 
+conductivity standard is 1 mS/cm. The pH standard is 7.00. Any reading in 
+parentheses refers to a reading made after cleaning the sensor.
+ Site Date         Sp. Cond.  DO(%)       pH         Turb   Depth
+
+WM	04/02/2002	.985		89.5		7.27		1.8	-.003
+	04/23/2002	.977		102.1		7.12		0.8	0.00
+	05/07/2002	.986		106.5		7.00		0.6	0.00
+	05/20/2002	1.047		 99.6		7.08		1.3	-.002
+	06/03/2002	1.025		 94.7		7.01	      4.1 (0.3)   .002
+	06/18/2002	1.033		94.9		7.09		1.4	.002
+	06/24/2002	.954		95.3		7.07		0.3	.002
+	07/08/2002	.955		72.4		7.03		3.2	0.00
+	07/15/2002	1.067		111.7		7.00		0.3	.003
+	07/22/2002	.946		88.4		7.16	      6.7(0.7)  .005
+	07/30/2002	1.003		84.6		7.09		3.4	0.00
+	08/05/2002	1.011		87.5		7.20	      2.0(0.1)  .001
+	08/12/2002	1.009		88.8		7.07		0.3	.000
+	08/19/2002	.992		97.2		7.17		-0.4	.001
+	08/26/2002	.986		95.5		7.20		1.7	.000
+	09/03/2002	1.048		missing	6.88		0.6	-.001
+	09/09/2002	1.030		90.7		7.06		1.5	.000
+	09/23/2002	1.008		90.8		7.12		3.6	-.001
+	09/30/2002	1.043		0.2		7.32		1.6	.002
+	10/14/2002	.990		97.7		6.98		1.4	.000
+	10/28/2002	1.029		0.3		7.25		0.5	-.001
+	11/18/2002	1.003		103.8		7.11		0.6	.006
+	12/02/2002	.981		103.2		7.06		0.1	-.001
+
+SU	04/02/2002	.985		101.6		7.18		0.5	.000
+	04/23/2002	.987		97.2		7.12		0.8	-.004
+	05/07/2002	1.002		104.0		7.15		0.9	-.004      
+	05/20/2002	1.036		106.2		6.89		3.1	.004
+	06/03/2002	1.065		87.8		7.00		1.5	.001
+	06/18/2002	1.022		96.9		7.13		-.05	.006
+	06/24/2002	1.05		102.6		7.14		5.0	-.002
+	07/08/2002	1.05		102.3		7.17		0.5	.001
+	07/15/2002	1.039		95.3		6.99		0.9	.001
+	07/22/2002	.919		91.6		7.34		2.3	.002
+	07/30/2002	.972		81.4		7.32		1.5	-.002
+	08/05/2002	.986		89.4		7.15		0.9	.001
+	08/12/2002	.981		107.8		7.08		1.1	.003
+	08/19/2002	.973		96.8		7.07		0.6	.001
+	08/26/2002	.988		91.6		7.09		0.9	-.001
+	09/03/2002	.978		103.1		7.15		1.0	.000
+	09/09/2002	1.005		95.0		7.10		0	.001
+	09/23/2002	.980		82.0		7.20		0.6	-.001
+	09/30/2002	1.003		83.5		7.18		1.3	.000
+	10/14/2002	.995		98.8		7.23		0.1	-.002
+	10/28/2002	.978		95.6		7.22		4.2	.000
+	11/18/2002	.978		90.2		7.17		0.7	.000
+	12/02/2002	1.035		103.9		7.04		2.5	-.005
+	
+
+OL	05/07/2002	  .990	103.1		7.43		2.3	-.041
+	05/20/2002	 1.038	100.0		7.03		-0.3	.126
+	06/03/2002	1.038		96.7		7.21		2.0	-.335
+	06/18/2002	1.045		89.9		7.03		3.1	.017
+	06/24/2002	1.058		78.2		7.07		0.3	.051
+	07/08/2002	1.043		104.8		7.23		3.3	-.019
+	07/15/2002	1.019		91.6		7.15		1.6	-.060
+	07/22/2002	.955		85.6		7.39		4.8	.022
+	07/30/2002	.968		80.5		7.20		2.5	.030
+	08/05/2002	1.008		101.5		7.02		3.2	.103
+	08/12/2002	1.000		90.4		7.10		4.4	-.005
+	08/19/2002	.991		93.8		7.11		2.0	-.063
+	08/26/2002	.979		99.3		7.18		2.2	.016
+	09/03/2002	1.037		93.5		6.98		1.3	-.023
+	09/09/2002	1.07		102		7.18		3.1	-.019
+	09/23/2002	1.002		95.4		7.10	      6.3(1.0).008
+	09/30/2002	1.022		99.8		7.01		3.6	 .061
+	10/14/2002	1.005		99.5		7.03		5.1	.135
+	10/28/2002	1.031		103.2		7.01		2.2	.016
+	11/18/2002	1.014		95.3		7.07		2.2	.055
+		
+
+BR    04/02/2002	.733		103.7		7.07		0.4	-.143
+	04/23/2002	.981		96.0		7.15		.05	.284
+	05/07/2002	.995		101.5		7.13		-0.4	-.037
+	05/20/2002	.989		99.7		7.19		5.2	.114
+	06/03/2002	1.039		94.8		7.03		1.7	-.122
+	06/18/2002	.999		104.7		7.25		5.9	.011
+	06/24/2002	1.113		102.4		7.00		2.5	.042
+	07/08/2002	1.075		111.		7.11		4.2	Missing
+	07/15/2002	1.035		106.3		7.08		1.0	-.051
+	07/22/2002	.975		83.5		7.16		3.5	-.049
+	07/30/2002	.974		93.5		7.29		2.4	.041
+	08/05/2002	.963		112.4		7.09		0.7	.103
+	08/12/2002	.981		99.3		7.11		3.9	.003
+	08/19/2002	1.002		98.4		7.04		4.6	-.049
+	08/26/2002	.972		missing	7.08		1.3	.013
+	09/03/2002	.975		99.4		7.13		-0.3	-.027
+	09/09/2002	.967		95.5		6.90		-.9	-.030
+	09/23/2002	.987		89.2		7.19		5.3	.007
+	09/30/2002	.907		81.6		7.29		15.7	.027	
+	10/14/2002	.948		91.7		7.11		3.1	  .98
+	10/28/2002	.970		93.3		7.30		21.6	-.014
+	11/18/2002	.921		90.4		7.10		6.9	.038
+	12/02/2002	.965		100.5		7.05		-0.1	.006
+	
+
+14.  Other Remarks
+
+On 07/01/2021 this dataset was updated to include embedded QAQC flags for anomalous/suspect data.  System-wide monitoring data beginning in 2007 were processed to allow for QAQC flags and codes to be embedded in the data files rather than detailed in the metadata alone (as in the anomalous/suspect, deleted, and missing data sections above).  Prior to 2006, rejected data were deleted from the dataset so they are unavailable to be used at all, but suspect data were only noted in the metadata document.  Suspect data flags <1> were embedded retroactively in order to allow suspect data to be easily identified and filtered from the dataset if desired for analysis and reporting purposes.  No other flags or codes were embedded in the dataset and users should still refer to the detailed explanations above for more information.
+
+There was some kind of event that took place around the end of March (3/25-3/28) that caused 
+higher than normal specific conductivity and depth readings at the WM, SU and BR sites.  
+
+
+Chemical Monitoring Program:
+
+Replicate  samples for chemical and chlorophyll analysis were collected at each of the data logger sites each time the data loggers were changed.  The samples were collected prior to changing the data loggers, to insure that the samples for chemical analysis were undisturbed. Sample bottles, (previously washed with 10% HCl,  rinsed six (6) times with distilled water and then allowed to air dry upside down prior to sampling), were rinsed with the sample water three times before the sample was collected for analysis. Temperature, dissolved oxygen, and pH values were determined on the samples at time of collection using field meters that were previously calibrated according to the manufacturer. If samples were not to be filtered and analyzed within the next  hour, they were stored in the dark on ice. 
+Upon returning to the laboratory, each bottle was shaken and a 100 ml sub-sample for total P and metals (stored in a plastic bottle and preserved with 1 ml 10% HCl) and a 25 ml sub-sample for alkalinity determination were removed.  Also prior to filtering, turbidity and conductivity were determined using laboratory meters.   Samples for chemical and chlorophyll analysis were filtered as quickly as possible using an aspirator/vacuum system. Samples for chlorophyll analysis: A sample of known volume (for chlorophyll analysis) was filtered through a Gelman 47 mm diameter A/E filter (1 micron). The filter was then removed, folded, cut into small pieces, and then placed into 10 ml. aqueous acetone  (90% acetone, 10% saturated magnesium carbonate solution) in a 100 ml glass-stoppered bottle and stored in the freezer in the dark until analysis was conducted one week later. The procedure for chlorophyll analysis is described in Standard Methods for the Analysis of Water and Wastewater, 19th Edn. (1995) (Standard Methods) under  "Spectrophotometric Determination of Chlorophyll", page 10-18.
+
+Samples for chemical analysis: After filtration for chlorophyll analysis, the water used for  chemical analysis was then filtered through a 47 mm diameter membrane filter (.45 micron) that had been prepared by soaking in distilled water as outlined in Standard Methods.  The chemical procedures used were from Standard Methods: 
+Ammonia: 4500-NH3  Phenate Method  page 4-80
+Nitrite: 4500-NO2 Colorimetric Method  page 4-83
+Nitrate: 4500-NO3  Cadmium Reduction Method page 4-87
+Phosphorus: 4500-P  Ascorbic Acid Method  page 4-113
+The compete protocol used in both the chlorophyll and chemical analysis of the water is described in the Old Woman Creek Standard Operating Procedures Manual (2001).
+
+
+

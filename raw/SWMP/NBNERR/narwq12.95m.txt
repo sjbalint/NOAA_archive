@@ -1,0 +1,169 @@
+Narragansett Bay NERR (NAR) Metadata Form
+(Dec. 1995)
+Latest update:  August 19, 1998
+
+I.  Dataset and Research Descriptors
+
+1.  Principle investigators and contact persons.
+
+Allan D. Beck, Manager			Eleanor H. Kinney, Research Associate
+Narragansett Bay NERR			University of Rhode Island
+422 Narragansett Ave.			Graduate School of Oceanography
+Prudence Island, RI 02872		South Ferry Road
+						Narragansett, RI  02882
+Tel: (401) 683-5061			Tel: (401) 874-6482
+Fax: (401) 683-5061			Fax: (401) 874-6613
+						email:  ekinney@gsosun1.gso.uri.edu
+
+2.  Entry verification.
+
+Other water quality measurements are made by standard field methods at the time 
+of datalogger deployment and weekly thereafter.  Results are compared with YSI 
+6000 data records.  Data may be corrected based on the comparative analyses and 
+is then so noted in the data anomalies section of the metadata form.  
+Temperature is measured by  mercury thermometer calibrated with a NBS certified 
+thermometer.  Dissolved oxygen is determined by a modified Winkler titration.  
+Salinity is measured with a Hydrolab Surveyor 3 equipped with a 
+salinity/conductivity sensor.  The pH is determined by a Corning benchtop pH 
+meter.  Turbidity is presently measured with a Secchi disk.  (This method does 
+not provide data that is comparable to the YSI data.  An appropriate method 
+recommended by the manufacturer and accepted by the scientific community will be 
+used in the near future.)  Allan Beck is responsible for these water quality 
+measurements.
+
+Data is uploaded to a PC from the YSI datalogger using the PC6000 software in 
+both the PC6000 format and in comma delimited format.  The comma delimited data 
+is opened in Excel 5.0 and edited to remove headers and extra spaces.  Each file 
+contains a months data and missing days are denoted by periods.  All files 
+(December) have been verified using the Excel 5.0 macro programs which discover 
+outliers (values out of the measurement range of the dataloggers).  Eleanor 
+Kinney is responsible for formating and QA/QCing the data.  All data are 
+archived on a Gateway PC at the University of Rhode Island, Graduate School of 
+Oceanography.  Data is then sent to CDMO via ftp.  
+
+3.  Research objectives.
+
+YSI6000 dataloggers are being deployed off Prudence Island in Narragansett Bay 
+as part of the National Estuarine Research Reserves (NERR) Water Quality 
+Monitoring Program.  The goal is to develop long-term datasets for 
+representative estuarine systems in order to track changes in water quality over 
+time. The instruments are deployed for two to four weeks at a time and 
+measurements taken every 30 minutes.  Currently one station on Prudence, Potter 
+Cove, has been established.   Potter Cove receives waste from boaters and is 
+considered an impacted site.  In September, 1996, another monitoring station 
+will be established within the reserve at an relatively unimpacted site at the 
+southern tip of Prudence Island.
+
+4.  Research Methods.
+
+Before each deployment, routine maintenance and calibration of the YSI 
+instrument is carried out.  The instrument is cleaned to remove any biofouling 
+and the probes checked for cracks or other visible signs of damage.  O-rings are 
+cleaned and greased, and batteries installed.  Calibrations are performed for 
+salinity, pH, dissolved oxygen, depth, and turbidity.  For the salinity 
+calibration, filtered seawater from Narragansett Bay is collected and its 
+salinity determined using an autosal.  This seawater is then used  as a salinity 
+standard. A two point pH calibration is performed using premade buffer solutions 
+of pH 7 and 9 obtained from Fisher Scientific. Old pH solutions are used for 
+rinsing the probes.  The dissolved oxygen membrane is replaced 24 hours prior to 
+calibration.  The DO probe is then calibrated by placing a wet sponge in the 
+calibration cup and allowing the instrument to equilibrate as per the 
+manufacturers instructions for 100% air saturation calibration.  The depth 
+sensor is calibrated to sea level with the sonde standing up in air, calibration 
+cup removed. Turbidity standard of 200 NTU has been ordered and will be diluted 
+to 20 NTU and used in two point turbidity calibrations along with distilled 
+water (NTU 0).  A one point calibration with distilled water was performed on 
+the sonde containing a turbidity probe before its deployment.  
+
+Currently one site, Potter Cove, which is found on the northern end of Prudence, 
+is being monitored.  The sondes are deployed in a PVC tube with sections cut out 
+to allow water flow.  The PVC tube is attached to a dock in the cove, and the 
+instrument is deployed one meter above the bottom.    Another station is being 
+set up on the T-wharf at the south end of the island and should be in use 
+sometime in September, 1996.   The sondes are programmed to collect data every 
+30 minutes during deployment.  Deployments generally last two to four weeks, 
+depending on season.  At the end of each deployment, the data is uploaded, put 
+in Excel format and QA/QC¹d using the Excel Macros provided by the CDMO.  
+
+5. Site Location and Character.
+The NARNERR  consists of 2200 acres of diverse estuarine and terrestrial 
+habitats ranging from deep water to salt marshes to forested uplands.  The land 
+holdings include 60% of Prudence Island, most of nearby Patience Island and all 
+of Hope Island off the west shore of Prudence.  The Reserve is located close to 
+the geographical center of Narragansett bay in Rhode Island.
+	Tidal range:  -0.2 to 1.7 meters  MLW
+	Salinity:  15 to 32 ppt
+	Temperature:  -1.0 to 26 C
+	Province:  North temperate, Virginian bioregion
+	Lat. 41 38¹ 30²    Long. 71 20¹ 30²
+
+Specific characteristics of the Potter Cove site are:
+	Depth:  2.2 to 3.8 meters
+	Bottom habitat:  Sand, silt, some organic mud
+	Pollutants:  Boaters’ wastes
+	Watershed:  Narragansett Bay, North Prudence (4801 square km)
+	Location:  41 38¹ 25² N, 71 20¹ 28²W
+
+6.  Data Collection Period
+
+Potter Cove data collection began December 3, 1995 and is ongoing.  No turbidity 
+sensors are installed yet.
+
+ 7.  Associated Researchers and Projects.
+
+There is a research grade meteorological station located approximately 200 yards 
+from the Potter Cove station.  Data are currently being collected by Chris 
+Turner, R.I. Department of Environmental Management, Water Resources Division.  
+Parameters measured include wind speed and direction, air temperature, humidity, 
+precipitation, barometric pressure and solar radiation.
+
+
+II.  Physical Structure Descriptors
+
+8.  Sensor specifications, range of measurements, units, resolution, and 
+accuracy:
+
+YSI 6000 datalogger
+
+Variable    Range of Measurement (Units)    Resolution              Accuracy
+
+Date        1-12, 1-31, 00-99 (Mo,Day,Yr)   1 mo, 1 day, 1 yr       NA
+Time        0-24, 0-60, 0-60 (Hr, Min, Sec) 1 hr, 1 min, 1 s        NA
+Temp               -5 to 45 ( C)            0.01 C                  +/-0.15C
+SpCOND              0-100 (mS/cm)           0.01mS/cm               +/-0.5% of 
+reading + 0.001 mS/cm
+Salinity    0-70 Parts per thousand (ppt)   0.01ppt                 +/-1.0% of 
+reading or 0.1 ppt, (whichever is greater)
+DO          0-200 (%air saturation)         0.1% @air saturation    +/-2% @air 
+saturation
+DO          200-500 (% air saturation)      0.1% @air saturation    +/-6% @air 
+saturation
+DO                  0-20 (mg/l)             0.01 mg/l               +/-0.2 mg/l
+DO                  20-50 (mg/l)            0.01 mg/l               +/-0.6 mg/l
+Depth(shallow)      0-9.1 (m)               0.001 m                 +/-0.018 m
+PH                  2-14 units              0.01 units              +/-0.2 units
+Turb                0-1000 (NTU)            0.1 NTU             +/-5% of reading 
+or 2 NTU (whichever is >)
+
+9.  Coded variable indicator and variable code definitions:
+
+Site definitions:  PC = Potter Cove;  TW = T-wharf.
+File definitions:  YSI deployment site/month/year (ex.: PC0196 = Potter Cove 
+data from 
+January of 1996)
+
+10.  Data anomalies.
+
+December, 1995:  None to report
+
+11.  Missing Data.
+
+December, 1995
+	The YSI6000 datalogger was not deployed until December 4, and this 
+deployment only yielded three days of data due to a flooded battery compartment.  
+Turbidity sensor not yet installed.
+	PC:  No data, all variables, from 12/1/95 00:00:00 through 12/4/95 
+13:00:00.
+	        No data from 12/7/95 03:30:00 through 12/20/95 13:00:00 due to 
+flooded battery compartment.
+

@@ -1,0 +1,1093 @@
+Apalachicola (APA) NERR Water Quality Metadata 
+January - December 1998 
+Latest Update:  April 24, 2002
+
+	I. Data Set & Research Descriptors
+
+1. Principal Investigator(s) & contact persons:
+H. Lee Edmiston, Research Coordinator
+	E-mail:  ledmist@gtcom.net; (850) 670-4783 ext. 107		
+	Apalachicola NERR
+	350 Carroll Street 
+	Eastpoint, FL 32328
+	Fax: (850) 670-4324
+George O. Bailey, Research Assistant					
+	E-mail:  baileyc@gtcom.net; (850) 670-4783 ext. 113		
+Christine Klassen, Research Assistant					
+	E-mail: cklassen@gtcom.net; (850) 670-4783 ext. 119
+
+2. Entry verification:
+YSI data are downloaded directly from the YSI 6000 into the PC6000 software, 
+plotted, and initially analyzed for major anomalies and missing data.  Hydrolab 
+data are downloaded from the Hydrolab Datasonde 3 to PCPLUS software.  Both YSI 
+and Hydrolab raw data files are then downloaded as a comma delimited file (.cdf) 
+and imported into Microsoft Excel as a comma-space delimited file (.csv).  These 
+raw data files are then organized into standardized monthly data sets using the 
+import.xls macros.   The import.xls macros generate a monthly spreadsheet, 
+import the raw data, fill all empty cells with periods, change feet to meters 
+for depth readings if necessary, and save the monthly files as either a .csv or 
+.xls file.  Once in monthly format, these files are then run through the 
+cdmomac(ro)3.xls macros which identify outliers, insure correct number of data 
+points for each Date/Hour count, and format the columns in the correct order and 
+size.  The monthly files are then carefully edited by staff for data anomalies 
+which are identified in Section 11 (Data Anomalies) of this document.  Any data 
+that are deleted by staff are replaced with periods and identified in Section 12 
+(Missing Data) of this document.   Monthly edited files are then FTP'd to CDMO 
+in text format, along with an updated metadata form.  
+
+3. Research objectives:
+The East Bay station collects water quality data associated with runoff from the 
+Tates Hell Swamp area. This area was ditched, diked, and altered back in the 
+late 1960's and early 1970's by timber companies.  It shortened the drainage 
+period and allowed increased runoff with a concommittant increase in pH which 
+had a drastic affect on the biological communities in East Bay.  Because of this 
+some plugs were put in to slow drainage, but little restoration work was done.  
+A large section, approximately 36,000 acres, was purchased in 1994 by the 
+Northwest Florida Water Management District.  An EPA grant allowed them to begin 
+restoration of the site in 1995 to reduce non-point source runoff.  Positioning 
+the dataloggers at the surface and bottom in East Bay will allow the Reserve to 
+monitor changes in water quality during this restoration effort. 
+
+
+4. Research methods:
+The YSI monitoring program was started in April 1995 in association with the 
+NERRS national monitoring effort.  Prior to this, ANERR has been and continues 
+to monitor three stations in the Apalachicola Bay system beginning in May 1992, 
+using Hydrolab Datasonde 3's.  East Bay (bottom) is one of these stations and 
+will be used in this monitoring program in addition to the YSI datalogger placed 
+near the surface at this site. Since a Hydrolab datalogger was initially 
+installed at the bottom at the East Bay station, we continued to use the 
+Hydrolab brand in order to keep the data consistent with the previous two years 
+of data.  
+
+Prior to deployment, both the YSI 6000 and the Datasonde 3 are calibrated for 
+conductivity, dissolved oxygen, depth, and pH following the procedures outlined 
+in the YSI Operating and Service Manual (with addendum 7/94) and the Hydrolab 
+Operating Manual, respectively.  Lab grade conductivity standards (Fisher Brand) 
+are initially used to calibrate the YSI's, which are 
+then used to check working standards made up and used for ongoing salinity 
+calibration.  Lab grade standards are also used periodically to check the 
+accuracy of the working salinity standards.  The only variation from the manual 
+is the use of only one pH standard for one-point calibration of pH rather than 
+three-point calibration.  The membranes for the dissolved oxygen probe are 
+installed at least 12 hours prior to calibration.  Depth is set to 0.0 meters in 
+the lab.  A turbidity probe was added to the YSI 6000 in December 1996 and is 
+calibrated using a lab grade (Fisher Brand) 40 NTU standard and deionized water 
+(0 NTU).
+
+Both YSI and Hydrolab dataloggers are deployed on the same piling within a five 
+inch diameter stainless-steel tube with a locking cap.  In order to maintain 
+constant depth, the dataloggers are clamped to a pvc pipe and lowered into the 
+tube, relinquishing the need for diving.  Large holes were cut in the tube where 
+the probes are located to insure adequate circulation.  Every two weeks the 
+dataloggers are retrieved, downloaded, cleaned, and inspected.  Freshly 
+calibrated units are deployed at the same time, resulting in little or no data 
+gaps in the 30 minute collection intervals.
+
+5. Site location and character:
+The Apalachicola National Estuarine Research Reserve is located in the 
+northwestern part of Florida, generally called the panhandle.  It is located 
+adjacent to the City of Apalachicola, and encompasses most of the Apalachicola 
+Bay system, including 52 miles of the lower Apalachicola River.  Passes, both 
+natural and manmade, connect Apalachicola Bay to the northeastern Gulf of 
+Mexico.  East Bay is separated from Apalachicola Bay by two bridges and a 
+causeway and is located to the north of the bay proper.  The sampling site is 
+located in the upper reaches of East Bay and is influenced by local runoff from 
+Tates Hell, the East Bay marshes, and distributary flow, some of which comes 
+from the Apalachicola River via the East River.  The piling location is latitude 
+29?47.15' N and longitude 84?52.52' W.  Normal tidal range is approximately 0.5 
+meters.  Salinity ranges from 0 to 30 ppt but is generally in the low range due 
+to the freshwater input from the Tate's Hell drainage.  The freshwater input is 
+very tanic and usually dark colored.  Flows vary with local rainfall and are not 
+quantified due to the diverse sources of the runoff.  Depth at mean high water 
+is 2.2 meters.  The bottom type is soft sediment, primarily silt and clay, with 
+no vegetation present.
+
+6. Data collection period:
+East Bay surface sampling with the YSI began on April 17, 1995.  East Bay bottom 
+sampling began on May 1, 1995. Both continue through December 31 of this year.
+
+7. Associated researchers and projects:
+APA NERR has been using Hydrolab Datasonde 3's to monitor water quality at three 
+stations in Apalachicola Bay since May of 1992.  One of these stations was moved 
+from the mid-bay area near the Intracoastal Waterway to the East Bay bottom site 
+in January of 1993.  The other two are located on two of the largest 
+commercially important oyster bars in the bay.  These stations, like East Bay, 
+are intended to be long-term.  Other associated researchers and projects which 
+have utilized this water quality data are as follows:
+
+Northwest Florida Water Management District
+Tate's Hell Restoration Project
+Apalachicola Bay Freshwater Needs Study
+
+Tamplin, M. L., et.al./ Univ. of Florida, Institute of Food and Agricultural 
+Sciences
+Association of Multiple-Antibiotic-Resistance Profiles with Point and Nonpoint 
+Sources of 
+Escherichia coli in Apalachicola Bay
+
+Iverson, R./ Florida State University, Department of Oceanography
+c-14 Primary Productivity
+Nutrient Enrichment
+
+Chanton, J./ Florida State University, Department of Oceanography
+Food Web Relationships Utilizing Stable Isotope Ratios
+
+Fisher, W.S./ U.S. Environmental Protection Agency, Gulf Breeze, Florida
+Physiologic Variability of Eastern Oysters From Apalachicola Bay, Florida
+
+Niu, X./ Florida State University, Department of Statistics
+Edmiston, H.L., Bailey, G.O./ APA NERR
+Time Series Models for Salinity and Other Environmental Factors in the 
+Apalachicola Estuarine 
+System
+
+
+II.  Physical Structure Descriptors
+
+8. Sensor specifications, range of measurements, units, resolution, and 
+accuracy:
+
+YSI 6000 datalogger
+
+Variable Name     Range of Measurements (Units)       Resolution      Accuracy
+Date           1-12, 1-31, 00-99 (Mo, Day, Yr)     1 mo,1 day,1 yr    NA
+Time           0-24, 0-60, 0-60 (Hr, Min, Sec)     1 hr, 1 min, 1 s   NA
+Temp                    -5-45 (C)                  0.01 (C)           +/-0.15(C)
+SpCOND                   0-100 (mS/cm)             0.01 mS/cm         +/-0.5% of 
+reading + 0.001mS/cm
+Salinity       0-70 parts per thousand (ppt)       0.01 ppt         +/-1.0% of 
+reading or 0.1 ppt, (whichever is greater)
+DO                     0-200 (% saturation)    0.1% @air sat     +/-2% @air sat.
+DO                     200-500 (% saturation)  0.1% @air sat     +/-6% @air sat.
+DO                       0-20 (mg/l)               0.01 mg/l         +/-0.2 mg/l
+DO                       20-50 (mg/l)              0.01 mg/l         +/-0.6 mg/l
+Depth                    0-9.1 (meters)            0.001 meters      +/-0.018 m
+PH                       2-14 units               0.01 units        +/-0.2 units
+Turb                     0-1000 NTU               0.1 NTU            +/-5% of 
+reading or 2 NTU (whichever is greater)
+
+Hydrolab Datasonde 3
+
+Variable Name 	Range of Measurements (Units)    	Resolution	Accuracy
+Date	1-12, 1-31, 00-99 (Mo, Day, Yr)	1 month, 1 day, 1 year	NA		
+Time	0-24, 0-60, 0-60 (Hr, Min, Sec)	1 hr, 1 min, 1 s	NA
+Temp	-5 to 50 (C) 	0.01 C	+/-0.15 C
+SpCOND	0-100 (mS/cm)	0.01mS/cm	+/-0.5%		
+SAL	0-70 Parts per thousand (ppt)	0.1ppt	+/-0.2ppt		
+DO	0-200 (% air Saturation)	0.1% @air saturation	+/-2% @air sat.
+DO	0-20 (mg/l)	0.01mg/l	+/-0.2mg/l
+Level	0-10 (m)	0.01m	+/-0.09m
+pH	2-14 units	0.01units	+/-0.2units		
+
+
+9. Coded variable code definitions:
+Site definitions: ES = East Bay surface station, EB = East Bay bottom station.
+
+
+
+
+
+
+10. Data anomalies (suspect data):
+
+	January, 1998, East Bay (ES)
+A) All values except depth were identified as suspect and deleted due to the 
+probes coming out of the water at low tide for the following date/times:
+01/01/98 08:00:00 through 01/01/98 18:00:00
+01/02/98 12:30:00 through 01/02/98 16:30:00
+01/03/98 15:00:00 through 01/03/98 16:30:00
+01/10/98 08:30:00 through 01/10/98 13:00:00
+01/11/98 08:30:00 through 01/11/98 14:00:00
+01/12/98 10:00:00 through 01/12/98 13:30:00
+01/14/98 12:30:00 through 01/14/98 14:30:00
+01/25/98 04:30:00 through 01/25/98 11:00:00
+01/26/98 07:00:00 through 01/26/98 10:30:00
+01/28/98 06:30:00 through 01/28/98 14:00:00
+01/29/98 09:00:00 through 01/29/98 11:30:00
+
+B) All values including depth were identified as suspect and deleted due to the 
+probes coming out of the water at low tide for the following date/times:
+01/30/98 10:30:00 through 01/30/98 13:00:00
+
+C) All negative depths identified as outliers for the following date/times were 
+considered suspect and deleted: 
+01/06/98 06:00:00 through 01/06/98 06:30:00
+01/09/98 09:00:00 through 01/09/98 10:00:00
+01/27/98 08:30:00 through 01/27/98 09:00:00
+			01/30/98 10:30:00 through 01/30/98 13:00:00
+				
+D) High values for turbidity observed throughout this month of data 
+are considered suspect.  These observations will remain in the database until a 
+decision is made on how to deal with such data. 
+
+E) All depth values for the following dates/times are considered
+suspect:
+                        1/21/98 12:00:00 through 1/31/98 23:30:00
+                       
+ 
+		East Bay Bottom (EB)
+A) High D.O. values (mg/L) for the following date/times were considered 
+suspect:
+01/06/98 13:00:00 through 01/21/98 12:00:00
+
+B) High D.O. values (%sat and mg/L) for the following date/times were                          
+considered suspect:
+	01/21/98 12:30:00 through 01/31/98 23:30:00 
+
+	February, 1998, East Bay (ES)
+A) All values except depth were identified as suspect and deleted due to the 
+probes coming out of the water at low tide for the following date/times:
+02/06/98 03:00:00 through 02/06/98 08:30:00
+02/07/98 04:30:00 through 02/07/98 10:00:00
+02/08/98 04:30:00 through 02/08/98 11:00:00
+02/09/98 06:30:00 through 02/06/98 10:30:00
+02/10/98 09:00:00 through 02/10/98 10:00:00
+02/21/98 05:30:00 through 02/21/98 10:30:00
+02/24/98 07:30:00 through 02/24/98 12:00:00
+02/25/98 07:00:00 through 02/25/98 10:30:00
+
+B) All values including negative depths were considered suspect and deleted due 
+to probes coming out of the water at low tide for the following date/times:
+02/04/98 23:00:00 through 02/05/98 08:30:00
+02/22/98 05:30:00 through 02/22/98 10:00:00
+
+C) All negative depths identified as outliers for the following date/times were 
+considered suspect and deleted:
+	02/04/98 03:00:00 through 02/04/98 08:00:00
+	02/26/98 09:00:00 through 02/26/98 10:00:00
+	
+D)  Low pH values for the following date/times were considered suspect due to 
+probe being out of toleration at calibration:
+	02/24/98 12:30:00 through 02/28/98 23:30:00
+
+E) All depth values for the following dates/times are considered
+suspect:
+                      2/1/98    00:00:00   through  2/10/98  15:00:00
+	                2/24/98 12:00:00 through 2/28/98 23:30:00
+                
+East Bay Bottom (EB)
+A) Periodic high D.O. values (%sat and mg/L) throughout the entire month were        
+considered suspect.
+
+	March, 1998, East Bay (ES)
+A) Low and negative pH values for the following date/times were considered 
+suspect and deleted due to probe being out of tolerance at calibration:
+03/13/98 12:30:00 through 03/14/98 16:30:00
+
+B) All negative depths identified as outliers for the following date/times were 
+considered suspect and deleted:
+03/02/98 00:00:00 through 03/02/98 01:00:00
+03/03/98 22:30:00 through 03/03/98 02:30:00
+
+C) All values including negative depths were considered suspect and deleted due 
+to probes coming out of the water at low tide for the following date/times:
+03/03/98 03:00:00
+
+D) All values except depth were identified as suspect and deleted due to the 
+probes coming out of the water at low tide for the following date/times:
+03/03/98 03:30:00
+
+E) All depth values for the following dates/times are considered
+suspect:
+               3/1/98 00:00:00 through 3/13/98 12:00:00
+
+ 
+		East Bay Bottom (EB)
+A) Periodic high D.O. values (%sat and mg/L) throughout the following 
+date/times were considered suspect:
+03/01/98 00:00:00 through 03/14/98 11:30:00
+
+B) All values for the following date/times were considered suspect and deleted
+due to meter redeployment:
+	03/13/98 11:00:00 through 03/13/98 12:30:00
+
+April, 1998, East Bay (ES)
+A) Periodic High D.O. values (%sat and mg/L) through the following date/times 
+were considered suspect:
+04/05/98 03:00:00 through 04/18/98 03:00:00
+
+B) Negative and high values for turbidity observed throughout this month of data 
+are considered suspect.  These observations will remain in the database until a 
+decision is made on how to deal with such data. 
+
+C) All negative depths identified as outliers for the following date/times were 
+considered suspect and deleted:
+			04/21/98 05:30:00 through 04/21/98 08:00:00
+			04/22/98 06:00:00 through 04/22/98 10:00:00
+			04/23/98 06:30:00 through 04/23/98 09:30:00
+
+D) Low and decreasing D.O. values (%sat and mg/L) for the following date/times 
+were considered suspect:
+04/15/98 12:30:00 through 04/18/98 03:00:00
+
+E) Low and decreasing D.O. values (%sat and mg/L) for the following date/times 
+were considered suspect and deleted:
+04/18/98 03:30:00 through 04/30/98 23:30:00
+
+F) All values were identified as suspect and deleted due to the 
+probes coming out of the water at low tide for the following date/times:
+04/22/98 08:00:00 through 04/22/98 09:30:00
+
+G) All values except depth were identified as suspect and deleted due to the 
+probes coming out of the water at low tide for the following date/times:
+04/05/98 03:30:00 through 04/05/98 07:00:00
+04/10/98 21:00:00 through 04/11/98 11:00:00
+04/11/98 19:30:00 through 04/12/98 00:00:00
+04/15/98 10:00:00
+
+East Bay bottom (EB)
+A) Periodic high D.O. values (%sat and mg/L) for the following date/times were                          
+considered suspect:
+	04/05/98 13:00:00 through 04/16/98 02:00:00
+	
+B) Low D.O. (%sat) for the following date/times were considered suspect due to 
+fouling at the end of deployment:
+04/01/98 00:00:00 through 04/01/98 12:00:00
+
+May, 1998, East Bay (ES)
+A) Low D.O. values (%sat and mg/L) for the following date/times were
+considered suspect and deleted:
+	05/01/98 00:00:00 through 05/01/98 13:30:00
+	05/29/98 11:00:00 through 05/31/98 23:30:00
+		
+B) High D.O. values (%sat and mg/L) for the following date/times were
+considered suspect:
+	05/01/98 14:00:00 through 05/15/98 13:00:00
+
+C) All negative depths identified as outliers for the following date/times were 
+considered suspect and deleted:
+			05/11/98 22:00:00 through 05/12/98 02:00:00
+			05/12/98 23:00:00 through 05/13/98 00:30:00
+			05/15/98 10:30:00 through 05/15/98 11:30:00
+			05/30/98 01:30:00 through 05/30/98 04:00:00
+			05/31/98 01:30:00 through 05/31/98 04:30:00
+
+D) All values were identified as suspect and deleted due to the 
+probes coming out of the water at low tide for the following date/times:
+			05/12/98 00:30:00 through 05/12/98 01:00:00
+
+	June, 1998, East Bay (ES)
+A) Low D.O. values (%sat and mg/L) for the following date/times were 
+considered suspect and deleted:
+06/01/98 00:00:00 through 06/03/98 10:30:00
+06/17/98 17:30:00 through 06/18/98 12:30:00
+	
+B) All negative depths identified as outliers for the following date/times were 
+considered suspect and deleted:
+	06/01/98 03:00:00 through 06/01/98 03:30:00
+	06/05/98 20:30:00 through 06/05/98 22:30:00
+	06/06/98 20:30:00 through 06/06/98 22:00:00
+	06/07/98 21:00:00 through 06/07/98 22:30:00
+	06/08/98 22:00:00 through 06/08/98 23:30:00
+	06/15/98 01:30:00 through 06/15/98 02:00:00
+	06/30/98 02:00:00 through 06/30/98 02:30:00
+
+C) All values including negative depths were considered suspect and deleted due 
+to probes coming out of the water at low tide for the following date/times:
+06/10/98 22:00:00 through 06/11/98 02:00:00
+06/11/98 22:30:00 through 06/12/98 02:30:00
+06/12/98 23:00:00 through 06/13/98 03:30:00
+	06/13/98 23:00:00 through 06/14/98 05:00:00
+06/20/98 18:30:00 through 06/20/98 23:30:00
+	06/21/98 20:00:00 through 06/22/98 00:00:00
+	06/22/98 21:00:00 through 06/23/98 00:30:00
+	06/23/98 20:30:00 through 06/24/98 02:00:00
+	06/24/98 23:00:00 through 06/25/98 02:30:00
+	06/25/98 23:00:00 through 06/26/98 04:30:00
+	06/26/98 23:30:00 through 06/27/98 04:00:00
+	06/28/98 00:00:00 through 06/28/98 04:30:00
+	06/29/98 01:00:00 through 06/29/98 05:00:00
+
+		East Bay Bottom (EB)
+A) Low or negative depth values were considered suspect and deleted for the 
+following date/times:
+06/18/98 13:00:00 through 06/30/98 23:30:00
+		
+	July, 1998, East Bay (ES)
+A) All negative depths identified as outliers for the following date/times were 
+considered suspect and deleted:
+	07/04/98 19:00:00 through 07/04/98 23:00:00
+	07/05/98 20:00:00 through 07/05/98 23:30:00
+	07/06/98 20:00:00 through 07/06/98 23:30:00
+	07/07/98 19:30:00 through 07/08/98 00:30:00
+	07/14/98 00:00:00 through 07/14/98 04:00:00
+	07/15/98 01:30:00 through 07/15/98 04:30:00
+	07/18/98 17:30:00 through 07/18/98 21:00:00
+	07/27/98 01:00:00 through 07/27/98 02:30:00
+		
+B) All values including negative depths were considered suspect and deleted due        
+to probes coming out of the water at low tide for the following date/times:
+07/08/98 20:30:00 through 07/09/98 01:30:00
+	07/09/98 21:00:00 through 07/10/98 02:30:00
+	07/10/98 22:00:00 through 07/11/98 03:00:00
+	07/11/98 22:00:00 through 07/12/98 04:00:00
+	07/12/98 22:00:00 through 07/13/98 05:00:00
+07/19/98 18:00:00 through 07/19/98 23:00:00
+	07/20/98 19:30:00 through 07/20/98 23:30:00
+	07/21/98 21:00:00 through 07/22/98 00:00:00
+	07/22/98 22:00:00 through 07/23/98 01:00:00
+	07/23/98 23:30:00 through 07/24/98 02:00:00
+
+C) Turbidity values for the following date/times were considered suspect.  These 
+observations will remain in the database until a decision is made on how to 
+deal with such data.
+7/5 2200
+07/07/98 13:00:00 	
+07/21/98 14:30:00 through 07/27/98 14:00:00
+	07/27/98 19:00:00 through 07/29/98 16:00:00
+	07/29/98 21:30:00 through 07/31/98 23:30:00
+
+D) All values were identified as suspect and deleted due to the 
+probes coming out of the water at low tide for the following date/times:
+ 	07/07/98 22:00:00 through 07/07/98 23:30:00
+
+		East Bay Bottom (EB)
+A) Negative depth for the following date/times was considered suspect and 
+deleted:
+07/01/98 00:00:00 through 07/07/98 13:00:00
+
+B) Decreasing trend in D.O. values (%sat and mg/L) for the following date/times 
+were considered suspect due to fouling at end of deployment:
+07/17/98 00:00:00 through 07/21/98 13:30:00
+
+	August, 1998, East Bay (ES)
+A) Negative and high values for turbidity observed throughout this month of data 
+are considered suspect.  These observations will remain in the database until a 
+decision is made on how to deal with such data. 8/01 through 8/03.
+
+B)  All negative depths identified as outliers for the following date/times were 
+considered suspect and deleted:
+	08/01/98 18:00:00 through 08/01/98 20:00:00
+	08/03/98 20:00:00 through 08/03/98 21:30:00
+	08/04/98 20:00:00 through 08/04/98 22:30:00
+	08/05/98 20:00:00 through 08/05/98 23:30:00
+	08/06/98 21:00:00 through 08/07/98 00:00:00
+	08/07/98 23:30:00 through 08/08/98 00:00:00
+	08/11/98 00:00:00 through 08/11/98 02:30:00
+	08/13/98 15:00:00 through 08/13/98 16:00:00
+	08/14/98 14:30:00 through 08/14/98 18:00:00
+	08/15/98 16:30:00 through 08/15/98 20:00:00
+
+C) All values including negative depths were considered suspect and deleted 
+due to probes coming out of the water at low tide for the following date/times:
+08/09/98 23:00:00 through 08/10/98 02:30:00
+08/16/98 18:00:00 through 08/16/98 21:00:00
+	08/17/98 18:30:00 through 08/17/98 22:00:00
+			08/18/98 19:00:00 through 08/18/98 23:00:00
+
+D) Low D.O. values (%sat and mg/L) for the following date times were             
+considered suspect and deleted:
+08/03/98 09:00:00 through 08/03/98 12:00:00
+
+		East Bay Bottom (EB)
+A) Decreasing trend in D.O. values (%sat and mg/L) for the following date/times 
+were considered suspect due to fouling at end of deployment:
+08/01/98 00:00:00 through 08/03/98 12:00:00
+
+B) Periodic low D.O. values (%sat and mg/L) throughout the following 
+date/times were considered suspect:
+08/03/98 13:00:00 through 08/27/98 23:30:00
+
+C) Decreasing trend in D.O. values (%sat and mg/L) for the following date/times 
+were considered suspect and deleted due to fouling at end of deployment:
+	08/28/98 00:00:00 through 08/31/98 23:30:00
+
+D) All values for the following date/times were considered suspect and deleted
+due to meter redeployment:
+08/03/98 12:30:00
+08/19/98 12:00:00
+
+	September, 1998, East Bay (ES)
+A) All negative depths identified as outliers for the following date/times were 
+considered suspect and deleted:
+			09/01/98 10:30 through 09/01/98 20:30:00
+
+B) High values for turbidity observed throughout this month of data are 
+considered suspect.  These observations will remain in the database until a 
+decision is made on how to deal with such data. 9/03 0500-0530, 0730.
+
+C) Probes were out of water during the following times: 9/19/98 1930-2000
+
+		East Bay Bottom (EB)
+A) Periodic low D.O. values (%sat and mg/L) for the following date/times were 
+considered suspect:
+09/03/98 03:30:00 through 09/03/98 05:30:00
+09/22/98 15:30:00 through 09/30/98 23:30:00
+
+B) Low D.O. values (%sat and mg/L) for the following date/times were 
+considered suspect and deleted:
+	09/01/98 00:00:00 through 09/01/98 11:30:00
+	09/05/98 04:30:00 through 09/22/98 15:00:00
+
+	October, 1998, East Bay (ES)
+A) Negative values for turbidity observed throughout this month of data are 
+considered suspect.  These observations will remain in the database until a 
+decision is made on how to deal with such data. 10/22 1100, 1230; 10/23 1200.
+		
+		East Bay Bottom (EB)
+A) Low D.O. values (%sat and mg/L) for the following date/times were 
+considered suspect and deleted:
+ 	10/01/98 00:00:00 through 10/12/98 17:00:00
+
+B) Periodic low D.O. values (%sat and mg/L) for the following date/times were 
+considered suspect:
+10/20/98 09:00:00 through 10/22/98 08:30:00
+
+	November, 1998, East Bay (ES)
+A) Negative and high values for turbidity observed throughout this month of data 
+are considered suspect.  These observations will remain in the database until a 
+decision is made on how to deal with such data. 11/03 0600.
+
+B) All negative depths identified as outliers for the following date/times were 
+considered suspect and deleted:
+			11/04/98 10:30:00 through 11/04/98 13:00:00
+			11/23/98 13:30:00 
+			11/25/98 13:30:00 through 11/25/98 17:00:00
+			11/30/98 08:00:00 through 11/30/98 08:30:00
+			
+C) All values including negative depths were considered suspect and deleted 
+due to probes coming out of the water at low tide for the following date/times:
+11/05/98 09:00:00 through 11/05/98 16:30:00
+11/24/98 12:30:00 through 11/24/98 17:00:00
+ 			11/26/98 13:30:00 through 11/26/98 18:00:00
+11/27/98 15:00:00 through 11/27/98 18:00:00
+
+D)  All values except depth were identified as suspect and deleted due to the 
+probes coming out of the water at low tide for the following date/times:
+11/06/98 16:30:00
+11/07/98 14:00:00 through 11/07/98 16:30:00 
+11/19/98 10:00:00 through 11/19/98 13:30:00
+11/20/98 11:00:00 through 11/20/98 14:00:00
+11/21/98 11:00:00 through 11/21/98 15:00:00
+11/22/98 11:00:00 through 11/22/98 15:30:00
+
+East Bay Bottom (EB)
+A) High D.O. values (%sat and mg/L) for the following time/dates were 
+considered suspect:
+11/04/98 14:00:00 through 11/12/98 01:30:00
+11/23/98 13:30:00 through 11/30/98 23:30:00
+
+B) Decreasing trend in D.O. values (%sat and mg/L) throughout the following 
+date/times were considered suspect possibly due to fouling at end of 
+deployment:
+11/12/98 02:00:00 through 11/23/98 12:30:00
+
+C) High D.O. values (%sat and mg/L) for the following date/times were 
+identified as outliers and deleted:
+11/25/98 17:30:00 through 11/25/98 18:00:00
+11/26/98 19:00:00 through 11/26/98 19:30:00
+
+	December, 1998, East Bay (ES)
+A) All negative depths identified as outliers for the following date/times were 
+considered suspect and deleted:
+12/07/98 13:30:00 through 12/07/98 15:30:00
+12/14/98 06:00:00 through 12/14/98 07:00:00
+12/19/98 11:00:00 through 12/19/98 11:30:00
+12/22/98 13:00:00 through 12/22/98 14:30:00
+12/24/98 13:30:00 through 12/24/98 16:00:00
+12/25/98 14:00:00 through 12/25/98 17:30:00
+12/26/98 15:00:00 through 12/26/98 17:30:00
+12/27/98 04:00:00 through 12/27/98 07:00:00
+12/28/98 06:00:00 through 12/28/98 09:00:00
+12/29/98 06:30:00 through 12/29/98 09:30:00
+		 
+B) All values including negative depths were considered suspect and deleted 
+due to probes coming out of the water at low tide for the following date/times:
+12/03/98 08:30:00 through 12/03/98 14:00:00
+12/04/98 09:30:00 through 12/04/98 14:30:00
+12/05/98 10:30:00 through 12/05/98 15:30:00
+12/06/98 11:00:00 through 12/06/98 16:00:00
+12/09/98 13:30:00 through 12/09/98 16:00:00
+12/16/98 06:00:00 through 12/16/98 14:00:00
+12/17/98 07:00:00 through 12/17/98 14:30:00
+12/18/98 07:30:00 through 12/18/98 14:30:00
+12/21/98 12:00:00 through 12/21/98 15:00:00
+12/23/98 12:00:00 through 12/23/98 16:00:00
+12/30/98 05:30:00 through 12/30/98 14:00:00
+12/31/98 07:00:00 through 12/31/98 13:00:00
+
+C) All values except depth were identified as suspect and deleted due to the 
+probes coming out of the water at low tide for the following date/times:
+12/15/98 06:00:00 through 12/15/98 12:30:00
+12/20/98 11:00:00 through 12/20/98 14:30:00
+
+D) Negative and high values for turbidity observed throughout this month of data 
+are considered suspect.  These observations will remain in the database until a
+ decision is made on how to deal with such data. 12/21 1530.
+
+E) Low D.O. values (%sat and mg/L) for the following date/times were 
+considered suspect: 
+12/11/98 23:00:00 through 12/12/98 03:30:00
+
+East Bay Bottom (EB)
+A) High and low D.O. values (%sat and mg/L) for the following date/times were 
+considered suspect:
+12/01/98 00:00:00 through 12/15/98 13:00:00
+
+B) High D.O. values (%sat and mg/L) for the following date/times were 
+considered suspect:
+12/15/98 14:00:00 through 12/31/98 23:30:00
+
+C) High D.O. values (%sat and mg/L) for the following date/times were 
+identified as outliers and deleted:
+12/26/98 16:30:00 through 12/26/98 17:00:00
+
+11. Missing data:
+
+	January, 1998, East Bay (ES)
+A) All variables are missing for the following date/times due to meter
+redeployment:
+	01/06/98 12:30:00
+
+B) pH values are missing for the following date/times due to the parameter 
+being
+disabled on the datalogger:
+01/06/98 13:00:00 through 01/21/98 11:30:00
+
+C)  All negative depths identified as outliers for the following date/times were   
+considered suspect and deleted: 
+01/06/98 06:00:00 through 01/06/98 06:30:00
+01/09/98 09:00:00 through 01/09/98 10:00:00
+01/27/98 08:30:00 through 01/27/98 09:00:00
+01/30/98 10:30:00 through 01/30/98 13:00:00
+
+D)  All values except depth were identified as suspect and deleted due to the 
+probes coming out of the water at low tide for the following date/times:
+01/01/98 08:00:00 through 01/01/98 18:00:00
+01/02/98 12:30:00 through 01/02/98 16:30:00
+01/03/98 15:00:00 through 01/03/98 16:30:00
+01/10/98 08:30:00 through 01/10/98 13:00:00
+01/11/98 08:30:00 through 01/11/98 14:00:00
+01/12/98 10:00:00 through 01/12/98 13:30:00
+01/14/98 12:30:00 through 01/14/98 14:30:00
+01/25/98 04:30:00 through 01/25/98 11:00:00
+01/26/98 07:00:00 through 01/26/98 10:30:00
+01/28/98 06:30:00 through 01/28/98 14:00:00
+01/29/98 09:00:00 through 01/29/98 11:30:00
+
+E)  All values including depth were identified as suspect and deleted due to the 
+probes coming out of the water at low tide for the following date/times:
+01/30/98 10:30:00 through 01/30/98 13:00:00
+
+		East Bay Bottom (EB)
+A) All variables are missing for the following date/times due to meter
+redeployment:
+	01/06/98 12:30:00
+
+		B)  D.O. values (%sat) are missing due to the parameter being 
+disabled on the 
+datalogger for the following date/times:
+	01/06/98 13:00:00 through 01/21/98 12:00:00
+
+C)  All variables are missing for the following date/times due to meter 
+redeployment:
+	01/21/98 12:30:00 	 
+
+D) All turbidity values for the entire month are missing due to the absence of a 
+turbidity probe.
+
+February, 1998, East Bay, (ES)
+A) Salinity and D.O. (%sat) values for the following date/times were missing due 
+to the parameters being disabled on the datalogger:
+02/24/98 12:30:00 through 02/28/98 23:30:00
+ 
+B)  All values except depth were identified as suspect and deleted due to the 
+probes coming out of the water at low tide for the following date/times:
+02/06/98 03:00:00 through 02/06/98 08:30:00
+02/07/98 04:30:00 through 02/07/98 10:00:00
+02/08/98 04:30:00 through 02/08/98 11:00:00
+02/09/98 06:30:00 through 02/06/98 10:30:00
+02/10/98 09:00:00 through 02/10/98 10:00:00
+02/21/98 05:30:00 through 02/21/98 10:30:00
+02/24/98 07:30:00 through 02/24/98 12:00:00
+02/25/98 07:00:00 through 02/25/98 10:30:00
+
+C) All values including negative depths were considered suspect and deleted due 
+to probes coming out of the water at low tide for the following date/times:
+02/04/98 23:00:00 through 02/05/98 08:30:00
+02/22/98 05:30:00 through 02/22/98 10:00:00
+
+D) All negative depths identified as outliers for the following date/times were 
+considered suspect and deleted:
+	02/04/98 03:00:00 through 02/04/98 08:00:00
+	02/26/98 09:00:00 through 02/26/98 10:00:00
+	
+East Bay Bottom (EB)
+A) All turbidity values for the entire month are missing due to the absence of a 
+turbidity probe.
+	
+	March, 1998, East Bay (ES)
+A) Salinity and D.O.(%sat) values were missing due to the parameters being 
+disabled on the datalogger for the following date/times:
+03/01/98 00:00:00 through 03/03/98 22:30:00
+
+B) All values missing for the following date/times due to low battery:
+03/03/98 23:00:00 through 03/13/98 12:00:00
+03/14/98 17:00:00 through 03/31/98 23:30:00
+
+C)  Low and negative pH values for the following date/times were considered 
+suspect and deleted due to probe being out of tolerance at calibration:
+03/13/98 12:30:00 through 03/14/98 16:30:00
+
+D) All negative depths identified as outliers for the following date/times were 
+considered suspect and deleted:
+03/02/98 00:00:00 through 03/02/98 01:00:00
+03/03/98 22:30:00 through 03/03/98 02:30:00
+
+E) All values including negative depths were considered suspect and deleted due 
+to probes coming out of the water at low tide for the following date/times:
+03/03/98 03:00:00
+
+F) All values except depth were identified as suspect and deleted due to the 
+probes coming out of the water at low tide for the following date/times:
+03/03/98 03:30:00
+ 
+		East Bay Bottom (EB)
+A) All turbidity values for the entire month are missing due to the absence of a 
+turbidity probe.
+
+B) D.O. (mg/L) values for the following date/times were missing due to 
+parameter being disabled on the datalogger:
+03/13/98 13:00:00 through 03/31/98 23:30:00
+
+C) All values for the following date/times were considered suspect and deleted:
+due to meter redeployment:
+	03/13/98 11:00:00 through 03/13/98 12:30:00
+
+	April, 1998, East Bay (ES)
+A) All data missing for the following date/times due to battery failure:
+04/01/98 00:00:00 through 04/01/98 10:00:00
+
+B)  All negative depths identified as outliers for the following date/times were 
+considered suspect and deleted:
+			04/21/98 05:30:00 through 04/21/98 08:00:00
+			04/22/98 06:00:00 through 04/22/98 10:00:00
+			04/23/98 06:30:00 through 04/23/98 09:30:00
+
+C) Low and decreasing D.O. values (%sat and mg/L) for the following date/times 
+were considered suspect and deleted:
+04/18/98 03:30:00 through 04/30/98 23:30:00
+
+D) All values were considered suspect and deleted 
+due to probes coming out of the water at low tide for the following date/times: 
+04/22/98 08:00:00 through 04/22/98 09:30:00
+
+E) All values except depth were identified as suspect and deleted due to the 
+probes coming out of the water at low tide for the following date/times:
+04/05/98 03:30:00 through 04/05/98 07:00:00
+04/10/98 21:00:00 through 04/11/98 11:00:00
+04/11/98 19:30:00 through 04/12/98 00:00:00
+04/15/98 10:00:00
+ 
+		East Bay bottom (EB)
+A)  All turbidity values for the entire month are missing due to the absence of 
+a 
+turbidity probe.
+
+B)  D.O. values (mg/L) are missing due to the parameter being disabled on the 
+datalogger for the following date/times:
+	04/01/98 00:00:00 through 04/01/98 12:00:00
+	04/15/98 12:30:00 through 04/30/98 23:30:00
+
+	May, 1998, East Bay, (ES)
+A) All data missing for the following date/times:
+05/15/98 13:30:00 through 05/29/98 10:30:00
+
+B) Low D.O. values (%sat and mg/L) for the following date/times were
+considered suspect and deleted:
+05/01/98 00:00:00 through 05/01/98 13:30:00
+05/29/98 11:00:00 through 05/31/98 23:30:00
+
+C) All negative depths identified as outliers for the following date/times were                                                      
+considered suspect and deleted:
+			05/11/98 22:00:00 through 05/12/98 02:00:00
+			05/12/98 23:00:00 through 05/13/98 00:30:00
+			05/15/98 10:30:00 through 05/15/98 11:30:00
+			05/30/98 01:30:00 through 05/30/98 04:00:00
+			05/31/98 01:30:00 through 05/31/98 04:30:00
+
+D) All values were identified as suspect and deleted due to the 
+probes coming out of the water at low tide for the following date/times:
+			05/12/98 00:30:00 through 05/12/98 01:00:00
+ 
+		East Bay bottom (EB)
+A) All turbidity values for the entire month are missing due to the absence of a
+turbidity probe.
+		
+B) D.O. values (mg/L) are missing due to the parameter being disabled on the 
+datalogger for the following date/times:
+	05/01/98 00:00:00 through 05/01/98 13:30:00
+		
+		C) All variables are missing for the following date/times due to 
+meter 
+redeployment:
+	05/15/98 10:30:00
+	05/29/98 10:30:00
+ 
+	June, 1998, East Bay (ES)
+A)  Low D.O. values (%sat and mg/L) for the following date/times were 
+considered suspect and deleted:
+06/01/98 00:00:00 through 06/03/98 10:30:00
+06/17/98 17:30:00 through 06/18/98 12:30:00
+	
+B)  All negative depths identified as outliers for the following date/times were 
+considered suspect and deleted:
+	06/01/98 03:00:00 through 06/01/98 03:30:00
+	06/05/98 20:30:00 through 06/05/98 22:30:00
+	06/06/98 20:30:00 through 06/06/98 22:00:00
+	06/07/98 21:00:00 through 06/07/98 22:30:00
+	06/08/98 22:00:00 through 06/08/98 23:30:00
+	06/15/98 01:30:00 through 06/15/98 02:00:00
+	06/30/98 02:00:00 through 06/30/98 02:30:00
+
+C) All values including negative depths were considered suspect and deleted due 
+to probes coming out of the water at low tide for the following date/times:
+06/10/98 22:00:00 through 06/11/98 02:00:00
+06/11/98 22:30:00 through 06/12/98 02:30:00
+06/12/98 23:00:00 through 06/13/98 03:30:00
+	06/13/98 23:00:00 through 06/14/98 05:00:00
+06/20/98 18:30:00 through 06/20/98 23:30:00
+	06/21/98 20:00:00 through 06/22/98 00:00:00
+	06/22/98 21:00:00 through 06/23/98 00:30:00
+	06/23/98 20:30:00 through 06/24/98 02:00:00
+	06/24/98 23:00:00 through 06/25/98 02:30:00
+	06/25/98 23:00:00 through 06/26/98 04:30:00
+	06/26/98 23:30:00 through 06/27/98 04:00:00
+	06/28/98 00:00:00 through 06/28/98 04:30:00
+			06/29/98 01:00:00 through 06/29/98 05:00:00
+
+East Bay Bottom (EB)
+A) All turbidity values for the entire month are missing due to the absence of a
+                              turbidity probe.
+		
+B) All variables are missing for the following date/time due to meter 
+redeployment:
+	06/06/98 17:00:00
+	06/18/98 12:30:00
+
+C) Low or negative depth values were considered suspect and deleted for the 
+following date/times:
+06/18/98 13:00:00 through 06/30/98 23:30:00
+
+	July, 1998, East Bay (ES)
+A) All negative depths identified as outliers for the following date/times were       
+considered suspect and deleted:
+	07/04/98 19:00:00 through 07/04/98 23:00:00
+	07/05/98 20:00:00 through 07/05/98 23:30:00
+	07/06/98 20:00:00 through 07/06/98 23:30:00
+	07/07/98 19:30:00 through 07/08/98 00:30:00
+	07/14/98 00:00:00 through 07/14/98 04:00:00
+	07/15/98 01:30:00 through 07/15/98 04:30:00
+	07/18/98 17:30:00 through 07/18/98 21:00:00
+	07/27/98 01:00:00 through 07/27/98 02:30:00
+		
+ B)  All values including negative depths were considered suspect and deleted 
+due to probes coming out of the water at low tide for the following         
+date/times:
+07/08/98 20:30:00 through 07/09/98 01:30:00
+	07/09/98 21:00:00 through 07/10/98 02:30:00
+	07/10/98 22:00:00 through 07/11/98 03:00:00
+	07/11/98 22:00:00 through 07/12/98 04:00:00
+	07/12/98 22:00:00 through 07/13/98 05:00:00
+07/19/98 18:00:00 through 07/19/98 23:00:00
+	07/20/98 19:30:00 through 07/20/98 23:30:00
+	07/21/98 21:00:00 through 07/22/98 00:00:00
+	07/22/98 22:00:00 through 07/23/98 01:00:00
+	07/23/98 23:30:00 through 07/24/98 02:00:00
+
+C) All values were considered suspect and deleted due 
+to probes coming out of the water at low tide for the following date/times:
+07/07/98 22:00:00 through 07/07/98 23:30:00
+
+East Bay Bottom (EB)
+A) All turbidity values for the entire month are missing due to the absence of a 
+turbidity probe.
+
+B) Negative depth for the following date/times was considered suspect and 
+deleted:
+07/01/98 00:00:00 through 07/07/98 13:00:00
+
+August, 1998, East Bay (ES)
+A) All variables are missing for the following date/time due to meter  
+redeployment:
+	08/19/98 12:00:00 
+
+B) All negative depths identified as outliers for the following date/times were 
+considered suspect and deleted:
+	08/01/98 18:00:00 through 08/01/98 20:00:00
+	08/03/98 20:00:00 through 08/03/98 21:30:00
+	08/04/98 20:00:00 through 08/04/98 22:30:00
+	08/05/98 20:00:00 through 08/05/98 23:30:00
+	08/06/98 21:00:00 through 08/07/98 00:00:00
+	08/07/98 23:30:00 through 08/08/98 00:00:00
+	08/11/98 00:00:00 through 08/11/98 02:30:00
+	08/13/98 15:00:00 through 08/13/98 16:00:00
+	08/14/98 14:30:00 through 08/14/98 18:00:00
+	08/15/98 16:30:00 through 08/15/98 20:00:00
+
+C)  All values including negative depths were considered suspect and deleted
+due to probes coming out of the water at low tide for the following                             
+date/times:
+08/09/98 23:00:00 through 08/10/98 02:30:00
+08/16/98 18:00:00 through 08/16/98 21:00:00
+	08/17/98 18:30:00 through 08/17/98 22:00:00
+			08/18/98 19:00:00 through 08/18/98 23:00:00
+
+D)  Low D.O. values (%sat and mg/L) for the following date times were 
+considered suspect and deleted:
+08/03/98 09:00:00 through 08/03/98 12:00:00
+
+		East Bay Bottom (EB)
+A) All turbidity values for the entire month are missing due to the absence of a 
+turbidity probe.
+
+B) Low D.O. values (%sat and mg/L) for the following date/times were   
+considered suspect and deleted:
+	08/28/98 00:00:00 through 08/31/98 23:30:00
+ 
+C) All values for the following date/times were considered suspect and deleted
+due to meter redeployment:
+08/03/98 12:30:00
+08/19/98 12:00:00
+
+	September, 1998, East Bay (ES)
+A) All variables are missing for the following date/times due to dead batteries:
+09/27/98 03:30:00 through 09/30/98 23:30:00
+
+B) All negative depths identified as outliers for the following date/times were 
+considered suspect and deleted:
+			09/01/98 10:30 through 09/01/98 20:30:00
+
+C) Probes were out of water during the following times: 9/19/98 1930-2000
+
+		East Bay Bottom (EB)
+A) All turbidity values for the entire month are missing due to the absence of a 
+turbidity probe
+
+B) All variables are missing for the following date/time due to meter 
+     redeployment:
+	09/01/98 12:00:00
+
+C)  Low D.O. values (%sat and mg/L) for the following date/times were 
+considered suspect and deleted:
+	09/01/98 00:00:00 through 09/01/98 11:30:00
+	09/05/98 04:30:00 through 09/22/98 15:00:00
+
+October, 1998, East Bay (ES)
+A) All variables are missing for the following date/times due to dead batteries:
+10/01/98 00:00:00 through 10/13/98 11:30:00
+
+		East Bay Bottom (EB)
+A) All turbidity values for the entire month are missing due to the absence of a 
+turbidity probe.
+
+B) All variables are missing for the following date/times due to meter 
+redeployment:
+10/12/98 17:30:00 through 10/13/98 12:00:00
+
+C) Low D.O. values (%sat and mg/L) for the following date/times were                                               
+considered suspect and deleted:
+ 	10/01/98 00:00:00 through 10/12/98 17:00:00
+
+	November, 1998, East Bay (ES)
+A) All variables are missing for the following date/times due to meter 
+     redeployment:
+	11/04/98 13:30:00
+
+B) All negative depths identified as outliers for the following date/times were 
+considered suspect and deleted:
+			11/04/98 10:30:00 through 11/04/98 13:00:00
+			11/23/98 13:30:00 
+			11/25/98 13:30:00 through 11/25/98 17:00:00
+			11/30/98 08:00:00 through 11/30/98 08:30:00
+			
+C)  All values including negative depths were considered suspect and deleted due        
+to probes coming out of the water at low tide for the following date/times:
+11/05/98 09:00:00 through 11/05/98 16:30:00
+11/24/98 12:30:00 through 11/24/98 17:00:00
+ 			11/26/98 13:30:00 through 11/26/98 18:00:00
+11/27/98 15:00:00 through 11/27/98 18:00:00
+
+D) All values except depth were identified as suspect and deleted due to the 
+probes coming out of the water at low tide for the following date/times:
+11/06/98 16:30:00
+11/07/98 14:00:00 through 11/07/98 16:30:00
+11/19/98 10:00:00 through 11/19/98 13:30:00
+11/20/98 11:00:00 through 11/20/98 14:00:00
+11/21/98 11:00:00 through 11/21/98 15:00:00
+11/22/98 11:00:00 through 11/22/98 15:30:00
+
+		East Bay Bottom (EB)
+A) All turbidity values for the entire month are missing due to the absence of a 
+turbidity probe.
+
+B) All variables are missing for the following date/times due to meter 
+redeployment:
+11/03/98 17:30:00 through 11/04/98 13:30:00
+11/23/98 13:00:00
+
+C) High D.O. values (%sat and mg/L) for the following date/times were 
+identified as outliers and deleted:
+11/25/98 17:30:00 through 11/25/98 18:00:00
+11/26/98 19:00:00 through 11/26/98 19:30:00  
+
+	December, 1998, East Bay (ES)
+A)  All negative depths identified as outliers for the following date/times were 
+considered suspect and deleted:
+12/07/98 13:30:00 through 12/07/98 15:30:00
+12/14/98 06:00:00 through 12/14/98 07:00:00
+12/19/98 11:00:00 through 12/19/98 11:30:00
+12/22/98 13:00:00 through 12/22/98 14:30:00
+12/24/98 13:30:00 through 12/24/98 16:00:00
+12/25/98 14:00:00 through 12/25/98 17:30:00
+12/26/98 15:00:00 through 12/26/98 17:30:00
+12/27/98 04:00:00 through 12/27/98 07:00:00
+12/28/98 06:00:00 through 12/28/98 09:00:00
+12/29/98 06:30:00 through 12/29/98 09:30:00
+		 
+B)  All values including negative depths were considered suspect and deleted
+due to probes coming out of the water at low tide for the following        
+date/times:
+12/03/98 08:30:00 through 12/03/98 14:00:00
+12/04/98 09:30:00 through 12/04/98 14:30:00
+12/05/98 10:30:00 through 12/05/98 15:30:00
+12/06/98 11:00:00 through 12/06/98 16:00:00
+12/09/98 13:30:00 through 12/09/98 16:00:00
+12/16/98 06:00:00 through 12/16/98 14:00:00
+12/17/98 07:00:00 through 12/17/98 14:30:00
+12/18/98 07:30:00 through 12/18/98 14:30:00
+12/21/98 12:00:00 through 12/21/98 15:00:00
+12/23/98 12:00:00 through 12/23/98 16:00:00
+12/30/98 05:30:00 through 12/30/98 14:00:00
+12/31/98 07:00:00 through 12/31/98 13:00:00
+
+C) All values except depth were identified as suspect and deleted due to the 
+probes coming out of the water at low tide for the following date/times:
+12/15/98 06:00:00 through 12/15/98 12:30:00
+12/20/98 11:00:00 through 12/20/98 14:30:00
+
+East Bay Bottom (EB)
+A)  All turbidity values for the entire month are missing due to the absence of 
+a 
+turbidity probe.
+
+B) All variables are missing for the following date/times due to meter 
+redeployment:
+12/15/98 13:30:00
+
+C) High D.O. values (%sat and mg/L) for the following date/times were 
+identified as outliers and deleted:
+12/26/98 16:30:00 through 12/26/98 17:00:00
+
+
+
+12. Notes/Other remarks
+
+Hurricane Earl passed over this area on 9/3/98. 
+Hurricane Georges passed south of us on 9/26/98.   
+
+Both storms had significant affects on non-vented depth as the low pressure storms passed over
+resulting in increased depth levels at the East Bay Surface sampling site.    
+
+

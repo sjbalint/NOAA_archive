@@ -1,0 +1,558 @@
+Old Woman Creek (OWC) NERR Site Water Quality Metadata 
+March through December 2001
+Latest Update: May 1, 2002
+
+
+1. Principal Investigator & contact persons:
+
+Dr. David Klarer, Research Coordinator
+E-mail: david.klarer@nerr.noaa.gov
+Old Woman Creek SNP and NERR
+2514 Cleveland Road East
+Huron, Ohio 44839
+phone: (419) 433-4601
+
+
+2. Entry verification:
+
+The data were directly downloaded from the YSI PC6600 data loggers into the 
+YSI Ecowatch for Windows program in the PC. The data were graphed and visually 
+checked for any obvious outliers. Notes are made of any unusual data or faulty 
+probes. The data is then exported as a .csv file into an Excel spreadsheet.  The 
+data files were edited to remove headers, footers, and spaces. The CDMO 
+cdmomac3.xls macro was used to QA/QC the data. The macro 
+automatically formatted the column widths to the correct number of decimal 
+places based on YSI sensor specifications. It QA/QC the data file for missing 
+data points and filled all cells without data with periods. It also compiled a 
+list of all data that fell outside the stated range of the different data logger 
+probes. An explanation for the missing and the deleted data is included in this 
+meta data sheet.  The files were then transferred along with the associated 
+metadata by disk to the CDMO.  The files are archived at OWC. Dr. David Klarer 
+is responsible for both data logger deployment and data management.
+
+
+
+3.Research Objectives:
+
+Measurements are taken every 15 minutes over approximately two-week periods at 
+two sites within the Old Woman Creek estuary- one in the upper reaches at State 
+Route 2(SU) and the other near the mouth, just south of State Route 6 (WM). The 
+data was initially collected at the 52-second mark due to the warm-up time 
+needed for the dissolved oxygen probe. The data logger was instructed to collect 
+a measurement on the 15 minutes, but it would not take a measurement until the 
+52 second warm-up period had elapsed. As per instructions from the Centralized 
+Data Management Office, the 52-second time stamp in the edited data was 
+corrected to read :00 seconds to obtain a uniform timestamp throughout the 
+database.  The purpose of this monitoring program is to document the role of 
+this Great Lakes estuary in the Lake Erie ecosystem, particularly the estuary's 
+role in mitigating storm flow that passes through it.  
+
+4. Research methods:
+
+
+
+The YSI monitoring program began on 1March, 2001 at both sites. The sampling at 
+both sites ended for the year on 21 December, 2001.  Prior to deployment of the 
+data loggers, a 4-inch diameter PVC pipe was bolted to a metal 8 foot long metal 
+post that had been driven into the sediment.  Each pipe had 4 rows of holes 
+drilled into it spanning the area of the probe guard on the data logger so that 
+the probes would have direct contact with the surrounding waters.  At site SU 
+the area around the data logger was dredged so that the bottom of the logger was 
+.245 meters above the bottom prior to the first deployment in March, 2001. At 
+site WM the area around the data logger was also dredged so that the bottom of 
+the data logger was .239 meters above the bottom. The locations of the two data 
+loggers were the same as in 2000.  Dissolved oxygen, pH, temperature, turbidity, 
+and specific conductance readings are taken when the instrument is pulled 
+at each site. The data loggers are replaced in the field after a one, two, or 
+three-week deployment, depending on temperature and degree of fouling of the 
+data loggers.  The data is retrieved from each data logger and each data logger 
+is recalibrated (according to the directions in the YSI Operations Manual) 
+before being returned to the field.  Conductivity, pH (2 point calibration), 
+and turbidity (2 point calibration) are calibrated using commercial standards.
+
+
+5. Site location and character:
+Old Woman Creek National Estuarine Research Reserve is located on the southern 
+shore of Lake Erie, slightly east of the city of Huron, Ohio (Latitude 41( 22'N; 
+Longitude 82( 31'W).  Land use in the Old Woman Creek (OWC) watershed is 
+primarily row crop agriculture, so pollution inputs entering OWC are generally 
+associated with agricultural practices.  Salinity in Old Woman Creek is normally 
+1ppt. or less.
+	The data logger at the State Route 6 (WM) site (Latitude 41( 22'15"N; 
+Longitude 82( 30'50"W) is very close to the mouth of Old Woman Creek.  In this 
+portion of the estuary, the creek is very shallow but extends over a large 
+surface area.  The site frequently experiences influx of Lake Erie waters.  The 
+bottom sediments at this site are silty clay.  There is no rooted aquatic 
+vegetation directly adjacent to the site, although there is both emergent and 
+submerged vegetation within 50 meters of the site.  The data logger is about .24 
+meters above bottom sediments.
+	The data logger at the State Route 2 (SU) site (Latitude 41( 21'45"N; 
+Longitude 82( 30'25"W) is very near the southern boundary of the Reserve.  This 
+site is in the upper reaches of the estuary.   The data logger is sited near a 
+concrete piling of the eastbound Ohio State Route 2 Bridge.  At this site the 
+creek is relatively deep and narrow.  Although water direction and flow is 
+influenced at this site by changes in Lake Erie water levels, this site doesn't 
+have direct contact with Lake Erie waters. The bottom sediments at this site are 
+silty clay.  There is no rooted aquatic vegetation near or upstream in the 
+estuary from this site.  The data logger is about .25 meters above the bottom 
+sediments at this site.
+
+
+6. Data collection periods:
+
+Sampling at WM began on March 1, 2001 at 00:00:52.  Sampling for 2001 ceased at 
+WM site on December 21, 2001 at 08:30:40.  Sampling at SU began on March 1, 2001 
+at 00:00:52.  
+Sampling ceased at SU site on December 21, 2001 at 09:30:52. Specific deployment 
+dates are listed below.
+
+*As per instructions from the Centralized Data Management Office, the 52-second 
+time stamp and 40-second time stamp in the edited data was corrected to read :00 
+seconds to obtain a uniform timestamp throughout the database.  
+
+Site				Deployed				Pulled
+WM				02/27/01, 09:00:52		03/20/01, 08:30:52
+				03/20/01, 08:45:52		04/03/01, 07:15:52
+				04/03/01, 07:30:52		04/17/01, 07:30:52
+				04/17/01, 07:45:52		05/01/01, 07:15:52
+				05/01/01, 07:45:52		05/15/01, 07:30:52
+				05/15/01, 07:45:52		05/29/01, 07:15:52
+				05/29/01, 07:30:52		06/12/01, 07:30:52
+				06/12/01, 07:45:52		06/19/01, 07:15:52
+				06/19/01, 07:30:52		06/26/01, 07:15:52
+				06/26/01, 07:30:52		07/02/01, 07:45:52
+				07/02/01, 08:00:52		07/10/01, 07:45:52
+				07/10/01, 08:00:52		07/24/01, 07:30:52
+				07/24/01, 08:00:52		07/31/01, 07:45:52
+				07/31/01, 08:00:52		08/07/01, 07:45:52
+				08/07/01, 08:00:52		08/14/01, 07:45:52
+				08/14/01, 08:00:52		08/21/01, 08:00:52
+				08/21/01, 08:30:52		08/28/01, 07:30:52
+				08/28/01, 07:45:52		09/11/01, 07:15:52
+				09/11/01, 07:45:52		09/25/01, 07:15:52
+				09/25/01, 07:30:52		10/09/01, 07:15:52
+				10/09/01, 08:00:52		10/30/01, 08:30:52
+				10/30/01, 22:45:40		11/19/01, 07:45:40
+				11/19/01, 08:00:52		12/11/01, 08:30:52
+				12/11/01, 08:45:40            12/21/01, 08:30:40
+
+SU				02/27/01, 10:00:52		03/20/01, 09:00:52
+				03/20/01, 09:15:52		04/03/01, 08:30:52
+				04/03/01, 08:45:52		04/17/01, 08:00:52
+				04/17/01, 08:15:52		05/01/01, 08:15:52
+				05/01/01, 08:30:52		05/15/01, 08:15:52
+				05/15/01, 08:30:52		05/29/01, 08:00:52
+				05/29/01, 08:30:52		06/12/01, 08:15:52
+				06/12/01, 08:30:52		06/19/01, 08:00:52
+				06/19/01, 08:15:52		06/26/01, 08:00:52
+				06/26/01, 08:15:52		07/02/01, 08:15:52
+				07/02/01, 08:30:52		07/10/01, 08:30:52
+				07/10/01, 08:45:52		07/24/01, 08:15:52
+				07/24/01, 08:30:52		07/31/01, 08:30:52
+				07/31/01, 08:45:52		08/07/01, 08:30:52
+				08/07/01, 08:45:52		08/14/01, 08:30:52
+				08/14/01, 08:45:52		08/21/01, 09:15:52
+				08/21/01, 09:30:52		08/28/01, 08:00:52
+				08/28/01, 08:15:52		09/11/01, 08:00:52
+				09/11/01, 08:30:52		09/25/01, 07:45:52
+				09/25/01, 08:00:52		10/09/01, 08:15:52
+				10/09/01, 08:30:52		10/30/01, 09:15:52
+				10/30/01, 09:30:52		11/19/01, 09:15:52
+				11/19/01, 09:30:52		12/11/01, 09:30:52
+
+
+7. Distribution
+
+
+
+NOAA/ERD retains the right to analyze, synthesize, and publish summaries of the 
+NERRS System-wide Monitoring Program data.  The OWC Research Coordinator (RC) 
+retains the right to be fully credited for having collected and processed the 
+data.  Following academic courtesy standard, the RC and the NERR site where the 
+data were collected will be contacted and fully acknowledged in any subsequent 
+publications in which any part of the data are used.  The data set enclosed 
+within this package/transmission is only as good as the quality assurance and 
+quality control procedures outlined in the enclosed metadata reporting 
+statement.  
+The user bears all responsibility for its subsequent use/misuse in any further 
+analyses or comparisons. The Federal government and the State of Ohio do not 
+assume liability to the Recipient or third persons, nor will the Federal 
+government or the State of Ohio reimburse or indemnify the Recipient for its 
+liability due to any losses resulting in any way from the use of this data.
+NERR water quality data and metadata can be obtained from the Research 
+Coordinator at the individual NERR site (please see section 1. Principal 
+investigators and contact persons), from the Data Manager at the Centralized 
+Data Management Office (please see personnel directory under general information 
+link on CDMO homepage) an online at the CDMO homepage 
+http://inlet.geol.sc.edu/cdmohome.html.  Data are available in text tab-
+delimited format, Microsoft Excel spreadsheet format and comma-delimited format 
+from the CDMO.
+
+8. Associated projects: Samples for chemical analysis of the water are collected 
+at each site every time the data loggers are changed. Samples for phytoplankton 
+determination are collected at the same time at sites near the data logger 
+deployment sites.
+
+ 
+II. Physical Structure and Descriptors:
+
+9. Variable sequence, column format, range of measurements, units, Resolution, 
+Accuracy:
+
+YSI 6000/6600 datalogger
+
+Variable      Range of Measurements          Resolution           Accuracy
+Date          1-12, 1-31, 00-99 (Mo,Day,Yr)  1 mo, 1 day, 1 yr    NA
+Time          0-24, 0-60, 0-60 (Hr,Min,Sec)  1 hr, 1 min, 1 s     NA
+Temp               -5 to 45 (c)              0.01  C              +/-0.15C
+Sp COND            0-100(mS/cm)              0.01mS/cm            +/-0.5% Of 
+reading + 0.001mS/Cm
+Salinity      0-70 Parts per thousand (ppt)  0.01 ppt             +/- 1% of 
+Reading or 0.1 ppt, (whichever is greater)
+DO            0-200 (% air saturation)       0.1% @air sat        +/-2% @air 
+Saturation
+DO            200-500 (% air saturation      0.1% @ air sat       +/- 6% @ 
+Saturation
+DO                 0-20 (mg/l)               0.01 mg/l            +/- 0.2mg/l
+DO                 20-50 (mg/l)              0.01 mg/l            +/- 0.6mg/l
+Depth (shallow)    0-9.1 (m)                 0.001m               +/- 0.018m
+PH                 2-14 units                0.01 units           +/- 0.2units
+Turb               0-1000 NTU                0.1 NTU              +/- 5% of 
+Reading or 2 NTU (whichever is greater)
+
+Data columns are separated by tabs.  Each file contains a two line
+column header at the top of the page which identifies measurements and 
+units for each column.
+
+10. Coded variable indicator and variable code definitions:
+
+SU- State Route 2; WM- State Routes 6.  
+File definitions: YSI deployment site/month/year (e.g. SU0800 (State Route 2, 
+August, 2000)
+
+11. Data anomalies
+
+*As per instructions from the Centralized Data Management Office, the 52-second 
+time stamp and 40-second time stamp in the edited data was corrected to read :00 
+seconds to obtain a uniform timestamp throughout the database.  
+
+March 2001
+
+WM: depth readings were zero or negative due to shallow water and depth probe 
+being above water level. There is no indication from the other readings that any 
+of the other probes were out of the water. The following depth readings were 
+either zero or negative: 
+  
+03/01/01 (11:30:00-17:45:00) 
+03/02/01 (02:15:00-13:30:00), (14:15:00), (16:15:00) through 03/03/01 (00:45:00)
+03/03/01 (11:15:00-11:30:00),  (12:45:00-13:00:00)
+03/05/01 (11:30:00-13:00:00), (17:15:00)
+03/07/01 (19:00:00-22:15:00)
+03/08/01 (09:00:00-16:45:00), (21:45:00-22:45:00), (23:15:00) through 03/09/01 
+01:45:00)
+03/13/01  (11:00:00-18:00:00)
+03/14/01 (02:30:00-10:30:00), (14:00:00-15:00:00), (17:45:00-20:15:00)
+
+SU: depth readings were zero or negative due to shallow water and depth probe 
+being above water level. There is no indication from the other readings that any 
+of the other probes were out of the water. The following depth readings were 
+either zero or negative: 
+
+03/01/01 (11:45:00-16:00:00)
+03/07/01 (21:15:00) and (21:45:00- through 03/08/01 (17:45:00)
+03/10/01 (16:00:00- 16:15:00), (16:45:42), and (17:15:00-18:30:00)
+
+
+April 2001
+
+WM: No missing or anomalous data during this month
+
+SU:  The following turbidity readings were at or just below 0.  This may be a 
+result of incorrect calibration of the zero standard or a contaminated zero 
+standard. 04/05/01 (19:31:05)
+
+May 2001
+
+WM: All data is missing 05/01/01 (07:30:00) changing data loggers.
+Dissolved oxygen levels were deleted from 5/10/01 (21:00:00) through 5/15/01 
+(07:30:00) due to probe failure.
+The following turbidity readings were at or just below 0.  This may be a result 
+of incorrect calibration of the zero standard or a contaminated zero standard. 
+05/13/01 (04:15:46), (17:00:00-17:15:00), (21:15:00)
+05/14/01 (00:30:00), (02:00:00), (02:45:48), (03:30:00), (19:30:00-19:45:00), 
+(20:15:00-21:30:00), (22:45:00-23:15:00)
+05/15/01 (00:15:00), (01:00:00), (02:30:00-02:45:49), (03:30:00), (04:15:49-
+04:30:00), (06:00:00), (07:15:49-07:30:00), (08:00:00), (08:45:00)
+05/16/01 (04:30:00-05:00:00), (06:45:00), (11:45:00-12:30:00), (13:15:00), 
+(15:00:36-15:15:00), (16:00:00-16:15:00), (17:45:00)
+DO% and mg/L were deleted 05/15/01 (15:15:00) through 05/21/01 (08:45:00) due to 
+probe failure.
+
+SU:  All data missing 05/29/01 (08:15:00) changing data loggers
+
+June 2001
+
+
+SU: No missing or anomalous data during this month 
+WM: The following turbidity readings were at or just below 0.  This may be a 
+result of incorrect calibration of the zero standard or a contaminated zero 
+standard.
+06/07/01 (00:30:00), (04:00:00), (05:00:00), (05:30:00), (06:45:00), (08:00:00), 
+(09:00:34-09:15:00), (10:15:00), (11:30:00-11:45:00), (13:00:00), (14:30:00), 
+(16:00:00), (17:15:00-17:30:00), (21:45:00)
+06/08/01 (00:30:00), (01:30:00-01:45:00), (03:30:00), (04:30:34-04:45:00), 
+(08:00:00), (10:00:00), (12:45:00), (15:30:00), (18:30:00), (21:00:36-21:15:00), 
+(23:30:00)
+06/09/01 (02:15:00)
+06/10/01  (17:45:00), (19:15:00)
+
+
+July 2001
+
+WM: All data missing from 07/24/01 (07:45:00) changing data logger
+
+SU:   All data missing from 07/02/01 (08:30:00) changing data logger
+ 
+August 2001
+
+WM: All data missing from 08/21/01 (08:15:00) changing the data logger
+
+SU: The following turbidity readings were at or just below 0.  This may be a 
+result of incorrect calibration of the zero standard or a contaminated zero 
+standard.
+08/29/01 (18:30:00), (19:00:00), (23:15:00)
+08/30/01 (02:15:00), (03:45:00), (07:00:00-07:30:00), (09:15:00), (10:45:00), 
+(11:15:00), (12:15:00-12:30:00), (13:00:00-13:30:00), (17:00:00-17:30:00), 
+(18:45:00-19:00:00), (20:15:00), (22:45:00), (23:46:13)
+08/31/01 (00:00:00), (00:45:00), (02:00:00-02:15:00), (03:30:00), (05:30:00-
+06:00:00), (06:45:00-07:00:00), (08:15:00), (09:15:00-09:30:00), (10:16:19-
+10:30:00), (11:15:00-11:30:00), (12:15:00), (13:00:00)
+	The following dissolved oxygen data was removed because it was slightly 
+negative 08/06/01 (09:30:00-10:00:00)
+
+September 2001 
+
+WM:  All data missing 09/11/01 (07:30:00) changing data logger
+
+ SU:   The following turbidity readings were at or just below 0.  This may be a 
+result of incorrect calibration of the zero standard or a contaminated zero 
+standard.
+09/03/01 (22:30:00)
+09/04/01 (00:30:00), (01:00:00), (01:30:00), (02:00:00-02:15:00), (02:45:00), 
+(03:30:00-03:45:00), (04:30:00-04:45:00), (06:45:00-07:30:00), (08:00:00), 
+(09:15:00), (10:00:00-10:15:00), (12:00:00), (17:15:00-17:30:00), (18:15:00)
+09/07/01 (19:00:00), (21:30:00)
+09/08/01 (04:45:00)
+09/10/01 (04:30:00), (05:15:00)
+   All data missing 09/11/01 (08:15:00) changing data logger
+
+October 2001
+
+WM: depth readings were zero or negative due to shallow water and depth probe 
+being above water level. There is no indication from the other readings that any 
+of the other probes were out of the water. The following depth readings were 
+either zero or negative:  
+10/15/01 (20:00:00)-(23:15:00)
+10/16/01 (00:00:00)-(04:30:00),(11:45:00) through 10/17/01 (17:30:00)
+10/17/01 (18:30:00) through 10/19/01 (14:30:00)
+10/19/01 (20:15:00) through 10/20/01 (12:15:00)
+10/20/01 (01:30:00) through 10/21/01 (15:00:00)
+10/22/01 (01:15:00), (05:30:00), (06:15:00), (06:45:00), (09:45:00-10:15:00), 
+(11:45:00), (17:45:00), (20:30:00)
+10/23/01 (04:45:01-10:00:00), (10:45:00-12:15:00), (13:15:00), (15:00:00), 
+(16:00:00-19:45:00), (20:45:00-21:00:00), (22:30:00), (23:30:00) through 
+10/24/01 (00:30:00)
+10/24/01 (01:00:00-02:00:00), (02:45:00-10:30:00), (11:00:00-12:45:00), 
+(13:15:00), (17:15:00) through 10/25/01 (13:45:00)
+10/25/01 (14:45:00), (15:15:00-15:30:00), (16:00:00) through 10/27/01 (03:15:00)
+10/27/01 (13:45:00-15:30:00), (16:00:00), (18:00:00)
+10/28/01 (02:15:00-03:00:00), (03:45:00) through 10/29/01 (15:00:00)
+10/29/01 (15:30:00), (16:00:00), (17:15:00), (18:15:00-21:45:00), (23:00:00)
+10/31/01 (13:45:00)
+ 
+From 10/30/01 (08:45:00) through end of month data logger was 
+collecting data at 15 hour intervals instead of 15 minute intervals due to a 
+programming error. Therefore, data is missing 10/30 8:45:00 - 22:30:00 and 
+23:00:00 - 10/31 13:30:00 and 10/31 14:00:00 - 23:45:00. Unless otherwise stated 
+above, it is believed that this data was correct.
+
+SU: 
+Turbidity data 10/09/01 (08:30:00) through 10/31/01 (23:45:00) reading high due 
+to silting. Data retained. 
+
+November 2001
+
+WM:  From 11/01/01 (00:00:00) through 11/19/01 (07:45:00) data logger was 
+collecting data at 15 hour intervals instead of 15 minute intervals due to a 
+programming error. Unless stated otherwise, it is believed that this data is 
+correct. 
+Depth readings were zero or negative due to shallow water and depth probe being 
+above water level. There is no indication from the other readings that any of 
+the other probes were out of the water. The following depth readings were either 
+zero or negative:  
+11/01/01 (04:45:00), (19:45:00)
+11/02/01 (10:45:00)
+11/03/01 (01:45:00), (16:45:00)
+11/04/01 (07:45:00)
+11/06/01 (04:45:00), (19:45:00)
+11/07/01 (10:45:00)
+11/08/01 (16:45:00)
+11/11/01 (19:45:00)
+11/13/01 (01:45:00), (16:45:00)
+11/14/01 (07:45:00), (22:45:00)
+11/15/01 (13:45:00)
+11/16/01 (04:45:00), (19:45:00)
+11/19/01 (07:45:00- 08:30:00), (09:15:00-21:00:00)
+11/21/01 (14:15:00) through 11/26/01 (19:30:00)
+11/29/01 (12:00:00-15:15:00)
+	During the readings 11/09/01 (22:45:00) and 11/10/01 (13:45:00) all probes 
+were out of the water and all readings for these two times were deleted.
+
+All data were deleted 11/19/01 (07:45:00) through (09:00:00) due to deployment 
+problems.
+
+  
+SU: 
+Turbidity data 11/19/01 (10:00:00) through 11/30/01 (23:45:00) reading high due 
+to silting. Data retained.
+From 11/15/01 (21:45:00) through end of month turbidity data is questionable due 
+to buildup of sediment around data logger
+	Change in conductivity on 11/19/01 (09:30:00-09:45:00) from one deployment 
+to the next probably due to calibration problems.
+	depth readings were zero or negative due to shallow water and depth probe 
+being above water level. There is no indication from the other readings that any 
+of the other probes were out of the water. The following depth readings were 
+either zero or negative:  
+	11/11/01 (21:30:00) through 11/12/01 (08:45:00)
+	11/17/01 (01:00:00- 04:30:00)
+	11/19/01 (21:45:00) through 11/20/01 (08:00:00)
+	11/21/01 (20:30:00) through 11/22/01 (11:45:00)
+	11/22/01 (17:30:00) through 11/23/01 (21:30:00)
+	11/23/01 (22:00:00), (22:30:00) through 11/24/01 (07:45:00)
+	11/24/01 ((08:15:00- 09:15:00), (10:00:00- 10:30:00), (11:30:00-12:00:00), 
+(12:30:00)
+	11/26/01 (06:15:00- 15:45:00), (16:15:00) through 11/27/01 (03:45:00)
+
+December 2001:
+	WM: Depth readings were zero or negative due to shallow water and the 
+depth probe being above water level. There is no indication from the other 
+readings that any of the other probes were out of water.  The following depth 
+readings were either zero or negative:
+	12/01/01 (01:15:00) through 12/02/01 (08:15:00)
+	12/02/01 (09:45:00), (10:15:00 - 21:00:00), (21:30:45) through 12/03/01 
+(21:00:00)
+	12/03/01 (23:00:00) through 12/04/01 (11:00:00)
+	12/04/01 (11:30:00) through 12/05/01 (01:45:00)
+	12/05/01 (02:15:00) through 12/06/01 (13:00:00)
+	12/06/01 (15:00:00-16:30:00), (17:15:00), (18:30:00) through 12/07/01 
+(15:30:00)
+	12/07/01 (16:00:00), (16:45:00), (18:30:00) (19:15:00-21:15:00)
+	12/09/01 (00:00:00), (00:30:00-05:30:00), (06:30:00), (07:00:00-07:30:00), 
+(16:15:00) through 12/10/01 (06:00:00)
+	12/10/01 (10:00:00-15:30:00), (16:30:00) through 12/11/01 (00:30:00)
+	12/12/01 (15:00:00), (18:30:00) through 12/14/01 (08:30:00)
+	12/16/01 (20:45:00-22:45:00)
+	12/17/01 (00:00:00 - 01:45:00), (06:30:00-16:45:00)
+	12/18/01 (11:45:00) through 12/20/01 (21:15:00)
+	During the following times conductivity probe was out of the water and 
+possibly all  probes were out of the water and so all readings for these times 
+were deleted:
+	12/01/01 (06:00:00-14:30:00), (16:45:00-20:30:00), (21:45:00) through 
+12/02/01 (02:45:00)
+	12/03/01 (04:15:00-06:30:00), (07:00:00-09:15:00), (10:15:00-12:00:00), 
+(13:15:00-13:30:00), (14:00:00-15:00:00)
+	12/04/01 (17:15:00-19:45:00), (20:15:00)
+	12/05/01 (18:15:00-19:00:00), (19:30:00), (20:00:00-20:30:00), (21:00:00-
+21:15:00), (22:00:00) through 12/06/01 (10:30:00)
+	12/06/01 (11:30:00), (20:30:00), (21:30:00-21:45:00)
+	12/19/01 (23:45:00) through 12/20/01 (10:30:00)
+	12/20/01 (11:15:00), (12:00:00-12:45:00), (13:45:00-18:00:00)
+
+SU: From 12/01/01 (00:00:00) through 12/11/01 (09:15:00) turbidity data is 
+questionable due to buildup of sediment around data logger. Prior to deployment 
+on 12/11/01 (09:30:00) sediment was cleaned away from the data logger trap.
+	Depth readings were zero or negative due to shallow water and the depth 
+probe being above water level. There is no indication from the other readings 
+that any of the other probes were out of water.  The following depth readings 
+were either zero or negative:
+	12/10/01 (01:45:00-13:30:00). (14:45:00) through 12/11/01 (03:00:00)
+ 
+
+12. Missing data:
+
+Missing data are denoted by a period in the data set.  Data are missing due to 
+equipment failure when no probes deployed, maintenance/calibration of equipment, 
+elimination of obvious outliers, or elimination of data due to calibration (both 
+pre and post) problems.  
+For more details on deleted data, see Anomalous Data Section (11).  To find out 
+more details about missing data, contact the Research Coordinator at the site 
+submitting the data.
+
+13. Post deployment information
+
+End of Deployment Post-calibration Readings in Standard Solutions: Dissolved 
+oxygen standard is 100%, unless noted. Depth is always 0.0 meters. The specific 
+conductivity standard is 1 mS/cm. The pH standard is 7.00.
+Site     Date     Sp. Cond.  	DO(%)        pH         Turb         Depth
+WM	03/20/01	 .999       110         7.02        0.4          .004
+	04/03/01    1.027        95.7       7.13        1.0          .002
+	04/17/01     .981        99.4       7.09        1.6          -.004
+	05/01/01     .980        91.0       7.10		0.0           .000
+	05/15/01     .943        74.2       7.13        0.8          -.007
+	05/29/01     .980       103.7       7.16        0.2           .002
+	06/12/01     .470       66.1(98.2)* 7.17        1.2           .002
+	06/19/01     .980       62 (102)*   7.14       -0.5           .005            
+	06/26/01     .958      11.9 (100.3)*7.18        0.3           .002
+	07/02/01     .974        91.0       7.12        5.0           .000
+	07/10/01     .971        91.9       7.20        1.0           .002
+	07/24/01     .970        86.6       7.70  	1.2           .000
+	07/31/01     .982        99.9       7.10    
+	08/07/01     .914        90.5       7.09  	0.2           .001  
+	08/14/01     .981        85.1       7.21  	0.4           .000
+	08/21/01     .996       63 (98)*    7.02  	1.6          -.001
+	08/28/01     .963        93.1       7.14   	0.8          -.002
+	09/11/01     .927        58.4 (99)* 7.09  	1.6           .000
+	09/25/01     .966        95.5       7.15   	0.2          -.002
+	10/09/01     .957        99.5       7.08    	0.6           .002
+	10/30/01     .978       102.5       7.19   	2.6          -.001
+      11/19/01     .996       110.1       7.11    	0.5          -.211  
+	12/11/01	 1.003       99.6       7.09	      1.0 		 -.003  
+	12/21/01      .990	105.3       7.05   	0.9           .045              
+*Dissolved Oxygen rechecked after cleaning periphyton off membrane
+
+SU	03/20/01	  .998      101.5       7.04        1.2           -.003
+	04/03/01     1.018       95.2       7.18  	1.6            .004
+	04/17/01      .994      102.1       7.09        1.9           -.004
+	05/01/01      .991      100.9       7.20        0.5            .002
+	05/15/01      .995      100.6       7.08   	0.6            .000
+	05/29/01      .940      100.5       7.14 	     -0.5            .009
+	06/12/01     1.001      101.5       7.14 		0.4            .004
+	06/19/01      .997       97.6       7.13   	0.5            .005
+	06/26/01      .963       98.4       7.12 		0.5           -.001
+	07/02/01      .987       97.8       7.13 		2.1            .000
+	07/10/01      .978       93.4       7.13    	1.7            .001
+	07/24/01      .967       76.6       7.24  	1.2            .000          
+	07/31/01      .972      75 (100)*   7.12 		1.4            .004
+	08/07/01      .952       90.2       7.06  	1.7            .001        
+	08/14/01      .980       80.1       7.07  	1.2           -.004
+	08/21/01     1.007       91.4       7.08 		1.2 	        -.002        
+	08/28/01      .986       98.8       7.20  	0.8            .001
+	09/11/01      .991       93.3       7.07 		1.7            .000
+	09/25/01      .970       77.7       7.17 		0.8           -.007
+	10/09/01      .973      102.8       7.01 		0.6            .002
+	10/30/01      .990      114         7.10 		0.4           -.009
+	11/19/01      .987       97.4       7.01  	0.9            .004
+	12/11/01     1.002      106.3	      7.17      53(0.7)**  	  -.079
+	12/21/01      .983       98.9       7.02        0.3            .002
+
+		*Dissolved Oxygen rechecked after cleaning periphyton off membrane
+		** Turbidity rechecked after cleaning off mud from wiper
+
+
+14. Other Remarks
+High turbidity readings (> 1000) are very normal for State Route 2 and State 
+Route 6 sampling sites. Documentation was not made regarding these high data 
+points due to the regularity of the turbidity readings. If there are any 
+questions regarding turbidity, please contact the RC at this NERR site.  
+
+

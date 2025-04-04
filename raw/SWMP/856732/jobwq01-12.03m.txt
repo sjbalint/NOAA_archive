@@ -1,0 +1,3021 @@
+Jobos Bay (JOB) NERR Water Quality Metadata
+January to December 2003
+Latest Update: August 12, 2020
+
+
+
+I. Data Set & Research Descriptors
+  
+1. Principal investigator(s) and contact persons
+
+Principal Investigator:
+ 	
+      Iris Tirado Santana
+	Research Coordinator
+	irislymari@yahoo.com
+ 
+		
+Contact persons:
+	
+	Luis A. Encarnación
+	Biologist II, JBNERR
+	luisenca_6@hotmail.com
+	lsencarnacion@netscape.net
+
+	Lic. Enid Malavé
+	Chemist I, JBNERR	
+
+Mailing Address:
+	
+       Jobos Bay NERR 
+	Department of Natural and Environmental Resources
+	Call Box B
+	Aguirre, Puerto Rico 00704
+	Phone: (787) 853-4617
+	Fax: (787) 853-4618
+
+ 
+2. Entry verification:
+
+ 	After retrieving and carefully cleaning the data loggers, they are 
+examined to detect any structural damage to the body or to the probes. The DO 
+membrane is checked for ruptures and then replaced if needed. The turbidity 
+probe is examined to assure that no obstruction affects the wiper and that the 
+sensor is clean. Manipulation and observations are registered in the field log 
+for each deployment respectively.
+	The YSI is connected to a Pentium II 400 MHz IBM compatible computer and 
+the data are reviewed using the YSI computer program Ecowatch for Windows that 
+accompanies the YSI 6000 data logger. The file is uploaded in two formats, one 
+in YSI PC6000 format and the other in Comma Delimited format, then the file 
+is renamed to have a ".txt" extension. The YSI Ecowatch for Windows program is 
+used to plot the data and delete the pre and post deployment data that are not 
+in range of the other readings. The program is used to perform basic statistical 
+analysis (i.e., min., max., mean, std. dev.). Data are initially reviewed using 
+the Ecowatch graphing tool. Data for a month are compiled into one single Excel 
+2000 data sheet for further examination to detect gross outliers, and data 
+recorded during instrument retrieval or caused by instrument failure. 
+	Missing dates and times are checked before submitting the data to the 
+Centralized Data Management Office. CDMO Excel macros are provided to assist in data 
+reviewing and data editing. Data are opened with this program and empty or 
+unrecorded data spaces are filled with periods. Columns are corrected for 
+specific format (correct data size and number of decimal place holders are 
+specified by the NERR CDMO). Data and time readings are also checked. This 
+program also identifies outliers. The outliers file is saved and printed for 
+revision of each file. Missing data and explanatory reasons are recorded in the 
+anomalous data section (section 11) of this metadata. 
+	Data that are found to be out of the instrument range or normal parameters 
+for each sampling station are removed from the file and a period is inserted into 
+the cell(s). Periods were later removed for data dissemination purposes and left 
+blank. Explanations for changes in data are also included in the metadata. 
+Data that are outside the "normal" range of water quality for a particular site 
+are investigated for validity based on field observation, QC check, Ecowatch for 
+Windows print outs, and the instrument diagnostics. The metadata form is 
+submitted with the data to the CDMO. The data are stored in Zip and CD disks. The 
+person responsible for the data QA/QC is Luis A. Encarnación.
+
+
+3. Research Objectives:
+
+  	Four data loggers are deployed in Jobos Bay. Two are deployed in inner 
+lagoons of the Mar Negro Component and the other two in the Bay of the Jobos Bay 
+National Estuarine Research Reserve. The instruments are suspended from a pole 
+at a distance of 0.3 meters from the bottom at each selected site. Data from 
+stations 9, 10, 19 and 20 are being submitted to the Centralized Data Management 
+Office as part of the System-Wide Monitoring Program. Measurements are taken at 
+thirty-minute intervals for approximately two-week periods. The sites are 
+identified as representative of areas within the reserve and comparable to the 
+sites that may be receiving impact from human activities from surroundings areas 
+or may act as a habitat gradient in the Bay. 
+	Station number nine (9), the impacted site, collects water quality data in 
+a site associated with runoff from littoral and basin mangrove areas. This 
+sampling station is located in the most inland lagoon, closest to the 
+Thermoelectric Power Plant. It is subjected to runoff, which may include 
+potential oil spill contamination from this industrial facility. Information 
+compiled from historical environmental documents, indicate that station nine (9) 
+was used as a disposal site for residues of the previously operating sugar mill 
+operation, and therefore might have high organic input into the sediments.
+	Station number ten (10), located in a mangrove lagoon area towards the 
+southwestern section of Mar Negro is considered the reference or non-impacted 
+site.	
+	Station number(19) is located over a sea grass bed(Thalassia testudinum) 
+in the inner western part of the bay just northeast of Cayo Colchones. This 
+station is located near the thermal outfall and operating piers of the Aguirre 
+Power Plant Complex, both activities may have significant effects on sea grass 
+communities. This area is exposed to barge standings, sediment re-suspension and 
+oil sills. 
+	 Station number (20) is located on the eastern inner bay section of the 
+Cayos Caribe cays. This station is just south of the mangrove islets associated 
+with the Reserve's coral reefs. Water streams coming through the coral platform 
+may help characterize water conditions of the main marine currents reaching 
+Jobos Bay, as well as, possible effects of industrial and chemical activities 
+associated with Phillips Core, AES Coal Energy Plant and Pharmaceuticals located 
+just east to this system.
+
+4.	Research methods:
+
+ 	The National Estuarine Research Reserve Water Quality Monitoring Program 
+began sampling at Station nine (9) on December 20, 1995 and Station ten (10) on 
+February 1, 1996. Monitoring at station 19 began in April 2002 and at station 20 
+in June 2002. Long term water quality monitoring is being performed at these 
+stations.
+         Before each YSI 6000 data logger is deployed, calibration and 
+maintenance is performed following the manufacturer's instruction (YSI Manual 
+addendum 7/94, sections 3, 4 and 7). Calibration standards are only required for 
+pH, salinity, and turbidity, all other parameters are done as described in the 
+manual. Buffer solutions for two-point calibration (pH 7 and pH 10) are 
+purchased from a scientific supply company. Salinity is calibrated with a 
+specific conductance standard 100 mS/cm and is purchased from a scientific 
+supply company.
+         The two-point turbidity calibration is performed using a 0 NTU (DI 
+water) and 100 NTU standard purchased from a scientific company. The dissolved 
+oxygen membranes are replaced before deployment and are allowed to sit at least 
+24 hours prior to deployment. Weather conditions and tide stage are recorded in 
+the field observation log during deployment. Measurements of DO, pH, salinity, 
+specific conductance, and temperature, are taken with other calibrated field 
+instruments to check the accuracy of the instrumentation.
+	Each YSI data logger is tied with steel cable to a wrought iron galvanized 
+pole, which is plunged into the sediments at each sampling area.  Data loggers 
+are suspended from a pole at 0.3 meter from the bottom of the selected site. 
+Every 30 minutes during the sampling period, the following measurements are 
+recorded: date, time, temperature, specific conductance, salinity, dissolved 
+oxygen saturation, dissolved oxygen concentration, depth, pH, and turbidity. 
+Every two weeks the data loggers are retrieved, uploaded, cleaned, inspected, 
+and calibrated as noted previously. The data logger is then ready to be deployed 
+again.
+
+5. Site location and character:
+
+ 	The Jobos Bay National Estuarine Research Reserve (JBNERR) is located on 
+the southern coastal plain of the island of Puerto Rico, a reserve within the 
+West Indies geographical area. JBNERR is composed of two major areas: (1) Mar 
+Negro, located on the western margin of the Bay, and (2) Cayos Caribe, a chain 
+of 15 tear-shaped islets located to the southeast. The Mar Negro area comprises 
+the bulk of the Reserve, and consists of mangrove forests and a complex system 
+of lagoons and channels interspersed with salt and mud flats.  Coral reefs and 
+sea grass beds, with small beach deposits and upland areas fringe Cayos Caribe 
+mangrove islands.
+ 	Station 9 is an impacted site and is located on the northeastern section 
+of the Mar Negro component. This sampling station is associated with mangrove 
+lagoon areas and receives runoff from mudflats, the Thermoelectric Power Plant, 
+and adjacent areas. The tidal range varies from 12 to 14 inches near the 
+monitoring station. The salinity at the vicinity of the monitoring station 
+varies from 26.0 ppt to 41.1 ppt. The average depth at station 09 is 1 meter. 
+The bottom is covered by a thick layer of thin sediments with a high content of 
+organic material. Brown and green algae are also present at this site, but a 
+better assessment is needed. The station pole is located at 17° 56' 36.8" N and 
+66° 14' 18.5" W.  Fresh water input to the station comes only from runoff and 
+rain.  There is not any direct source of fresh water.
+
+ 	Station 10 is located in a mangrove lagoon not impacted directly by any 
+upland or marine activities. It provides a reference for comparison of data 
+obtained in other stations, especially to the station in Mar Negro lagoon.  The 
+tidal range varies from 12 to 14 inches. The salinity at the vicinity of the 
+monitoring station varies from 27.0 ppt to 41.7 ppt. The average depth at 
+station 10 is 1 meter. The bottom is covered with a layer of fine sediments with 
+organic material, followed by a layer of calcareous material mainly from shells 
+and oysters. At this site, we can find sea grass (Thalassia), calcareous algae 
+(Halimeda sp.), green algae (Caulerpa sp.) and brown algae (Dictyota sp.) among 
+others. The pole is located at 17° 56' 20.3" N and 66° 45' 26.7" W. Fresh water 
+input to the station comes only from runoff and rain.  There is not any direct 
+source of fresh water.
+
+ 	Station 19 is located on the western inner section of the bay at a 
+distance of 233 meters from Cayo Colchones Mangroves over sea grass beds 
+(Thallasia testudinum). Tidal ranges in this area vary from 12 to 14 inches. The 
+salinity at the vicinity of the monitoring station varies from 30.0 ppt to 36.0 
+ppt. The average depth at this station is of 2 meters. The YSI' sonde is 
+deployed at about 1 foot from the bottom. The bottom is of sandy composition. 
+Sea grass, algae, echinoderms and other related organisms could be found in the 
+area. The pole is located at 17° 56' 28.15885" N and 66° 13' 45.28784" W.  There 
+is no freshwater input to this area.
+
+	Station 20 is located in the inner eastern section at about 190 meters of 
+Cayos Caribe Mangrove islets and at about 688 meters from the coral reef 
+barrier. This station is the closest to Mar Caribe. It has a sandy bottom, with 
+calcareous and coral fragments, sea grass (Thalassia) communities, echinoderms 
+and other associated organisms.  Tidal ranges in this area vary from 12 to 14 
+inches. The salinity at the vicinity of the monitoring station varies from 30.0 
+ppt to 36.0 ppt. The average depth of the site is 2 meters. There is no 
+freshwater input to this area. The pole is located at 17° 55' 49.14258" N and 
+66° 12' 41.29771" W.
+
+  	Data from stations 9, 10, 19 and 20 are being submitted to the CDMO. Eight 
+sondes are permanently devoted to taking readings from these four sites, to 
+assure continuous readings while sondes are taken out of the water for data 
+upload and maintenance. This will avoid data gaps for the stations between sonde 
+maintenance procedures.	Due to errors in calibration, turbidity data in these 
+files is considered inadequate. All monitoring is considered long term. 
+
+6. Data collection period: 
+
+ 	Station nine (9) sampling with the YSI began on December 20, 1995.
+	Station ten (10) sampling with the YSI began on February 1, 1996.
+	Station nineteen (19) sampling with the YSI began on April 1, 2002.
+	Station twenty (20) sampling with the YSI began on May 13, 2002.
+
+Began			Ended
+
+Station 09
+
+18-Dec-02	10:00	8-Jan-03	9:30
+8-Jan-03	10:00	21-Jan-03	9:00
+21-Jan-03	9:30	11-Feb-03	9:30
+11-Feb-03	10:00	25-Feb-03	9:30
+25-Feb-03	10:00	11-Mar-03	9:30
+11-Mar-03	10:30	26-Mar-03	8:30
+26-Mar-03	9:30	8-Apr-03	8:30
+8-Apr-03	9:00	23-Apr-03	9:00
+23-Apr-03	9:30	6-May-03	10:00
+6-May-03	10:30	20-May-03	9:00
+20-May-03	9:30	3-Jun-03	10:30
+3-Jun-03	11:00	17-Jun-03	8:00
+17-Jul-03	8:30	1-Jul-03	9:30
+1-Jul-03	10:00	15-Jul-03	9:00
+15-Jul-03	9:30	30-Jul-03	8:00
+30-Jul-03	8:30	12-Ago-03	9:30
+12-Ago-03	10:00	28-Ago-03	9:30
+28-Ago-03	10:00	9-Sept-03	9:00
+9-Sept-03	9:30	23-Sept-03	9:00
+23-Sept-03	9:30	7-Oct-03	8:00
+7-Oct-03	8:30	21-Oct-03	8:30
+21-Oct-03	9:00	4-Nov-03	9:30
+4-Nov-03	10:00	20-Nov-03	9:00
+20-Nov-03	9:30	9-Dec-03	8:30
+9-Dec-03	9:00	23-Dec-03	10:00
+
+Station 10
+
+18-Dec-02	10:30	8-Jan-03	10:00
+08-Jan-03	10:30	21-Jan-03	9:00
+21-Jan-03	9:30	11-Feb-03	9:00
+11-Feb-03	10:00	25-Feb-03	9:00
+25-Feb-03	9:30	11-Mar-03	9:00
+11-Mar-03	9:30	26-Mar-03	9:30
+26-Mar-03	10:30	8-Apr-03	8:30
+8-Apr-03	9:00	23-Apr-03	8:30
+23-Apr-03	9:00	6-May-03	9:30
+6-May-03	10:00	20-May-03	8:30
+20-May-03	9:30	3-Jun-03	08:30
+3-Jun-03	9:00	17-Jul-03	8:30
+17-Jun-03	9:00	1-Jul-03	9:00
+1-jul-03	10:00	15-Jul-03	9:00
+15-Jul-03	9:30	30-Jul-03	8:30
+30-Jul-03	9:00	12-Aug-03	10:00
+12-Aug-03	10:30	28-Aug-03	9:00
+28-Aug-03	9:30	9-Sep-03	9:30
+9-Sep-03	10:00	23-Sep-03	9:30
+23-Sep-03	10:00	7-Oct-03	8:30
+7-Oct-03	9:30	21-Oct-03	9:00
+21-Oct-03	9:30	4-Nov-03	10:00
+4-Nov-03	11:00	20-Nov-03	9:30
+20-Nov-03	9:30	9-Dec-03	8:30
+9-Dec-03	8:00	23-Dec-03	10:00
+
+Station 19
+
+18-Dec-02	9:00	8-Jan-03	9:00
+08-Jan-03	9:30	21-Jan-03	8:30
+21-Jan-03	10:00	4-Feb-03	8:00
+4-Feb-03	9:00	18-Feb-03	8:00
+18-Feb-03	12:30	5-Mar-03	9:00
+5-Mar-03	9:30	18-Mar-03	7:30
+18-Mar-03	8:30	2-Apr-03	8:30
+2-Apr-03	9:00	15-Apr-03	9:30
+15-Apr-03	10:00	30-Apr-03	8:30
+30-Apr-03	9:00	13-May-03	8:30
+13-May-03	9:00	28-May-03	10:30
+28-May-03	11:00	10-Jun-03	7:30
+10-Jun-03	8:30	25-Jun-03	9:00
+25-Jun-03	10:30	9-Jul-03	7:30
+9-Jul-03	9:00	23-Jul-03	9:30
+23-Jul-03	8:30	6-Aug-03	9:30
+6-Aug-03	10:00	20-Aug-03	8:00
+20-Aug-03	8:30	3-Sep-03	9:00
+3-Sep-03	9:30	16-Sep-03	8:00
+16-Sep-03	8:30	30-Sep-03	7:30
+30-Sep-03	9:00	15-oct-03	8:30
+15-Oct-03	9:00	28-Oct-03	8:00
+28-Oct-03	8:30	18-Nov-03	9:00
+18-Nov-03	9:30	2-Dec-03	8:00
+2-Dec-03	10:00	16-Dec-03	8:30
+16-Dec-03	9:00	14-Jan-04	9:30
+
+Station 20
+
+18-Dec-02	9:30	8-Jan-03	9:00
+08-Jan-03	9:30	21-Jan-03	8:00
+21-Jan-03	8:30	4-Feb-03	8:30
+4-Feb-03	9:00	18-Feb-03	9:30
+18-Feb-03	10:00	5-Mar-03	9:30
+5-Mar-03	10:00	18-Mar-03	10:00
+18-Mar-03	10:30	2-Apr-03	9:30
+2-Apr-03	10:00	15-Apr-03	9:00
+15-Apr-03	9:30	30-Apr-03	8:30
+30-Apr-03	9:30	13-May-03	8:30
+13-May-03	9:00	28-May-03	9:30
+28-May-03	10:00	10-Jun-03	10:00
+10-Jun-03	10:30	25-Jun-03	10:00
+25-Jun-03	10:30	9-Jul-03	7:30
+9-Jul-03	8:30	23-Jul-03	9:30
+23-Jul-03	11:00	6-Aug-03	8:30
+6-Aug-03	10:00	20-Aug-03	8:30
+20-Aug-03	8:30	3-Sep-03	10:00
+3-Sep-03	9:30	16-Sep-03	8:00
+16-Sep-03	8:30	30-Sep-03	9:00
+30-Sep-03	8:30	15-oct-03	10:00
+15-Oct-03	11:00	28-Oct-03	9:00
+28-Oct-03	8:30	18-Nov-03	9:30
+18-Nov-03	10:30	2-Dec-03	8:30
+2-Dec-03	9:30	16-Dec-03	8:00
+16-Dec-03	9:00	14-Jan-04	11:30
+
+7. Distribution
+
+According to the Ocean and Coastal Resource Management Data Dissemination Policy 
+for the NERRS System-wide Monitoring Program:
+
+NOAA/ERD retains the right to analyze, synthesize and publish summaries of the 
+NERRS System-wide Monitoring Program data. The PI retains the right to be fully 
+credited for having collected and processed the data. Following academic 
+courtesy standards, the PI and the NERR site were the data are collected will be 
+contacted and fully acknowledge in any subsequent publication in which any part 
+of the data are used. Manuscripts resulting from the NOAA/OCRM supported 
+research that are produced for publication in open literature, including 
+referenced scientific journals, will acknowledge that the research was conducted 
+under an award from the Estuarine Reserves Division, Office of Ocean and Coastal 
+Resources Management, National Ocean Service, National Oceanic and Atmospheric 
+Administration. The data set enclosed within this package transmission is only 
+as good as the quality assurance and quality control procedures outlined by the 
+enclose metadata reporting statement. The user bears all responsibility for its 
+subsequent use/misuse in any further analysis or comparisons. The Federal 
+government does not assumes liability to the Recipient or third persons, nor 
+will the Federal government reimburse or indemnify the Recipient for its 
+liability due to any losses resulting in any way from the use of this data. NERR 
+water quality data and metadata can be obtained from the Research Coordinator at 
+the individual NERR site (please see section 1. Principal Investigator and 
+contact persons), from the Data Manager at the Central Data Management Office, 
+(please see personnel directory under general information link on CDMO homepage 
+(http://cdmo.baruch.sc.edu). Data are available in text tab-delimited format. 
+Microsoft Excel spreadsheet format and comma-delimited format.
+
+8. Associated researchers and projects:
+	
+	As part of the NERRS System-wide Monitoring Program, monthly samples for 
+nutrients and chlorophyll were conducted from January to December 2003. Nutrient 
+sampling at Station 9 is conducted using an ISCO sampler, which collects samples 
+every two hours during a twenty-four hour period. Grab samples are also 
+collected in all four YSI monitoring stations. Analysis of the samples is being 
+performed by the Virginia Institute of Marine Science, VIMS, in Virginia.
+
+Another project is the water monitoring program for ammonium, nitrate, nitrite, 
+ortho-phosphate, chlorophyll and pheophytin.  For this, an ISCO 6712 Portable 
+Sampler is used.  The sampler is an automatic instrument that can be easily moved 
+from site to site.  Constructed from durable, corrosion-resistant materials, the 
+sampler withstands the hostile environments of industrial and municipal 
+monitoring sites.  It is located at one of our four principal, long-term 
+stations and it is programmed to take samples every two hours.  The samples are 
+collected every month following an established protocol and sent to the Virginia 
+Institute of Marine Sciences for further analysis.
+
+9. Variable sequence, range of measurements, units, resolution and accuracy:
+YSI 6000/6600 data logger
+
+Variable      Range of Measurements          Resolution           Accuracy
+Date          1-12, 1-31, 00-99 (Mo,Day,Yr)  1 mo, 1 day, 1 yr    NA
+Time          0-24, 0-60, 0-60 (Hr,Min,Sec)  1 hr, 1 min, 1 s     NA
+Temp               -5 to 45 (c)              0.01  C              +/-0.15C
+Sp COND            0-100(mS/cm)              0.01mS/cm            +/-0.5% Of 
+reading + 0.001mS/Cm
+Salinity      0-70 Parts per thousand (ppt) 0.01 ppt             +/- 1% of 
+Reading or 0.1 ppt, (whichever is greater)
+DO            0-200 (% air saturation)       0.1% @air sat        +/-2% @air 
+Saturation
+DO            200-500 (% air saturation      0.1% @ air sat       +/- 6% @ 
+Saturation
+DO                 0-20 (mg/l)               0.01 mg/l            +/- 0.2mg/l
+DO                 20-50 (mg/l)              0.01 mg/l            +/- 0.6mg/l
+Depth (shallow)    0-9.1 (m)                 0.001m               +/- 0.018m
+PH                 2-14 units                0.01 units           +/- 0.2units
+Turb               0-1000 NTU                0.1 NTU              +/- 5% of 
+Reading or 2 NTU (whichever is greater)
+
+Data columns are separated by tabs.  Each file contains a two line Column header 
+at the top of the page, which identifies measurements and Units.
+
+ 10. Coded variable indicator and variable code definitions:	
+
+Station code: job09wq = Station 9
+Station code: job10wq = Station 10
+Station code: job19wq = Station 19
+Station code: job20wq = Station 20
+File definitions: site/file definition/month/year (ex: 10wq0803 = Station 10 
+water quality data from August of 2003).
+
+
+11. Data anomalies:
+
+January 2003
+
+Station 09
+No turbidity data 01/01/03 00:00 – 01/08/03 09:30 due to sensor being repaired. 
+
+Turbidity Values < -20 NTU were changed to 0 NTU. See section 14.
+01/21/03	9:30:00 through 01/21/03	16:00:00
+01/21/03	18:00:00 through 01/22/03	6:00:00
+01/22/03	7:00:00 through 01/22/03	14:00:00
+01/22/03	15:30:00 through 01/23/03	6:00:00
+01/23/03	7:00:00 through 01/23/03	14:30:00
+01/23/03	15:30:00 through 01/23/03	17:00:00
+01/23/03	18:00:00
+01/23/03	19:00:00 through 01/24/03	6:00:00
+01/24/03	7:00:00 through 01/24/03	16:30:00
+01/24/03	17:30:00 through 01/25/03	2:30:00
+01/25/03	3:30:00
+01/25/03	4:00:00 through 01/25/03	4:30:00
+01/25/03	7:00:00 through 01/25/03	9:00:00
+01/25/03	10:30:00 through 01/25/03	18:00:00
+01/25/03	19:00:00 through 01/26/03	7:30:00
+01/26/03	9:00:00 through 01/26/03	13:30:00
+01/26/03	14:30:00 through 01/26/03	17:30:00
+01/26/03	19:00:00 through 01/27/03	1:30:00
+01/27/03	2:30:00 through 01/27/03	7:00:00
+01/27/03	8:00:00 through 01/27/03	9:00:00
+01/27/03	11:00:00 through 01/27/03	13:00:00
+01/27/03	14:30:00 through 01/27/03	16:00:00
+01/27/03	17:00:00 through 01/27/03	17:30:00
+01/27/03	18:30:00 through 01/28/03	17:30:00
+01/28/03	18:30:00 through 01/29/03	10:00:00
+01/29/03	12:30:00 through 01/30/03	10:30:00
+01/30/03	13:00:00 through 01/31/03	12:00:00
+01/31/03	14:00:00 through 01/31/03	23:30:00
+
+Negative turbidity values deleted due to problems in calibration.
+01/08/03	10:00:00 through 01/13/03	6:00:00
+01/13/03	7:00:00 through 01/21/03	9:00:00
+
+High turbidity values deleted because of algal growth near the sensor
+01/13/03	6:30:00
+
+Station 10 
+Suspect DO (% and mg/L), Sal, Sp Cond and pH data deleted:
+01/01/03	00:00:00 through 01/08/03	10:00:00
+
+Turbidity sensor on reparation, no turbidity data.
+01/01/03 	00:00:00 through 01/21/03	09:00:00
+
+Turbidity values < -20 NTU were changed to 0 NTU. See section 14.
+01/21/03	09:30:00 through 01/28/03	13:30:00
+01/28/03	14:30:00 through 01/28/03	19:30:00
+01/28/03	20:30:00 through 01/28/03	22:00:00
+01/28/03	23:00:00
+01/29/03	00:30:00 through 01/29/03	01:00:00
+01/29/03	02:00:00
+01/29/03	03:30:00 through 01/29/03	04:30:00
+01/29/03	05:30:00
+01/29/03	06:30:00 through 01/29/03	08:30:00
+01/29/03	09:30:00
+01/29/03	10:30:00 through 01/29/03	11:30:00
+01/29/03	12:30:00 through 01/29/03	15:30:00
+01/29/03	16:30:00 through 01/29/03	18:00:00
+01/29/03	19:00:00 through 01/29/03	21:30:00
+01/29/03	23:00:00
+01/30/03	08:30:00
+01/30/03	12:00:00
+01/30/03	14:30:00
+01/31/03	08:00:00
+01/31/03	09:00:00
+01/31/03	10:30:00
+01/31/03	16:00:00
+01/31/03	17:00:00
+01/31/03	18:30:00
+01/31/03	22:30:00
+
+Station 19
+No turbidity data 01/01/03 00:00 – 01/21/03 08:30 due to sensor being repaired. 
+
+The sonde was out of water for maintenance.
+01/21/03	09:00:00 through 01/21/03	09:30:00
+
+No data due to sonde malfunction (the sonde it's auto disconnecting 
+intermittent)
+01/17/03	10:00:00
+01/05/03	21:00:00 – 21:30:00
+01/02/03	14:00:00
+01/01/03	13:00:00
+
+Turbidity values < -20 NTU were changed to 0 NTU. See section 14.
+01/21/03	10:00:00 through 01/21/03	12:30:00
+01/21/03	20:00:00 through 01/25/03	15:30:00
+01/25/03	17:30:00
+01/25/03	19:00:00 through 01/26/03	12:00:00
+01/26/03	17:00:00 through 01/26/03	18:00:00
+01/26/03	19:00:00 through 01/27/03	10:30:00
+01/27/03	16:30:00
+01/27/03	17:30:00 through 01/28/03	03:30:00
+01/28/03	04:30:00 through 01/28/03	13:00:00
+01/28/03	20:00:00 through 01/29/03	12:30:00
+01/29/03	14:00:00 through 01/29/03	14:30:00
+01/29/03	15:30:00 through 01/30/03	11:30:00
+01/30/03	14:30:00 through 01/31/03	23:30:00
+
+Station 20
+Turbidity sensor on reparation, no turbidity data.
+01/01/03	00:00:00 through 01/21/03	08:00:00
+
+Salinity, specific conductivity and pH data were deleted due to possible 
+conductivity calibration error. DO mg/L and depth were retained. 
+01/08/03	09:30:00 through 01/21/03	08:00:00
+
+Negative turbidity values were changed to 0 NTU.
+01/21/03	08:30:00 through 01/31/03	23:30:00
+
+February 2003
+
+Station 09
+Turbidity values < -20 NTU were changed to 0 NTU. See section 14.
+02/01/03	0:00:00 through 02/02/03	6:00:00
+02/02/03	7:00:00 through 02/03/03	15:00:00
+02/03/03	16:00:00 through 02/03/03	20:00:00
+02/03/03	21:00:00
+02/03/03	21:30:00
+02/03/03	22:30:00 through 02/04/03	10:00:00
+02/04/03	11:00:00 through 02/04/03	11:30:00
+02/04/03	12:30:00
+02/04/03	14:00:00 through 02/04/03	15:30:00
+02/04/03	16:30:00 through 02/04/03	17:00:00
+02/04/03	18:00:00 through 02/04/03	20:30:00
+02/04/03	21:30:00
+02/05/03	0:00:00 through 02/05/03	4:00:00
+02/05/03	5:30:00 through 02/05/03	6:00:00
+02/05/03	7:00:00 through 02/05/03	14:30:00
+02/05/03	16:00:00 through 02/05/03	17:30:00
+02/05/03	20:30:00
+02/06/03	1:30:00 through 02/06/03	4:00:00
+02/06/03	7:30:00
+02/07/03	0:30:00
+02/07/03	2:00:00 through 02/07/03	2:30:00
+02/07/03	4:00:00 through 02/07/03	4:30:00
+02/07/03	5:30:00 through 02/07/03	13:00:00
+02/07/03	14:00:00 through 02/08/03	2:30:00
+02/08/03	3:30:00 through 02/08/03	7:00:00
+02/08/03	8:00:00 through 02/08/03	11:00:00
+02/08/03	13:30:00 through 02/08/03	14:00:00
+02/08/03	15:00:00
+02/08/03	16:00:00 through 02/08/03	18:00:00
+02/08/03	19:30:00
+02/08/03	21:00:00 through 02/09/03	0:00:00
+02/09/03	1:00:00 through 02/09/03	6:30:00
+02/09/03	10:00:00 through 02/09/03	11:30:00
+02/09/03	15:00:00
+02/09/03	16:00:00 through 02/09/03	17:30:00
+02/09/03	20:00:00
+02/09/03	22:00:00
+02/09/03	22:30:00 through 02/09/03	23:00:00
+02/10/03	2:30:00
+02/10/03	4:00:00
+02/10/03	6:00:00
+02/11/03	0:30:00
+02/11/03	2:30:00
+02/11/03	3:30:00 through 02/11/03	5:00:00
+02/11/03	6:30:00 through 02/11/03	7:30:00
+02/11/03	9:00:00 through 02/11/03	9:30:00
+02/12/03	3:30:00
+02/13/03	0:30:00
+02/13/03	3:00:00 through 02/13/03	3:30:00
+02/13/03	4:30:00 through 02/13/03	6:00:00
+02/13/03	7:00:00 through 02/13/03	8:00:00
+02/13/03	21:00:00
+02/13/03	23:30:00
+02/14/03	1:00:00 through 02/14/03	3:00:00
+02/14/03	4:00:00 through 02/14/03	6:00:00
+02/14/03	7:00:00 through 02/14/03	8:00:00
+02/14/03	21:30:00
+02/14/03	23:00:00 through 02/14/03	23:30:00
+02/15/03	1:00:00
+02/15/03	3:00:00 through 02/15/03	3:30:00
+02/15/03	4:30:00 through 02/15/03	6:00:00
+02/15/03	7:00:00 through 02/15/03	8:00:00
+02/15/03	16:30:00
+02/16/03	5:30:00
+02/16/03	7:00:00
+02/16/03	8:00:00 through 02/17/03	8:30:00
+02/17/03	12:00:00
+02/17/03	19:30:00
+02/18/03	0:30:00
+02/18/03	7:30:00
+02/18/03	8:00:00 through 02/18/03	8:30:00
+02/18/03	16:00:00
+02/18/03	17:30:00
+02/18/03	18:00:00
+02/18/03	21:30:00 through 02/18/03	22:00:00
+02/18/03	23:00:00 through 02/18/03	23:30:00
+02/19/03	1:00:00
+02/19/03	2:30:00
+02/19/03	5:30:00
+02/19/03	7:00:00 through 02/19/03	7:30:00
+02/19/03	8:00:00
+02/19/03	20:00:00 through 02/19/03	20:30:00
+02/19/03	22:00:00
+02/20/03	0:00:00
+02/20/03	1:00:00 through 02/20/03	1:30:00
+02/20/03	7:30:00
+02/20/03	15:30:00 through 02/20/03	17:00:00
+02/20/03	18:00:00
+02/20/03	19:30:00
+02/20/03	20:30:00
+02/20/03	22:30:00 through 02/21/03	4:00:00
+02/21/03	9:00:00
+02/21/03	10:00:00
+02/21/03	23:30:00
+02/22/03	22:00:00 through 02/23/03	1:30:00
+02/23/03	2:30:00 through 02/23/03	3:00:00
+02/23/03	4:00:00
+02/23/03	5:30:00
+02/23/03	6:30:00
+02/23/03	7:00:00
+02/23/03	21:00:00 through 02/24/03	1:30:00
+02/24/03	2:30:00 through 02/24/03	3:00:00
+02/24/03	4:00:00 through 02/24/03	4:30:00
+02/25/03	0:30:00 through 02/25/03	4:00:00
+02/25/03	5:00:00 through 02/25/03	7:00:00
+02/25/03	8:00:00
+02/26/03	23:30:00
+02/27/03	1:30:00
+02/27/03	3:00:00 through 02/27/03	4:30:00
+02/27/03	5:30:00 through 02/27/03	6:00:00
+02/27/03	7:00:00
+02/28/03	8:30:00
+02/28/03	20:30:00
+02/28/03	23:00:00 through 02/28/03	23:30:00
+
+Station 10
+Turbidity values < -20 NTU were changed to 0 NTU. See section 14.
+02/01/03	0:00:00
+02/01/03	1:30:00
+02/01/03	3:00:00
+02/01/03	4:30:00
+02/01/03	6:00:00 through 02/01/03	6:30:00
+02/01/03	7:00:00 through 02/01/03	8:00:00
+02/01/03	9:30:00
+02/01/03	11:00:00
+02/01/03	12:30:00
+02/01/03	14:00:00
+02/01/03	15:30:00
+02/11/03	10:00:00 through 02/12/03	5:00:00
+02/12/03	6:00:00 through 02/12/03	7:30:00
+02/12/03	9:00:00 through 02/13/03	0:30:00
+02/13/03	1:30:00 through 02/13/03	7:30:00
+02/13/03	8:30:00 through 02/15/03	2:00:00
+02/15/03	3:00:00 through 02/16/03	16:30:00
+02/16/03	17:30:00 through 02/18/03	17:00:00
+02/18/03	18:00:00 through 02/19/03	6:00:00
+02/19/03	7:00:00 through 02/19/03	13:30:00
+02/19/03	14:30:00 through 02/20/03	17:00:00
+02/20/03	19:00:00 through 02/21/03	2:30:00
+02/21/03	3:30:00
+02/21/03	4:30:00 through 02/21/03	7:00:00
+02/21/03	8:00:00 through 02/21/03	9:30:00
+02/21/03	10:30:00 through 02/21/03	11:30:00
+02/21/03	12:30:00
+02/21/03	13:00:00 through 02/21/03	16:30:00
+02/21/03	17:30:00 through 02/21/03	20:00:00
+02/21/03	21:00:00 through 02/22/03	18:30:00
+02/22/03	19:30:00 through 02/23/03	13:30:00
+02/23/03	15:30:00 through 02/24/03	2:00:00
+02/24/03	3:00:00 through 02/24/03	3:30:00
+02/24/03	5:00:00
+02/25/03	9:30:00 through 02/25/03	13:00:00
+02/25/03	14:30:00 through 02/25/03	17:30:00
+02/25/03	18:30:00 through 02/25/03	20:00:00
+02/25/03	21:00:00 through 02/26/03	4:30:00
+02/26/03	5:30:00 through 02/26/03	8:30:00
+02/26/03	9:30:00 through 02/26/03	14:30:00
+02/26/03	15:30:00 through 02/27/03	7:30:00
+02/27/03	8:30:00 through 02/27/03	15:30:00
+02/27/03	17:00:00 through 02/27/03	18:00:00
+02/27/03	20:00:00 through 02/28/03	0:30:00
+02/28/03	1:30:00 through 02/28/03	11:30:00
+02/28/03	12:30:00 through 02/28/03	17:00:00
+02/28/03	18:00:00
+02/28/03	19:00:00
+02/28/03	22:00:00 through 02/28/03	23:30:00
+
+The sonde was out of water for maintenance.
+02/11/03	09:30:00
+
+High turbidity values deleted because of algal growth near the sensor
+02/02/03	09:00:00 through 02/04/03	12:30:00
+02/04/03	20:00:00
+02/04/03	22:00:00
+02/05/03	0:00:00
+02/05/03	2:00:00
+02/05/03	4:00:00
+02/05/03	6:00:00
+02/05/03	8:00:00
+02/05/03	10:00:00
+02/05/03	12:00:00
+02/05/03	14:00:00
+02/05/03	16:00:00
+02/05/03	20:00:00
+02/05/03	22:00:00
+02/06/03	0:00:00
+02/06/03	2:00:00
+02/06/03	4:00:00
+02/06/03	6:30:00
+02/06/03	9:00:00
+02/06/03	11:00:00
+02/06/03	13:00:00
+02/06/03	15:00:00
+02/06/03	17:00:00
+02/06/03	19:30:00
+02/06/03	23:00:00
+02/07/03	1:00:00
+02/07/03	4:00:00
+02/07/03	7:00:00
+02/07/03	8:00:00
+02/07/03	10:00:00
+02/07/03	12:30:00
+02/07/03	15:30:00
+02/07/03	16:30:00
+02/07/03	19:30:00
+02/07/03	21:30:00
+02/07/03	22:30:00
+02/08/03	10:30:00
+02/08/03	15:30:00
+02/08/03	18:00:00
+02/08/03	19:00:00
+02/08/03	21:00:00
+02/08/03	22:00:00
+02/08/03	23:00:00
+02/09/03	0:00:00
+02/09/03	4:00:00
+02/09/03	6:00:00
+02/09/03	8:30:00
+02/09/03	11:30:00
+02/09/03	12:30:00
+02/09/03	14:30:00
+02/09/03	17:30:00
+02/09/03	18:30:00
+02/09/03	20:30:00
+02/09/03	22:30:00
+02/09/03	23:30:00
+02/10/03	1:30:00
+02/10/03	5:30:00
+02/10/03	7:30:00
+02/10/03	9:30:00
+02/10/03	10:30:00
+02/10/03	11:30:00
+02/10/03	12:30:00
+02/10/03	13:30:00
+02/10/03	15:30:00
+02/10/03	16:30:00
+02/10/03	17:30:00
+02/10/03	18:30:00
+02/10/03	19:30:00
+02/10/03	21:30:00
+02/10/03	22:30:00
+02/10/03	23:30:00
+02/11/03	1:30:00
+02/11/03	2:30:00
+02/11/03	3:30:00
+02/11/03	4:30:00
+02/11/03	5:30:00
+02/11/03	8:30:00
+
+Station 19
+Dissolved oxygen data suspect for the following dates and times. The reason for 
+the low values is unknown. 
+02/03/03 12:00:00 – 19:00:00
+02/04/03 09:00:00 – 13:00:00
+
+
+The sonde was out of water for maintenance.
+2/18/03	08:30:00	-	12:00:00
+
+No data due to sonde malfunction (the sonde it's auto disconnecting 
+intermittent)
+02/04/03	08:30:00
+02/09/03	23:00:00
+02/10/03	17:00:00
+02/11/03	15:00:00
+02/12/03	11:00:00	-	11:30:00
+02/13/03	13:00:00
+02/13/03	15:00:00	-	15:30:00
+02/13/03	16:30:00	-	17:00:00
+02/14/03	10:00:00
+02/14/03	11:30:00
+02/14/03	16:00:00
+02/15/03	12:00:00	-	15:00:00
+02/15/03	16:00:00	-	19:00:00
+02/15/03	20:30:00
+02/16/03	12:30:00
+02/16/03	13:30:00	-	16:30:00
+02/16/03	19:30:00
+02/16/03	21:00:00
+02/17/03	11:00:00
+02/17/03	12:00:00	-	12:30:00
+02/17/03	16:00:00	-	16:30:00
+02/17/03	17:30:00	-	18:30:00
+02/18/03	07:00:00	-	07:30:00
+
+High turbidity values deleted because of algal growth near the sensor
+02/27/03	22:30:00
+
+Turbidity values < -20 NTU were changed to 0 NTU. See section 14.
+02/01/03	0:00:00 through 02/18/03	6:30:00
+02/19/03	0:30:00
+02/20/03	0:30:00
+02/24/03	0:00:00
+02/24/03	0:30:00 through 02/24/03	1:00:00
+02/24/03	8:30:00
+02/24/03	10:00:00
+02/24/03	14:00:00 through 02/24/03	14:30:00
+02/25/03	7:00:00
+02/25/03	22:00:00 through 02/26/03	2:30:00
+02/26/03	3:30:00 through 02/26/03	4:00:00
+02/26/03	5:00:00 through 02/26/03	6:00:00
+02/26/03	7:00:00 through 02/26/03	16:30:00
+02/26/03	17:30:00
+02/26/03	18:00:00 through 02/26/03	18:30:00
+02/26/03	22:30:00 through 02/27/03	0:00:00
+02/27/03	1:00:00
+02/27/03	2:00:00 through 02/27/03	3:00:00
+02/27/03	4:00:00 through 02/27/03	13:00:00
+02/27/03	14:00:00 through 02/27/03	22:00:00
+02/27/03	23:00:00 through 02/28/03	10:30:00
+02/28/03	12:30:00 through 02/28/03	15:00:00
+02/28/03	16:00:00 through 02/28/03	19:00:00
+02/28/03	20:00:00
+02/28/03	21:00:00 through 02/28/03	23:30:00
+
+Negative DO %andDO mg/l values were erased.
+02/03/03	18:00:00	-5.6
+02/04/03	9:30:00	-11.7
+02/04/03	10:00:00	-8.4
+
+
+Station 20
+Turbidity values < -20 NTU were changed to 0 NTU. See section 14.
+02/01/03	00:00:00 through 02/09/03	06:00:00
+02/09/03	09:00:00 through 02/10/03	05:00:00
+02/10/03	06:30:00
+02/10/03	07:30:00
+02/10/03	08:00:00 through 02/11/03	03:00:00
+02/11/03	09:00:00 through 02/12/03	06:00:00
+02/12/03	08:30:00 through 02/15/03	06:00:00
+02/15/03	14:00:00
+02/15/03	20:00:00
+02/15/03	22:30:00 through 02/16/03	00:00:00
+02/16/03	02:30:00
+02/16/03	04:00:00
+02/16/03	05:00:00 through 02/16/03	06:30:00
+02/17/03	02:00:00
+
+
+
+March 2003
+
+Station 09
+Turbidity values < -20 NTU were changed to 0 NTU. See section 14.
+03/01/03	0:00:00 through 03/01/03	2:30:00
+03/01/03	3:30:00
+03/01/03	4:30:00 through 03/01/03	6:00:00
+03/01/03	7:30:00
+03/01/03	8:30:00
+03/01/03	9:00:00
+03/01/03	21:30:00
+03/01/03	23:00:00 through 03/01/03	23:30:00
+03/02/03	2:30:00
+03/02/03	3:00:00
+03/02/03	4:00:00 through 03/02/03	5:00:00
+03/02/03	8:00:00
+03/02/03	20:30:00 through 03/03/03	3:30:00
+03/03/03	4:30:00
+03/03/03	6:30:00
+03/03/03	8:00:00
+03/03/03	9:30:00
+03/03/03	20:00:00
+03/03/03	21:00:00
+03/03/03	22:30:00 through 03/04/03	1:30:00
+03/04/03	3:00:00
+03/04/03	4:00:00
+03/04/03	5:00:00 through 03/04/03	5:30:00
+03/04/03	8:00:00
+03/05/03	5:30:00
+03/10/03	23:00:00 through 03/11/03	1:30:00
+03/11/03	4:00:00 through 03/11/03	4:30:00
+03/11/03	5:30:00
+03/11/03	21:30:00 through 03/12/03	6:00:00
+03/12/03	7:00:00
+03/13/03	0:30:00 through 03/13/03	2:00:00
+03/13/03	3:00:00 through 03/13/03	6:00:00
+03/13/03	7:00:00 through 03/13/03	8:30:00
+03/13/03	11:00:00
+03/14/03	0:00:00
+03/14/03	2:30:00 through 03/14/03	5:30:00
+03/14/03	6:30:00 through 03/14/03	8:30:00
+03/15/03	0:30:00 through 03/15/03	4:00:00
+03/15/03	5:00:00 through 03/15/03	6:00:00
+03/15/03	7:00:00 through 03/15/03	9:00:00
+03/16/03	0:30:00
+03/16/03	22:30:00
+03/16/03	23:30:00
+03/17/03	0:00:00 through 03/17/03	0:30:00
+03/17/03	2:00:00 through 03/17/03	3:00:00
+03/17/03	4:00:00
+03/17/03	7:30:00 through 03/17/03	8:30:00
+03/17/03	9:30:00 through 03/17/03	10:00:00
+03/17/03	22:00:00
+03/18/03	12:00:00
+03/18/03	20:00:00
+03/18/03	22:00:00 through 03/19/03	0:00:00
+03/19/03	1:30:00
+03/19/03	2:00:00 through 03/19/03	2:30:00
+03/19/03	10:00:00
+03/19/03	11:00:00
+03/19/03	22:30:00
+03/20/03	1:00:00
+03/20/03	2:00:00
+03/21/03	4:00:00
+03/22/03	23:30:00
+03/23/03	0:30:00 through 03/23/03	1:00:00
+03/23/03	2:00:00 through 03/23/03	2:30:00
+03/23/03	4:00:00
+03/23/03	6:00:00
+03/23/03	18:30:00 through 03/23/03	19:30:00
+03/23/03	22:00:00
+03/24/03	21:30:00
+03/24/03	22:00:00
+03/25/03	0:00:00
+03/26/03	21:30:00 through 03/27/03	1:30:00
+03/27/03	2:30:00 through 03/27/03	5:00:00
+03/27/03	10:00:00
+03/27/03	21:30:00 through 03/28/03	3:30:00
+03/28/03	5:00:00 through 03/28/03	5:30:00
+03/28/03	7:00:00
+03/28/03	20:00:00 through 03/29/03	1:00:00
+03/29/03	2:00:00 through 03/29/03	3:00:00
+03/29/03	4:30:00
+03/29/03	7:30:00
+03/29/03	19:30:00 through 03/30/03	3:00:00
+03/30/03	4:30:00 through 03/30/03	5:00:00
+03/30/03	8:00:00
+03/31/03	0:00:00 through 03/31/03	0:30:00
+03/31/03	2:00:00
+03/31/03	8:30:00
+03/31/03	10:00:00 through 03/31/03	10:30:00
+03/31/03	11:30:00
+03/31/03	23:30:00
+
+
+The sonde was out of water for maintenance.
+03/11/03	10:00:00
+03/26/03	09:00:00
+
+High turbidity values deleted because of algal growth near the sensor
+03/16/03	19:00:00
+03/17/03	16:00:00
+03/18/03	18:30:00
+03/23/03	13:30:00
+
+
+Station 10
+Turbidity values < -20 NTU were changed to 0 NTU. See section 14.
+03/01/03	0:00:00 through 03/01/03	5:30:00
+03/01/03	6:30:00 through 03/01/03	8:00:00
+03/01/03	9:00:00
+03/01/03	10:00:00 through 03/03/03	18:00:00
+03/03/03	19:30:00 through 03/03/03	22:30:00
+03/03/03	23:30:00 through 03/05/03	0:00:00
+03/05/03	2:30:00
+03/05/03	4:30:00
+03/05/03	5:30:00 through 03/06/03	0:30:00
+03/06/03	1:30:00 through 03/06/03	2:00:00
+03/06/03	3:00:00 through 03/06/03	5:30:00
+03/06/03	7:30:00 through 03/06/03	8:30:00
+03/06/03	9:30:00 through 03/06/03	13:00:00
+03/06/03	14:00:00 through 03/06/03	14:30:00
+03/06/03	16:00:00
+03/06/03	20:30:00 through 03/07/03	5:30:00
+03/07/03	6:30:00
+03/07/03	8:30:00
+03/07/03	9:30:00 through 03/07/03	11:00:00
+03/07/03	12:30:00
+03/07/03	15:30:00
+03/07/03	18:30:00
+03/07/03	19:30:00 through 03/07/03	20:00:00
+03/07/03	21:00:00 through 03/07/03	21:30:00
+03/07/03	23:00:00
+03/08/03	0:00:00
+03/08/03	3:00:00
+03/11/03	9:30:00 through 03/22/03	3:30:00
+03/22/03	4:30:00
+03/22/03	5:30:00 through 03/22/03	7:00:00
+03/22/03	11:30:00 through 03/22/03	12:30:00
+03/26/03	10:00:00 through 03/31/03	20:30:00
+
+
+High turbidity values deleted because of algal growth near the sensor
+03/09/03	5:30:00
+03/09/03	16:30:00
+03/10/03	0:00:00
+03/10/03	8:00:00
+03/10/03	9:00:00
+03/10/03	12:00:00
+03/11/03	4:30:00
+03/11/03	5:30:00
+03/11/03	9:00:00
+
+
+Station 19
+The sonde was out of water for maintenance.
+03/18/03	08:00:00
+
+Turbidity values < -20 NTU were changed to 0 NTU. See section 14.
+03/01/03	0:00:00 through 03/01/03	2:00:00
+03/01/03	3:30:00 through 03/03/03	4:00:00
+03/03/03	8:30:00
+03/03/03	21:00:00 through 03/04/03	1:30:00
+03/04/03	21:30:00 through 03/05/03	0:00:00
+03/05/03	22:00:00 through 03/05/03	23:00:00
+03/08/03	8:00:00
+03/08/03	22:30:00 through 03/09/03	2:00:00
+03/09/03	18:00:00 through 03/09/03	18:30:00
+03/10/03	8:30:00 through 03/10/03	10:00:00
+03/10/03	11:30:00 through 03/10/03	13:30:00
+03/10/03	14:30:00 through 03/10/03	19:00:00
+03/10/03	22:30:00 through 03/11/03	2:30:00
+03/11/03	3:30:00
+03/11/03	4:30:00 through 03/11/03	6:00:00
+03/11/03	23:00:00 through 03/12/03	0:00:00
+03/12/03	1:00:00
+03/12/03	3:00:00
+03/12/03	4:00:00
+03/15/03	1:00:00 through 03/15/03	3:00:00
+03/15/03	14:00:00
+03/16/03	14:00:00
+03/16/03	17:00:00
+03/17/03	5:30:00
+03/18/03	14:00:00
+03/18/03	15:00:00 through 03/18/03	15:30:00
+03/18/03	16:30:00
+03/19/03	8:30:00 through 03/19/03	12:30:00
+03/19/03	14:30:00
+03/19/03	15:30:00
+03/19/03	16:30:00 through 03/20/03	0:30:00
+03/20/03	2:00:00 through 03/20/03	4:30:00
+03/20/03	7:00:00
+03/20/03	8:30:00 through 03/20/03	9:00:00
+03/20/03	10:00:00 through 03/20/03	18:30:00
+03/20/03	19:30:00
+03/20/03	21:00:00 through 03/21/03	0:00:00
+03/21/03	1:00:00 through 03/21/03	3:30:00
+03/21/03	4:30:00 through 03/21/03	5:30:00
+03/21/03	9:00:00
+03/21/03	10:00:00 through 03/21/03	22:00:00
+03/21/03	23:30:00 through 03/23/03	9:30:00
+03/24/03	0:00:00
+03/24/03	1:00:00
+03/24/03	2:00:00
+03/24/03	9:30:00
+03/24/03	11:00:00 through 03/24/03	11:30:00
+03/24/03	12:00:00 through 03/24/03	13:00:00
+03/24/03	15:30:00 through 03/25/03	20:00:00
+03/25/03	21:00:00 through 03/25/03	23:00:00
+03/26/03	0:00:00 through 03/28/03	3:30:00
+03/28/03	4:00:00
+03/28/03	5:00:00
+03/28/03	7:30:00 through 03/28/03	19:30:00
+03/28/03	21:30:00 through 03/28/03	23:00:00
+03/29/03	0:00:00 through 03/29/03	9:30:00
+03/29/03	21:30:00
+03/29/03	23:00:00 through 03/29/03	23:30:00
+03/30/03	0:30:00
+03/30/03	1:00:00
+03/30/03	2:30:00
+03/31/03	9:00:00
+03/31/03	10:30:00
+03/31/03	21:30:00
+03/31/03	22:30:00 through 03/31/03	23:00:00
+
+Station 20
+Turbidity values < -20 NTU were changed to 0 NTU. See section 14.
+03/08/03	11:30:00 through 03/08/03	15:00:00
+03/09/03	11:00:00
+03/09/03	11:30:00
+03/09/03	12:30:00
+03/09/03	13:30:00
+03/09/03	14:00:00 through 03/09/03	15:30:00
+03/09/03	16:00:00 through 03/09/03	16:30:00
+03/09/03	17:00:00 through 03/09/03	17:30:00
+03/09/03	19:30:00
+03/10/03	10:30:00 through 03/10/03	12:00:00
+03/10/03	13:00:00
+03/10/03	14:00:00 through 03/10/03	15:30:00
+03/10/03	18:00:00
+03/10/03	22:00:00
+03/11/03	11:30:00 through 03/11/03	13:00:00
+03/11/03	14:00:00
+03/11/03	15:00:00
+03/11/03	18:00:00
+03/11/03	19:30:00
+03/11/03	21:30:00
+03/14/03	3:30:00 through 03/14/03	4:00:00
+03/14/03	8:30:00 through 03/14/03	9:30:00
+03/14/03	11:00:00 through 03/14/03	21:30:00
+03/14/03	22:30:00 through 03/15/03	1:30:00
+03/15/03	2:30:00 through 03/16/03	19:30:00
+03/16/03	22:30:00
+03/17/03	0:30:00 through 03/17/03	1:00:00
+03/17/03	5:00:00 through 03/17/03	6:00:00
+03/17/03	9:00:00 through 03/17/03	9:30:00
+03/17/03	10:30:00
+03/17/03	12:00:00 through 03/18/03	4:00:00
+03/18/03	6:30:00 through 03/18/03	7:30:00
+03/18/03	9:30:00 through 03/18/03	10:00:00
+
+
+
+
+High turbidity values deleted because of algal growth near the sensor
+03/31/03	15:30:00
+
+
+April 2003
+
+Station 09
+High turbidity values deleted because of algal growth near the sensor
+04/07/03	17:00:00
+04/20/03	12:30:00
+04/28/03	12:30:00
+
+
+Station 10 
+Turbidity values < -20 NTU were changed to 0 NTU. See section 14.
+04/01/03	06:30:00 through 04/01/03	15:30:00
+04/01/03	16:30:00 through 04/01/03	18:30:00
+04/03/03	07:30:00 through 04/03/03	14:00:00
+04/03/03	16:00:00 through 04/03/03	20:00:00
+04/04/03	01:00:00 through 04/05/03	05:30:00
+04/05/03	06:30:00
+04/05/03	07:30:00
+04/05/03	09:00:00
+04/05/03	10:30:00
+04/07/03	08:00:00
+04/08/03	00:00:00
+04/08/03	09:00:00 through 04/08/03	10:30:00
+04/08/03	11:30:00 through 04/10/03	11:00:00
+04/10/03	13:00:00 through 04/10/03	15:00:00
+04/10/03	16:00:00 through 04/12/03	21:00:00
+04/12/03	22:00:00
+04/12/03	22:30:00 through 04/13/03	09:30:00
+04/13/03	10:30:00 through 04/14/03	12:00:00
+04/14/03	13:00:00 through 04/15/03	05:30:00
+04/15/03	06:30:00 through 04/15/03	07:00:00
+04/15/03	08:00:00 through 04/15/03	11:00:00
+04/15/03	12:30:00
+04/15/03	13:00:00 through 04/15/03	13:30:00
+04/15/03	17:00:00 through 04/15/03	17:30:00
+04/15/03	18:30:00
+04/15/03	19:30:00
+04/15/03	23:00:00
+04/23/03	09:00:00 through 04/25/03	06:30:00
+04/25/03	07:30:00 through 04/30/03	23:30:00
+
+
+Station 19
+No data due to sonde malfunction (the sonde it's auto disconnecting 
+intermittent)
+04/13/03	10:00:00 through 04/15/03	09:30:00
+
+
+Turbidity values < -20 NTU were changed to 0 NTU. See section 14.
+04/01/03	14:00:00 through 04/01/03	19:30:00
+04/01/03	21:00:00 through 04/02/03	10:30:00
+04/02/03	14:00:00 through 04/02/03	14:30:00
+04/02/03	16:30:00 through 04/02/03	20:00:00
+04/02/03	21:00:00 through 04/02/03	23:00:00
+04/03/03	0:30:00
+04/03/03	2:00:00
+04/03/03	21:00:00 through 04/03/03	22:30:00
+04/03/03	23:30:00 through 04/04/03	0:00:00
+04/04/03	15:30:00 through 04/04/03	19:00:00
+04/04/03	23:30:00 through 04/05/03	4:00:00
+04/05/03	5:30:00 through 04/05/03	12:30:00
+04/05/03	13:30:00 through 04/05/03	17:30:00
+04/05/03	18:30:00 through 04/06/03	5:30:00
+04/06/03	6:30:00 through 04/06/03	19:30:00
+04/07/03	0:00:00 through 04/07/03	2:30:00
+04/07/03	3:30:00 through 04/07/03	9:30:00
+04/07/03	11:30:00 through 04/07/03	16:30:00
+04/07/03	20:30:00 through 04/08/03	6:30:00
+04/08/03	7:30:00 through 04/08/03	10:00:00
+04/08/03	15:00:00
+04/08/03	17:00:00
+04/08/03	20:30:00
+04/08/03	21:30:00
+04/08/03	22:30:00
+04/08/03	23:30:00
+04/09/03	3:00:00 through 04/09/03	3:30:00
+04/09/03	7:30:00 through 04/09/03	20:00:00
+04/09/03	21:00:00 through 04/09/03	22:00:00
+04/10/03	0:00:00 through 04/10/03	11:30:00
+04/10/03	12:30:00 through 04/10/03	14:00:00
+04/10/03	17:00:00 through 04/10/03	21:30:00
+04/10/03	23:30:00 through 04/11/03	2:30:00
+04/11/03	3:30:00 through 04/11/03	16:00:00
+04/11/03	17:00:00 through 04/11/03	19:00:00
+04/11/03	20:00:00 through 04/12/03	13:00:00
+04/12/03	14:00:00 through 04/12/03	15:30:00
+04/12/03	16:30:00 through 04/12/03	20:00:00
+04/12/03	21:30:00 through 04/12/03	23:30:00
+04/13/03	1:00:00 through 04/13/03	7:00:00
+04/13/03	8:00:00
+04/15/03	10:00:00
+04/15/03	14:00:00 through 04/15/03	15:30:00
+04/15/03	16:30:00 through 04/16/03	2:00:00
+04/16/03	3:00:00 through 04/16/03	7:30:00
+04/16/03	13:00:00 through 04/17/03	19:00:00
+04/17/03	20:00:00 through 04/17/03	22:30:00
+04/18/03	8:00:00 through 04/18/03	9:30:00
+04/18/03	15:30:00
+04/18/03	17:30:00
+04/18/03	22:30:00 through 04/19/03	10:00:00
+04/19/03	11:30:00
+04/19/03	14:00:00 through 04/19/03	15:00:00
+04/19/03	18:30:00
+04/19/03	19:30:00 through 04/19/03	20:00:00
+04/19/03	23:00:00
+04/20/03	0:00:00 through 04/20/03	21:30:00
+04/20/03	23:00:00 through 04/21/03	0:00:00
+04/21/03	1:00:00 through 04/21/03	3:30:00
+04/21/03	4:30:00 through 04/25/03	12:00:00
+04/25/03	18:30:00 through 04/26/03	9:30:00
+04/26/03	11:00:00 through 04/28/03	7:00:00
+04/28/03	8:00:00 through 04/28/03	11:30:00
+04/30/03	9:00:00
+04/30/03	10:00:00 through 04/30/03	10:30:00
+04/30/03	15:30:00 through 04/30/03	23:30:00
+
+
+Station 20
+The sonde was out of water for maintenance.
+04/30/03	09:00:00
+
+Turbidity values < -20 NTU were changed to 0 NTU. See section 14.
+04/02/03	12:00:00
+04/02/03	13:30:00
+04/02/03	15:00:00
+04/04/03	11:00:00
+04/04/03	14:30:00
+04/15/03	9:30:00 through 04/16/03	17:30:00
+04/16/03	20:00:00
+04/16/03	22:00:00 through 04/17/03	0:30:00
+04/17/03	1:30:00 through 04/17/03	12:00:00
+04/17/03	19:30:00 through 04/17/03	20:00:00
+04/17/03	22:00:00
+04/18/03	7:30:00 through 04/18/03	10:30:00
+04/18/03	11:30:00 through 04/18/03	12:00:00
+04/18/03	13:00:00 through 04/18/03	13:30:00
+04/18/03	20:00:00 through 04/18/03	22:30:00
+04/19/03	9:00:00 through 04/19/03	11:30:00
+04/19/03	13:00:00 through 04/19/03	16:00:00
+04/19/03	18:00:00
+04/19/03	19:00:00 through 04/19/03	19:30:00
+04/19/03	21:00:00 through 04/19/03	21:30:00
+04/20/03	0:00:00
+04/20/03	1:30:00
+04/20/03	6:30:00
+04/20/03	7:30:00 through 04/20/03	16:30:00
+04/20/03	17:30:00 through 04/21/03	15:00:00
+04/21/03	16:00:00 through 04/21/03	16:30:00
+04/21/03	17:30:00 through 04/25/03	17:30:00
+04/25/03	18:30:00 through 04/25/03	22:00:00
+04/25/03	23:00:00
+04/26/03	0:00:00
+04/26/03	1:00:00 through 04/26/03	5:00:00
+04/26/03	9:30:00 through 04/26/03	10:30:00
+04/26/03	11:30:00
+04/26/03	15:00:00
+04/26/03	16:00:00
+04/26/03	17:00:00
+04/26/03	21:00:00
+04/27/03	14:00:00 through 04/27/03	14:30:00
+04/29/03	16:00:00
+04/30/03	4:00:00
+04/30/03	9:30:00 through 04/30/03	19:30:00
+04/30/03	20:00:00
+
+High turbidity values deleted because of algal growth near the sensor
+04/30/03	00:30:00
+
+
+May 2003
+
+Station 09
+High turbidity values deleted because of algal growth near the sensor
+05/03/03	17:30:00
+05/03/03	18:00:00
+05/31/03	19:00:00
+05/31/03	23:00:00
+
+Turbidity Values < -20 NTU were changed to 0 NTU. See section 14.
+05/06/03	19:30:00 through 05/06/03	20:00:00
+05/06/03	21:00:00 through 05/06/03	21:30:00
+05/06/03	22:30:00 through 05/07/03	0:30:00
+05/07/03	2:30:00 through 05/07/03	3:30:00
+05/07/03	4:30:00
+05/07/03	20:00:00 through 05/08/03	1:00:00
+05/08/03	2:00:00 through 05/08/03	2:30:00
+05/08/03	5:00:00
+05/08/03	20:00:00
+05/08/03	21:00:00 through 05/09/03	0:00:00
+05/09/03	1:00:00 through 05/09/03	1:30:00
+05/09/03	2:00:00
+05/09/03	3:30:00 through 05/09/03	4:00:00
+05/09/03	5:00:00
+05/09/03	14:00:00
+05/09/03	18:00:00 through 05/10/03	3:30:00
+05/10/03	10:30:00
+05/10/03	17:30:00 through 05/10/03	18:30:00
+05/10/03	20:30:00 through 05/11/03	0:00:00
+05/11/03	1:00:00
+05/11/03	2:30:00
+05/11/03	14:30:00
+05/11/03	16:00:00
+05/11/03	17:30:00 through 05/11/03	18:30:00
+05/12/03	17:00:00
+05/12/03	18:30:00
+05/12/03	22:00:00
+05/22/03	22:00:00
+05/23/03	21:00:00 through 05/23/03	21:30:00
+
+
+
+Station 10
+Turbidity Values < -20 NTU were changed to 0 NTU. See section 14.
+05/01/03	0:00:00 through 05/05/03	15:30:00
+05/05/03	16:30:00 through 05/09/03	0:30:00
+05/09/03	4:00:00 through 05/10/03	17:00:00
+05/10/03	18:00:00
+05/10/03	19:30:00 through 05/10/03	22:30:00
+05/11/03	0:30:00 through 05/12/03	13:30:00
+05/15/03	22:30:00
+05/15/03	23:30:00
+05/17/03	4:30:00 through 05/17/03	6:00:00
+05/17/03	7:00:00 through 05/17/03	7:30:00
+05/18/03	11:00:00
+05/18/03	12:00:00 through 05/18/03	14:00:00
+05/18/03	15:00:00 through 05/18/03	15:30:00
+05/18/03	17:30:00
+05/18/03	18:30:00
+05/18/03	20:00:00
+05/19/03	4:00:00 through 05/19/03	5:00:00
+05/20/03	9:00:00 through 05/20/03	16:30:00
+05/20/03	17:30:00
+05/20/03	20:30:00
+05/20/03	23:30:00 through 05/21/03	0:30:00
+05/21/03	1:30:00 through 05/21/03	2:30:00
+05/21/03	4:00:00 through 05/21/03	5:00:00
+05/21/03	7:00:00 through 05/21/03	8:30:00
+05/21/03	10:30:00
+05/21/03	11:30:00 through 05/21/03	14:30:00
+05/21/03	15:00:00
+05/21/03	16:00:00 through 05/21/03	16:30:00
+05/21/03	20:00:00 through 05/22/03	8:30:00
+05/22/03	9:00:00
+05/22/03	10:00:00 through 05/22/03	12:30:00
+05/22/03	13:30:00 through 05/22/03	15:00:00
+05/22/03	16:00:00 through 05/22/03	17:00:00
+05/22/03	18:00:00 through 05/23/03	1:30:00
+05/23/03	2:00:00 through 05/23/03	3:30:00
+05/23/03	4:00:00 through 05/23/03	10:30:00
+05/23/03	11:00:00
+05/23/03	12:00:00 through 05/24/03	3:30:00
+05/24/03	4:00:00
+05/24/03	5:00:00 through 05/24/03	11:30:00
+05/24/03	12:30:00 through 05/24/03	15:00:00
+05/24/03	16:30:00 through 05/24/03	17:30:00
+05/24/03	18:30:00
+05/24/03	19:30:00 through 05/24/03	23:30:00
+05/25/03	0:30:00 through 05/25/03	21:00:00
+05/25/03	22:30:00
+05/26/03	1:00:00
+05/26/03	2:30:00
+05/26/03	3:00:00 through 05/26/03	3:30:00
+05/26/03	4:30:00
+05/26/03	7:00:00
+05/26/03	8:30:00
+05/26/03	10:30:00
+05/26/03	11:00:00 through 05/26/03	11:30:00
+05/26/03	12:30:00
+05/27/03	20:00:00
+05/28/03	3:30:00
+05/28/03	5:00:00 through 05/28/03	7:00:00
+05/28/03	9:00:00 through 05/28/03	11:30:00
+05/28/03	12:00:00
+05/28/03	13:00:00 through 05/28/03	17:00:00	
+05/28/03	18:00:00 through 05/28/03	18:30:00
+05/28/03	19:30:00
+
+Dissolved oxygen for deployment 05/20/03 09:30:00 – 06/03/03 08:30:00 suspect. 
+Post deployment calibration reading was 1.6%. Data retained.
+
+Station 19
+Turbidity Values < -20 NTU were changed to 0 NTU. See section 14.
+05/01/03	0:00:00 through 05/01/03	8:00:00
+05/01/03	18:30:00 through 05/03/03	10:00:00
+05/03/03	11:00:00 through 05/03/03	15:30:00
+05/03/03	17:00:00 through 05/04/03	11:30:00
+05/04/03	13:30:00 through 05/05/03	9:30:00
+05/05/03	12:30:00
+05/05/03	18:00:00 through 05/06/03	9:30:00
+05/06/03	18:00:00 through 05/06/03	18:30:00
+05/06/03	19:30:00
+05/06/03	20:30:00
+05/06/03	21:00:00 through 05/07/03	8:30:00
+05/07/03	9:00:00
+05/07/03	10:00:00 through 05/07/03	12:00:00
+05/07/03	16:00:00 through 05/07/03	18:30:00
+05/07/03	19:00:00 through 05/08/03	13:00:00
+05/08/03	18:30:00 through 05/09/03	14:00:00
+05/09/03	15:30:00 through 05/10/03	9:00:00
+05/10/03	16:00:00 through 05/11/03	12:30:00
+05/11/03	18:00:00 through 05/12/03	6:30:00
+05/12/03	7:30:00 through 05/12/03	8:30:00
+05/12/03	9:30:00
+05/12/03	18:30:00 through 05/13/03	8:30:00
+05/13/03	12:30:00 through 05/13/03	13:00:00
+05/13/03	16:30:00 through 05/15/03	9:00:00
+05/15/03	16:00:00 through 05/15/03	16:30:00
+05/15/03	17:30:00 through 05/16/03	9:30:00
+05/16/03	18:30:00 through 05/17/03	13:30:00
+05/17/03	14:00:00
+05/17/03	15:00:00
+05/17/03	17:30:00 through 05/18/03	0:00:00
+05/18/03	1:00:00 through 05/18/03	8:00:00
+05/18/03	10:00:00 through 05/18/03	11:30:00
+05/18/03	12:30:00 through 05/20/03	1:30:00
+05/20/03	2:30:00 through 05/22/03	11:30:00
+05/22/03	17:00:00 through 05/23/03	9:30:00
+05/23/03	17:30:00
+05/23/03	18:30:00 through 05/24/03	7:00:00
+05/24/03	18:30:00 through 05/25/03	2:00:00
+05/25/03	3:00:00 through 05/25/03	5:00:00
+05/25/03	17:00:00 through 05/26/03	5:30:00
+05/26/03	13:00:00 through 05/27/03	3:00:00
+05/27/03	5:00:00 through 05/27/03	9:00:00
+05/27/03	12:00:00 through 05/27/03	14:30:00
+05/27/03	15:30:00 through 05/27/03	21:00:00
+05/27/03	22:00:00 through 05/28/03	5:00:00
+05/28/03	11:00:00 through 05/29/03	9:30:00
+05/29/03	10:30:00 through 05/31/03	10:30:00
+05/31/03	11:30:00 through 05/31/03	23:30:00
+
+No data due to sonde malfunction (the sondes' auto disconnecting intermittent)
+05/28/03	05:30:00	-	10:30:00
+
+Specific Conductivity and Salinity data suspect beginning 05/16 17:30 through 
+06/02 05:30 due to conductivity being out of range. Variability in data may be 
+due to movement and wind. Data retained. 
+
+Station 20
+Turbidity Values < -20 NTU were changed to 0 NTU. See section 14.
+05/01/03	5:30:00
+05/01/03	7:00:00
+05/01/03	8:30:00 through 05/01/03	16:00:00
+05/02/03	10:00:00 through 05/02/03	15:30:00
+05/03/03	10:00:00 through 05/03/03	10:30:00
+05/03/03	12:00:00 through 05/03/03	16:30:00
+05/03/03	19:30:00
+05/04/03	10:30:00 through 05/04/03	13:00:00
+05/04/03	14:00:00 through 05/04/03	17:30:00
+05/05/03	10:00:00 through 05/05/03	11:00:00
+05/05/03	13:30:00
+05/05/03	14:30:00 through 05/05/03	15:30:00
+05/05/03	17:00:00
+05/13/03	9:30:00 through 05/13/03	14:30:00
+05/13/03	16:00:00 through 05/13/03	17:00:00
+05/13/03	18:30:00
+05/13/03	20:00:00
+05/14/03	9:00:00 through 05/14/03	10:00:00
+05/14/03	11:00:00 through 05/14/03	12:00:00
+05/14/03	13:00:00 through 05/14/03	14:30:00
+05/14/03	15:30:00 through 05/14/03	17:00:00
+05/14/03	19:00:00
+05/15/03	9:30:00 through 05/15/03	12:00:00
+05/15/03	13:00:00 through 05/15/03	16:30:00
+05/16/03	10:30:00 through 05/16/03	16:30:00
+05/16/03	17:30:00
+05/17/03	9:30:00 through 05/17/03	15:30:00
+05/17/03	16:30:00 through 05/17/03	17:30:00
+05/17/03	20:00:00
+05/18/03	9:30:00 through 05/18/03	10:00:00
+05/18/03	11:00:00 through 05/18/03	17:30:00
+05/18/03	18:30:00
+05/18/03	19:30:00 through 05/18/03	20:00:00
+05/18/03	23:30:00 through 05/19/03	0:30:00
+05/19/03	2:30:00
+05/19/03	11:00:00 through 05/19/03	11:30:00
+05/19/03	13:30:00 through 05/19/03	15:30:00
+05/19/03	17:30:00
+05/19/03	20:30:00
+05/20/03	0:00:00
+05/20/03	2:30:00 through 05/20/03	3:30:00
+05/20/03	5:00:00
+05/20/03	8:00:00
+05/20/03	9:00:00
+05/20/03	10:00:00
+05/20/03	12:00:00
+05/20/03	14:00:00
+05/20/03	15:30:00
+05/20/03	16:00:00 through 05/20/03	18:00:00
+05/20/03	19:00:00 through 05/20/03	19:30:00
+05/20/03	20:30:00
+05/20/03	22:30:00
+05/21/03	4:00:00 through 05/21/03	7:00:00
+05/21/03	9:00:00
+05/21/03	13:00:00 through 05/22/03	19:30:00
+05/22/03	21:30:00
+05/22/03	22:30:00
+05/23/03	0:00:00
+05/23/03	0:30:00
+05/23/03	1:00:00
+05/23/03	4:30:00
+05/23/03	5:30:00 through 05/23/03	6:30:00
+05/23/03	7:30:00 through 05/23/03	17:30:00
+05/23/03	19:00:00 through 05/23/03	21:00:00
+05/23/03	23:30:00 through 05/24/03	3:00:00
+05/24/03	4:00:00 through 05/24/03	15:30:00
+05/27/03	12:30:00
+05/27/03	13:30:00 through 05/27/03	15:00:00	
+05/28/03	5:00:00
+05/28/03	10:00:00 through 05/29/03	1:30:00
+05/29/03	2:30:00 through 05/29/03	20:00:00
+05/29/03	21:00:00 through 05/29/03	23:00:00
+05/30/03	0:00:00 through 05/30/03	5:00:00
+05/30/03	6:30:00 through 05/30/03	18:30:00
+05/30/03	20:00:00 through 05/30/03	23:00:00
+05/31/03	0:30:00 through 05/31/03	5:30:00
+05/31/03	7:30:00 through 05/31/03	18:30:00
+05/31/03	20:00:00 through 05/31/03	21:00:00
+
+
+
+
+June 2003
+
+Station 09
+High turbidity values deleted because of algal growth near the sensor
+06/01/03	0:30:00
+06/01/03	12:00:00
+06/01/03	19:00:00
+06/01/03	21:00:00
+
+
+
+Station 10
+Dissolved oxygen for deployment 05/20/03 09:30:00 – 06/03/03 08:30:00 suspect. 
+Post deployment calibration reading was 1.6%. Data retained.
+
+Turbidity Values < -20 NTU were changed to 0 NTU. See section 14.
+06/03/03	9:00:00 through 06/06/03	2:00:00
+06/06/03	3:00:00 through 06/07/03	19:00:00
+06/07/03	21:00:00 through 06/07/03	23:30:00
+06/08/03	0:30:00 through 06/08/03	20:00:00
+06/08/03	21:00:00 through 06/10/03	9:00:00
+06/10/03	10:00:00 through 06/10/03	13:00:00
+06/10/03	14:00:00 through 06/11/03	5:00:00
+06/11/03	6:00:00 through 06/11/03	15:00:00
+06/11/03	16:00:00 through 06/11/03	19:00:00
+06/11/03	21:00:00 through 06/12/03	16:30:00
+06/12/03	18:00:00 through 06/12/03	20:30:00
+06/12/03	22:00:00 through 06/13/03	2:30:00
+06/13/03	4:00:0
+06/13/03	5:00:00
+06/13/03	6:00:00
+06/13/03	10:00:00
+06/14/03	7:30:00
+06/17/03	9:00:00 through 06/19/03	9:00:00
+06/19/03	10:00:00 through 06/19/03	19:30:00
+06/20/03	7:30:00 through 06/20/03	8:00:00
+
+DO (%) and DO (mg/l) data suspect and deleted from 6/16 2200-6/17 0830
+
+
+Station 19
+Specific Conductivity and Salinity data suspect beginning 05/16 17:30 through 
+06/02 05:30 due to conductivity being out of range. Variability in data may be 
+due to movement and wind. Data retained. 
+
+No data due to sonde malfunction (the sondes' auto disconnecting intermittent)
+06/30/03	16:30:00	-	23:30:00
+
+The sonde was out of water for maintenance.
+06/10/03	08:00:00
+06/25/03	09:30:00	-	10:00:00
+
+Turbidity Values < -20 NTU were changed to 0 NTU. See section 14.
+06/01/03	0:00:00 through 06/03/03	12:30:00
+06/03/03	14:00:00 through 06/08/03	16:00:00
+06/08/03	17:00:00 through 06/09/03	11:00:00
+06/09/03	15:30:00 through 06/09/03	16:00:00
+06/09/03	17:00:00 through 06/10/03	10:00:00
+06/10/03	16:00:00 through 06/11/03	10:00:00
+06/11/03	11:00:00 through 06/11/03	12:00:00
+06/11/03	13:00:00 through 06/13/03	9:00:00
+06/13/03	18:00:00 through 06/13/03	22:30:00
+06/13/03	23:30:00 through 06/14/03	3:00:00
+06/14/03	4:00:00 through 06/14/03	9:30:00
+06/14/03	19:00:00 through 06/15/03	9:30:00
+06/15/03	10:30:00
+06/15/03	13:30:00 through 06/16/03	4:00:00
+06/16/03	5:30:00 through 06/16/03	12:00:00
+06/16/03	15:00:00 through 06/17/03	8:00:00
+06/17/03	18:30:00 through 06/17/03	20:30:00
+06/17/03	21:30:00 through 06/18/03	8:30:00
+06/18/03	16:00:00 through 06/18/03	16:30:00
+06/18/03	20:00:00 through 06/19/03	12:00:0
+06/19/03	13:00:00
+06/19/03	15:30:00 through 06/20/03	9:30:00
+06/20/03	18:00:00 through 06/20/03	18:30:00
+06/20/03	19:30:00 through 06/21/03	9:00:00
+06/21/03	15:00:00 through 06/22/03	8:00:00
+06/22/03	16:00:00 through 06/23/03	1:30:00
+06/23/03	2:30:00 through 06/23/03	8:30:00
+06/23/03	13:00:00
+06/23/03	18:00:00 through 06/23/03	19:30:00
+06/23/03	20:30:00 through 06/24/03	7:00:00
+06/24/03	12:00:00 through 06/24/03	13:30:00
+06/24/03	17:30:00 through 06/24/03	20:30:00
+06/24/03	21:30:00 through 06/25/03	7:30:00
+06/25/03	13:00:00
+06/25/03	14:30:00 through 06/26/03	8:30:00
+06/26/03	11:30:00
+06/26/03	13:00:00 through 06/26/03	20:00:00
+06/26/03	21:00:00 through 06/26/03	21:30:00
+06/26/03	22:30:00 through 06/27/03	8:30:00
+06/27/03	15:00:00 through 06/28/03	5:00:00
+06/28/03	14:30:00 through 06/29/03	5:00:00
+06/29/03	14:30:00 through 06/30/03	6:00:00
+06/30/03	11:00:00 through 06/30/03	12:00:00
+06/30/03	13:00:00 through 06/30/03	16:00:00
+
+
+
+
+Station 20
+Negative values of DO% and DO mg/l were deleted for sensor malfunction.
+06/26/03	17:30:00 through 06/30/03	23:30:00
+
+
+Turbidity Values < -20 NTU were changed to 0 NTU. See section 14.
+06/01/03	0:30:00 through 06/01/03	2:30:00
+06/01/03	3:30:00 through 06/01/03	4:30:00
+06/01/03	6:00:00
+06/01/03	7:30:00 through 06/01/03	17:30:00
+06/01/03	18:30:00 through 06/01/03	22:00:00
+06/01/03	23:30:00 through 06/02/03	1:00:00
+06/02/03	2:00:00
+06/02/03	7:00:00
+06/02/03	7:30:00 through 06/02/03	8:30:00
+06/02/03	10:00:00 through 06/02/03	18:30:00
+06/02/03	19:30:00 through 06/03/03	0:00:00
+06/03/03	2:00:00
+06/03/03	8:00:00
+06/03/03	9:30:00 through 06/03/03	14:30:00
+06/03/03	15:30:00
+06/03/03	17:00:00 through 06/03/03	20:00:00
+06/03/03	21:00:00
+06/03/03	22:00:00
+06/03/03	23:00:00 through 06/04/03	0:00:00
+06/04/03	10:00:00
+06/04/03	11:30:00
+06/04/03	12:00:00
+06/04/03	16:00:00
+06/04/03	19:30:00
+06/05/03	18:30:00
+06/05/03	19:30:00 through 06/05/03	22:30:00
+06/05/03	23:30:00 through 06/06/03	0:00:00
+06/06/03	10:00:00 through 06/06/03	15:30:00
+06/06/03	17:30:00
+06/06/03	19:30:00 through 06/06/03	20:00:00
+06/07/03	10:00:00 through 06/07/03	10:30:00
+06/08/03	11:30:00
+06/10/03	10:30:00 through 06/10/03	11:00:00
+06/10/03	12:00:00
+06/10/03	14:30:00
+06/11/03	10:30:00 through 06/11/03	11:00:00
+06/11/03	12:00:00 through 06/11/03	13:00:00
+06/11/03	14:00:00
+
+
+
+
+July 2003
+
+Stations 09 
+High turbidity values deleted because of algal growth near the sensor
+07/05/03	10:00:00
+07/28/03	5:30:00
+
+
+Turbidity Values < -20 NTU were changed to 0 NTU. See section 14.
+07/31/03	13:30:00
+07/31/03	15:30:00
+07/31/03	17:00:00 through 07/31/03	23:30:00
+
+
+
+Station 10
+Turbidity Values < -20 NTU were changed to 0 NTU. See section 14.
+07/01/03	10:30:00 through 07/01/03	11:00:00
+07/01/03	13:00:00
+07/01/03	22:30:00 through 07/01/03	23:30:00
+07/02/03	0:30:00 through 07/02/03	1:30:00
+07/02/03	3:00:00 through 07/02/03	3:30:00
+07/02/03	9:30:00
+07/03/03	1:00:00
+07/03/03	6:30:00
+07/03/03	7:30:00 through 07/03/03	8:30:00
+07/03/03	17:00:00
+07/03/03	21:00:00 07/03/03	21:30:00
+07/03/03	23:30:00
+07/04/03	0:30:00
+07/04/03	1:30:0
+07/04/03	3:30:00 through 07/04/03	4:30:00
+07/04/03	7:30:00
+07/05/03	5:00:00
+07/05/03	6:00:00 through 07/05/03	6:30:00
+07/05/03	7:30:00
+07/05/03	9:30:00
+07/05/03	13:30:00
+07/05/03	16:30:00
+07/05/03	17:30:00
+07/05/03	18:30:00
+07/05/03	23:00:00
+07/06/03	3:00:00
+07/06/03	3:30:00
+07/06/03	4:00:00
+07/06/03	4:30:00
+07/06/03	5:00:00
+07/06/03	6:30:00
+07/06/03	7:00:00 through 07/06/03	8:00:00
+07/06/03	13:30:00 through 07/06/03	14:00:00
+07/06/03	15:00:00
+07/06/03	16:00:00 through 07/06/03	17:00:00
+07/06/03	18:30:00
+07/07/03	1:00:00 through 07/07/03	2:00:00
+07/07/03	3:00:00
+07/07/03	4:00:00
+07/07/03	5:00:00
+07/07/03	6:30:00 through 07/07/03	8:30:00
+07/07/03	9:30:00
+07/07/03	11:30:00 through 07/07/03	12:00:00
+07/08/03	2:00:00
+07/08/03	3:00:00 through 07/08/03	4:00:00
+07/08/03	5:00:00
+07/08/03	6:30:00
+07/17/03	9:00:00 through 07/17/03	11:00:00
+07/17/03	12:00:00 through 07/17/03	13:30:00
+07/17/03	14:30:00 through 07/17/03	16:00:00
+07/17/03	19:00:00
+07/18/03	9:00:00
+07/18/03	10:00:00
+07/18/03	14:00:00
+07/18/03	16:00:00 through 07/18/03	16:30:00
+07/18/03	17:30:00 through 07/18/03	18:00:00
+07/19/03	1:30:00 through 07/19/03	3:30:00
+07/19/03	11:30:00
+07/19/03	14:30:00 through 07/19/03	16:00:00
+07/19/03	17:30:00
+07/20/03	0:30:00 through 07/20/03	1:00:00
+07/20/03	2:00:00
+07/20/03	12:30:00 through 07/20/03	13:30:00
+07/21/03	1:00:00 through 07/21/03	3:00:00
+07/21/03	11:00:00
+07/21/03	14:30:00
+07/21/03	16:00:00
+07/21/03	17:30:00 through 07/21/03	18:00:00
+07/22/03	1:00:00
+07/30/03	9:00:00 through 07/31/03	23:30:00
+
+DO drops from 117% to 26% then recovers to 103% from 7/28 130-300.  Data suspect
+and retained.  
+
+
+Station 19
+No data due to sonde malfunction (the sonde it's auto disconnecting 
+intermittent)
+07/08/03	15:30:00 through	07/09/03	08:00:00
+07/22/03	09:00:00 through	07/23/03	08:00:00
+
+
+Turbidity Values < -20 NTU were changed to 0 NTU. See section 14.
+07/01/03	0:00:00 through 07/01/03	11:00:00
+07/01/03	12:00:00
+07/01/03	15:00:00 through 07/02/03	10:00:00
+07/02/03	11:00:00 through 07/02/03	13:30:00
+07/02/03	14:30:00 through 07/03/03	11:00:00
+07/03/03	17:30:00
+07/04/03	7:30:00
+07/04/03	17:00:00
+07/04/03	18:00:00
+07/05/03	7:30:00
+07/05/03	8:30:00 through 07/06/03	4:00:00
+07/06/03	9:00:00 through 07/06/03	10:30:00
+07/06/03	11:30:00 through 07/06/03	13:00:00
+07/06/03	14:00:00 through 07/06/03	22:00:00
+07/07/03	5:30:00 through 07/07/03	6:30:00
+07/07/03	7:30:00
+07/07/03	8:30:00 through 07/07/03	10:00:00
+07/07/03	11:30:00 through 07/07/03	12:30:00
+07/07/03	13:30:00 through 07/07/03	14:00:00
+07/07/03	18:00:00
+07/09/03	8:30:00 through 07/09/03	10:00:00
+07/09/03	14:30:00 through 07/12/03	9:30:00
+07/12/03	10:30:00 through 07/18/03	7:00:00
+07/18/03	8:30:00 through 07/20/03	1:00:00
+07/20/03	3:00:00 through 07/21/03	17:30:00
+07/21/03	19:00:00 through 07/22/03	8:30:00
+07/23/03	18:30:00 through 07/23/03	19:00:00
+07/23/03	21:30:00 through 07/24/03	0:00:00
+07/24/03	1:00:00 through 07/24/03	9:00:00
+07/24/03	10:00:00 through 07/24/03	11:00:00
+07/24/03	19:00:00
+07/24/03	21:30:00 through 07/25/03	8:00:00
+07/25/03	18:00:00
+07/25/03	19:00:00 through 07/26/03	8:30:00
+07/26/03	22:00:00 through 07/27/03	5:30:00
+07/27/03	6:30:00 through 07/27/03	9:00:00
+07/27/03	16:00:00 through 07/27/03	17:30:00
+07/27/03	21:00:00 through 07/28/03	5:30:00
+07/28/03	6:30:00 through 07/28/03	8:30:00
+07/28/03	10:00:00 through 07/28/03	10:30:00
+07/28/03	15:30:00
+07/28/03	19:00:00 through 07/29/03	5:30:00
+07/29/03	8:00:00
+07/31/03	1:30:00 through 07/31/03	7:00:00
+07/31/03	8:00:00 through 07/31/03	12:00:00
+07/31/03	16:30:00 through 07/31/03	17:30:00
+07/31/03	19:00:00 through 07/31/03	19:30:00
+07/31/03	22:00:00 through 07/31/03	23:00:00
+
+
+Station 20
+The sonde was out of water for maintenance.
+07/23/03	10:00:00	-	10:30:00
+
+High turbidity values deleted because of algal growth near the sensor 
+07/24/03	11:30:00
+07/27/03	10:00:00
+
+
+Negative values of DO% and DO mg/l were deleted for sensor malfunction.
+07/01/03	00:00:00 through 07/09/03	08:30:00
+
+
+August 2003
+
+Station 09
+High turbidity values deleted because of algal growth near the sensor 
+08/17/03	1:30:00
+08/22/03	1:30:00
+08/24/03	20:00:00
+08/25/03	0:30:00
+
+
+Turbidity Values < -20 NTU were changed to 0 NTU. See section 14.
+08/01/03	0:00:00
+08/01/03	0:30:00
+08/01/03	1:00:00
+08/01/03	2:00:00 through 08/01/03	7:30:00
+08/01/03	8:30:00
+08/01/03	14:00:00
+08/01/03	16:00:00 through 08/01/03	16:30:00
+08/01/03	22:30:00 through 08/02/03	8:00:00
+08/02/03	9:30:00 through 08/02/03	11:30:00
+08/02/03	15:00:00
+08/02/03	16:00:00 through 08/02/03	18:00:00
+08/02/03	20:00:00
+08/02/03	21:30:00 through 08/03/03	4:30:00
+08/03/03	5:30:00 through 08/03/03	18:30:00
+08/03/03	20:30:00
+08/03/03	22:30:00 through 08/04/03	11:30:00
+08/04/03	12:30:00
+08/04/03	14:30:00
+08/04/03	15:30:00 through 08/04/03	20:00:00
+08/04/03	21:00:00 through 08/04/03	23:00:00
+08/05/03	0:00:00 through 08/05/03	11:30:00
+08/05/03	13:00:00 through 08/05/03	16:30:00
+08/05/03	17:00:00
+08/05/03	18:00:00
+08/05/03	20:00:00
+08/05/03	23:00:00 through 08/06/03	0:30:00
+08/06/03	1:30:00 through 08/06/03	8:30:00
+08/06/03	10:00:00
+08/06/03	11:00:00
+08/06/03	22:00:00 through 08/07/03	0:30:00
+08/07/03	19:00:00
+08/07/03	23:30:00
+08/11/03	1:00:00 through 08/11/03	1:30:00
+08/12/03	2:30:00
+08/12/03	3:30:00
+08/12/03	7:00:00 through 08/12/03	8:00:00
+08/12/03	9:00:00
+
+
+
+
+Station 10
+Turbidity Values < -20 NTU were changed to 0 NTU. See section 14.
+08/01/03	0:00:00 through 08/02/03	10:00:00
+08/02/03	11:00:00 through 08/02/03	11:30:00
+08/02/03	14:30:00
+08/02/03	15:30:00 through 08/02/03	16:30:00
+08/03/03	19:30:00
+08/08/03	6:30:00 through 08/08/03	19:00:00
+08/08/03	22:00:00 through 08/08/03	22:30:00
+08/09/03	3:00:00
+08/09/03	6:00:00 through 08/10/03	9:00:00
+08/10/03	11:00:00 through 08/10/03	14:00:00
+08/10/03	21:30:00
+08/11/03	2:30:00
+08/11/03	4:00:00
+08/11/03	6:30:00 through 08/11/03	10:00:00
+08/11/03	11:00:00
+08/11/03	12:30:00 through 08/11/03	13:30:00
+08/11/03	15:30:00 through 08/11/03	21:30:00
+08/11/03	23:00:00 through 08/12/03	1:30:00
+08/12/03	3:00:00 through 08/12/03	7:30:00
+08/12/03	8:30:00 through 08/13/03	2:00:00
+08/13/03	3:30:00 through 08/16/03	20:00:00
+08/17/03	9:00:00 through 08/17/03	19:00:00
+08/17/03	23:00:00
+08/18/03	6:30:00
+08/18/03	8:00:00 through 08/18/03	8:30:00
+08/18/03	9:30:00 through 08/18/03	10:30:00
+08/18/03	13:00:00
+08/18/03	15:00:00 through 08/18/03	20:00:00
+08/18/03	22:30:00 through 08/19/03	4:00:00
+08/19/03	5:00:00 through 08/20/03	4:30:00
+08/20/03	5:30:00 through 08/20/03	19:30:00
+08/20/03	23:30:00 through 08/21/03	0:00:00
+08/21/03	1:00:00
+08/21/03	2:30:00
+08/21/03	5:00:00
+08/21/03	6:00:00 through 08/21/03	7:00:00
+08/21/03	8:00:00 through 08/21/03	21:00:00
+08/21/03	23:30:00 through 08/22/03	1:00:00
+08/22/03	2:00:00 through 08/22/03	4:30:00
+08/22/03	5:30:00 through 08/24/03	1:00:00
+08/24/03	2:00:00 through 08/24/03	7:30:00
+08/24/03	9:00:00 through 08/24/03	20:30:00
+08/24/03	21:30:00 through 08/25/03	6:00:00
+08/25/03	7:30:00 through 08/25/03	8:30:00
+08/25/03	9:30:00 through 08/25/03	22:00:00
+08/25/03	23:00:00 through 08/26/03	0:00:00
+08/26/03	1:00:00 through 08/26/03	3:00:00
+08/26/03	6:00:00 through 08/26/03	7:00:00
+08/26/03	10:00:00 through 08/26/03	19:30:00
+08/26/03	21:00:00 through 08/26/03	21:30:00
+08/26/03	23:00:00 through 08/26/03	23:30:00
+08/27/03	0:30:00
+08/27/03	1:30:00 through 08/27/03	3:30:00
+08/27/03	18:00:00
+08/28/03	2:00:00
+08/28/03	4:30:00
+08/28/03	6:00:00 through 08/28/03	7:30:00
+08/28/03	9:00:00 through 08/28/03	18:00:00
+08/28/03	19:30:00 through 08/28/03	20:00:00
+08/28/03	21:30:00 through 08/29/03	3:30:00
+08/29/03	4:30:00
+08/29/03	5:30:00 through 08/29/03	17:00:00
+08/29/03	18:00:00 through 08/29/03	22:30:00
+08/30/03	0:00:00 through 08/30/03	3:00:00
+08/30/03	4:30:00 through 08/30/03	21:00:00
+08/30/03	22:00:00 through 08/31/03	3:00:00
+08/31/03	4:30:00 through 08/31/03	6:00:00
+08/31/03	8:00:00 through 08/31/03	14:00:00
+08/31/03	15:00:00 through 08/31/03	19:30:00
+08/31/03	20:30:00 through 08/31/03	23:30:00
+
+
+
+Station 19
+
+Turbidity Values < -20 NTU were changed to 0 NTU. See section 14.
+08/01/03	0:00:00 through 08/01/03	3:30:00
+08/01/03	5:00:00 through 08/01/03	7:30:00
+08/01/03	9:00:00 through 08/01/03	9:30:00
+08/01/03	11:00:00
+08/01/03	14:00:00 through 08/01/03	14:30:00
+08/01/03	17:00:00 through 08/01/03	17:30:00
+08/01/03	18:30:00 through 08/02/03	5:30:00
+08/02/03	7:30:00
+08/02/03	9:30:00 through 08/02/03	10:30:00
+08/02/03	21:00:00 through 08/02/03	21:30:00
+08/03/03	7:30:00 through 08/03/03	8:00:00
+08/03/03	21:00:00
+08/03/03	23:00:00 through 08/04/03	5:30:00
+08/04/03	6:30:00 through 08/04/03	8:00:00
+08/04/03	10:30:00
+08/04/03	19:30:00 through 08/04/03	21:00:00
+08/04/03	22:00:00
+08/05/03	3:00:00
+08/05/03	4:00:00
+08/05/03	7:30:00 through 08/05/03	8:30:00
+08/05/03	21:00:00
+08/06/03	7:00:00
+08/06/03	8:00:00 through 08/06/03	9:00:00
+08/06/03	14:30:00 through 08/06/03	16:00:00
+08/06/03	17:00:00 through 08/07/03	0:00:00
+08/07/03	1:00:00 through 08/07/03	3:30:00
+08/07/03	4:30:00
+08/07/03	5:30:00
+08/07/03	7:30:00 through 08/07/03	8:00:00
+08/07/03	12:00:00
+08/07/03	13:30:00 through 08/07/03	16:30:00
+08/07/03	17:30:00 through 08/07/03	21:00:00
+08/07/03	22:00:00 through 08/08/03	5:30:00
+08/08/03	6:30:00 through 08/08/03	10:30:00
+08/08/03	19:00:00 through 08/09/03	4:30:00
+08/09/03	6:00:00 through 08/09/03	8:00:00
+08/09/03	9:00:00
+08/09/03	19:00:00 through 08/09/03	21:30:00
+08/10/03	1:00:00
+08/10/03	2:00:00
+08/10/03	3:30:00 through 08/10/03	4:00:00
+08/10/03	5:00:00 through 08/10/03	5:30:00
+08/10/03	6:30:00 through 08/10/03	7:00:00
+08/10/03	8:00:00 through 08/10/03	8:30:00
+08/10/03	17:30:00 through 08/10/03	19:30:00
+08/10/03	23:00:00
+08/11/03	0:00:00
+08/11/03	1:00:00
+08/11/03	2:30:00
+08/11/03	6:00:00
+08/11/03	7:00:00 through 08/11/03	10:30:00
+08/11/03	16:30:00
+08/13/03	17:30:00 through 08/13/03	19:00:00
+08/14/03	17:00:00 through 08/14/03	18:30:00
+08/14/03	19:30:00 through 08/14/03	20:00:00
+08/15/03	2:00:00 through 08/15/03	3:00:00
+08/15/03	4:00:00 through 08/15/03	4:30:00
+08/15/03	6:30:00 through 08/15/03	9:30:00
+08/15/03	12:00:00
+08/15/03	13:00:00 through 08/16/03	5:30:00
+08/16/03	6:30:00 through 08/16/03	9:00:00
+08/16/03	17:00:00 through 08/16/03	22:00:00
+08/16/03	23:00:00 through 08/17/03	3:30:00
+08/17/03	5:00:00
+08/17/03	7:00:00
+08/17/03	22:30:00
+08/18/03	2:30:00
+08/18/03	6:00:00 through 08/18/03	6:30:00
+08/18/03	15:30:00
+08/18/03	17:00:00
+08/19/03	18:30:00
+08/20/03	8:30:00 through 08/22/03	12:30:00
+08/22/03	13:30:00 through 08/28/03	1:00:00
+08/28/03	2:00:00 through 08/28/03	4:00:00
+08/28/03	14:00:00 through 08/28/03	15:30:00
+08/30/03	5:00:00 through 08/31/03	23:30:00
+
+
+
+Station 20
+
+Depth 1/2 meter lower than normal from 8/5 1030-1130;  data considered
+suspect and deleted. 
+
+The sonde was out of water for maintenance.
+08/06/03	09:00:00	-	9:30:00
+
+
+Turbidity Values < -20 NTU were changed to 0 NTU. See section 14.
+08/06/03	14:00:00
+08/09/03	11:30:00
+08/20/03	9:00:00 through 08/21/03	16:30:00
+08/21/03	17:30:00 through 08/21/03	19:00:00
+08/21/03	20:00:00 through 08/22/03	5:30:00
+08/22/03	7:00:00 through 08/22/03	8:30:00
+08/22/03	10:00:00 through 08/22/03	16:30:00
+08/22/03	18:00:00 through 08/22/03	19:00:00
+08/22/03	22:30:00 through 08/22/03	23:00:00
+08/23/03	1:00:00 through 08/23/03	3:00:00
+08/23/03	4:00:00 through 08/23/03	6:00:00
+08/23/03	9:00:00 through 08/23/03	9:30:00
+08/23/03	11:00:00 through 08/23/03	17:00:00
+08/23/03	19:00:00 through 08/23/03	21:00:00
+08/23/03	22:00:00 through 08/23/03	23:00:00
+08/24/03	0:30:00
+08/24/03	1:30:00 through 08/24/03	5:30:00
+08/24/03	8:00:00
+08/24/03	9:30:00 through 08/24/03	18:30:00
+08/24/03	19:30:00
+08/25/03	0:00:00 through 08/25/03	6:00:00
+08/25/03	9:30:00 through 08/25/03	10:30:00
+08/25/03	11:30:00 through 08/25/03	12:30:00
+08/25/03	14:00:00 through 08/25/03	17:00:00
+08/25/03	19:00:00
+08/26/03	0:00:00 through 08/26/03	1:00:00
+08/26/03	3:00:00 through 08/26/03	11:00:00
+08/26/03	12:00:00 through 08/26/03	13:30:00
+08/26/03	20:00:00 through 08/27/03	0:00:00
+08/27/03	1:30:00
+08/27/03	9:30:00 through 08/27/03	14:30:00
+08/27/03	16:00:00 through 08/27/03	16:30:00
+08/27/03	17:30:00
+
+
+Negative values of DO% and DO mg/l were deleted for sensor malfunction.
+08/14/03	13:30:00 through 08/18/03	19:30:00
+
+
+September 2003
+
+Station 09
+Turbidity Values < -20 NTU were changed to 0 NTU. See section 14.
+09/11/03	6:00:00 through 09/11/03	6:30:00
+09/11/03	8:00:00
+09/11/03	17:30:00
+09/16/03	10:30:00
+09/17/03	12:30:00
+09/22/03	15:30:00
+09/22/03	16:00:00
+09/22/03	17:00:00 through 09/22/03	17:30:00
+
+
+High turbidity values deleted because of algal growth near the sensor 
+09/06/03	19:00:00
+09/07/03	1:30:00
+09/07/03	3:30:00
+09/08/03	2:00:00
+
+Dissolved oxygen data deleted for the following dates and times due to punctured 
+membrane.
+09/17/03 20:00:00 – 09/23/03 09:00:00
+
+
+
+Station 10
+Turbidity Values < -20 NTU were changed to 0 NTU. See section 14.
+09/01/03	0:00:00 through 09/01/03	5:30:00
+09/01/03	6:30:00
+09/01/03	7:30:00
+09/01/03	8:30:00
+09/01/03	9:30:00 through 09/01/03	12:30:00
+09/01/03	13:30:00 through 09/01/03	20:30:00
+09/02/03	18:30:00 through 09/02/03	19:00:00
+09/02/03	22:00:00 through 09/02/03	22:30:00
+09/03/03	0:30:00
+09/03/03	9:00:00
+09/03/03	15:00:00 through 09/03/03	15:30:00
+09/03/03	18:00:00 through 09/03/03	19:30:00
+09/04/03	14:30:00 through 09/04/03	16:00:00
+09/04/03	18:30:00 through 09/04/03	20:00:00
+09/05/03	2:00:00 through 09/05/03	3:00:00
+09/05/03	4:00:00
+09/05/03	12:00:00
+09/05/03	13:00:00
+09/05/03	15:00:00
+09/05/03	16:00:00
+09/05/03	17:00:00 through 09/05/03	17:30:00
+09/05/03	18:30:00 through 09/05/03	19:00:00
+09/06/03	2:00:00
+09/06/03	13:00:00 through 09/06/03	14:00:00
+09/06/03	15:00:00 through 09/06/03	16:30:00
+09/06/03	18:00:00
+09/07/03	14:00:00 through 09/07/03	14:30:00
+09/07/03	16:30:00 through 09/07/03	18:30:00
+09/07/03	20:00:00
+09/08/03	9:30:00 through 09/08/03	11:00:00
+09/08/03	12:30:00 through 09/08/03	13:00:00
+09/08/03	14:30:00 through 09/08/03	15:00:00
+09/08/03	16:00:00
+09/08/03	18:30:00
+09/09/03	3:30:00 through 09/09/03	4:00:00
+09/09/03	7:30:00
+09/09/03	10:00:00 through 09/18/03	3:30:00
+09/18/03	6:30:00
+09/18/03	8:00:00 through 09/18/03	12:00:00
+09/18/03	13:00:00 through 09/18/03	14:00:00
+09/18/03	15:00:00 through 09/19/03	1:30:00
+09/19/03	10:00:00 through 09/19/03	18:00:00
+09/19/03	19:00:00 through 09/21/03	6:30:00
+09/21/03	8:30:00 through 09/22/03	4:00:00
+09/22/03	6:00:00 through 09/22/03	7:30:00
+09/22/03	8:30:00 through 09/23/03	14:30:00
+09/23/03	15:30:00 through 09/23/03	16:00:00
+09/23/03	17:00:00 through 09/24/03	9:00:00
+09/24/03	10:00:00 through 09/30/03	23:30:00
+
+
+
+Negative values of DO% and DO mg/l were deleted for sensor malfunction.
+09/03/03	2:30:00 through  09/09/03	10:00:00
+
+
+
+Station 19
+The sonde was out of water for maintenance.
+09/30/03	08:00:00	-	08:30:00
+
+Dissolved oxygen data suspect for deployment 09/30/03 09:00:00 – 10/15/03 
+08:30:00. Readings for the entire deployment were lower than normal and first 
+reading for deployment spiked up to 172.5% then dropped to 70.5%.  
+
+Turbidity Values < -20 NTU were changed to 0 NTU. See section 14.
+09/01/03	0:00:00 through 09/01/03	5:30:00
+09/01/03	6:30:00 through 09/01/03	23:00:00
+09/02/03	0:30:00 through 09/02/03	3:30:00
+09/03/03	9:30:00 through 09/03/03	15:30:00
+09/03/03	16:30:00 through 09/06/03	10:30:00
+09/06/03	18:00:00 through 09/07/03	11:30:00
+09/07/03	17:00:00 through 09/08/03	11:30:00
+09/08/03	13:00:00 through 09/09/03	10:30:00
+09/09/03	14:00:00 through 09/10/03	11:30:00
+09/10/03	12:30:00 through 09/11/03	12:30:00
+09/11/03	13:30:00 through 09/13/03	2:00:00
+09/13/03	4:00:00
+09/13/03	5:30:00
+09/13/03	6:30:00
+09/13/03	7:30:00
+09/13/03	9:30:00 through 09/13/03	13:00:00
+09/16/03	8:30:00 through 09/16/03	15:30:00
+09/16/03	16:30:00 through 09/17/03	18:30:00
+09/17/03	19:30:00 through 09/17/03	21:00:00
+09/17/03	22:30:00 through 09/18/03	9:00:00
+09/18/03	10:30:00 through 09/18/03	12:00:00
+09/18/03	18:00:00 through 09/19/03	2:00:00
+09/19/03	3:00:00 through 09/19/03	10:00:00
+09/19/03	11:00:00
+09/19/03	12:00:00
+09/19/03	18:00:00 through 09/19/03	20:00:00
+09/19/03	21:30:00 through 09/20/03	6:30:00
+09/20/03	8:00:00 through 09/20/03	9:00:00
+09/20/03	11:00:00 through 09/20/03	15:30:00
+09/20/03	16:30:00 through 09/21/03	9:00:00
+09/21/03	11:00:00 through 09/21/03	12:30:00
+09/21/03	13:30:00 through 09/21/03	14:00:00
+09/21/03	15:30:00 through 09/21/03	20:30:00
+09/21/03	21:30:00 through 09/24/03	10:30:00
+09/24/03	12:00:00 through 09/24/03	12:30:00
+09/24/03	18:00:00 through 09/25/03	11:30:00
+09/25/03	17:30:00 through 09/26/03	7:00:00
+09/26/03	8:00:00 through 09/26/03	9:00:00
+09/26/03	16:30:00 through 09/26/03	18:30:00
+09/26/03	22:00:00
+09/26/03	23:00:00
+09/27/03	0:00:00 through 09/27/03	2:00:00
+09/27/03	3:00:00 through 09/27/03	4:00:00
+09/27/03	5:00:00
+09/27/03	19:00:00
+09/27/03	22:00:00 through 09/28/03	3:00:00
+09/28/03	4:30:00
+09/28/03	5:30:00 through 09/28/03	6:00:00
+09/28/03	7:00:00 through 09/28/03	9:00:00
+09/28/03	18:00:00 through 09/28/03	18:30:00
+09/28/03	20:00:00 through 09/28/03	23:00:00
+09/29/03	1:00:00 through 09/29/03	5:30:00
+09/29/03	6:30:00 through 09/29/03	7:30:00
+09/29/03	8:30:00
+09/29/03	11:00:00
+09/30/03	0:00:00 through 09/30/03	5:00:00
+09/30/03	6:00:00 through 09/30/03	14:30:00
+09/30/03	15:00:00 through 09/30/03	23:30:00
+
+
+The sonde was out of water for sham of Aguirre power plant.
+09/25/03	11:00:00	-	13:30:00
+
+
+Station 20
+Turbidity Values < -20 NTU were changed to 0 NTU. See section 14.
+09/03/03	04:00:00
+09/16/03	09:00:00
+09/16/03	10:00:00 through 09/16/03	11:00:00
+09/16/03	12:00:00
+09/30/03	09:30:00 through 09/30/03	17:30:00
+09/30/03	18:30:00 through 09/30/03	21:00:00
+09/30/03	22:00:00 through 09/30/03	23:30:00
+
+
+
+October 2003
+
+Station 09
+The negative DO% and DO mg/l values are changed to zero (0) because this station 
+presents oxygen deficiency periods on the water column caused by organic 
+material decomposition and oxygen consumed by algae.
+10/09/03	02:30:00
+10/09/03	03:30:00
+10/11/03	06:30:00
+10/11/03	07:00:00
+10/12/03	00:00:00
+10/12/03	07:30:00
+10/12/03	21:30:00
+10/12/03	23:30:00
+10/13/03	00:30:00
+10/14/03	00:00:00 through 10/14/03	00:30:00
+10/15/03	00:30:00
+10/15/03	01:00:00 through 10/15/03	04:00:00
+10/15/03	05:00:00 through 10/15/03	10:30:00
+10/15/03	20:30:00 through 10/16/03	03:30:00
+10/16/03	04:30:00
+10/16/03	05:30:00 through 10/16/03	07:30:00
+10/16/03	08:30:00 through 10/16/03	09:30:00
+10/17/03	02:00:00
+10/17/03	03:00:00 through 10/17/03	05:30:00
+10/17/03	07:00:00 through 10/17/03	07:30:00
+10/18/03	23:00:00
+10/19/03	23:30:00
+10/20/03	00:00:00 through 10/20/03	00:30:00
+10/20/03	04:30:00 through 10/20/03	05:00:00
+10/20/03	07:00:00
+10/20/03	22:30:00 through 10/21/03	06:00:00
+10/21/03	07:30:00 through 10/21/03	08:00:00
+
+
+Turbidity Values < -20 NTU were changed to 0 NTU. See section 14.
+10/21/03	14:30:00
+10/23/03	06:30:00
+10/23/03	07:30:00
+
+
+
+High turbidity values deleted because of algal growth near the sensor
+10/03/03	17:00:00
+
+
+
+
+Station 10
+The sonde was out of water for maintenance.
+10/07/03	09:00:00
+
+
+Turbidity Values < -20 NTU were changed to 0 NTU. See section 14.
+10/01/03	0:00:00
+10/01/03	0:30:00 through 10/01/03	1:00:00
+10/01/03	2:00:00 through 10/01/03	4:00:00
+10/01/03	5:00:00 through 10/01/03	6:30:00
+10/01/03	9:30:00 through 10/01/03	18:30:00
+10/01/03	19:30:00 through 10/01/03	20:00:00
+10/01/03	21:00:00 through 10/02/03	3:00:00
+10/02/03	9:30:00 through 10/02/03	20:00:00
+10/02/03	21:00:00
+10/02/03	22:30:00
+10/02/03	23:30:00 through 10/03/03	21:30:00
+10/03/03	22:30:00
+10/03/03	23:30:00 through 10/04/03	0:30:00
+10/04/03	1:30:00 through 10/04/03	3:00:00
+10/04/03	9:30:00 through 10/04/03	20:30:00
+10/04/03	21:30:00 through 10/04/03	22:00:00
+10/05/03	0:30:00 through 10/05/03	2:30:00
+10/05/03	4:00:00
+10/05/03	6:00:00 through 10/05/03	6:30:00
+10/05/03	8:30:00 through 10/05/03	23:30:00
+10/06/03	1:30:00 through 10/06/03	22:30:00
+10/06/03	23:30:00
+10/07/03	0:30:00 through 10/08/03	6:00:00
+10/08/03	7:00:00
+10/08/03	8:00:00 through 10/09/03	2:30:00
+10/09/03	14:30:00 through 10/09/03	15:00:00
+10/09/03	16:00:00
+10/09/03	21:30:00 through 10/10/03	0:30:00
+10/10/03	1:30:00 through 10/10/03	4:30:00
+10/10/03	9:30:00 through 10/10/03	10:00:00
+10/11/03	8:00:00 through 10/11/03	9:30:00
+10/11/03	10:30:00 through 10/12/03	0:30:00
+10/12/03	2:00:00
+10/12/03	4:00:00
+10/12/03	5:30:00
+10/12/03	8:30:00
+10/12/03	9:30:00 through 10/12/03	21:30:00
+10/12/03	23:00:00
+10/13/03	0:00:00 through 10/13/03	4:00:00
+10/13/03	8:00:00 through 10/13/03	13:00:00
+10/13/03	14:00:00 through 10/13/03	17:00:00
+10/13/03	18:30:00 through 10/13/03	22:00:00
+10/14/03	0:00:00
+10/21/03	9:30:00 through 10/21/03	22:30:00
+10/21/03	23:30:00
+10/22/03	0:30:00 through 10/23/03	12:30:00
+10/23/03	14:30:00
+10/23/03	15:30:00
+10/23/03	19:30:00 through 10/23/03	20:00:00
+10/23/03	22:00:00 through 10/26/03	18:00:00
+10/26/03	19:00:00 through 10/26/03	21:00:00
+10/27/03	0:00:00 through 10/27/03	1:00:00
+10/27/03	8:00:00 through 10/27/03	23:00:00
+10/28/03	1:30:00 through 10/28/03	4:00:00
+10/28/03	5:00:00 through 10/28/03	9:30:00
+10/28/03	11:30:00
+10/28/03	18:30:00 through 10/28/03	19:00:00
+10/28/03	21:30:00 through 10/29/03	1:00:00
+10/29/03	2:00:00
+10/29/03	13:00:00 through 10/29/03	14:00:00
+10/29/03	15:00:00 through 10/29/03	18:00:00
+10/29/03	19:00:00
+10/30/03	0:00:00 through 10/30/03	0:30:00
+
+
+
+Station 19
+Turbidity Values < -20 NTU were changed to 0 NTU. See section 14.
+10/01/03	0:00:00 through 10/09/03	18:00:00
+10/10/03	1:30:00 through 10/10/03	2:00:00
+10/10/03	5:30:00 through 10/10/03	7:00:00
+10/10/03	11:30:00 through 10/10/03	12:00:00
+10/10/03	15:30:00 through 10/10/03	16:00:00
+10/10/03	17:00:00
+10/10/03	18:30:00 through 10/10/03	23:00:00
+10/12/03	14:30:00
+10/12/03	15:30:00 through 10/17/03	11:00:00
+10/17/03	12:00:00 through 10/17/03	15:00:00
+10/17/03	16:00:00 through 10/19/03	12:30:00
+10/19/03	13:30:00 through 10/19/03	16:00:00
+10/19/03	17:30:00 through 10/20/03	10:30:00
+10/20/03	11:30:00
+10/20/03	12:30:00
+10/20/03	16:00:00 through 10/22/03	18:30:00
+10/22/03	19:30:00 through 10/25/03	15:00:00
+10/25/03	16:30:00 through 10/26/03	4:00:00
+10/26/03	6:00:00 through 10/30/03	21:00:00
+10/30/03	22:00:00 through 10/30/03	23:00:00
+10/31/03	1:30:00 through 10/31/03	23:30:00
+
+
+
+No data due to sonde malfunction (the sondes' auto disconnecting intermittent)
+10/15/03	02:00:00	-	08:30:00
+
+
+
+Station 20
+The sonde was out of water for maintenance.
+10/15/03	10:30:00
+
+
+Turbidity Values < -20 NTU were changed to 0 NTU. See section 14.
+10/01/03	00:00:00 through 10/02/03	21:00:00
+10/03/03	04:30:00 through 10/03/03	06:30:00
+10/03/03	08:00:00
+10/03/03	13:00:00 through 10/03/03	16:00:00
+10/03/03	17:00:00 through 10/03/03	17:30:00
+10/03/03	18:30:00 through 10/04/03	00:30:00
+10/04/03	01:30:00 through 10/04/03	07:30:00
+10/04/03	12:30:00 through 10/04/03	17:30:00
+10/04/03	19:30:00 through 10/04/03	20:00:00
+10/05/03	07:30:00 through 10/05/03	08:00:00
+10/05/03	10:00:00 through 10/05/03	19:30:00
+10/05/03	20:30:00
+10/06/03	04:00:00
+10/06/03	06:00:00
+10/06/03	07:00:00 through 10/06/03	07:30:00
+10/06/03	08:00:00
+10/06/03	10:00:00 through 10/06/03	16:30:00
+10/06/03	17:30:00 through 10/06/03	19:30:00
+10/07/03	09:00:00 through 10/07/03	12:00:00
+10/07/03	14:00:00
+10/07/03	16:30:00
+10/08/03	08:30:00
+10/08/03	09:30:00 through 10/08/03	10:00:00
+10/08/03	11:00:00 through 10/08/03	12:00:00
+10/08/03	13:00:00 through 10/08/03	16:00:00
+10/08/03	17:00:00
+10/08/03	19:30:00
+10/09/03	00:00:00
+10/09/03	05:30:00 through 10/09/03	17:00:00
+10/09/03	18:30:00
+10/11/03	11:30:00
+10/11/03	13:00:00 through 10/11/03	14:00:00
+10/11/03	19:00:00
+10/12/03	07:30:00
+10/12/03	09:00:00 through 10/12/03	10:30:00
+10/12/03	11:30:00 through 10/12/03	12:00:00
+10/12/03	13:00:00 through 10/12/03	19:30:00
+10/12/03	20:30:00 through 10/12/03	21:00:00
+10/13/03	07:30:00 through 10/13/03	16:30:00
+10/13/03	18:30:00 through 10/13/03	20:00:00
+10/13/03	21:00:00 through 10/13/03	21:30:00
+10/14/03	11:00:00 through 10/14/03	19:00:00
+10/14/03	20:00:00 through 10/14/03	23:00:00
+10/15/03	09:00:00
+10/15/03	10:00:00
+10/15/03	14:30:00
+10/15/03	21:30:00
+10/16/03	13:30:00 through 10/16/03	15:00:00
+10/16/03	16:30:00
+10/16/03	19:00:00 through 10/16/03	21:30:00
+10/17/03	14:00:00
+10/17/03	21:00:00 through 10/17/03	22:30:00
+10/17/03	23:30:00
+10/18/03	14:30:00
+10/28/03	11:00:00
+10/28/03	20:30:00 through 10/28/03	21:30:00
+10/29/03	21:00:00
+10/30/03	10:00:00
+10/30/03	11:00:00 through 10/30/03	15:30:00
+10/30/03	16:30:00 through 10/30/03	17:00:00
+10/31/03	12:00:00 through 10/31/03	14:00:00
+10/31/03	15:00:00 through 10/31/03	23:30:00
+
+
+
+November 2003
+
+Station 09
+High turbidity values deleted because of algal growth near the sensor
+11/03/03	3:00:00
+
+
+
+Station 10
+The negative DO% and DO mg/l values are changed to zero (0) because this station 
+presents oxygen deficiency periods on the water column caused by organic 
+material decomposition and oxygen consumed by algae.
+11/16/03	7:30:00
+11/16/03	8:30:00 through 11/16/03	10:30:00
+11/17/03	6:30:00 through 11/17/03	7:30:00
+11/17/03	9:30:00
+11/22/03	8:00:00
+11/23/03	5:30:00 through 11/23/03	6:00:00
+
+Turbidity Values < -20 NTU were changed to 0 NTU. See section 14.
+11/04/03	11:00:00 through 11/10/03	23:30:00
+11/11/03	6:30:00
+11/11/03	7:30:00
+11/11/03	9:00:00
+11/11/03	16:00:00
+
+The sonde was out of water for maintenance.
+11/04/03	10:30:00
+
+Station 19
+No data due to sonde malfunction (the sonde it's auto disconnecting 
+intermittent)
+11/17/03	23:00:00
+11/18/03	00:00:00	-	09:00:00
+11/30/03	18:30:00	-	23:30:00
+
+
+
+Turbidity Values < -20 NTU were changed to 0 NTU. See section 14.
+11/01/03	0:00:00 through 11/01/03	4:00:00
+11/01/03	6:30:00
+11/01/03	8:00:00 through 11/01/03	17:00:00
+11/01/03	18:00:00 through 11/02/03	16:00:00
+11/02/03	18:00:00 through 11/03/03	6:30:00
+11/03/03	7:30:00
+11/03/03	9:00:00
+11/04/03	7:00:00 through 11/04/03	10:30:00
+11/04/03	16:00:00
+11/04/03	17:00:00 through 11/04/03	19:30:00
+11/04/03	21:30:00
+11/04/03	22:30:00
+11/04/03	23:30:00 through 11/05/03	2:30:00
+11/05/03	3:30:00 through 11/05/03	4:30:00
+11/05/03	16:00:00 through 11/05/03	18:00:00
+11/06/03	3:00:00 through 11/06/03	3:30:00
+11/06/03	5:00:00 through 11/06/03	7:00:00
+11/06/03	11:00:00
+11/06/03	12:00:00 through 11/06/03	16:30:00
+11/07/03	5:30:00
+11/07/03	6:00:00
+11/09/03	15:00:00
+11/10/03	1:00:00
+11/10/03	2:00:00 through 11/10/03	3:00:00
+11/10/03	11:30:00
+11/10/03	19:00:00 through 11/10/03	20:30:00
+11/10/03	21:30:00
+11/11/03	4:30:00 through 11/11/03	5:00:00
+11/11/03	6:00:00 through 11/11/03	8:00:00
+11/18/03	9:30:00
+11/18/03	15:30:00 through 11/18/03	17:30:00
+11/18/03	19:00:00 through 11/18/03	20:30:00
+11/18/03	21:30:00 through 11/19/03	0:00:00
+11/19/03	3:00:00 through 11/19/03	12:00:00
+11/19/03	17:00:00 through 11/19/03	21:00:00
+11/19/03	22:30:00
+11/20/03	1:00:00 through 11/20/03	9:30:00
+11/20/03	10:30:00 through 11/22/03	15:30:00
+11/22/03	17:00:00 through 11/22/03	18:30:00
+11/22/03	19:30:00 through 11/22/03	21:00:00
+11/23/03	0:00:00 through 11/25/03	12:00:00
+11/25/03	16:00:00 through 11/26/03	5:30:00
+11/26/03	6:30:00 through 11/26/03	10:00:00
+11/26/03	12:00:00 through 11/26/03	14:30:00
+11/26/03	15:30:00 through 11/29/03	9:00:00
+11/29/03	12:30:00 through 11/30/03	18:00:00
+
+
+The negative DO% and DO mg/l values are changed to zero (0) because this station 
+presents oxygen deficiency periods on the water column caused by organic 
+material decomposition and oxygen consumed by algae.
+11/14/03	14:00:00 through 11/14/03	14:30:00
+11/14/03	15:30:00 through 11/14/03	18:30:00
+11/14/03	20:00:00 through 11/14/03	21:30:00
+
+
+Station 20
+
+The sonde was out of water for maintenance.
+11/18/03	10:00:00
+
+Negative values of DO% and DO mg/l were deleted for sensor malfunction.
+11/24/03	8:00:00 through 11/30/03	23:30:00
+
+Turbidity Values < -20 NTU were changed to 0 NTU. See section 14.
+11/01/03	14:00:00 through 11/01/03	16:00:00
+11/01/03	19:00:00 through 11/01/03	21:30:00
+11/01/03	22:30:00 through 11/01/03	23:30:00
+11/02/03	11:30:00
+11/02/03	13:30:00 through 11/02/03	14:00:00
+11/02/03	16:00:00 through 11/02/03	16:30:00
+11/02/03	18:30:00 through 11/02/03	20:00:00
+11/02/03	23:30:00 through 11/03/03	0:30:00
+11/03/03	1:30:00
+11/03/03	9:30:00
+11/03/03	10:30:00 through 11/03/03	15:30:00
+11/03/03	16:30:00
+11/03/03	18:30:00
+11/04/03	1:30:00
+11/04/03	3:00:00
+11/04/03	14:00:00
+11/04/03	14:30:00
+11/04/03	18:30:00
+11/05/03	3:00:00
+11/05/03	4:00:00 through 11/05/03	4:30:00
+11/05/03	8:30:00 through 11/05/03	9:00:00
+11/05/03	10:00:00 through 11/05/03	14:00:00
+11/05/03	15:00:00
+11/05/03	16:00:00 through 11/05/03	16:30:00
+11/06/03	11:00:00
+11/06/03	15:00:00
+11/07/03	11:00:00 through 11/07/03	11:30:00
+11/07/03	12:30:00 through 11/07/03	14:00:00
+11/08/03	11:00:00
+11/15/03	8:00:00
+11/15/03	21:00:00 through 11/16/03	7:00:00
+11/16/03	8:00:00 through 11/17/03	3:00:00
+11/17/03	4:00:00 through 11/17/03	4:30:00
+11/17/03	6:00:00
+11/17/03	8:00:00
+11/17/03	12:00:00 through 11/17/03	12:30:00
+11/17/03	20:30:00
+11/18/03	1:00:00
+11/18/03	3:00:00
+11/18/03	10:30:00 through 11/27/03	11:00:00
+11/27/03	13:30:00 through 11/30/03	23:30:00
+
+
+December 2003
+
+Station 09
+Turbidity Values < -20 NTU were changed to 0 NTU. See section 14.
+12/26/03	12:30:00 through 12/26/03	13:00:00
+
+
+DO (%) and DO (mg/l) data deleted, suspected wrong 
+12/23/03	11:00:00
+
+
+Station 10
+High turbidity values 12/01/03 00:00 through 12/09/03 08:30 due to fouling. Data 
+retained.  
+
+DO variability during the month is a result of biofouling of sonde. Data 
+retained. 
+
+
+Station 19
+The sonde was out of water for maintenance 12/02/03 08:30 – 09:30.
+
+Turbidity Values < -20 NTU were changed to 0 NTU. See section 14.
+12/01/03	0:00:00
+12/01/03	7:00:00
+12/01/03	9:00:00 through 12/01/03	10:00:00
+12/01/03	13:30:00
+12/01/03	18:30:00
+12/02/03	7:30:00
+12/02/03	10:00:00
+12/02/03	11:00:00 through 12/02/03	12:00:00
+12/02/03	18:00:00 through 12/03/03	14:00:00
+12/03/03	15:30:00 through 12/03/03	23:00:00
+12/04/03	0:00:00 through 12/04/03	0:30:00
+12/04/03	2:30:00 through 12/04/03	10:30:00
+12/04/03	13:30:00
+12/04/03	15:30:00 through 12/04/03	20:00:00
+12/04/03	21:00:00 through 12/04/03	22:30:00
+12/04/03	23:30:00 through 12/05/03	0:00:00
+12/05/03	3:00:00 through 12/05/03	4:30:00
+12/05/03	6:00:00 through 12/05/03	10:30:00
+12/05/03	11:30:00 through 12/05/03	12:30:00
+12/05/03	15:30:00 through 12/05/03	20:00:00
+12/06/03	0:30:00 through 12/06/03	3:00:00
+12/07/03	14:30:00
+12/07/03	16:00:00
+12/07/03	22:00:00 through 12/07/03	23:30:00
+12/08/03	2:00:00
+12/09/03	1:30:00
+12/09/03	8:00:00
+12/09/03	10:00:00
+12/09/03	17:00:00 through 12/09/03	17:30:00
+12/10/03	0:00:00 through 12/10/03	0:30:00
+12/10/03	6:00:00 through 12/10/03	7:30:00
+12/10/03	8:30:00 through 12/10/03	13:00:00
+12/10/03	17:00:00 through 12/10/03	23:30:00
+12/11/03	0:30:00 through 12/11/03	6:30:00
+12/11/03	7:30:00 through 12/11/03	11:00:00
+12/11/03	12:00:00 through 12/13/03	9:30:00
+12/13/03	11:00:00 through 12/13/03	12:00:00
+12/13/03	16:30:00
+12/13/03	18:00:00 through 12/13/03	23:30:00
+12/14/03	0:30:00 through 12/14/03	10:00:00
+12/14/03	17:00:00 through 12/15/03	10:00:00
+12/15/03	12:00:00 through 12/16/03	5:30:00
+12/16/03	6:30:00 through 12/16/03	11:00:00
+12/16/03	13:30:00
+12/16/03	17:30:00 through 12/17/03	5:00:00
+12/17/03	6:00:00 through 12/17/03	8:30:00
+12/17/03	9:30:00 through 12/17/03	10:30:00
+12/17/03	15:00:00 through 12/17/03	19:30:00
+12/17/03	20:30:00 through 12/18/03	10:30:00
+12/18/03	11:30:00 through 12/18/03	23:00:00
+12/19/03	0:00:00 through 12/19/03	2:00:00
+12/19/03	3:00:00
+12/19/03	4:00:00 through 12/19/03	6:00:00
+12/19/03	7:00:00 through 12/19/03	12:00:00
+12/19/03	14:00:00
+12/19/03	16:00:00 through 12/20/03	3:30:00
+12/20/03	5:00:00 through 12/20/03	9:30:00
+12/20/03	12:30:00 through 12/20/03	21:30:00
+12/20/03	22:30:00 through 12/21/03	1:00:00
+12/21/03	3:30:00
+12/21/03	5:30:00 through 12/21/03	7:30:00
+12/21/03	8:30:00 through 12/21/03	9:00:00
+12/21/03	10:00:00
+12/21/03	11:00:00 through 12/21/03	23:30:00
+12/22/03	1:30:00 through 12/22/03	2:30:00
+12/22/03	3:30:00
+12/22/03	5:30:00
+12/22/03	7:30:00 through 12/22/03	9:00:00
+12/22/03	10:00:00
+12/22/03	11:00:00 through 12/22/03	12:00:00
+12/22/03	18:30:00 through 12/23/03	5:00:00
+12/23/03	7:00:00 through 12/23/03	12:00:00
+12/23/03	13:00:00 through 12/23/03	14:30:00
+12/23/03	17:30:00 through 12/23/03	21:00:00
+12/23/03	22:00:00 through 12/23/03	22:30:00
+12/24/03	2:30:00 through 12/24/03	13:30:00
+12/24/03	16:30:00 through 12/24/03	21:00:00
+12/24/03	22:00:00 through 12/25/03	7:30:00
+12/25/03	8:30:00 through 12/25/03	9:00:00
+12/25/03	10:30:00
+12/25/03	14:30:00
+12/25/03	15:00:00 through 12/25/03	17:00:00
+12/25/03	18:00:00 through 12/26/03	1:00:00
+12/26/03	2:30:00 through 12/26/03	3:00:00
+12/26/03	4:00:00
+12/26/03	11:00:00 through 12/26/03	12:30:00
+12/26/03	17:00:00 through 12/27/03	2:00:00
+12/27/03	3:00:00 through 12/27/03	7:30:00
+12/27/03	8:30:00
+12/27/03	9:30:00 through 12/27/03	11:30:00
+12/27/03	14:30:00 through 12/27/03	16:00:00
+12/27/03	18:00:00 through 12/27/03	18:30:00
+
+
+Station 20
+
+No data due to sonde malfunction (the sonde it's auto disconnecting 
+intermittent)
+12/31/03	17:00:00	-	23:30:00
+
+Turbidity Values < -20 NTU were changed to 0 NTU. See section 14.
+12/1/03	0:00:00 through  12/2/03	8:30:00
+12/2/03	10:00:00 through 12/2/03	16:30:00
+12/2/03	18:00:00
+12/2/03	22:00:00
+12/3/03	0:00:00
+12/3/03	9:30:00 through  12/3/03	16:00:00
+12/3/03	18:30:00 through 12/3/03	19:30:00
+12/3/03	21:00:00
+12/3/03	22:00:00 through 12/3/03	23:30:00
+12/4/03	0:30:00 through  12/4/03	4:00:00
+12/4/03	5:00:00
+12/4/03	6:30:00
+12/4/03	9:00:00 through  12/4/03	16:00:00
+12/4/03	18:00:00 through 12/4/03	19:30:00
+12/4/03	23:30:00 through 12/5/03	1:00:00
+12/5/03	3:00:00 through  12/5/03	3:30:00
+12/9/03	2:30:00
+12/9/03	3:30:00
+
+The sonde was out of water for maintenance.
+12/02/03	09:00:00
+
+Negative values of DO% and DO mg/l were deleted for sensor malfunction.
+12/1/03	17:30:00 - 12/2/03	8:30:00
+
+
+12. Missing data:
+
+Missing data are denoted by any period in the data set. Periods were later 
+removed for data dissemination purposes and left blank. Data are missing due to 
+equipment failure where no probes deployed, maintenance/calibration of 
+equipment, elimination of obvious outliers, or elimination of data due to 
+calibration (both pre and post) problems. For more details on deleted data, see 
+Anomalous Data Section (11.) To find out more details about missing data, 
+contact the Research Coordinator at the site submitting the data.
+
+13. Post deployment information:
+
+End of deployment Post-calibration Readings in Standard Solution:
+
+Site	Date		DO (Air Sat.)	pH7		Conductivity 	Turbidity
+ID	mm/dd/yy	std: 100%		(std: 7.0)	(mS/cm)		(NTU)
+								(std: 100)		(std: 123)
+	
+09	01/08/03	109.7			7.07		98.31			X
+09	01/21/03	94			7.17		99.37			-39.4
+09	02/11/03	99			7.03		98.07			141.0
+09	02/25/03	89			6.96		99.93			162
+09	03/11/03	97.3			6.77		96.7			124.1
+09	03/26/03	87.8			6.97		107.4			149.4
+09	04/08/03	101.2			6.72		96.8			203.9
+09	04/23/03	84.6			7.10		97.91			117.5
+09	05/06/03	101.5			6.93		95.73			122.1
+09	05/20/03	104.3			7.16		96.25			158.6
+09	06/03/03	92.3			7.13		95			126.4
+09	06/17/03	114.6			6.86		96.1			119.4
+09	07/01/03	76.1			6.98		96.52			169.3
+09	07/30/03	97.8			7.02		89.77			122.6
+09	07/15/03	88.6			7.07		96.82			123.9
+09	08/12/03	105			6.78		103.6			121.8
+09	08/28/03	98			6098		98.25			122.3
+09	09/09/03	68.9			7.18		94.42			124.3
+09	09/23/03	132			6.53		96.94			123.9
+09	10/07/03	98			7.09		92.59			136.2
+09	10/21/03	104.0			7.00		97.7			182.6
+09	11/04/03	107			7.02		97.2			140.6
+09	11/20/03	100.9			6.86		74.5			125.9
+09	12/09/03	129.4			6.83		95.75			120
+09	12/23/03	95.9			7.06		93.81			80
+
+
+
+Site	Date		DO (Air Sat.)	pH7		Conductivity 	Turbidity
+ID	mm/dd/yy	std: 100%		(std: 7.0)	(mS/cm)		(NTU)
+								(std: 100)		(std: 100)
+
+10	01/08/03	92.4			7.08		98.34			X
+10	01/21/03	98.4			6.70		100			X
+10	02/12/03	87.8			6.88		97.73			153.9
+10	02/25/03	92			6.99		100.1			129.9
+10	03/11/03	102.8			6.84		92.3			591.7
+10	03/26/03	107.			6.94		109.2			228.8
+10	04/08/03	85.9			6.97		97.1			137.3
+10	04/23/03	96.4			6.93		99.57			134.5
+10	05/06/03	106			6.91		95.25			121.4
+10	05/20/03	93.7			6.88		94.05			131.2
+10	06/03/03	1.6			6.98		95.45			150.6
+10	06/17/03	110.4			6.96		94.90			119.3
+10	07/01/03	99			7.07		96.6			226.8
+10	07/15/03	114.0			6.82		96.95			124.5
+10	07/30/03	123.9			7.11		87.33			125.0
+10	08/12/03	92.6			6.94		104.9			121.6
+10	08/28/03	90.3			7.09		96.9			123
+10	09/09/03	102.6			6.79		99			129.1
+10	09/23/03	102.6			7.06		95.12			122.9
+10	10/07/03	106.1			6.91		92.13			122.4
+10	10/21/03	109.7			6.99		96			100.2
+10	11/04/03	101.1			6.83		96.5			129.1
+10	11/20/03	100			7.04		98.8			123.9
+10	12/09/03	60.8			7.11		95.05			244.2
+10	12/23/03	75.3			7.01		95.73			121.0
+
+
+
+Site	Date		DO (Air Sat.)	pH7		Conductivity 	Turbidity
+ID	mm/dd/yy	std: 100%		(std: 7.0)	(mS/cm)		(NTU)
+								(std: 100)		(std: 100)
+
+19	01/08/03	40.0			7.19		97.43			X
+19	01/21/03	42.0			7.13		101.2			X
+19	02/06/03	44.1			7.11		100.5			130.2
+19	02/18/03	30.8			6.78		102.4			119.9
+19	03/05/03	99.3			7.11		98.14			123.6
+19	03/18/03	106.9			6.96		100.8			124.0
+19	04/02/03	98.7			7.08		103.0			126.9
+19	04/15/03	94.0			7.14		96.25			131.2
+19	04/30/03	104.4			7.25		95.3			X
+19	05/13/03	98.5			7.08		96.69			124.6
+19	05/28/03	98.9			7.07		95.79			123.4
+19	06/10/03	100			7.01		94.38			103.6
+19	06/25/03	100.4			7.22		95.8			131.5
+19	07/23/03	112.6			6.9		94.52			111.2
+19	07/09/03	94.7			6.85		95.97			124.1
+19	08/06/03	100.7			6.86		95.26			125.2
+19	08/20/03	94.3			6.68		95.27			121.3
+19	09/03/03	87.4			7.10		94.35			147.3
+19	09/16/03	110			7.14		96.61			142
+19	09/30/03	104.7			6.95		100.9			126.5
+19	10/15/03	52.2			7.06		93.53		`	123.2
+19	10/28/03	103.9			7.10		95.92			123.8
+19	11/18/03	103			6.62		103.2			125.7
+19	12/02/03	32.3			7.0		95.6			121.5
+19	12/16/03	90.2			7.07		95.3			124.7
+
+
+
+Site	Date		DO (Air Sat.)	pH7		Conductivity 	Turbidity
+ID	mm/dd/yy	std: 100%		(std: 7.0)	(mS/cm)		(NTU)
+								(std: 100)		(std: 100)
+
+20	01/08/03	43.1			7.18		93.87			X
+20	01/21/03	33.9			7.06		99.8			X
+20	02/06/03	41			7.17		92.3			91.8
+20	02/18/03	41			6.81		102.9			120.7
+20	03/05/03	102.2			6.94		97.02			122.5
+20	03/18/03	101.0			7.13		99.69			98.3
+20	04/02/03	99.0			6.95		102.3			128.4
+20	04/15/03	94.7			7.00		97.5			134.1
+20	04/30/03	92.2			6.93		96.73			138.3
+20	05/13/03	124.1			7.03		97.79			125.5
+20	05/28/03	87.5			7.00		72.59			133.6
+20	06/10/03	108.3			7.11		95.45			126.4
+20	06/25/03	104.6			7.13		94.1			125.4
+20	07/23/03	110.8			7.54		95.57			125.2
+20	07/09/03	66.6			7.24		96.34			124.5
+20	08/06/03	98.5			6.96		97.2			124.9
+20	08/20/03	89			6.92		94.55			124
+20	09/03/03	96.7			7.02		94.63			124.1
+20	09/16/03	111			7.10		97.5			128.4
+20	09/30/03	103.9			6.98		100.1			122.6
+20	10/15/03	96.3			7.03		92.41			122.6
+20	10/28/03	104.1			6.98		97.3			128.3
+20	11/18/03	117.2			6.93		97.8			122.6
+20	12/02/03	-99.99		7.5		96.30			46.1
+20	12/16/03	96.7			7.09		96.2			119.4
+
+
+14. Other remarks:
+
+On 08/12/2020 this dataset was updated to include embedded QAQC flags for 
+anomalous/suspect data.  System-wide monitoring data beginning in 2007 were 
+processed to allow for QAQC flags and codes to be embedded in the data files 
+rather than detailed in the metadata alone (as in the anomalous/suspect, 
+deleted, and missing data sections above).  Prior to 2006, rejected data were 
+deleted from the dataset so they are unavailable to be used at all, but suspect 
+data were only noted in the metadata document.  Suspect data flags <1> were 
+embedded retroactively in order to allow suspect data to be easily identified 
+and filtered from the dataset if desired for analysis and reporting purposes.  
+No other flags or codes were embedded in the dataset and users should still 
+refer to the detailed explanations above for more information.
+
+All turbidity values less than -20 NTU ( <-20 NTU ) were changed to zero NTU (0 
+NTU) because the sondes were located at six inches (6") from the bottom, this 
+could be causing negative lectures.  We use a SESSHI disc to measure 
+transparency in all the stations.  We could see the SESSHI disc in the bottom, 
+approximately between one meter (1m) to two meter (2m) of depth.
+
+During year 2003 five (5) important rainfall events occur that had effects in 
+the measurements of the different parameters of the sondes.  These events occur:
+1) april 8 to 20 with 172.47mm of rainfall
+2) august 16 to 29 with 89.66mm of rainfall
+3) october 5 to 11 with 145.03mm of rainfall
+4) the most important november 6 to 19 with 564.64mm of rainfall, equal to the 
+mean anual rainfall.
+5) december 5 to 7 with 100.58mm of rainfall
+
+Stations 19 and 20 were found at areas that receive strong waves.  Stations 9 
+and 10 were more protected, receive less wave impact.  The movement caused by 
+the strong waves is causing the sonde to stop taking data during short time 
+periods and sporadically. 
+
+The following are meteorological related metadata:
+
+JOB19WQ 
+
+1) High dissolved oxygen values April 15 – 24 due to rain and wind activity. Data 
+retained. 
+
+2) Drop in specific conductivity and salinity 06/01/03 15:00:00 and 06/02/03 
+06:00:00 due to rain event. 
+
+3) Drop in specific conductivity and salinity 08/03/03 05:30:00 – 08/06/03 10:00:00 
+due to rain event. 
+
+JOB20WQ 
+
+1) High DO values on November 14 due to rain and wind event.
+
+2) Variability in pH data from 11/24/03 08:00:00 to 12/02/03 08:30:00 due to 
+rain event. 
+
+
+

@@ -1,0 +1,915 @@
+Old Woman Creek (OWC) NERR Site Water Quality Metadata 
+April through October, 1998
+Latest Update: September 27, 2001
+
+
+1. Principal Investigator & contact persons:
+
+Dr. David Klarer, Research Coordinator
+Mr. Gene Wright, Manager
+
+Old Woman Creek SNP and NERR
+2514 Cleveland Road East
+Huron, Ohio 44839
+phone: (419) 433-4601
+
+
+2. Entry verification:
+
+		The data were directly downloaded from the YSI data loggers into the 
+YSI PC6000 program in the PC. The data were graphed and visually checked for any 
+obvious outliers. The data were then transferred to an Excel spreadsheet.  The 
+data files were edited to remove headers, footers, and spaces. All three CDMO 
+macros were used to QA/QC the data.  Missing data were inserted into the 
+spreadsheet and denoted by periods. The data files were then checked for 
+readings that were outside the instrument range.  These data were removed and 
+replaced with a period. An explanation for the missing and the deleted data is 
+included in this meta data sheet.  The files were then transfered along with the 
+associated metadata sheet by disk to the CDMO.  The files are archived at OWC. 
+Dr. David Klarer is responsible for both data logger deployment and data 
+management.
+
+
+	
+3.Research Objectives:
+
+	Measurements are taken every 15 minutes over approximately two week 
+periods at two sites within the Old Woman Creek estuary- one in the upper 
+reaches at State Route 2 and the other near the mouth, just south of State Route 
+6. The purpose of this monitoring program is to document the role of Great Lakes 
+estuaries in mitigating storm flow that passes through them.  
+
+4. Research methods:
+
+	The YSI monitoring program began on 1 April, 1997 at both sites.  Prior to 
+deployment of the data loggers, a 4 inch diameter PVC pipe was bolted to a metal 
+sign post that had been driven into the sediment.  Each pipe had 4 rows of holes 
+drilled into it spanning the area of the probe guard on the data logger so that 
+the probes would have direct contact with the surrounding waters.  The data 
+logger at site SU is .47 meters above the bottom, while the YSI at site WM is 
+0.32 meters above the bottom.  Dissolved oxygen, pH, temperature, turbidity, and 
+specific conductance readings are taken when the instrument is pulled at each 
+site. On alternate weeks, the data loggers are pulled.  The data is retrieved 
+from each data logger and each data logger is recalibrated (according to the 
+directions in the YSI Operations Manual)  before being returned to the field.  
+Conductivity, pH (2 point calibration), and turbidity (2 point calibration) was 
+calibrated using 
+commercial standards.
+
+
+5. Site location and character:
+
+	Old Woman Creek National Estuarine Research Reserve is located on the 
+southern shore of Lake Erie, slightly east of the city of Huron, Ohio (Latitude 
+41 22' N; longitude 82 31' W). 
+	The data logger at the State Route 2 (SU) 41 22’ 57” N, 82 30’ 52” W site 
+is very near the southern boundary of the reserve.  The data logger is sited 
+near a concrete piling of the eastbound Ohio State Route 2 bridge.  At this site 
+the creek is relatively deep and narrow.  Although water direction and flow is 
+influenced at this site by changes in Lake Erie water levels, this site doesn¹t 
+have direct contact with Lake Erie waters. 
+	The data logger at State Route 6 (WM) 41 22’ 56” N, 82 30’ 26” W is very 
+close to the mouth of Old Woman Creek.  In this portion of the Reserve, the 
+creek is very shallow but extends over a large surface area.  This site  
+frequently experiences influx of Lake Erie waters. 
+
+6. Data collection periods:
+
+	Sampling at WM began on April 1, 1998 at 00:00:00.  Sampling for 1998 
+ceased at WM site on October 31, 1998 at 23:45:00.  Sampling at SU began on 
+April 1, 1998 at 00:00:00.  Sampling ceased at SU site on October 31, 1998 at 
+23:45:00.
+
+7. Associated projects: Samples for chemical analysis of the water and 
+phytoplankton analysis are 
+collected at each site every time the data loggers are changed.
+
+II. Physical Structure and Descriptors:
+
+8. Variable sequence, column format, range of measurements, units, Resolution, 
+Accuracy:
+
+Variable      Range of Measurements          Resolution           Accuracy
+Date          1-12, 1-31, 00-99 (Mo,Day,Yr)  1 mo, 1 day, 1 yr    NA
+Time          0-24, 0-60, 0-60 (Hr,Min,Sec)  1 hr, 1 min, 1 s     NA
+Temp               -5 to 45 (c)              0.01  C              +/-0.15C
+Sp COND            0-100(mS/cm)              0.01mS/cm            +/-0.5% Of 
+reading + 0.001mS/Cm
+Salinity      0-70 Parts per thousand (ppt)  0.01 ppt             +/- 1% of 
+Reading or 0.1 ppt, (whichever is greater)
+DO            0-200 (% air saturation)       0.1% @air sat        +/-2% @air 
+Saturation
+DO            200-500 (% air saturation      0.1% @ air sat       +/- 6% @ 
+Saturation
+DO                 0-20 (mg/l)               0.01 mg/l            +/- 0.2mg/l
+DO                 20-50 (mg/l)              0.01 mg/l            +/- 0.6mg/l
+Depth (shallow)    0-9.1 (m)                 0.001m               +/- 0.018m
+PH                 2-14 units                0.01 units           +/- 0.2units
+Turb               0-1500 NTU                0.1 NTU*              +/- 5% of 
+Reading or 2 NTU (whichever is greater)*
+
+* for turbidity values of 0-1000 NTU
+
+Data columns are separated by tabs.  Each file contains a two line
+column header at the top of the page which identifies measurements and 
+units for each column.
+
+9. Coded variable indicator and variable code definitions:
+   SU- State Route 2      WM-State Route 6
+
+10. Data anomalies (suspect data):
+ April 1998: 
+WM: Oxygen data from 04/15/98 (10:45:00) to 04/28/98 (10:15:00) deleted 
+due to probe failure
+
+SU: Turbidity values over 1500 NTU:
+
+04/16/98
+10:15:00
+1568
+
+04/16/98
+10:30:00
+1568
+
+04/16/98
+10:45:00
+1568
+
+04/17/98
+01:45:00
+1582
+
+04/17/98
+02:00:00
+1571
+
+04/17/98
+02:15:00
+1581
+
+04/17/98
+02:30:00
+1581
+
+04/17/98
+02:45:00
+1581
+
+04/17/98
+03:00:00
+1580
+
+04/17/98
+03:15:00
+1580
+
+04/17/98
+03:30:00
+1579
+
+04/17/98
+03:45:00
+1578
+
+04/17/98
+04:00:00
+1579
+
+04/17/98
+04:15:00
+1578
+
+04/17/98
+04:30:00
+1578
+
+04/17/98
+04:45:00
+1578
+
+04/17/98
+05:00:00
+1578
+
+04/17/98
+05:15:00
+1578
+
+04/17/98
+05:30:00
+1577
+
+04/17/98
+05:45:00
+1577
+
+04/17/98
+06:00:00
+1576
+
+04/17/98
+06:15:00
+1576
+
+04/17/98
+06:30:00
+1575
+
+04/17/98
+06:45:00
+1575
+
+04/17/98
+07:00:00
+1575
+
+04/17/98
+07:15:00
+1574
+
+04/17/98
+07:30:00
+1573
+
+04/17/98
+07:45:00
+1572
+
+04/17/98
+08:00:00
+1573
+
+04/17/98
+08:15:00
+1572
+
+04/17/98
+08:30:00
+1572
+
+04/17/98
+08:45:00
+1561
+
+04/17/98
+09:00:00
+1548
+
+04/17/98
+09:15:00
+1571
+
+04/17/98
+09:30:00
+1572
+
+04/17/98
+09:45:00
+1547
+
+04/17/98
+10:00:00
+1515
+
+04/17/98
+10:15:00
+1571
+
+04/17/98
+10:30:00
+1571
+
+04/17/98
+10:45:00
+1570
+
+04/17/98
+11:00:00
+1572
+
+04/17/98
+11:15:00
+1572
+
+04/17/98
+11:30:00
+1571
+
+04/17/98
+11:45:00
+1572
+
+04/17/98
+12:00:00
+1572
+
+04/17/98
+12:15:00
+1573
+
+
+May 1998:
+WM: Oxygen data from 05/17/98 (about 12:45:00) through 05/21/98 (about 
+02:45:00) suspect- probe.  
+DO data 5/12/98 (10:30:00) through 5/26/98 (10:15:00) deleted due to probe problems.  
+
+SU:Oxygen data 5/12/98 (11:30:00) through 5/26/98 (10:45:00) deleted due 
+to probe failure.
+Turbidity data 5/26/98 (12:15:00) through 5/31/98 (23:45:00) deleted due to wiper failure
+
+June 1998:
+WM: Turbidity values above 1500 NTU:
+	
+06/16/98
+08:45:00
+1579
+
+06/21/98
+14:15:00
+1583
+
+06/21/98
+14:45:00
+1575
+
+06/21/98
+15:00:00
+1589
+
+06/21/98
+17:15:00
+1568
+
+06/21/98
+20:45:00
+1528
+
+
+
+SU:Turbidity data 06/01/98 (00:00:00) through 06/09/98 (09:45:00) deleted due to wiper failure.
+Turbidity data 06/22/98 (10:15:00) through 06/29/98 (09:45:00) deleted due to wiper failure. 
+Turbidity values above 1500 NTU:
+	
+06/12/98
+11:15:00
+1741
+
+06/12/98
+11:30:00
+1742
+
+06/12/98
+11:45:00
+1742
+
+06/12/98
+12:00:00
+1743
+
+06/12/98
+12:15:00
+1743
+
+06/12/98
+12:30:00
+1744
+
+06/12/98
+12:45:00
+1744
+
+06/12/98
+13:00:00
+1744
+
+06/12/98
+13:15:00
+1745
+
+06/12/98
+13:30:00
+1745
+
+06/12/98
+13:45:00
+1746
+
+06/12/98
+14:00:00
+1679
+
+06/12/98
+14:15:00
+1671
+
+06/12/98
+14:30:00
+1747
+
+06/12/98
+14:45:00
+1707
+
+06/12/98
+15:00:00
+1728
+
+06/12/98
+15:15:00
+1747
+
+06/12/98
+15:30:00
+1748
+
+06/12/98
+15:45:00
+1748
+
+06/12/98
+16:00:00
+1748
+
+06/12/98
+16:15:00
+1749
+
+06/12/98
+16:30:00
+1749
+
+06/12/98
+16:45:00
+1608
+
+06/12/98
+17:00:00
+1603
+
+06/12/98
+18:45:00
+1749
+
+06/12/98
+19:00:00
+1721
+
+06/12/98
+19:30:00
+1748
+
+06/12/98
+19:45:00
+1748
+
+06/12/98
+20:15:00
+1514
+
+06/12/98
+20:30:00
+1748
+
+06/12/98
+21:00:00
+1748
+
+06/12/98
+21:15:00
+1520
+
+06/12/98
+21:30:00
+1748
+
+06/12/98
+21:45:00
+1748
+
+06/12/98
+22:15:00
+1748
+
+06/12/98
+22:30:00
+1688
+
+06/12/98
+23:00:00
+1749
+
+06/12/98
+23:15:00
+1749
+
+06/12/98
+23:45:00
+1708
+
+06/13/98
+00:00:00
+1553
+
+06/13/98
+00:45:00
+1751
+
+06/13/98
+01:00:00
+1669
+
+06/13/98
+01:15:00
+1531
+
+06/13/98
+01:30:00
+1750
+
+06/13/98
+02:45:00
+1745
+
+06/13/98
+03:00:00
+1745
+
+06/13/98
+03:15:00
+1737
+
+06/13/98
+03:30:00
+1703
+
+06/13/98
+03:45:00
+1744
+
+06/13/98
+04:00:00
+1743
+
+06/13/98
+04:15:00
+1742
+
+06/13/98
+04:30:00
+1742
+
+06/13/98
+04:45:00
+1742
+
+06/13/98
+05:00:00
+1741
+
+06/13/98
+05:15:00
+1741
+
+06/13/98
+05:30:00
+1741
+
+06/13/98
+05:45:00
+1740
+
+06/13/98
+06:00:00
+1740
+
+06/13/98
+06:15:00
+1740
+
+06/13/98
+06:30:00
+1740
+
+06/13/98
+06:45:00
+1739
+
+06/13/98
+07:00:00
+1739
+
+06/13/98
+07:15:00
+1739
+
+06/13/98
+07:30:00
+1739
+
+06/13/98
+07:45:00
+1739
+
+06/13/98
+08:00:00
+1739
+
+06/13/98
+08:15:00
+1739
+
+06/13/98
+08:30:00
+1739
+
+06/13/98
+08:45:00
+1739
+
+06/13/98
+09:00:00
+1738
+
+06/13/98
+09:15:00
+1739
+
+06/13/98
+09:30:00
+1725
+
+06/13/98
+09:45:00
+1737
+
+06/13/98
+10:00:00
+1739
+
+06/13/98
+10:15:00
+1738
+
+06/13/98
+10:30:00
+1739
+
+06/13/98
+10:45:00
+1619
+
+06/13/98
+11:00:00
+1678
+
+06/13/98
+11:30:00
+1740
+
+
+July 1998:
+WM: 
+SU:
+
+August 1998:
+WM: Oxygen levels at or below 0.0:		
+08/17/98
+10:00:00
+00.0
+
+08/17/98
+10:15:00
+00.0
+
+08/22/98
+06:30:00
+-00.1
+
+08/22/98
+22:30:00
+00.0
+
+08/22/98
+23:30:00
+-00.2
+
+08/23/98
+00:15:00
+00.0
+
+08/23/98
+00:45:00
+-00.3
+
+08/23/98
+01:00:00
+-00.5
+
+08/23/98
+01:15:00
+-00.6
+
+08/23/98
+01:30:00
+-00.3
+
+08/23/98
+01:45:00
+-00.6
+
+08/23/98
+02:00:00
+-00.4
+
+08/23/98
+02:15:00
+-00.3
+
+08/23/98
+02:30:00
+00.0
+
+08/23/98
+02:45:00
+00.0
+
+08/23/98
+03:00:00
+-00.4
+
+08/23/98
+03:15:00
+-00.1
+
+08/23/98
+03:30:00
+-00.4
+
+08/23/98
+03:45:00
+-01.0
+
+08/23/98
+04:00:00
+-00.1
+
+08/23/98
+04:15:00
+-00.2
+
+08/23/98
+04:30:00
+-00.2
+
+08/23/98
+04:45:00
+-00.6
+
+08/23/98
+05:00:00
+-00.7
+
+08/23/98
+05:15:00
+-01.1
+
+08/23/98
+05:30:00
+-00.9
+
+08/23/98
+05:45:00
+-00.9
+
+08/23/98
+06:00:00
+-01.1
+
+08/23/98
+06:15:00
+-02.0
+
+08/23/98
+06:30:00
+-01.9
+
+08/23/98
+06:45:00
+-01.8
+
+08/23/98
+07:00:00
+-01.8
+
+08/23/98
+07:15:00
+-01.9
+
+08/23/98
+07:30:00
+-01.7
+
+08/23/98
+07:45:00
+-01.7
+
+08/23/98
+08:00:00
+-01.4
+
+08/23/98
+08:15:00
+-01.5
+
+08/23/98
+08:30:00
+-01.4
+
+08/23/98
+08:45:00
+-01.4
+
+08/23/98
+09:00:00
+-01.5
+
+08/23/98
+09:15:00
+-01.1
+
+08/23/98
+09:30:00
+-00.6
+
+08/23/98
+09:45:00
+-00.8
+
+08/23/98
+10:00:00
+-00.6
+
+08/24/98
+07:00:00
+00.0
+
+08/24/98
+08:15:00
+00.0
+
+									
+SU: 
+
+September 1998:
+WM:
+SU: Turbidity data removed from 09/16/98 (09:45:00) through 09/21/98 (09:15:00) 
+turbidity wiper failure
+
+October 1998:
+WM:
+SU:
+
+
+11. Missing data:
+
+April 1998:
+WM: Oxygen data from 04/15/98 (10:45:00) to 04/28/98 (10:15:00) deleted due to probe failure
+
+SU: No data 04/15/98 (11:00:00) servicing data logger
+
+May 1998:
+WM: No data from 05/07/98 (02:00:00) through 05/12/98 (10:15:00) sonde power failure.
+All parameters 5/12/98 (10:30:00 - 10:45:00) due to change of data logger. 
+DO data 5/12/98 (10:30:00) through 5/26/98 (10:15:00) deleted due to probe problems.  
+	
+SU: Oxygen data 5/12/98 (11:30:00) through 5/26/98 (10:45:00) deleted due 
+to probe failure
+Turbidity data 5/26/98 (12:15:00) through 5/31/98 (23:45:00) deleted due to wiper failure
+	       
+June 1998:
+WM:
+SU: Turbidity data 06/01/98 (00:00:00) through 06/09/98 (09:45:00) deleted 
+due to wiper failure
+Turbidity data 06/22/98 (10:15:00) through 06/29/98 (09:45:00) 
+deleted due to wiper failure 
+
+July 1998:
+WM:
+SU:
+
+August 1998:
+WM: No data 08/24/98 (08:45:00-11:45:00) servicing datalogger
+	        
+SU: No data 08/24/98 (09:15:00-11:45:00) servicing datalogger
+
+September 1998:
+WM:
+SU: No data 09/08/98 (07:00:00) servicing data logger
+Turbidity data removed from 09/16/98 (09:45:00) through 09/21/98 (09:15:00)
+turbidity wiper failure
+
+October 1998:
+WM: No data 10/05/98 (07:45:00) servicing datalogger
+SU:
+
